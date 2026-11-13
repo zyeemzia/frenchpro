@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "le",
  "color": "indigo",
  "title": "The Grammar Engine",
- "subtitle": "Nouns, articles, adjectives and pronouns — the machinery under every sentence",
+ "subtitle": "Nouns, articles, adjectives and pronouns — the machinery under every sentence · নাম, article, বিশেষণ ও সর্বনাম — প্রতিটি বাক্যের নিচের যন্ত্রপাতি",
  "lessons": [
   {
    "id": "u2-gender",
    "icon": "♂♀",
    "title": "Gender, Properly",
-   "subtitle": "Beyond guessing: the endings that decide",
+   "subtitle": "Beyond guessing: the endings that decide · আন্দাজ নয়: যে শেষাংশগুলো লিঙ্গ ঠিক করে",
    "minutes": 13,
    "goals": [
     "Use endings to predict gender reliably",
@@ -144,31 +144,31 @@ LC.units.push({
       {
        "t": "le métier",
        "tr": "luh may-TYAY · ল্য মেতিয়ে",
-       "mean": "trade, occupation",
+       "mean": "trade, occupation · পেশা; বৃত্তি",
        "root": "métier"
       },
       {
        "t": "la réunion",
        "tr": "lah ray-ew-NYOHN · লা রেউ্যনিয়ঁ",
-       "mean": "meeting",
+       "mean": "meeting · সভা; বৈঠক",
        "root": "-ion"
       },
       {
        "t": "le bâtiment",
        "tr": "luh bah-tee-MAHN · ল্য বাতিমাঁ",
-       "mean": "building",
+       "mean": "building · ভবন",
        "root": "-ment"
       },
       {
        "t": "la qualité",
        "tr": "lah kah-lee-TAY · লা কালিতে",
-       "mean": "quality",
+       "mean": "quality · গুণ; মান",
        "root": "-té"
       },
       {
        "t": "le courage",
        "tr": "luh koo-RAHZH · ল্য কুরাজ়",
-       "mean": "courage",
+       "mean": "courage · সাহস",
        "root": "-age"
       }
      ]
@@ -177,7 +177,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{la plage}} is feminine. Why is that surprising?",
+       "q": "{{la plage}} is feminine. Why is that surprising? · {{la plage}} স্ত্রীলিঙ্গ। এটি অবাক করার মতো কেন?",
        "options": [
         "Because -age is usually masculine",
         "Because it is a borrowed word",
@@ -185,10 +185,10 @@ LC.units.push({
         "Because it is a place"
        ],
        "answer": 0,
-       "explain": "{{page, plage, cage, image}} are the -age exceptions."
+       "explain": "{{page, plage, cage, image}} are the -age exceptions. · {{page, plage, cage, image}} হলো -age-এর ব্যতিক্রম।"
       },
       {
-       "q": "What does {{la tour}} mean?",
+       "q": "What does {{la tour}} mean? · {{la tour}} মানে কী?",
        "options": [
         "the tour guide",
         "the tower",
@@ -196,10 +196,10 @@ LC.units.push({
         "the turn"
        ],
        "answer": 1,
-       "explain": "{{le tour}} is a trip or turn; {{la tour}} is a tower."
+       "explain": "{{le tour}} is a trip or turn; {{la tour}} is a tower. · {{le tour}} মানে ভ্রমণ বা পালা; {{la tour}} মানে মিনার।"
       },
       {
-       "q": "The feminine of {{un directeur}} is…",
+       "q": "The feminine of {{un directeur}} is… · {{un directeur}}-এর স্ত্রীলিঙ্গ রূপ…",
        "options": [
         "une directeure",
         "une directeur",
@@ -207,10 +207,10 @@ LC.units.push({
         "une directeuse"
        ],
        "answer": 2,
-       "explain": "-teur usually becomes -trice."
+       "explain": "-teur usually becomes -trice. · -teur সাধারণত -trice হয়।"
       },
       {
-       "q": "Which ending is reliably feminine?",
+       "q": "Which ending is reliably feminine? · কোন শেষাংশ নির্ভরযোগ্যভাবে স্ত্রীলিঙ্গ?",
        "options": [
         "-ment",
         "-eau",
@@ -218,10 +218,10 @@ LC.units.push({
         "-tion"
        ],
        "answer": 3,
-       "explain": "-tion and -sion are almost always feminine."
+       "explain": "-tion and -sion are almost always feminine. · -tion ও -sion প্রায় সবসময়ই স্ত্রীলিঙ্গ।"
       },
       {
-       "q": "Which noun is masculine?",
+       "q": "Which noun is masculine? · কোন নামটি পুংলিঙ্গ?",
        "options": [
         "le gouvernement",
         "la décision",
@@ -229,7 +229,7 @@ LC.units.push({
         "la patience"
        ],
        "answer": 0,
-       "explain": "-ment is a masculine ending."
+       "explain": "-ment is a masculine ending. · -ment একটি পুংলিঙ্গ শেষাংশ।"
       }
      ]
     }
@@ -239,7 +239,7 @@ LC.units.push({
    "id": "u2-plural",
    "icon": "-x",
    "title": "Plurals That Misbehave",
-   "subtitle": "When s is not enough",
+   "subtitle": "When s is not enough · যখন কেবল s যথেষ্ট নয়",
    "minutes": 11,
    "goals": [
     "Apply the -eau, -al and -ail patterns",
@@ -332,17 +332,17 @@ LC.units.push({
       {
        "t": "l'œil → les yeux",
        "label": "total rebuild",
-       "desc": "*eye → eyes*. No pattern at all; learn it whole."
+       "desc": "*eye → eyes*. No pattern at all; learn it whole. · *চোখ → চোখগুলো*। কোনো নিয়ম নেই; পুরোটা মুখস্থ করুন।"
       },
       {
        "t": "monsieur → messieurs",
        "label": "both halves change",
-       "desc": "Literally *my lord → my lords*."
+       "desc": "Literally *my lord → my lords*. · আক্ষরিক অর্থে *আমার প্রভু → আমার প্রভুরা*।"
       },
       {
        "t": "madame → mesdames",
        "label": "both halves change",
-       "desc": "Same logic: *ma + dame* becomes *mes + dames*."
+       "desc": "Same logic: *ma + dame* becomes *mes + dames*. · একই যুক্তি: *ma + dame* হয়ে যায় *mes + dames*।"
       }
      ],
      "title": "The true irregulars"
@@ -367,7 +367,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The plural of {{le journal}} is…",
+       "q": "The plural of {{le journal}} is… · {{le journal}}-এর বহুবচন…",
        "options": [
         "les journales",
         "les journaux",
@@ -375,10 +375,10 @@ LC.units.push({
         "les journaus"
        ],
        "answer": 1,
-       "explain": "-al becomes -aux."
+       "explain": "-al becomes -aux. · -al হয়ে যায় -aux।"
       },
       {
-       "q": "Which -ou noun takes x in the plural?",
+       "q": "Which -ou noun takes x in the plural? · কোন -ou নাম বহুবচনে x নেয়?",
        "options": [
         "le clou",
         "le sou",
@@ -386,10 +386,10 @@ LC.units.push({
         "le trou"
        ],
        "answer": 2,
-       "explain": "{{genou}} is one of the famous seven."
+       "explain": "{{genou}} is one of the famous seven. · {{genou}} সেই বিখ্যাত সাতটির একটি।"
       },
       {
-       "q": "The plural of {{le festival}} is…",
+       "q": "The plural of {{le festival}} is… · {{le festival}}-এর বহুবচন…",
        "options": [
         "les festivaux",
         "les festivals-x",
@@ -397,10 +397,10 @@ LC.units.push({
         "les festivals"
        ],
        "answer": 3,
-       "explain": "{{bal, festival, carnaval, récital}} keep a plain s."
+       "explain": "{{bal, festival, carnaval, récital}} keep a plain s. · {{bal, festival, carnaval, récital}} কেবল s নেয়।"
       },
       {
-       "q": "{{les yeux}} is the plural of…",
+       "q": "{{les yeux}} is the plural of… · {{les yeux}} কিসের বহুবচন?",
        "options": [
         "l'œil",
         "l'œuf",
@@ -408,10 +408,10 @@ LC.units.push({
         "l'an"
        ],
        "answer": 0,
-       "explain": "A complete rebuild — learn it as a pair."
+       "explain": "A complete rebuild — learn it as a pair. · সম্পূর্ণ নতুন রূপ — জোড়া হিসেবে মুখস্থ করুন।"
       },
       {
-       "q": "What is the plural of {{le fils}}?",
+       "q": "What is the plural of {{le fils}}? · {{le fils}}-এর বহুবচন কী?",
        "options": [
         "les filss",
         "les fils",
@@ -419,7 +419,7 @@ LC.units.push({
         "les fis"
        ],
        "answer": 1,
-       "explain": "Nouns already ending in s, x or z do not change."
+       "explain": "Nouns already ending in s, x or z do not change. · যে নাম আগে থেকেই s, x বা z দিয়ে শেষ, তা বদলায় না।"
       }
      ]
     }
@@ -429,7 +429,7 @@ LC.units.push({
    "id": "u2-articles",
    "icon": "du",
    "title": "Articles & the Partitive",
-   "subtitle": "Some bread, the bread, a bread",
+   "subtitle": "Some bread, the bread, a bread · কিছু রুটি, সেই রুটি, একটি রুটি",
    "minutes": 14,
    "goals": [
     "Choose between definite, indefinite and partitive",
@@ -481,20 +481,20 @@ LC.units.push({
       {
        "t": "J'aime le café.",
        "tr": "zhem luh kah-FAY · জ়েম ল্য কাফে",
-       "mean": "I like coffee.",
-       "note": "the whole category → definite"
+       "mean": "I like coffee. · আমি কফি পছন্দ করি।",
+       "note": "the whole category → definite · পুরো শ্রেণি → definite article"
       },
       {
        "t": "Je bois du café.",
        "tr": "zhuh bwah dew kah-FAY · জ়্য বোয়া দ্যু কাফে",
-       "mean": "I drink some coffee.",
-       "note": "an amount → partitive"
+       "mean": "I drink some coffee. · আমি কিছু কফি পান করি।",
+       "note": "an amount → partitive · একটি পরিমাণ → partitive"
       },
       {
        "t": "Je voudrais un café.",
        "tr": "zhuh voo-DRAY uhn kah-FAY · জ়্য ভুদ্রে উঁ কাফে",
-       "mean": "I would like a coffee.",
-       "note": "one cup → indefinite"
+       "mean": "I would like a coffee. · আমি একটি কফি চাই।",
+       "note": "one cup → indefinite · এক কাপ → indefinite article"
       }
      ],
      "title": "One noun, three meanings"
@@ -577,52 +577,52 @@ LC.units.push({
      "type": "sentence",
      "t": "Je ne prends pas de sucre dans mon café.",
      "tr": "zhuh nuh prahn pah duh SEWKR dahn mohn kah-FAY · জ়্য ন্য প্রাঁ পা দ্য স্যুক্‌র দাঁ মঁ কাফে",
-     "mean": "I do not take sugar in my coffee.",
+     "mean": "I do not take sugar in my coffee. · আমি কফিতে চিনি নিই না।",
      "words": [
       {
        "t": "Je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "ne",
-       "mean": "not (part 1)"
+       "mean": "not (part 1) · না (প্রথম অংশ)"
       },
       {
        "t": "prends",
-       "mean": "take"
+       "mean": "take · নেওয়া"
       },
       {
        "t": "pas",
-       "mean": "not (part 2)"
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
       },
       {
        "t": "de",
-       "mean": "any"
+       "mean": "any · কোনো"
       },
       {
        "t": "sucre",
-       "mean": "sugar"
+       "mean": "sugar · চিনি"
       },
       {
        "t": "dans",
-       "mean": "in"
+       "mean": "in · মধ্যে"
       },
       {
        "t": "mon",
-       "mean": "my"
+       "mean": "my · আমার"
       },
       {
        "t": "café",
-       "mean": "coffee"
+       "mean": "coffee · কফি"
       }
      ],
-     "note": "{{du sucre}} became {{de sucre}} because the verb is negative."
+     "note": "{{du sucre}} became {{de sucre}} because the verb is negative. · ক্রিয়াটি না-বাচক বলে {{du sucre}} হয়ে গেছে {{de sucre}}।"
     },
     {
      "type": "quiz",
      "items": [
       {
-       "q": "*I like tea* in French is…",
+       "q": "*I like tea* in French is… · *I like tea* ফরাসিতে হবে…",
        "options": [
         "J'aime thé.",
         "J'aime un thé.",
@@ -630,10 +630,10 @@ LC.units.push({
         "J'aime du thé."
        ],
        "answer": 2,
-       "explain": "A whole category takes the definite article."
+       "explain": "A whole category takes the definite article. · পুরো শ্রেণি বোঝাতে definite article বসে।"
       },
       {
-       "q": "*I do not have any bread* is…",
+       "q": "*I do not have any bread* is… · *I do not have any bread* হবে…",
        "options": [
         "Je n'ai pas du pain.",
         "Je n'ai pas le pain.",
@@ -641,10 +641,10 @@ LC.units.push({
         "Je n'ai pas de pain."
        ],
        "answer": 3,
-       "explain": "After a negative, {{du}} becomes {{de}}."
+       "explain": "After a negative, {{du}} becomes {{de}}. · না-বাচক ক্রিয়ার পরে {{du}} হয়ে যায় {{de}}।"
       },
       {
-       "q": "Which is correct?",
+       "q": "Which is correct? · কোনটি সঠিক?",
        "options": [
         "beaucoup de monde",
         "beaucoup du monde",
@@ -652,10 +652,10 @@ LC.units.push({
         "beaucoup le monde"
        ],
        "answer": 0,
-       "explain": "Quantity words take bare {{de}}."
+       "explain": "Quantity words take bare {{de}}. · পরিমাণবাচক শব্দের পরে কেবল {{de}} বসে।"
       },
       {
-       "q": "*Beautiful books* in the plural is…",
+       "q": "*Beautiful books* in the plural is… · বহুবচনে *Beautiful books* হবে…",
        "options": [
         "le beaux livres",
         "de beaux livres",
@@ -663,10 +663,10 @@ LC.units.push({
         "du beaux livres"
        ],
        "answer": 1,
-       "explain": "{{des}} shrinks to {{de}} before a leading adjective."
+       "explain": "{{des}} shrinks to {{de}} before a leading adjective. · নামের আগে বিশেষণ থাকলে {{des}} ছোট হয়ে {{de}} হয়।"
       },
       {
-       "q": "Why does {{J'aime le thé}} keep {{le}} in the negative?",
+       "q": "Why does {{J'aime le thé}} keep {{le}} in the negative? · না-বাচক বাক্যেও {{J'aime le thé}}-তে {{le}} থাকে কেন?",
        "options": [
         "It is an exception verb",
         "Because aimer takes no object",
@@ -674,10 +674,10 @@ LC.units.push({
         "Tea is masculine"
        ],
        "answer": 2,
-       "explain": "Only indefinite and partitive articles collapse to de."
+       "explain": "Only indefinite and partitive articles collapse to de. · কেবল indefinite ও partitive article de-তে পরিণত হয়।"
       },
       {
-       "q": "Which phrase keeps its article against the usual rule?",
+       "q": "Which phrase keeps its article against the usual rule? · কোন বাক্যাংশ নিয়ম ভেঙে article ধরে রাখে?",
        "options": [
         "trop de travail",
         "un peu de sucre",
@@ -685,7 +685,7 @@ LC.units.push({
         "la plupart des étudiants"
        ],
        "answer": 3,
-       "explain": "{{la plupart des}} and {{bien des}} are the exceptions."
+       "explain": "{{la plupart des}} and {{bien des}} are the exceptions. · {{la plupart des}} ও {{bien des}} হলো ব্যতিক্রম।"
       }
      ]
     }
@@ -695,7 +695,7 @@ LC.units.push({
    "id": "u2-contract",
    "icon": "au",
    "title": "Contracted Articles",
-   "subtitle": "au, aux, du, des — and how to say where",
+   "subtitle": "au, aux, du, des — and how to say where · au, aux, du, des — আর কোথায় বোঝানোর উপায়",
    "minutes": 12,
    "goals": [
     "Contract à and de with the definite article",
@@ -740,22 +740,22 @@ LC.units.push({
       {
        "t": "Je vais au marché.",
        "tr": "zhuh vay zoh mar-SHAY · জ়্য ভে ও মার্শে",
-       "mean": "I am going to the market."
+       "mean": "I am going to the market. · আমি বাজারে যাচ্ছি।"
       },
       {
        "t": "Il parle aux enfants.",
        "tr": "eel parl oh-zahn-FAHN · ইল পার্ল ও জ়াঁফাঁ",
-       "mean": "He is talking to the children."
+       "mean": "He is talking to the children. · সে বাচ্চাদের সঙ্গে কথা বলছে।"
       },
       {
        "t": "Elle vient du bureau.",
        "tr": "el vyan dew bew-ROH · এল ভিয়ঁ দ্যু ব্যুরো",
-       "mean": "She is coming from the office."
+       "mean": "She is coming from the office. · সে অফিস থেকে আসছে।"
       },
       {
        "t": "C'est la clé de la maison.",
        "tr": "say lah klay duh lah may-ZOHN · সে লা ক্লে দ্য লা মেজ়ঁ",
-       "mean": "It is the house key."
+       "mean": "It is the house key. · এটি বাড়ির চাবি।"
       }
      ]
     },
@@ -824,39 +824,39 @@ LC.units.push({
      "type": "sentence",
      "t": "Je suis bangladais et je viens de Dacca.",
      "tr": "zhuh swee bahn-glah-DAY ay zhuh vyan duh dah-KAH · জ়্য সুই বাঁগ্লাদে এ জ়্য ভিয়ঁ দ্য দাকা",
-     "mean": "I am Bangladeshi and I come from Dhaka.",
+     "mean": "I am Bangladeshi and I come from Dhaka. · আমি বাংলাদেশি এবং ঢাকা থেকে এসেছি।",
      "words": [
       {
        "t": "Je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "suis",
-       "mean": "am"
+       "mean": "am · আছি"
       },
       {
        "t": "bangladais",
-       "mean": "Bangladeshi"
+       "mean": "Bangladeshi · বাংলাদেশি"
       },
       {
        "t": "et",
-       "mean": "and"
+       "mean": "and · এবং"
       },
       {
        "t": "je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "viens",
-       "mean": "come"
+       "mean": "come · আসা"
       },
       {
        "t": "de",
-       "mean": "from"
+       "mean": "from · থেকে"
       },
       {
        "t": "Dacca",
-       "mean": "Dhaka"
+       "mean": "Dhaka · ঢাকা"
       }
      ]
     },
@@ -864,7 +864,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{à + les}} gives…",
+       "q": "{{à + les}} gives… · {{à + les}} মিলে হয়…",
        "options": [
         "aux",
         "als",
@@ -872,10 +872,10 @@ LC.units.push({
         "des"
        ],
        "answer": 0,
-       "explain": "à + les always contracts to aux."
+       "explain": "à + les always contracts to aux. · à + les সবসময় সংকুচিত হয়ে aux হয়।"
       },
       {
-       "q": "*I am going to Japan* is…",
+       "q": "*I am going to Japan* is… · *I am going to Japan* হবে…",
        "options": [
         "Je vais aux Japon.",
         "Je vais au Japon.",
@@ -883,10 +883,10 @@ LC.units.push({
         "Je vais à Japon."
        ],
        "answer": 1,
-       "explain": "{{le Japon}} is masculine, so à + le = au."
+       "explain": "{{le Japon}} is masculine, so à + le = au. · {{le Japon}} পুংলিঙ্গ, তাই à + le = au।"
       },
       {
-       "q": "*I live in France* is…",
+       "q": "*I live in France* is… · *I live in France* হবে…",
        "options": [
         "J'habite à France.",
         "J'habite dans France.",
@@ -894,10 +894,10 @@ LC.units.push({
         "J'habite au France."
        ],
        "answer": 2,
-       "explain": "Feminine countries take {{en}}."
+       "explain": "Feminine countries take {{en}}. · স্ত্রীলিঙ্গ দেশের আগে {{en}} বসে।"
       },
       {
-       "q": "*I come from the United States* is…",
+       "q": "*I come from the United States* is… · *I come from the United States* হবে…",
        "options": [
         "Je viens de États-Unis.",
         "Je viens aux États-Unis.",
@@ -905,10 +905,10 @@ LC.units.push({
         "Je viens des États-Unis."
        ],
        "answer": 3,
-       "explain": "Plural country → {{des}}."
+       "explain": "Plural country → {{des}}. · বহুবচন দেশ → {{des}}।"
       },
       {
-       "q": "Which country is the famous gender exception?",
+       "q": "Which country is the famous gender exception? · লিঙ্গের ক্ষেত্রে কোন দেশটি বিখ্যাত ব্যতিক্রম?",
        "options": [
         "le Mexique",
         "la France",
@@ -916,7 +916,7 @@ LC.units.push({
         "la Belgique"
        ],
        "answer": 0,
-       "explain": "It ends in -e but is masculine: {{au Mexique}}."
+       "explain": "It ends in -e but is masculine: {{au Mexique}}. · এটি -e দিয়ে শেষ হলেও পুংলিঙ্গ: {{au Mexique}}।"
       }
      ]
     }
@@ -926,7 +926,7 @@ LC.units.push({
    "id": "u2-adjectives",
    "icon": "Adj",
    "title": "Adjectives: Agreement & Position",
-   "subtitle": "Where they stand changes what they mean",
+   "subtitle": "Where they stand changes what they mean · কোথায় বসছে, তার উপর অর্থ বদলায়",
    "minutes": 14,
    "goals": [
     "Form irregular feminines confidently",
@@ -1042,22 +1042,22 @@ LC.units.push({
       {
        "t": "un grand homme",
        "label": "before",
-       "desc": "*a great man* — figurative."
+       "desc": "*a great man* — figurative. · *একজন মহান মানুষ* — রূপক অর্থে।"
       },
       {
        "t": "un homme grand",
        "label": "after",
-       "desc": "*a tall man* — literal."
+       "desc": "*a tall man* — literal. · *একজন লম্বা মানুষ* — আক্ষরিক অর্থে।"
       },
       {
        "t": "mon ancien patron",
        "label": "before",
-       "desc": "*my former boss*."
+       "desc": "*my former boss*. · *আমার আগের বস*।"
       },
       {
        "t": "un meuble ancien",
        "label": "after",
-       "desc": "*an antique piece of furniture*."
+       "desc": "*an antique piece of furniture*. · *একটি প্রাচীন আসবাব*।"
       }
      ],
      "title": "Position changes meaning"
@@ -1107,7 +1107,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The feminine of {{heureux}} is…",
+       "q": "The feminine of {{heureux}} is… · {{heureux}}-এর স্ত্রীলিঙ্গ রূপ…",
        "options": [
         "heureux",
         "heureuse",
@@ -1115,10 +1115,10 @@ LC.units.push({
         "heureure"
        ],
        "answer": 1,
-       "explain": "-eux becomes -euse."
+       "explain": "-eux becomes -euse. · -eux হয়ে যায় -euse।"
       },
       {
-       "q": "{{un homme grand}} means…",
+       "q": "{{un homme grand}} means… · {{un homme grand}} মানে…",
        "options": [
         "an old man",
         "a grown man",
@@ -1126,10 +1126,10 @@ LC.units.push({
         "a great man"
        ],
        "answer": 2,
-       "explain": "After the noun it is literal; before, figurative."
+       "explain": "After the noun it is literal; before, figurative. · নামের পরে বসলে আক্ষরিক; আগে বসলে রূপক।"
       },
       {
-       "q": "Which is correct before a vowel?",
+       "q": "Which is correct before a vowel? · স্বরের আগে কোনটি সঠিক?",
        "options": [
         "un beau appartement",
         "un belle appartement",
@@ -1137,10 +1137,10 @@ LC.units.push({
         "un bel appartement"
        ],
        "answer": 3,
-       "explain": "{{beau}} becomes {{bel}} before a vowel sound."
+       "explain": "{{beau}} becomes {{bel}} before a vowel sound. · স্বরধ্বনির আগে {{beau}} হয়ে যায় {{bel}}।"
       },
       {
-       "q": "{{mon propre livre}} means…",
+       "q": "{{mon propre livre}} means… · {{mon propre livre}} মানে…",
        "options": [
         "my own book",
         "my clean book",
@@ -1148,10 +1148,10 @@ LC.units.push({
         "my only book"
        ],
        "answer": 0,
-       "explain": "Before the noun, {{propre}} means *own*."
+       "explain": "Before the noun, {{propre}} means *own*. · নামের আগে {{propre}} মানে *নিজের*।"
       },
       {
-       "q": "What does B-A-G-S stand for?",
+       "q": "What does B-A-G-S stand for? · B-A-G-S মানে কী?",
        "options": [
         "Beauty, Action, Grade, Shape",
         "Beauty, Age, Goodness, Size",
@@ -1159,10 +1159,10 @@ LC.units.push({
         "Before, After, Gender, Singular"
        ],
        "answer": 1,
-       "explain": "These four meanings put an adjective in front."
+       "explain": "These four meanings put an adjective in front. · এই চারটি অর্থ বিশেষণকে নামের আগে বসায়।"
       },
       {
-       "q": "Which adjective normally follows its noun?",
+       "q": "Which adjective normally follows its noun? · কোন বিশেষণ সাধারণত নামের পরে বসে?",
        "options": [
         "jeune",
         "bon",
@@ -1170,7 +1170,7 @@ LC.units.push({
         "petit"
        ],
        "answer": 2,
-       "explain": "Colours always follow: {{une voiture rouge}}."
+       "explain": "Colours always follow: {{une voiture rouge}}. · রঙ সবসময় পরে বসে: {{une voiture rouge}}।"
       }
      ]
     }
@@ -1180,7 +1180,7 @@ LC.units.push({
    "id": "u2-compare",
    "icon": "+/-",
    "title": "Comparing Things",
-   "subtitle": "More, less, as — and the best of all",
+   "subtitle": "More, less, as — and the best of all · বেশি, কম, সমান — আর সবার সেরা",
    "minutes": 11,
    "goals": [
     "Build comparatives with plus, moins and aussi",
@@ -1275,39 +1275,39 @@ LC.units.push({
      "type": "sentence",
      "t": "Ce chien est le plus petit de tous.",
      "tr": "suh shyan ay luh plew puh-TEE duh TOOS · স্য শিয়ঁ এ ল্য প্ল্যু প্যতি দ্য তুস",
-     "mean": "This dog is the smallest of all.",
+     "mean": "This dog is the smallest of all. · এই কুকুরটি সবার মধ্যে সবচেয়ে ছোট।",
      "words": [
       {
        "t": "Ce",
-       "mean": "this"
+       "mean": "this · এই"
       },
       {
        "t": "chien",
-       "mean": "dog"
+       "mean": "dog · কুকুর"
       },
       {
        "t": "est",
-       "mean": "is"
+       "mean": "is · হয়"
       },
       {
        "t": "le",
-       "mean": "the"
+       "mean": "the · সেই"
       },
       {
        "t": "plus",
-       "mean": "most"
+       "mean": "most · সবচেয়ে"
       },
       {
        "t": "petit",
-       "mean": "small"
+       "mean": "small · ছোট"
       },
       {
        "t": "de",
-       "mean": "of"
+       "mean": "of · -এর"
       },
       {
        "t": "tous",
-       "mean": "all"
+       "mean": "all · সব"
       }
      ]
     },
@@ -1315,7 +1315,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*Better* as an adjective is…",
+       "q": "*Better* as an adjective is… · বিশেষণ হিসেবে *better* হলো…",
        "options": [
         "mieux",
         "plus bon",
@@ -1323,10 +1323,10 @@ LC.units.push({
         "meilleur"
        ],
        "answer": 3,
-       "explain": "{{meilleur}} goes with nouns, {{mieux}} with verbs."
+       "explain": "{{meilleur}} goes with nouns, {{mieux}} with verbs. · {{meilleur}} বসে নামের সঙ্গে, {{mieux}} বসে ক্রিয়ার সঙ্গে।"
       },
       {
-       "q": "*She speaks better than I do* is…",
+       "q": "*She speaks better than I do* is… · *She speaks better than I do* হবে…",
        "options": [
         "Elle parle mieux que moi.",
         "Elle parle meilleur que moi.",
@@ -1334,10 +1334,10 @@ LC.units.push({
         "Elle parle bien que moi."
        ],
        "answer": 0,
-       "explain": "The verb {{parle}} needs the adverb {{mieux}}."
+       "explain": "The verb {{parle}} needs the adverb {{mieux}}. · {{parle}} ক্রিয়ার জন্য ক্রিয়াবিশেষণ {{mieux}} লাগে।"
       },
       {
-       "q": "*As tall as* is built with…",
+       "q": "*As tall as* is built with… · *As tall as* তৈরি হয়…",
        "options": [
         "très … que",
         "aussi … que",
@@ -1345,10 +1345,10 @@ LC.units.push({
         "moins … que"
        ],
        "answer": 1,
-       "explain": "{{aussi grand que}} = as tall as."
+       "explain": "{{aussi grand que}} = as tall as. · {{aussi grand que}} = সমান লম্বা।"
       },
       {
-       "q": "*The most beautiful city in the world* ends with…",
+       "q": "*The most beautiful city in the world* ends with… · *The most beautiful city in the world*-এর শেষে বসে…",
        "options": [
         "au monde",
         "le monde",
@@ -1356,10 +1356,10 @@ LC.units.push({
         "dans le monde"
        ],
        "answer": 2,
-       "explain": "After a superlative French uses {{de}}."
+       "explain": "After a superlative French uses {{de}}. · superlative-এর পরে ফরাসি {{de}} ব্যবহার করে।"
       },
       {
-       "q": "The comparative of {{mauvais}} is…",
+       "q": "The comparative of {{mauvais}} is… · {{mauvais}}-এর তুলনামূলক রূপ…",
        "options": [
         "moins",
         "mieux",
@@ -1367,7 +1367,7 @@ LC.units.push({
         "pire"
        ],
        "answer": 3,
-       "explain": "{{pire}} — or the regular {{plus mauvais}}."
+       "explain": "{{pire}} — or the regular {{plus mauvais}}. · {{pire}} — অথবা নিয়মিত {{plus mauvais}}।"
       }
      ]
     }
@@ -1377,7 +1377,7 @@ LC.units.push({
    "id": "u2-pronouns",
    "icon": "y/en",
    "title": "Object Pronouns, en and y",
-   "subtitle": "The small words that make you sound French",
+   "subtitle": "The small words that make you sound French · যে ছোট শব্দগুলো আপনাকে ফরাসির মতো শোনায়",
    "minutes": 15,
    "goals": [
     "Separate direct and indirect object pronouns",
@@ -1522,22 +1522,22 @@ LC.units.push({
       {
        "title": "Full sentence",
        "t": "Je donne le livre à Salim.",
-       "mean": "I give the book to Salim."
+       "mean": "I give the book to Salim. · আমি সেলিমকে বইটি দিই।"
       },
       {
        "title": "Replace the thing",
        "t": "Je le donne à Salim.",
-       "mean": "I give it to Salim."
+       "mean": "I give it to Salim. · আমি সেলিমকে এটি দিই।"
       },
       {
        "title": "Replace the person",
        "t": "Je lui donne le livre.",
-       "mean": "I give him the book."
+       "mean": "I give him the book. · আমি তাকে বইটি দিই।"
       },
       {
        "title": "Replace both",
        "t": "Je le lui donne.",
-       "mean": "I give it to him."
+       "mean": "I give it to him. · আমি তাকে এটি দিই।"
       }
      ]
     },
@@ -1545,7 +1545,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*I am giving him the book* is…",
+       "q": "*I am giving him the book* is… · *I am giving him the book* হবে…",
        "options": [
         "Je lui donne le livre.",
         "Je le donne le livre.",
@@ -1553,10 +1553,10 @@ LC.units.push({
         "Je y donne le livre."
        ],
        "answer": 0,
-       "explain": "{{donner à}} needs the indirect pronoun {{lui}}."
+       "explain": "{{donner à}} needs the indirect pronoun {{lui}}. · {{donner à}}-এর জন্য indirect pronoun {{lui}} লাগে।"
       },
       {
-       "q": "Which pronoun replaces {{de}} + a thing?",
+       "q": "Which pronoun replaces {{de}} + a thing? · {{de}} + বস্তুর জায়গায় কোন pronoun বসে?",
        "options": [
         "lui",
         "en",
@@ -1564,10 +1564,10 @@ LC.units.push({
         "le"
        ],
        "answer": 1,
-       "explain": "{{en}} covers *some, of it, from there*."
+       "explain": "{{en}} covers *some, of it, from there*. · {{en}} বোঝায় *কিছু, তার, সেখান থেকে*।"
       },
       {
-       "q": "*I am going there tomorrow* is…",
+       "q": "*I am going there tomorrow* is… · *I am going there tomorrow* হবে…",
        "options": [
         "Je le vais demain.",
         "Je lui vais demain.",
@@ -1575,10 +1575,10 @@ LC.units.push({
         "J'en vais demain."
        ],
        "answer": 2,
-       "explain": "{{y}} replaces {{à}} plus a place."
+       "explain": "{{y}} replaces {{à}} plus a place. · {{y}} বসে {{à}} ও জায়গার জায়গায়।"
       },
       {
-       "q": "*He gives it to me* is…",
+       "q": "*He gives it to me* is… · *He gives it to me* হবে…",
        "options": [
         "Il le me donne.",
         "Il lui me donne.",
@@ -1586,10 +1586,10 @@ LC.units.push({
         "Il me le donne."
        ],
        "answer": 3,
-       "explain": "me comes before le in the fixed order."
+       "explain": "me comes before le in the fixed order. · নির্দিষ্ট ক্রমে me বসে le-এর আগে।"
       },
       {
-       "q": "The command *Give it to me!* is…",
+       "q": "The command *Give it to me!* is… · অনুজ্ঞায় *Give it to me!* হবে…",
        "options": [
         "Donnez-le-moi !",
         "Donnez-moi-le !",
@@ -1597,10 +1597,10 @@ LC.units.push({
         "Le moi donnez !"
        ],
        "answer": 0,
-       "explain": "After an affirmative command, {{me}} becomes {{moi}} and goes last."
+       "explain": "After an affirmative command, {{me}} becomes {{moi}} and goes last. · হ্যাঁ-বাচক অনুজ্ঞার পরে {{me}} হয়ে যায় {{moi}} এবং শেষে বসে।"
       },
       {
-       "q": "In {{Il en a trois}}, what does {{en}} stand for?",
+       "q": "In {{Il en a trois}}, what does {{en}} stand for? · {{Il en a trois}}-এ {{en}} কী বোঝায়?",
        "options": [
         "the verb",
         "the things being counted",
@@ -1608,7 +1608,7 @@ LC.units.push({
         "a person"
        ],
        "answer": 1,
-       "explain": "With a number, {{en}} replaces the noun counted."
+       "explain": "With a number, {{en}} replaces the noun counted. · সংখ্যার সঙ্গে {{en}} গোনা জিনিসটির জায়গায় বসে।"
       }
      ]
     }
@@ -1618,7 +1618,7 @@ LC.units.push({
    "id": "u2-relative",
    "icon": "qui",
    "title": "Joining Sentences",
-   "subtitle": "qui, que, dont, où — and this versus that",
+   "subtitle": "qui, que, dont, où — and this versus that · qui, que, dont, où — আর এই বনাম সেই",
    "minutes": 13,
    "goals": [
     "Choose between qui and que by function",
@@ -1744,47 +1744,47 @@ LC.units.push({
      "type": "sentence",
      "t": "La femme dont le fils habite à Paris est professeur.",
      "tr": "lah fahm dohn luh fees ah-beet ah pah-REE ay proh-feh-SUHR · লা ফাম দঁ ল্য ফিস আবিত আ পারি এ প্রফেস্যর",
-     "mean": "The woman whose son lives in Paris is a teacher.",
+     "mean": "The woman whose son lives in Paris is a teacher. · যে মহিলার ছেলে প্যারিসে থাকে, তিনি একজন শিক্ষক।",
      "words": [
       {
        "t": "La",
-       "mean": "the"
+       "mean": "the · সেই"
       },
       {
        "t": "femme",
-       "mean": "woman"
+       "mean": "woman · মহিলা"
       },
       {
        "t": "dont",
-       "mean": "whose"
+       "mean": "whose · যার"
       },
       {
        "t": "le",
-       "mean": "the"
+       "mean": "the · সেই"
       },
       {
        "t": "fils",
-       "mean": "son"
+       "mean": "son · ছেলে"
       },
       {
        "t": "habite",
-       "mean": "lives"
+       "mean": "lives · থাকে"
       },
       {
        "t": "à",
-       "mean": "in"
+       "mean": "in · মধ্যে"
       },
       {
        "t": "Paris",
-       "mean": "Paris"
+       "mean": "Paris · প্যারিস"
       },
       {
        "t": "est",
-       "mean": "is"
+       "mean": "is · হয়"
       },
       {
        "t": "professeur",
-       "mean": "a teacher"
+       "mean": "a teacher · একজন শিক্ষক"
       }
      ]
     },
@@ -1792,7 +1792,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Choose: *L'homme ___ parle est mon oncle.*",
+       "q": "Choose: *L'homme ___ parle est mon oncle.* · বেছে নিন: *L'homme ___ parle est mon oncle.*",
        "options": [
         "dont",
         "où",
@@ -1800,10 +1800,10 @@ LC.units.push({
         "que"
        ],
        "answer": 2,
-       "explain": "A verb follows, so the word is the subject: {{qui}}."
+       "explain": "A verb follows, so the word is the subject: {{qui}}. · পরে ক্রিয়া আছে, তাই শব্দটি কর্তা: {{qui}}।"
       },
       {
-       "q": "Choose: *Le livre ___ je lis est bon.*",
+       "q": "Choose: *Le livre ___ je lis est bon.* · বেছে নিন: *Le livre ___ je lis est bon.*",
        "options": [
         "qui",
         "dont",
@@ -1811,10 +1811,10 @@ LC.units.push({
         "que"
        ],
        "answer": 3,
-       "explain": "A subject follows, so {{que}}."
+       "explain": "A subject follows, so {{que}}. · পরে কর্তা আছে, তাই {{que}}।"
       },
       {
-       "q": "*The book I am talking about* is…",
+       "q": "*The book I am talking about* is… · *The book I am talking about* হবে…",
        "options": [
         "le livre dont je parle",
         "le livre que je parle",
@@ -1822,10 +1822,10 @@ LC.units.push({
         "le livre où je parle"
        ],
        "answer": 0,
-       "explain": "{{parler de}} needs {{dont}}."
+       "explain": "{{parler de}} needs {{dont}}. · {{parler de}}-এর জন্য {{dont}} লাগে।"
       },
       {
-       "q": "*The day when he arrived* uses…",
+       "q": "*The day when he arrived* uses… · *The day when he arrived*-এ বসে…",
        "options": [
         "dont",
         "où",
@@ -1833,10 +1833,10 @@ LC.units.push({
         "que"
        ],
        "answer": 1,
-       "explain": "After a time word, French uses {{où}}, not {{quand}}."
+       "explain": "After a time word, French uses {{où}}, not {{quand}}. · সময়বাচক শব্দের পরে ফরাসি {{quand}} নয়, {{où}} ব্যবহার করে।"
       },
       {
-       "q": "Which form goes before {{homme}}?",
+       "q": "Which form goes before {{homme}}? · {{homme}}-এর আগে কোন রূপটি বসে?",
        "options": [
         "cette",
         "ces",
@@ -1844,10 +1844,10 @@ LC.units.push({
         "ce"
        ],
        "answer": 2,
-       "explain": "{{cet}} is used before a masculine noun starting with a vowel sound."
+       "explain": "{{cet}} is used before a masculine noun starting with a vowel sound. · স্বরধ্বনি দিয়ে শুরু হওয়া পুংলিঙ্গ নামের আগে {{cet}} বসে।"
       },
       {
-       "q": "What is wrong with *le livre je lis*?",
+       "q": "What is wrong with *le livre je lis*? · *le livre je lis*-এ ভুলটি কোথায়?",
        "options": [
         "It needs an accent",
         "It should be plural",
@@ -1855,7 +1855,7 @@ LC.units.push({
         "French cannot drop que"
        ],
        "answer": 3,
-       "explain": "English may omit the relative pronoun; French may not."
+       "explain": "English may omit the relative pronoun; French may not. · ইংরেজিতে relative pronoun বাদ দেওয়া যায়, ফরাসিতে যায় না।"
       }
      ]
     }

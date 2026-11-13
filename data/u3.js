@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "être",
  "color": "teal",
  "title": "Verbs & Tenses",
- "subtitle": "The whole French verb system, one tense at a time",
+ "subtitle": "The whole French verb system, one tense at a time · গোটা ফরাসি ক্রিয়াব্যবস্থা, একবারে একটি কাল",
  "lessons": [
   {
    "id": "u3-groups",
    "icon": "-er",
    "title": "The Three Groups",
-   "subtitle": "How every regular verb behaves in the present",
+   "subtitle": "How every regular verb behaves in the present · বর্তমান কালে প্রতিটি নিয়মিত ক্রিয়া কেমন আচরণ করে",
    "minutes": 14,
    "goals": [
     "Conjugate -er, -ir and -re verbs in the present",
@@ -106,31 +106,31 @@ LC.units.push({
       {
        "t": "travailler",
        "tr": "trah-vah-YAY · ত্রাভাইয়ে",
-       "mean": "to work",
+       "mean": "to work · কাজ করা",
        "root": "-er"
       },
       {
        "t": "choisir",
        "tr": "shwah-ZEER · শোয়াজ়ির",
-       "mean": "to choose",
+       "mean": "to choose · বেছে নেওয়া",
        "root": "-ir"
       },
       {
        "t": "réussir",
        "tr": "ray-ew-SEER · রেউ্যসির",
-       "mean": "to succeed",
+       "mean": "to succeed · সফল হওয়া",
        "root": "-ir"
       },
       {
        "t": "attendre",
        "tr": "ah-TAHNDR · আতাঁদ্‌র",
-       "mean": "to wait for",
+       "mean": "to wait for · অপেক্ষা করা",
        "root": "-re"
       },
       {
        "t": "répondre",
        "tr": "ray-POHNDR · রেপঁদ্‌র",
-       "mean": "to answer",
+       "mean": "to answer · উত্তর দেওয়া",
        "root": "-re"
       }
      ]
@@ -154,7 +154,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Which forms of {{parler}} sound the same?",
+       "q": "Which forms of {{parler}} sound the same? · {{parler}}-এর কোন রূপগুলোর উচ্চারণ এক?",
        "options": [
         "je, tu, il and ils",
         "nous and vous",
@@ -162,10 +162,10 @@ LC.units.push({
         "tu and vous"
        ],
        "answer": 0,
-       "explain": "Only nous and vous are audibly different."
+       "explain": "Only nous and vous are audibly different. · কেবল nous ও vous আলাদা শোনায়।"
       },
       {
-       "q": "{{nous finissons}} belongs to…",
+       "q": "{{nous finissons}} belongs to… · {{nous finissons}} কোন দলের?",
        "options": [
         "no group",
         "group two",
@@ -173,10 +173,10 @@ LC.units.push({
         "group three"
        ],
        "answer": 1,
-       "explain": "The -iss- marks a true second-group verb."
+       "explain": "The -iss- marks a true second-group verb. · -iss- প্রকৃত দ্বিতীয় দলের ক্রিয়ার চিহ্ন।"
       },
       {
-       "q": "*They are waiting* is…",
+       "q": "*They are waiting* is… · *They are waiting* হবে…",
        "options": [
         "ils attends",
         "ils attendont",
@@ -184,10 +184,10 @@ LC.units.push({
         "ils attendrent"
        ],
        "answer": 2,
-       "explain": "-re verbs take -ent for ils/elles."
+       "explain": "-re verbs take -ent for ils/elles. · -re ক্রিয়ায় ils/elles-এর জন্য -ent বসে।"
       },
       {
-       "q": "Why is {{partir}} irregular?",
+       "q": "Why is {{partir}} irregular? · {{partir}} অনিয়মিত কেন?",
        "options": [
         "It ends in -ir",
         "It takes être",
@@ -195,10 +195,10 @@ LC.units.push({
         "It has no -iss- in the plural"
        ],
        "answer": 3,
-       "explain": "-ir verbs without -iss- do not follow group two."
+       "explain": "-ir verbs without -iss- do not follow group two. · -iss- ছাড়া -ir ক্রিয়া দ্বিতীয় দলের নিয়ম মানে না।"
       },
       {
-       "q": "*I am waiting for the bus* is…",
+       "q": "*I am waiting for the bus* is… · *I am waiting for the bus* হবে…",
        "options": [
         "J'attends le bus.",
         "J'attends pour le bus.",
@@ -206,7 +206,7 @@ LC.units.push({
         "J'attend le bus."
        ],
        "answer": 0,
-       "explain": "{{attendre}} already contains *for*."
+       "explain": "{{attendre}} already contains *for*. · {{attendre}}-এর ভেতরেই *for* আছে।"
       }
      ]
     }
@@ -216,7 +216,7 @@ LC.units.push({
    "id": "u3-irregular",
    "icon": "4",
    "title": "The Big Four",
-   "subtitle": "être, avoir, aller, faire",
+   "subtitle": "être, avoir, aller, faire · être, avoir, aller, faire",
    "minutes": 13,
    "goals": [
     "Conjugate the four most used verbs without thinking",
@@ -348,38 +348,38 @@ LC.units.push({
      "type": "sentence",
      "t": "J'ai vingt-huit ans et je suis avocat.",
      "tr": "zhay vant-weet AHN ay zhuh swee ah-voh-KAH · জ়ে ভঁতুইত আঁ এ জ়্য সুই আভোকা",
-     "mean": "I am twenty-eight and I am a lawyer.",
+     "mean": "I am twenty-eight and I am a lawyer. · আমার বয়স আঠাশ এবং আমি একজন আইনজীবী।",
      "words": [
       {
        "t": "J'ai",
-       "mean": "I have"
+       "mean": "I have · আমার আছে"
       },
       {
        "t": "vingt-huit",
-       "mean": "twenty-eight"
+       "mean": "twenty-eight · আঠাশ"
       },
       {
        "t": "ans",
-       "mean": "years"
+       "mean": "years · বছর"
       },
       {
        "t": "et",
-       "mean": "and"
+       "mean": "and · এবং"
       },
       {
        "t": "je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "suis",
-       "mean": "am"
+       "mean": "am · আছি"
       },
       {
        "t": "avocat",
-       "mean": "a lawyer"
+       "mean": "a lawyer · একজন আইনজীবী"
       }
      ],
-     "note": "Note both patterns: {{avoir}} for age, {{être}} for the job — and no article before the job."
+     "note": "Note both patterns: {{avoir}} for age, {{être}} for the job — and no article before the job. · দুটি ছক লক্ষ করুন: বয়সে {{avoir}}, পেশায় {{être}} — আর পেশার আগে article বসে না।"
     },
     {
      "type": "tip",
@@ -390,7 +390,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*I am 28 years old* is…",
+       "q": "*I am 28 years old* is… · *I am 28 years old* হবে…",
        "options": [
         "J'ai vingt-huit.",
         "J'ai vingt-huit ans.",
@@ -398,10 +398,10 @@ LC.units.push({
         "Je suis vingt-huit."
        ],
        "answer": 1,
-       "explain": "French uses {{avoir}} with {{ans}} for age."
+       "explain": "French uses {{avoir}} with {{ans}} for age. · বয়স বোঝাতে ফরাসি {{ans}}-এর সঙ্গে {{avoir}} ব্যবহার করে।"
       },
       {
-       "q": "*It is cold today* is…",
+       "q": "*It is cold today* is… · *It is cold today* হবে…",
        "options": [
         "Il a froid aujourd'hui.",
         "C'est froid aujourd'hui.",
@@ -409,10 +409,10 @@ LC.units.push({
         "Il est froid aujourd'hui."
        ],
        "answer": 2,
-       "explain": "Weather uses {{faire}}. {{Il a froid}} means *he* feels cold."
+       "explain": "Weather uses {{faire}}. {{Il a froid}} means *he* feels cold. · আবহাওয়ায় {{faire}} বসে। {{Il a froid}} মানে *তার* শীত লাগছে।"
       },
       {
-       "q": "Which {{vous}} form does **not** end in -ez?",
+       "q": "Which {{vous}} form does **not** end in -ez? · কোন {{vous}} রূপটি -ez দিয়ে শেষ **হয় না**?",
        "options": [
         "vous allez",
         "vous avez",
@@ -420,10 +420,10 @@ LC.units.push({
         "vous faites"
        ],
        "answer": 3,
-       "explain": "Only {{faites}}, {{êtes}} and {{dites}}."
+       "explain": "Only {{faites}}, {{êtes}} and {{dites}}. · কেবল {{faites}}, {{êtes}} ও {{dites}}।"
       },
       {
-       "q": "*I am a teacher* is…",
+       "q": "*I am a teacher* is… · *I am a teacher* হবে…",
        "options": [
         "Je suis professeur.",
         "Je suis un professeur.",
@@ -431,10 +431,10 @@ LC.units.push({
         "Je fais professeur."
        ],
        "answer": 0,
-       "explain": "No article after {{être}} with a profession."
+       "explain": "No article after {{être}} with a profession. · পেশার ক্ষেত্রে {{être}}-এর পরে article বসে না।"
       },
       {
-       "q": "*They have* is…",
+       "q": "*They have* is… · *They have* হবে…",
        "options": [
         "ils font",
         "ils ont",
@@ -442,7 +442,7 @@ LC.units.push({
         "ils vont"
        ],
        "answer": 1,
-       "explain": "{{ont}} is avoir; {{sont}} is être."
+       "explain": "{{ont}} is avoir; {{sont}} is être. · {{ont}} হলো avoir; {{sont}} হলো être।"
       }
      ]
     }
@@ -452,7 +452,7 @@ LC.units.push({
    "id": "u3-passe",
    "icon": "PC",
    "title": "Passé Composé",
-   "subtitle": "The past you will use most",
+   "subtitle": "The past you will use most · যে অতীত কালটি আপনি সবচেয়ে বেশি ব্যবহার করবেন",
    "minutes": 16,
    "goals": [
     "Build the passé composé with avoir and être",
@@ -594,22 +594,22 @@ LC.units.push({
       {
        "title": "Choose the helper",
        "t": "avoir or être ?",
-       "mean": "Movement or reflexive → être. Everything else → avoir."
+       "mean": "Movement or reflexive → être. Everything else → avoir. · যাতায়াত বা reflexive → être। বাকি সব → avoir।"
       },
       {
        "title": "Put it in the present",
        "t": "j'ai … / je suis …",
-       "mean": "Conjugate the helper for the subject."
+       "mean": "Conjugate the helper for the subject. · কর্তা অনুযায়ী সহায়ক ক্রিয়ার রূপ বসান।"
       },
       {
        "title": "Add the participle",
        "t": "parlé / allé",
-       "mean": "Regular ending, or a memorised irregular."
+       "mean": "Regular ending, or a memorised irregular. · নিয়মিত শেষাংশ, কিংবা মুখস্থ করা অনিয়মিত রূপ।"
       },
       {
        "title": "Check agreement",
        "t": "allée, allés, allées",
-       "mean": "Only with être — or with avoir when the object came first."
+       "mean": "Only with être — or with avoir when the object came first. · কেবল être-এর সঙ্গে — অথবা avoir-এর সঙ্গে যখন কর্ম আগে বসে।"
       }
      ]
     },
@@ -617,7 +617,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*She went to Paris* is…",
+       "q": "*She went to Paris* is… · *She went to Paris* হবে…",
        "options": [
         "Elle est allé à Paris.",
         "Elle a allée à Paris.",
@@ -625,10 +625,10 @@ LC.units.push({
         "Elle a allé à Paris."
        ],
        "answer": 2,
-       "explain": "{{aller}} takes être, and the participle agrees: allée."
+       "explain": "{{aller}} takes être, and the participle agrees: allée. · {{aller}} être নেয়, আর participle মেলে: allée।"
       },
       {
-       "q": "The past participle of {{prendre}} is…",
+       "q": "The past participle of {{prendre}} is… · {{prendre}}-এর past participle…",
        "options": [
         "prendu",
         "prené",
@@ -636,10 +636,10 @@ LC.units.push({
         "pris"
        ],
        "answer": 3,
-       "explain": "An irregular you must memorise."
+       "explain": "An irregular you must memorise. · একটি অনিয়মিত রূপ, যা মুখস্থ করতেই হবে।"
       },
       {
-       "q": "*We finished the work* is…",
+       "q": "*We finished the work* is… · *We finished the work* হবে…",
        "options": [
         "Nous avons fini le travail.",
         "Nous sommes finis le travail.",
@@ -647,10 +647,10 @@ LC.units.push({
         "Nous sommes fini le travail."
        ],
        "answer": 0,
-       "explain": "{{finir}} takes avoir and the participle stays flat."
+       "explain": "{{finir}} takes avoir and the participle stays flat. · {{finir}} avoir নেয় এবং participle অপরিবর্তিত থাকে।"
       },
       {
-       "q": "Which verb takes {{être}}?",
+       "q": "Which verb takes {{être}}? · কোন ক্রিয়াটি {{être}} নেয়?",
        "options": [
         "finir",
         "partir",
@@ -658,10 +658,10 @@ LC.units.push({
         "vendre"
        ],
        "answer": 1,
-       "explain": "{{partir}} is a movement verb."
+       "explain": "{{partir}} is a movement verb. · {{partir}} একটি যাতায়াতবাচক ক্রিয়া।"
       },
       {
-       "q": "The participle of {{être}} is…",
+       "q": "The participle of {{être}} is… · {{être}}-এর participle…",
        "options": [
         "esté",
         "étré",
@@ -669,10 +669,10 @@ LC.units.push({
         "étu"
        ],
        "answer": 2,
-       "explain": "{{j'ai été}} = I have been."
+       "explain": "{{j'ai été}} = I have been. · {{j'ai été}} = আমি ছিলাম।"
       },
       {
-       "q": "In {{Les lettres que j'ai écrites}}, why does the participle agree?",
+       "q": "In {{Les lettres que j'ai écrites}}, why does the participle agree? · {{Les lettres que j'ai écrites}}-এ participle মেলে কেন?",
        "options": [
         "Because lettres is feminine",
         "Because the helper is avoir",
@@ -680,7 +680,7 @@ LC.units.push({
         "The direct object comes before the verb"
        ],
        "answer": 3,
-       "explain": "A preceding direct object triggers agreement with avoir."
+       "explain": "A preceding direct object triggers agreement with avoir. · কর্ম আগে বসলে avoir-এর সঙ্গেও participle মেলে।"
       }
      ]
     }
@@ -690,7 +690,7 @@ LC.units.push({
    "id": "u3-imparfait",
    "icon": "ait",
    "title": "Imparfait",
-   "subtitle": "The past that was still going on",
+   "subtitle": "The past that was still going on · যে অতীত তখনো চলছিল",
    "minutes": 13,
    "goals": [
     "Build the imparfait from the nous form",
@@ -789,17 +789,17 @@ LC.units.push({
       {
        "t": "Je lisais quand il est arrivé.",
        "label": "both tenses",
-       "desc": "*I was reading* (imparfait, the scene) *when he arrived* (passé composé, the event)."
+       "desc": "*I was reading* (imparfait, the scene) *when he arrived* (passé composé, the event). · *আমি পড়ছিলাম* (imparfait, দৃশ্য) *যখন সে এলো* (passé composé, ঘটনা)।"
       },
       {
        "t": "Il pleuvait.",
        "label": "imparfait",
-       "desc": "A description of the weather — no start, no end."
+       "desc": "A description of the weather — no start, no end. · আবহাওয়ার বর্ণনা — শুরু নেই, শেষ নেই।"
       },
       {
        "t": "Il a plu hier.",
        "label": "passé composé",
-       "desc": "A completed fact: it rained yesterday."
+       "desc": "A completed fact: it rained yesterday. · সম্পন্ন ঘটনা: গতকাল বৃষ্টি হয়েছিল।"
       }
      ],
      "title": "Scene versus event"
@@ -836,39 +836,39 @@ LC.units.push({
      "type": "sentence",
      "t": "Quand j'étais petit, nous allions souvent au village.",
      "tr": "kahn zhay-tay puh-TEE, noo-zah-lyohn soo-VAHN oh vee-LAHZH · কাঁ জ়েতে প্যতি, নু জ়ালিয়ঁ সুভাঁ ও ভিলাজ়",
-     "mean": "When I was small, we often went to the village.",
+     "mean": "When I was small, we often went to the village. · ছোটবেলায় আমরা প্রায়ই গ্রামে যেতাম।",
      "words": [
       {
        "t": "Quand",
-       "mean": "when"
+       "mean": "when · যখন"
       },
       {
        "t": "j'étais",
-       "mean": "I was"
+       "mean": "I was · আমি ছিলাম"
       },
       {
        "t": "petit",
-       "mean": "small"
+       "mean": "small · ছোট"
       },
       {
        "t": "nous",
-       "mean": "we"
+       "mean": "we · আমরা"
       },
       {
        "t": "allions",
-       "mean": "used to go"
+       "mean": "used to go · যেতাম"
       },
       {
        "t": "souvent",
-       "mean": "often"
+       "mean": "often · প্রায়ই"
       },
       {
        "t": "au",
-       "mean": "to the"
+       "mean": "to the · -এর দিকে"
       },
       {
        "t": "village",
-       "mean": "village"
+       "mean": "village · গ্রাম"
       }
      ]
     },
@@ -876,7 +876,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The imparfait stem comes from…",
+       "q": "The imparfait stem comes from… · imparfait-এর মূল আসে…",
        "options": [
         "the nous form of the present",
         "the infinitive",
@@ -884,10 +884,10 @@ LC.units.push({
         "the past participle"
        ],
        "answer": 0,
-       "explain": "Drop -ons from {{nous}} and add the endings."
+       "explain": "Drop -ons from {{nous}} and add the endings. · {{nous}} রূপ থেকে -ons বাদ দিয়ে শেষাংশ যোগ করুন।"
       },
       {
-       "q": "Which verb has an irregular imparfait stem?",
+       "q": "Which verb has an irregular imparfait stem? · কোন ক্রিয়ার imparfait মূল অনিয়মিত?",
        "options": [
         "aller",
         "être",
@@ -895,10 +895,10 @@ LC.units.push({
         "faire"
        ],
        "answer": 1,
-       "explain": "{{être}} uses ét-; all others follow the rule."
+       "explain": "{{être}} uses ét-; all others follow the rule. · {{être}} ব্যবহার করে ét-; বাকি সব নিয়ম মানে।"
       },
       {
-       "q": "*I was reading when he arrived* uses…",
+       "q": "*I was reading when he arrived* uses… · *I was reading when he arrived*-এ বসে…",
        "options": [
         "imparfait twice",
         "passé composé twice",
@@ -906,10 +906,10 @@ LC.units.push({
         "passé composé then imparfait"
        ],
        "answer": 2,
-       "explain": "The scene is imparfait, the event is passé composé."
+       "explain": "The scene is imparfait, the event is passé composé. · দৃশ্য imparfait, ঘটনা passé composé।"
       },
       {
-       "q": "*When I was small* is…",
+       "q": "*When I was small* is… · *When I was small* হবে…",
        "options": [
         "Quand j'ai été petit",
         "Quand je suis petit",
@@ -917,10 +917,10 @@ LC.units.push({
         "Quand j'étais petit"
        ],
        "answer": 3,
-       "explain": "A description in the past takes the imparfait."
+       "explain": "A description in the past takes the imparfait. · অতীতের বর্ণনায় imparfait বসে।"
       },
       {
-       "q": "Which English clue points to the imparfait?",
+       "q": "Which English clue points to the imparfait? · ইংরেজির কোন সংকেত imparfait নির্দেশ করে?",
        "options": [
         "used to",
         "has just",
@@ -928,7 +928,7 @@ LC.units.push({
         "did once"
        ],
        "answer": 0,
-       "explain": "*Used to* and *was —ing* both signal the imparfait."
+       "explain": "*Used to* and *was —ing* both signal the imparfait. · *Used to* ও *was —ing* দুটোই imparfait বোঝায়।"
       }
      ]
     }
@@ -938,7 +938,7 @@ LC.units.push({
    "id": "u3-futur",
    "icon": "rai",
    "title": "Talking About the Future",
-   "subtitle": "Two futures, and when each one fits",
+   "subtitle": "Two futures, and when each one fits · দুটি ভবিষ্যৎ, আর কোনটি কখন মানানসই",
    "minutes": 12,
    "goals": [
     "Use the futur proche for near plans",
@@ -1070,7 +1070,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*I am going to leave* is…",
+       "q": "*I am going to leave* is… · *I am going to leave* হবে…",
        "options": [
         "Je vais partirai.",
         "Je vais partir.",
@@ -1078,10 +1078,10 @@ LC.units.push({
         "Je pars aller."
        ],
        "answer": 1,
-       "explain": "The futur proche is {{aller}} plus the infinitive."
+       "explain": "The futur proche is {{aller}} plus the infinitive. · futur proche মানে {{aller}} ও infinitive।"
       },
       {
-       "q": "The future stem of {{aller}} is…",
+       "q": "The future stem of {{aller}} is… · {{aller}}-এর ভবিষ্যৎ মূল…",
        "options": [
         "aller-",
         "all-",
@@ -1089,10 +1089,10 @@ LC.units.push({
         "va-"
        ],
        "answer": 2,
-       "explain": "{{j'irai}} — completely irregular."
+       "explain": "{{j'irai}} — completely irregular. · {{j'irai}} — সম্পূর্ণ অনিয়মিত।"
       },
       {
-       "q": "*He will sell* is…",
+       "q": "*He will sell* is… · *He will sell* হবে…",
        "options": [
         "il vendrera",
         "il vendrai",
@@ -1100,10 +1100,10 @@ LC.units.push({
         "il vendra"
        ],
        "answer": 3,
-       "explain": "-re verbs drop the final e before the endings."
+       "explain": "-re verbs drop the final e before the endings. · -re ক্রিয়া শেষাংশের আগে শেষের e বাদ দেয়।"
       },
       {
-       "q": "*When he arrives, we will eat* in French uses…",
+       "q": "*When he arrives, we will eat* in French uses… · *When he arrives, we will eat* ফরাসিতে ব্যবহার করে…",
        "options": [
         "future in both halves",
         "present then future",
@@ -1111,10 +1111,10 @@ LC.units.push({
         "past then future"
        ],
        "answer": 0,
-       "explain": "After {{quand}}, French keeps the future."
+       "explain": "After {{quand}}, French keeps the future. · {{quand}}-এর পরে ফরাসি ভবিষ্যৎ কাল রাখে।"
       },
       {
-       "q": "The future endings are borrowed from…",
+       "q": "The future endings are borrowed from… · ভবিষ্যতের শেষাংশ ধার করা হয়েছে…",
        "options": [
         "faire",
         "avoir",
@@ -1122,7 +1122,7 @@ LC.units.push({
         "aller"
        ],
        "answer": 1,
-       "explain": "ai, as, a, ons, ez, ont — the present of avoir."
+       "explain": "ai, as, a, ons, ez, ont — the present of avoir. · ai, as, a, ons, ez, ont — avoir-এর বর্তমান রূপ।"
       }
      ]
     }
@@ -1132,7 +1132,7 @@ LC.units.push({
    "id": "u3-conditionnel",
    "icon": "rais",
    "title": "Conditionnel",
-   "subtitle": "Would, could, should — and simple politeness",
+   "subtitle": "Would, could, should — and simple politeness · Would, could, should — আর সহজ ভদ্রতা",
    "minutes": 11,
    "goals": [
     "Build the conditional from the future stem",
@@ -1206,17 +1206,17 @@ LC.units.push({
       {
        "t": "je parlerai",
        "label": "future",
-       "desc": "*I will speak* — a fact about the future."
+       "desc": "*I will speak* — a fact about the future. · *আমি বলব* — ভবিষ্যতের একটি তথ্য।"
       },
       {
        "t": "je parlerais",
        "label": "conditional",
-       "desc": "*I would speak* — depends on something."
+       "desc": "*I would speak* — depends on something. · *আমি বলতাম* — কিছুর উপর নির্ভরশীল।"
       },
       {
        "t": "je parlais",
        "label": "imparfait",
-       "desc": "*I was speaking* — the past. Note it has no r."
+       "desc": "*I was speaking* — the past. Note it has no r. · *আমি বলছিলাম* — অতীত। লক্ষ করুন, এতে r নেই।"
       }
      ],
      "title": "One letter apart"
@@ -1230,7 +1230,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The conditional uses…",
+       "q": "The conditional uses… · conditionnel ব্যবহার করে…",
        "options": [
         "the nous stem with future endings",
         "the participle with imparfait endings",
@@ -1238,10 +1238,10 @@ LC.units.push({
         "the infinitive with future endings"
        ],
        "answer": 2,
-       "explain": "Future stem, imparfait endings."
+       "explain": "Future stem, imparfait endings. · ভবিষ্যতের মূল, imparfait-এর শেষাংশ।"
       },
       {
-       "q": "The polite way to order a coffee is…",
+       "q": "The polite way to order a coffee is… · ভদ্রভাবে কফির অর্ডার দেওয়ার উপায়…",
        "options": [
         "Je veux un café.",
         "Je vais un café.",
@@ -1249,10 +1249,10 @@ LC.units.push({
         "Je voudrais un café."
        ],
        "answer": 3,
-       "explain": "{{Je voudrais}} is the standard polite form."
+       "explain": "{{Je voudrais}} is the standard polite form. · {{Je voudrais}} হলো প্রচলিত ভদ্র রূপ।"
       },
       {
-       "q": "*Could you help me?* is…",
+       "q": "*Could you help me?* is… · *Could you help me?* হবে…",
        "options": [
         "Pourriez-vous m'aider ?",
         "Pouvez-vous m'aider ?",
@@ -1260,10 +1260,10 @@ LC.units.push({
         "Pouviez-vous m'aider ?"
        ],
        "answer": 0,
-       "explain": "The conditional {{pourriez}} is the polite choice."
+       "explain": "The conditional {{pourriez}} is the polite choice. · conditionnel {{pourriez}} হলো ভদ্র পছন্দ।"
       },
       {
-       "q": "What separates {{je parlerai}} from {{je parlerais}}?",
+       "q": "What separates {{je parlerai}} from {{je parlerais}}? · {{je parlerai}} ও {{je parlerais}}-এর পার্থক্য কী?",
        "options": [
         "Nothing at all",
         "A silent s",
@@ -1271,10 +1271,10 @@ LC.units.push({
         "A different stem"
        ],
        "answer": 1,
-       "explain": "Future -ai, conditional -ais."
+       "explain": "Future -ai, conditional -ais. · ভবিষ্যতে -ai, conditionnel-এ -ais।"
       },
       {
-       "q": "*You should leave* is…",
+       "q": "*You should leave* is… · *You should leave* হবে…",
        "options": [
         "Vous devrez partir.",
         "Vous deviez partir.",
@@ -1282,7 +1282,7 @@ LC.units.push({
         "Vous devez partir."
        ],
        "answer": 2,
-       "explain": "{{devriez}} is the conditional of {{devoir}}."
+       "explain": "{{devriez}} is the conditional of {{devoir}}. · {{devriez}} হলো {{devoir}}-এর conditionnel রূপ।"
       }
      ]
     }
@@ -1292,7 +1292,7 @@ LC.units.push({
    "id": "u3-subjonctif",
    "icon": "que",
    "title": "Subjonctif",
-   "subtitle": "The mood of doubt, wish and necessity",
+   "subtitle": "The mood of doubt, wish and necessity · সন্দেহ, ইচ্ছা ও প্রয়োজনের ভাব",
    "minutes": 15,
    "goals": [
     "Build the present subjunctive",
@@ -1402,12 +1402,12 @@ LC.units.push({
       {
        "t": "Je pense qu'il est là.",
        "label": "indicative",
-       "desc": "A positive thought states a fact."
+       "desc": "A positive thought states a fact. · হ্যাঁ-বাচক চিন্তা একটি তথ্য জানায়।"
       },
       {
        "t": "Je ne pense pas qu'il soit là.",
        "label": "subjunctive",
-       "desc": "Made negative, it becomes doubt."
+       "desc": "Made negative, it becomes doubt. · না-বাচক করলে তা সন্দেহে পরিণত হয়।"
       }
      ],
      "title": "The same verb, both moods"
@@ -1421,7 +1421,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The subjunctive stem comes from…",
+       "q": "The subjunctive stem comes from… · subjonctif-এর মূল আসে…",
        "options": [
         "the infinitive",
         "the nous form",
@@ -1429,10 +1429,10 @@ LC.units.push({
         "the ils form of the present"
        ],
        "answer": 3,
-       "explain": "Drop -ent from {{ils}} and add the subjunctive endings."
+       "explain": "Drop -ent from {{ils}} and add the subjunctive endings. · {{ils}} রূপ থেকে -ent বাদ দিয়ে subjonctif-এর শেষাংশ যোগ করুন।"
       },
       {
-       "q": "*You must come* is…",
+       "q": "*You must come* is… · *You must come* হবে…",
        "options": [
         "Il faut que tu viennes.",
         "Il faut que tu viens.",
@@ -1440,10 +1440,10 @@ LC.units.push({
         "Il faut que tu venir."
        ],
        "answer": 0,
-       "explain": "{{Il faut que}} always triggers the subjunctive."
+       "explain": "{{Il faut que}} always triggers the subjunctive. · {{Il faut que}} সবসময় subjonctif আনে।"
       },
       {
-       "q": "Which verb does **not** trigger the subjunctive?",
+       "q": "Which verb does **not** trigger the subjunctive? · কোন ক্রিয়াটি subjonctif **আনে না**?",
        "options": [
         "falloir",
         "espérer",
@@ -1451,10 +1451,10 @@ LC.units.push({
         "douter"
        ],
        "answer": 1,
-       "explain": "{{espérer}} takes the indicative."
+       "explain": "{{espérer}} takes the indicative. · {{espérer}} indicative নেয়।"
       },
       {
-       "q": "The subjunctive of {{être}} for {{je}} is…",
+       "q": "The subjunctive of {{être}} for {{je}} is… · {{je}}-এর জন্য {{être}}-এর subjonctif রূপ…",
        "options": [
         "serai",
         "étais",
@@ -1462,10 +1462,10 @@ LC.units.push({
         "suis"
        ],
        "answer": 2,
-       "explain": "{{que je sois}}."
+       "explain": "{{que je sois}}. · {{que je sois}}।"
       },
       {
-       "q": "*I want to leave* should be…",
+       "q": "*I want to leave* should be… · *I want to leave* হওয়া উচিত…",
        "options": [
         "Je veux que je parte.",
         "Je veux que je pars.",
@@ -1473,10 +1473,10 @@ LC.units.push({
         "Je veux partir."
        ],
        "answer": 3,
-       "explain": "Same subject twice → use the infinitive."
+       "explain": "Same subject twice → use the infinitive. · দুবার একই কর্তা → infinitive ব্যবহার করুন।"
       },
       {
-       "q": "Why does {{Je ne pense pas qu'il soit là}} take the subjunctive?",
+       "q": "Why does {{Je ne pense pas qu'il soit là}} take the subjunctive? · {{Je ne pense pas qu'il soit là}}-তে subjonctif বসে কেন?",
        "options": [
         "The negative turns it into doubt",
         "penser always takes it",
@@ -1484,7 +1484,7 @@ LC.units.push({
         "It is a question"
        ],
        "answer": 0,
-       "explain": "Negated {{penser}} and {{croire}} express doubt."
+       "explain": "Negated {{penser}} and {{croire}} express doubt. · না-বাচক {{penser}} ও {{croire}} সন্দেহ প্রকাশ করে।"
       }
      ]
     }
@@ -1494,7 +1494,7 @@ LC.units.push({
    "id": "u3-reflexive",
    "icon": "se",
    "title": "Reflexive Verbs",
-   "subtitle": "When the action comes back to you",
+   "subtitle": "When the action comes back to you · ক্রিয়া যখন কর্তার দিকেই ফিরে আসে",
    "minutes": 12,
    "goals": [
     "Conjugate a reflexive verb in the present",
@@ -1560,27 +1560,27 @@ LC.units.push({
       {
        "t": "se réveiller",
        "tr": "suh ray-vay-YAY · স্য রেভেইয়ে",
-       "mean": "to wake up"
+       "mean": "to wake up · ঘুম থেকে ওঠা"
       },
       {
        "t": "se laver",
        "tr": "suh lah-VAY · স্য লাভে",
-       "mean": "to wash (oneself)"
+       "mean": "to wash (oneself) · নিজেকে ধোয়া"
       },
       {
        "t": "s'habiller",
        "tr": "sah-bee-YAY · সাবিইয়ে",
-       "mean": "to get dressed"
+       "mean": "to get dressed · পোশাক পরা"
       },
       {
        "t": "se dépêcher",
        "tr": "suh day-pay-SHAY · স্য দেপেশে",
-       "mean": "to hurry up"
+       "mean": "to hurry up · তাড়াতাড়ি করা"
       },
       {
        "t": "se coucher",
        "tr": "suh koo-SHAY · স্য কুশে",
-       "mean": "to go to bed"
+       "mean": "to go to bed · ঘুমাতে যাওয়া"
       }
      ]
     },
@@ -1644,47 +1644,47 @@ LC.units.push({
      "type": "sentence",
      "t": "Je me lève à six heures et je me dépêche.",
      "tr": "zhuh muh lev ah see-ZUHR ay zhuh muh day-PESH · জ়্য ম্য লেভ আ সিজ়্যর এ জ়্য ম্য দেপেশ",
-     "mean": "I get up at six o'clock and I hurry.",
+     "mean": "I get up at six o'clock and I hurry. · আমি ছয়টায় উঠি এবং তাড়াহুড়ো করি।",
      "words": [
       {
        "t": "Je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "me",
-       "mean": "myself"
+       "mean": "myself · নিজেকে"
       },
       {
        "t": "lève",
-       "mean": "get up"
+       "mean": "get up · ওঠা"
       },
       {
        "t": "à",
-       "mean": "at"
+       "mean": "at · -টায়"
       },
       {
        "t": "six",
-       "mean": "six"
+       "mean": "six · ছয়"
       },
       {
        "t": "heures",
-       "mean": "o'clock"
+       "mean": "o'clock · ঘটিকা"
       },
       {
        "t": "et",
-       "mean": "and"
+       "mean": "and · এবং"
       },
       {
        "t": "je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "me",
-       "mean": "myself"
+       "mean": "myself · নিজেকে"
       },
       {
        "t": "dépêche",
-       "mean": "hurry"
+       "mean": "hurry · তাড়াহুড়ো করা"
       }
      ]
     },
@@ -1692,7 +1692,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*She got up* is…",
+       "q": "*She got up* is… · *She got up* হবে…",
        "options": [
         "Elle est levé.",
         "Elle s'est levée.",
@@ -1700,10 +1700,10 @@ LC.units.push({
         "Elle s'a levée."
        ],
        "answer": 1,
-       "explain": "Reflexives take être, and the participle agrees."
+       "explain": "Reflexives take être, and the participle agrees. · reflexive ক্রিয়া être নেয়, আর participle মেলে।"
       },
       {
-       "q": "{{se tromper}} means…",
+       "q": "{{se tromper}} means… · {{se tromper}} মানে…",
        "options": [
         "to trumpet",
         "to stumble",
@@ -1711,10 +1711,10 @@ LC.units.push({
         "to deceive someone"
        ],
        "answer": 2,
-       "explain": "{{tromper}} is to deceive; {{se tromper}} is to be wrong."
+       "explain": "{{tromper}} is to deceive; {{se tromper}} is to be wrong. · {{tromper}} মানে ঠকানো; {{se tromper}} মানে ভুল করা।"
       },
       {
-       "q": "*I wash my hands* is…",
+       "q": "*I wash my hands* is… · *I wash my hands* হবে…",
        "options": [
         "Je lave mes mains.",
         "Je me lave mes mains.",
@@ -1722,10 +1722,10 @@ LC.units.push({
         "Je me lave les mains."
        ],
        "answer": 3,
-       "explain": "Reflexive pronoun plus the definite article."
+       "explain": "Reflexive pronoun plus the definite article. · reflexive pronoun ও definite article।"
       },
       {
-       "q": "Which helper do reflexive verbs use in the past?",
+       "q": "Which helper do reflexive verbs use in the past? · অতীতে reflexive ক্রিয়া কোন সহায়ক নেয়?",
        "options": [
         "être",
         "avoir",
@@ -1733,10 +1733,10 @@ LC.units.push({
         "faire"
        ],
        "answer": 0,
-       "explain": "Always {{être}}, without exception."
+       "explain": "Always {{être}}, without exception. · সবসময় {{être}}, কোনো ব্যতিক্রম নেই।"
       },
       {
-       "q": "*We hurry* is…",
+       "q": "*We hurry* is… · *We hurry* হবে…",
        "options": [
         "nous nous dépêcher",
         "nous nous dépêchons",
@@ -1744,7 +1744,7 @@ LC.units.push({
         "nous dépêchons"
        ],
        "answer": 1,
-       "explain": "The pronoun matches the subject: {{nous nous}}."
+       "explain": "The pronoun matches the subject: {{nous nous}}. · pronoun কর্তার সঙ্গে মেলে: {{nous nous}}।"
       }
      ]
     }
@@ -1754,7 +1754,7 @@ LC.units.push({
    "id": "u3-si",
    "icon": "si",
    "title": "Si Clauses & the Passive",
-   "subtitle": "If this, then that — and how French dodges the passive",
+   "subtitle": "If this, then that — and how French dodges the passive · যদি এটা, তবে ওটা — আর ফরাসি কীভাবে passive এড়ায়",
    "minutes": 14,
    "goals": [
     "Match the right tenses in the three si patterns",
@@ -1856,35 +1856,35 @@ LC.units.push({
      "type": "sentence",
      "t": "Si j'avais su, je vous l'aurais dit.",
      "tr": "see zhah-vay SEW, zhuh voo loh-ray DEE · সি জ়াভে স্যু, জ়্য ভু লোরে দি",
-     "mean": "If I had known, I would have told you.",
+     "mean": "If I had known, I would have told you. · জানলে আমি আপনাকে বলতাম।",
      "words": [
       {
        "t": "Si",
-       "mean": "if"
+       "mean": "if · যদি"
       },
       {
        "t": "j'avais",
-       "mean": "I had"
+       "mean": "I had · আমার ছিল"
       },
       {
        "t": "su",
-       "mean": "known"
+       "mean": "known · জানা"
       },
       {
        "t": "je",
-       "mean": "I"
+       "mean": "I · আমি"
       },
       {
        "t": "vous",
-       "mean": "to you"
+       "mean": "to you · আপনাকে"
       },
       {
        "t": "l'aurais",
-       "mean": "it would have"
+       "mean": "it would have · হতো"
       },
       {
        "t": "dit",
-       "mean": "told"
+       "mean": "told · বলা"
       }
      ]
     },
@@ -1892,7 +1892,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*If I had time, I would come* is…",
+       "q": "*If I had time, I would come* is… · *If I had time, I would come* হবে…",
        "options": [
         "Si j'ai le temps, je viendrais.",
         "Si j'avais le temps, je viendrai.",
@@ -1900,10 +1900,10 @@ LC.units.push({
         "Si j'aurais le temps, je viendrais."
        ],
        "answer": 2,
-       "explain": "imparfait after si, conditionnel after the comma."
+       "explain": "imparfait after si, conditionnel after the comma. · si-এর পরে imparfait, কমার পরে conditionnel।"
       },
       {
-       "q": "Which tense can **never** follow {{si}}?",
+       "q": "Which tense can **never** follow {{si}}? · {{si}}-এর পরে কোন কাল **কখনোই** বসে না?",
        "options": [
         "the present",
         "the imparfait",
@@ -1911,10 +1911,10 @@ LC.units.push({
         "the conditional"
        ],
        "answer": 3,
-       "explain": "Neither future nor conditional may follow si."
+       "explain": "Neither future nor conditional may follow si. · si-এর পরে ভবিষ্যৎ বা conditionnel কোনোটিই বসে না।"
       },
       {
-       "q": "*French is spoken here* is most naturally…",
+       "q": "*French is spoken here* is most naturally… · *French is spoken here* সবচেয়ে স্বাভাবিকভাবে হবে…",
        "options": [
         "On parle français ici.",
         "Français est parlé ici.",
@@ -1922,10 +1922,10 @@ LC.units.push({
         "Il est parlé français ici."
        ],
        "answer": 0,
-       "explain": "French prefers {{on}} with an active verb."
+       "explain": "French prefers {{on}} with an active verb. · ফরাসি active ক্রিয়ার সঙ্গে {{on}} পছন্দ করে।"
       },
       {
-       "q": "In {{La lettre a été écrite}}, why does the participle end in -e?",
+       "q": "In {{La lettre a été écrite}}, why does the participle end in -e? · {{La lettre a été écrite}}-এ participle -e দিয়ে শেষ হয় কেন?",
        "options": [
         "Past participles always do",
         "It agrees with the feminine subject",
@@ -1933,10 +1933,10 @@ LC.units.push({
         "It is an irregular verb"
        ],
        "answer": 1,
-       "explain": "In the passive, the participle agrees with the subject."
+       "explain": "In the passive, the participle agrees with the subject. · passive-এ participle কর্তার সঙ্গে মেলে।"
       },
       {
-       "q": "*If you look, you will find* uses…",
+       "q": "*If you look, you will find* uses… · *If you look, you will find*-এ বসে…",
        "options": [
         "future then future",
         "present then present",
@@ -1944,10 +1944,10 @@ LC.units.push({
         "imparfait then conditional"
        ],
        "answer": 2,
-       "explain": "si + présent pairs with the futur."
+       "explain": "si + présent pairs with the futur. · si + présent জোড়া বাঁধে futur-এর সঙ্গে।"
       },
       {
-       "q": "In conversation, {{On y va ?}} usually means…",
+       "q": "In conversation, {{On y va ?}} usually means… · কথ্য ভাষায় {{On y va ?}} সাধারণত মানে…",
        "options": [
         "Is someone going?",
         "One goes there.",
@@ -1955,7 +1955,7 @@ LC.units.push({
         "Shall we go?"
        ],
        "answer": 3,
-       "explain": "Spoken French uses {{on}} for *we*."
+       "explain": "Spoken French uses {{on}} for *we*. · কথ্য ফরাসিতে *আমরা* বোঝাতে {{on}} বসে।"
       }
      ]
     }
