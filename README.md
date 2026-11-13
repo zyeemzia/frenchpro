@@ -21,10 +21,10 @@ One set of content powers two outputs: an interactive web app and a printable bo
 2. **The Grammar Engine**: Nouns, articles, adjectives and pronouns — the machinery under every sentence · নাম, article, বিশেষণ ও সর্বনাম — প্রতিটি বাক্যের নিচের যন্ত্রপাতি
 3. **Verbs & Tenses**: The whole French verb system, one tense at a time · গোটা ফরাসি ক্রিয়াব্যবস্থা, একবারে একটি কাল
 4. **Everyday & Professional French**: Numbers, time, money, travel and the conversations you will actually have · সংখ্যা, সময়, টাকা, ভ্রমণ আর যে কথোপকথনগুলো সত্যিই কাজে লাগবে
-5. **Writing French**: Letters, applications, a CV and the words that hold writing together
-6. **Idiom & Culture**: Idioms, proverbs, false friends and the errors worth unlearning
-7. **Conjugation Reference**: Every verb you need, in every tense, on one shelf
-8. **Glossary · অভিধান**: Every word in three languages — French, Bangla and English, side by side
+5. **Writing French**: Letters, applications, a CV and the words that hold writing together · চিঠি, আবেদন, CV আর যে শব্দগুলো লেখাকে ধরে রাখে
+6. **Idiom & Culture**: Idioms, proverbs, false friends and the errors worth unlearning · বাগধারা, প্রবাদ, ছদ্মবন্ধু আর যে ভুলগুলো ছাড়া দরকার
+7. **Conjugation Reference**: Every verb you need, in every tense, on one shelf · দরকারি প্রতিটি ক্রিয়া, প্রতিটি কালে, এক তাকে সাজানো
+8. **Glossary · অভিধান**: Every word in three languages — French, Bangla and English, side by side · প্রতিটি শব্দ তিন ভাষায় — ফরাসি, বাংলা ও ইংরেজি পাশাপাশি
 
 **Web app extras:** built-in natural French voices (female and male) for every word and sentence, so pronunciation works on every device with nothing to install,
 a writing studio (watch-the-pen demos and tracing pads with star scores, dictation),

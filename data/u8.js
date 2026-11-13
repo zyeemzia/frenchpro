@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "A–Z",
  "color": "violet",
  "title": "Glossary · অভিধান",
- "subtitle": "Every word in three languages — French, Bangla and English, side by side",
+ "subtitle": "Every word in three languages — French, Bangla and English, side by side · প্রতিটি শব্দ তিন ভাষায় — ফরাসি, বাংলা ও ইংরেজি পাশাপাশি",
  "lessons": [
   {
    "id": "u8-a1",
    "icon": "A",
    "title": "A · absolu → affectueux",
-   "subtitle": "The first stretch of the dictionary",
+   "subtitle": "The first stretch of the dictionary · অভিধানের প্রথম অংশ",
    "minutes": 10,
    "goals": [
     "Read each entry in all three languages",
@@ -381,7 +381,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{une addition}} in a restaurant means…",
+       "q": "{{une addition}} in a restaurant means… · রেস্তোরাঁয় {{une addition}} মানে…",
        "options": [
         "the bill",
         "a second helping",
@@ -392,7 +392,7 @@ LC.units.push({
        "explain": "It also means *addition* in arithmetic · হোটেলের বিল।"
       },
       {
-       "q": "{{actuellement}} means…",
+       "q": "{{actuellement}} means… · {{actuellement}} মানে…",
        "options": [
         "eventually",
         "currently",
@@ -403,7 +403,7 @@ LC.units.push({
        "explain": "A false friend · এই সময়ে; বর্তমানে।"
       },
       {
-       "q": "The feminine of {{acteur}} is…",
+       "q": "The feminine of {{acteur}} is… · {{acteur}}-এর স্ত্রীলিঙ্গ রূপ…",
        "options": [
         "acteure",
         "actrix",
@@ -414,7 +414,7 @@ LC.units.push({
        "explain": "অভিনেত্রী।"
       },
       {
-       "q": "{{accueillir}} means…",
+       "q": "{{accueillir}} means… · {{accueillir}} মানে…",
        "options": [
         "to accuse",
         "to accept",
@@ -425,7 +425,7 @@ LC.units.push({
        "explain": "অভ্যর্থনা জানানো।"
       },
       {
-       "q": "{{un achat}} is…",
+       "q": "{{un achat}} is… · {{un achat}} মানে…",
        "options": [
         "a purchase",
         "a buyer",
@@ -443,7 +443,7 @@ LC.units.push({
    "id": "u8-a2",
    "icon": "A",
    "title": "A · affiche → amer",
-   "subtitle": "The rest of the letter A",
+   "subtitle": "The rest of the letter A · A বর্ণের বাকি অংশ",
    "minutes": 10,
    "goals": [
     "Read 65 more entries in all three languages",
@@ -796,7 +796,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{un aller-retour}} is…",
+       "q": "{{un aller-retour}} is… · {{un aller-retour}} মানে…",
        "options": [
         "a departure board",
         "a return ticket",
@@ -807,7 +807,7 @@ LC.units.push({
        "explain": "{{un aller simple}} is one-way · আসা-যাওয়া।"
       },
       {
-       "q": "{{une allumette}} means…",
+       "q": "{{une allumette}} means… · {{une allumette}} মানে…",
        "options": [
         "a lighter",
         "a candle",
@@ -818,7 +818,7 @@ LC.units.push({
        "explain": "From {{allumer}}, to light · দিয়াশলাই।"
       },
       {
-       "q": "{{amer}} means…",
+       "q": "{{amer}} means… · {{amer}} মানে…",
        "options": [
         "loving",
         "American",
@@ -829,7 +829,7 @@ LC.units.push({
        "explain": "Not related to {{aimer}} · তেতো।"
       },
       {
-       "q": "{{alors que}} means…",
+       "q": "{{alors que}} means… · {{alors que}} মানে…",
        "options": [
         "whereas, while",
         "so then",
@@ -840,7 +840,7 @@ LC.units.push({
        "explain": "A connective · তখন; অথচ।"
       },
       {
-       "q": "{{une amende}} is…",
+       "q": "{{une amende}} is… · {{une amende}} মানে…",
        "options": [
         "a reward",
         "a fine",

@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "«»",
  "color": "emerald",
  "title": "Idiom & Culture",
- "subtitle": "Idioms, proverbs, false friends and the errors worth unlearning",
+ "subtitle": "Idioms, proverbs, false friends and the errors worth unlearning · বাগধারা, প্রবাদ, ছদ্মবন্ধু আর যে ভুলগুলো ছাড়া দরকার",
  "lessons": [
   {
    "id": "u6-idioms",
    "icon": "💬",
    "title": "Everyday Idioms",
-   "subtitle": "What French says instead of translating",
+   "subtitle": "What French says instead of translating · অনুবাদ না করে ফরাসি যা বলে",
    "minutes": 13,
    "goals": [
     "Use twenty high-frequency idioms",
@@ -71,40 +71,40 @@ LC.units.push({
       {
        "t": "se dépêcher",
        "tr": "suh day-pay-SHAY · স্য দেপেশে",
-       "mean": "to hurry up",
+       "mean": "to hurry up · তাড়াতাড়ি করা",
        "example": {
         "t": "Dépêchons-nous !",
-        "mean": "Let's hurry!"
+        "mean": "Let's hurry! · চলুন তাড়াতাড়ি করি!"
        }
       },
       {
        "t": "tenir de",
        "tr": "tuh-NEER duh · ত্যনির দ্য",
-       "mean": "to take after (a parent)",
+       "mean": "to take after (a parent) · বাবা-মায়ের মতো হওয়া",
        "example": {
         "t": "Elle tient de sa mère.",
-        "mean": "She takes after her mother."
+        "mean": "She takes after her mother. · সে তার মায়ের মতো।"
        }
       },
       {
        "t": "laisser tomber",
        "tr": "lay-say tohn-BAY · লেসে তঁবে",
-       "mean": "to drop it, to let someone down"
+       "mean": "to drop it, to let someone down · ছেড়ে দেওয়া; কাউকে নিরাশ করা"
       },
       {
        "t": "à tout prix",
        "tr": "ah too PREE · আ তু প্রি",
-       "mean": "at any cost"
+       "mean": "at any cost · যেকোনো মূল্যে"
       },
       {
        "t": "au jour le jour",
        "tr": "oh zhoor luh ZHOOR · ও জ়ুর ল্য জ়ুর",
-       "mean": "from hand to mouth, day by day"
+       "mean": "from hand to mouth, day by day · দিন আনি দিন খাই"
       },
       {
        "t": "les tenants et les aboutissants",
        "tr": "lay tuh-nahn ay lay-zah-boo-tee-SAHN · লে ত্যনাঁ এ লে জ়াবুতিসাঁ",
-       "mean": "the ins and outs"
+       "mean": "the ins and outs · খুঁটিনাটি; আদ্যোপান্ত"
       }
      ]
     },
@@ -114,22 +114,22 @@ LC.units.push({
       {
        "t": "J'en ai marre de ce travail.",
        "tr": "zhahn ay MAR duh suh trah-VYE · জ়াঁ এ মার দ্য স্য ত্রাভাই",
-       "mean": "I am fed up with this job."
+       "mean": "I am fed up with this job. · এই কাজে আমি বিরক্ত হয়ে গেছি।"
       },
       {
        "t": "Il se débrouille très bien en français.",
        "tr": "eel suh day-BROOY · ইল স্য দেব্রুই",
-       "mean": "He gets along very well in French."
+       "mean": "He gets along very well in French. · সে ফরাসিতে বেশ ভালোভাবেই চালিয়ে নেয়।"
       },
       {
        "t": "Ne me laisse pas tomber.",
        "tr": "nuh muh les pah tohn-BAY · ন্য ম্য লেস পা তঁবে",
-       "mean": "Do not let me down."
+       "mean": "Do not let me down. · আমাকে নিরাশ করবেন না।"
       },
       {
        "t": "Il connaît les tenants et les aboutissants.",
        "tr": "eel koh-NAY · ইল কনে",
-       "mean": "He knows the ins and outs."
+       "mean": "He knows the ins and outs. · সে সব খুঁটিনাটি জানে।"
       }
      ],
      "title": "In full sentences"
@@ -143,7 +143,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{Il pleut des cordes}} means…",
+       "q": "{{Il pleut des cordes}} means… · {{Il pleut des cordes}} মানে…",
        "options": [
         "The weather is changing",
         "There is a storm warning",
@@ -151,10 +151,10 @@ LC.units.push({
         "It is drizzling"
        ],
        "answer": 2,
-       "explain": "Literally *it is raining ropes*."
+       "explain": "Literally *it is raining ropes*. · আক্ষরিক অর্থে *দড়ি বৃষ্টি হচ্ছে*।"
       },
       {
-       "q": "{{J'en ai marre}} means…",
+       "q": "{{J'en ai marre}} means… · {{J'en ai marre}} মানে…",
        "options": [
         "I have had lunch",
         "I am late",
@@ -162,10 +162,10 @@ LC.units.push({
         "I am fed up"
        ],
        "answer": 3,
-       "explain": "{{en avoir marre de}} — to be fed up with."
+       "explain": "{{en avoir marre de}} — to be fed up with. · {{en avoir marre de}} — বিরক্ত হয়ে যাওয়া।"
       },
       {
-       "q": "{{Elle tient de sa mère}} means…",
+       "q": "{{Elle tient de sa mère}} means… · {{Elle tient de sa mère}} মানে…",
        "options": [
         "She takes after her mother",
         "She holds her mother's hand",
@@ -173,10 +173,10 @@ LC.units.push({
         "She works for her mother"
        ],
        "answer": 0,
-       "explain": "{{tenir de}} is used for family resemblance."
+       "explain": "{{tenir de}} is used for family resemblance. · পারিবারিক সাদৃশ্য বোঝাতে {{tenir de}} বসে।"
       },
       {
-       "q": "{{Je ne le supporte pas}} means…",
+       "q": "{{Je ne le supporte pas}} means… · {{Je ne le supporte pas}} মানে…",
        "options": [
         "I do not agree with him",
         "I cannot stand him",
@@ -184,10 +184,10 @@ LC.units.push({
         "I do not carry it"
        ],
        "answer": 1,
-       "explain": "A false friend: *to support* is {{soutenir}}."
+       "explain": "A false friend: *to support* is {{soutenir}}. · একটি ছদ্মবন্ধু: *to support* হলো {{soutenir}}।"
       },
       {
-       "q": "{{se débrouiller}} means…",
+       "q": "{{se débrouiller}} means… · {{se débrouiller}} মানে…",
        "options": [
         "to get lost",
         "to hurry",
@@ -195,7 +195,7 @@ LC.units.push({
         "to argue"
        ],
        "answer": 2,
-       "explain": "Literally *to untangle oneself*."
+       "explain": "Literally *to untangle oneself*. · আক্ষরিক অর্থে *নিজেকে জট থেকে ছাড়ানো*।"
       }
      ]
     }
@@ -205,7 +205,7 @@ LC.units.push({
    "id": "u6-proverbs",
    "icon": "❝",
    "title": "Proverbs",
-   "subtitle": "The same wisdom, in three languages",
+   "subtitle": "The same wisdom, in three languages · একই প্রজ্ঞা, তিন ভাষায়",
    "minutes": 10,
    "goals": [
     "Know ten common French proverbs",
@@ -264,22 +264,22 @@ LC.units.push({
       {
        "t": "Chacun pour soi.",
        "tr": "shah-kuhn poor SWAH · শাকুঁ পুর সোয়া",
-       "mean": "Every man for himself."
+       "mean": "Every man for himself. · যে যার নিজের জন্য।"
       },
       {
        "t": "La faim est le meilleur assaisonnement.",
        "tr": "lah fan ay luh may-yuhr ah-say-zun-MAHN · লা ফঁ এ ল্য মেয়্যর আসেজ়নমাঁ",
-       "mean": "Hunger is the best sauce."
+       "mean": "Hunger is the best sauce. · খিদে থাকলে নুন দিয়েও খাওয়া যায়।"
       },
       {
        "t": "Il ne faut pas quitter le certain pour l'incertain.",
        "tr": "eel nuh foh pah kee-TAY · ইল ন্য ফো পা কিতে",
-       "mean": "Do not give up certainty for uncertainty."
+       "mean": "Do not give up certainty for uncertainty. · নিশ্চিত ছেড়ে অনিশ্চিতের পেছনে ছুটবেন না।"
       },
       {
        "t": "Petit à petit, l'oiseau fait son nid.",
        "tr": "puh-tee ah puh-TEE, lwah-zoh fay sohn NEE · প্যতি আ প্যতি, লোয়াজ়ো ফে সঁ নি",
-       "mean": "Little by little, the bird builds its nest."
+       "mean": "Little by little, the bird builds its nest. · একটু একটু করেই পাখি তার বাসা বাঁধে।"
       }
      ],
      "title": "Four more worth knowing"
@@ -298,7 +298,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{Mieux vaut tard que jamais}} means…",
+       "q": "{{Mieux vaut tard que jamais}} means… · {{Mieux vaut tard que jamais}} মানে…",
        "options": [
         "It is never too late",
         "Late is worse than never",
@@ -306,10 +306,10 @@ LC.units.push({
         "Better late than never"
        ],
        "answer": 3,
-       "explain": "A direct equivalent of the English."
+       "explain": "A direct equivalent of the English. · ইংরেজির সরাসরি সমার্থক।"
       },
       {
-       "q": "{{Tout ce qui brille n'est pas or}} warns against…",
+       "q": "{{Tout ce qui brille n'est pas or}} warns against… · {{Tout ce qui brille n'est pas or}} সতর্ক করে…",
        "options": [
         "judging by appearances",
         "spending money",
@@ -320,7 +320,7 @@ LC.units.push({
        "explain": "চকচক করলেই সোনা হয় না।"
       },
       {
-       "q": "{{L'union fait la force}} means…",
+       "q": "{{L'union fait la force}} means… · {{L'union fait la force}} মানে…",
        "options": [
         "Force makes unity",
         "United we stand",
@@ -328,10 +328,10 @@ LC.units.push({
         "Unions are powerful"
        ],
        "answer": 1,
-       "explain": "It is the national motto of Belgium."
+       "explain": "It is the national motto of Belgium. · এটি বেলজিয়ামের জাতীয় নীতিবাক্য।"
       },
       {
-       "q": "{{Chat échaudé craint l'eau froide}} literally says…",
+       "q": "{{Chat échaudé craint l'eau froide}} literally says… · {{Chat échaudé craint l'eau froide}} আক্ষরিক অর্থে বলে…",
        "options": [
         "A cold cat fears hot water",
         "A burnt cat avoids the fire",
@@ -339,10 +339,10 @@ LC.units.push({
         "A wet cat hates the rain"
        ],
        "answer": 2,
-       "explain": "Once bitten, twice shy."
+       "explain": "Once bitten, twice shy. · দুধে পোড়া ঘোল খায় ফুঁ দিয়ে।"
       },
       {
-       "q": "{{Petit à petit, l'oiseau fait son nid}} is about…",
+       "q": "{{Petit à petit, l'oiseau fait son nid}} is about… · {{Petit à petit, l'oiseau fait son nid}} বোঝায়…",
        "options": [
         "building a house",
         "spring arriving",
@@ -350,7 +350,7 @@ LC.units.push({
         "steady progress"
        ],
        "answer": 3,
-       "explain": "Little by little, the bird builds its nest."
+       "explain": "Little by little, the bird builds its nest. · একটু একটু করেই পাখি তার বাসা বাঁধে।"
       }
      ]
     }
@@ -360,7 +360,7 @@ LC.units.push({
    "id": "u6-homonyms",
    "icon": "≠",
    "title": "Homonyms & Spelling Traps",
-   "subtitle": "Same sound, different word",
+   "subtitle": "Same sound, different word · একই উচ্চারণ, ভিন্ন শব্দ",
    "minutes": 12,
    "goals": [
     "Separate words that sound alike",
@@ -447,22 +447,22 @@ LC.units.push({
       {
        "t": "un office",
        "label": "masculine",
-       "desc": "an office, a duty, a church service."
+       "desc": "an office, a duty, a church service. · দপ্তর; কর্তব্য; উপাসনা।"
       },
       {
        "t": "une office",
        "label": "feminine",
-       "desc": "a pantry. Same spelling, different word."
+       "desc": "a pantry. Same spelling, different word. · ভাঁড়ার ঘর। একই বানান, ভিন্ন শব্দ।"
       },
       {
        "t": "deux ans",
        "label": "two years",
-       "desc": "Said duh-ZAHN."
+       "desc": "Said duh-ZAHN. · উচ্চারণ duh-ZAHN।"
       },
       {
        "t": "douze ans",
        "label": "twelve years",
-       "desc": "Said dooz-AHN. One letter apart in sound."
+       "desc": "Said dooz-AHN. One letter apart in sound. · উচ্চারণ dooz-AHN। ধ্বনিতে এক অক্ষরের তফাত।"
       }
      ],
      "title": "Dangerous near-pairs"
@@ -478,22 +478,22 @@ LC.units.push({
       {
        "t": "la mère",
        "tr": "lah MAIR · লা মের",
-       "mean": "the mother"
+       "mean": "the mother · মা"
       },
       {
        "t": "la mer",
        "tr": "lah MAIR · লা মের",
-       "mean": "the sea"
+       "mean": "the sea · সমুদ্র"
       },
       {
        "t": "le verre",
        "tr": "luh VAIR · ল্য ভের",
-       "mean": "the glass"
+       "mean": "the glass · গ্লাস"
       },
       {
        "t": "vert",
        "tr": "VAIR · ভের",
-       "mean": "green"
+       "mean": "green · সবুজ"
       }
      ]
     },
@@ -501,7 +501,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{le coût}} means…",
+       "q": "{{le coût}} means… · {{le coût}} মানে…",
        "options": [
         "the cost",
         "the neck",
@@ -509,10 +509,10 @@ LC.units.push({
         "the cut"
        ],
        "answer": 0,
-       "explain": "{{le cou}} is neck, {{le coup}} is a blow."
+       "explain": "{{le cou}} is neck, {{le coup}} is a blow. · {{le cou}} মানে ঘাড়, {{le coup}} মানে আঘাত।"
       },
       {
-       "q": "Which means *where*?",
+       "q": "Which means *where*? · কোনটির অর্থ *কোথায়*?",
        "options": [
         "eau",
         "où",
@@ -520,10 +520,10 @@ LC.units.push({
         "au"
        ],
        "answer": 1,
-       "explain": "The grave accent marks the difference."
+       "explain": "The grave accent marks the difference. · grave চিহ্নই পার্থক্য বোঝায়।"
       },
       {
-       "q": "{{la chaîne}} means…",
+       "q": "{{la chaîne}} means… · {{la chaîne}} মানে…",
        "options": [
         "the chair",
         "the channel crossing",
@@ -531,10 +531,10 @@ LC.units.push({
         "the oak"
        ],
        "answer": 2,
-       "explain": "{{le chêne}} is the oak tree."
+       "explain": "{{le chêne}} is the oak tree. · {{le chêne}} মানে ওক গাছ।"
       },
       {
-       "q": "{{une office}} is…",
+       "q": "{{une office}} is… · {{une office}} মানে…",
        "options": [
         "an office",
         "a duty",
@@ -542,10 +542,10 @@ LC.units.push({
         "a pantry"
        ],
        "answer": 3,
-       "explain": "The feminine form means a pantry."
+       "explain": "The feminine form means a pantry. · স্ত্রীলিঙ্গ রূপটির অর্থ ভাঁড়ার ঘর।"
       },
       {
-       "q": "Which three words share one sound?",
+       "q": "Which three words share one sound? · কোন তিনটি শব্দের উচ্চারণ এক?",
        "options": [
         "le foie, la foi, la fois",
         "le pain, la paix, le pin",
@@ -553,7 +553,7 @@ LC.units.push({
         "le cou, la cour, le cours"
        ],
        "answer": 0,
-       "explain": "Liver, faith and time — all said FWAH."
+       "explain": "Liver, faith and time — all said FWAH. · যকৃত, বিশ্বাস ও বার — তিনটিরই উচ্চারণ FWAH।"
       }
      ]
     }
@@ -563,7 +563,7 @@ LC.units.push({
    "id": "u6-errors",
    "icon": "✗",
    "title": "Errors Worth Unlearning",
-   "subtitle": "False friends and the mistakes everyone makes",
+   "subtitle": "False friends and the mistakes everyone makes · ছদ্মবন্ধু আর সবাই যে ভুলগুলো করে",
    "minutes": 13,
    "goals": [
     "Spot the commonest false friends",
@@ -673,17 +673,17 @@ LC.units.push({
       {
        "t": "le jour / la journée",
        "label": "point vs duration",
-       "desc": "{{le jour}} is the day as a unit; {{la journée}} is the day as a stretch of time you lived through."
+       "desc": "{{le jour}} is the day as a unit; {{la journée}} is the day as a stretch of time you lived through. · {{le jour}} মানে দিন একটি একক হিসেবে; {{la journée}} মানে যে দিনটি আপনি কাটিয়েছেন।"
       },
       {
        "t": "l'an / l'année",
        "label": "same idea",
-       "desc": "{{J'ai vingt ans}} but {{une bonne année}}."
+       "desc": "{{J'ai vingt ans}} but {{une bonne année}}. · {{J'ai vingt ans}}, কিন্তু {{une bonne année}}।"
       },
       {
        "t": "le soir / la soirée",
        "label": "same idea",
-       "desc": "{{ce soir}} tonight; {{une belle soirée}} a lovely evening."
+       "desc": "{{ce soir}} tonight; {{une belle soirée}} a lovely evening. · {{ce soir}} মানে আজ রাতে; {{une belle soirée}} মানে সুন্দর একটি সন্ধ্যা।"
       }
      ],
      "title": "The -ée pairs"
@@ -692,7 +692,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{actuellement}} means…",
+       "q": "{{actuellement}} means… · {{actuellement}} মানে…",
        "options": [
         "eventually",
         "currently",
@@ -700,10 +700,10 @@ LC.units.push({
         "accurately"
        ],
        "answer": 1,
-       "explain": "*Actually* is {{en fait}}."
+       "explain": "*Actually* is {{en fait}}. · *Actually* হলো {{en fait}}।"
       },
       {
-       "q": "Which is correct?",
+       "q": "Which is correct? · কোনটি সঠিক?",
        "options": [
         "Ça n'est pas vrai ce.",
         "C'est ne pas vrai.",
@@ -711,10 +711,10 @@ LC.units.push({
         "C'est n'est pas vrai."
        ],
        "answer": 2,
-       "explain": "{{ce}} plus the negative verb — no {{c'est}}."
+       "explain": "{{ce}} plus the negative verb — no {{c'est}}. · {{ce}} ও না-বাচক ক্রিয়া — {{c'est}} নয়।"
       },
       {
-       "q": "*I visited my uncle* is…",
+       "q": "*I visited my uncle* is… · *I visited my uncle* হবে…",
        "options": [
         "J'ai visité mon oncle.",
         "J'ai visité à mon oncle.",
@@ -722,10 +722,10 @@ LC.units.push({
         "J'ai rendu visite à mon oncle."
        ],
        "answer": 3,
-       "explain": "{{visiter}} is for places only."
+       "explain": "{{visiter}} is for places only. · {{visiter}} কেবল জায়গার জন্য।"
       },
       {
-       "q": "{{la librairie}} is…",
+       "q": "{{la librairie}} is… · {{la librairie}} মানে…",
        "options": [
         "a bookshop",
         "a library",
@@ -733,10 +733,10 @@ LC.units.push({
         "a reading room"
        ],
        "answer": 0,
-       "explain": "A library is {{la bibliothèque}}."
+       "explain": "A library is {{la bibliothèque}}. · গ্রন্থাগার হলো {{la bibliothèque}}।"
       },
       {
-       "q": "*I do not know what is happening* is…",
+       "q": "*I do not know what is happening* is… · *I do not know what is happening* হবে…",
        "options": [
         "Je ne sais pas que se passe.",
         "Je ne sais pas ce qui se passe.",
@@ -744,10 +744,10 @@ LC.units.push({
         "Je ne sais pas quoi se passe."
        ],
        "answer": 1,
-       "explain": "Indirect questions take {{ce qui}} or {{ce que}}."
+       "explain": "Indirect questions take {{ce qui}} or {{ce que}}. · পরোক্ষ প্রশ্নে {{ce qui}} বা {{ce que}} বসে।"
       },
       {
-       "q": "{{assister à une réunion}} means…",
+       "q": "{{assister à une réunion}} means… · {{assister à une réunion}} মানে…",
        "options": [
         "to chair a meeting",
         "to call a meeting",
@@ -755,7 +755,7 @@ LC.units.push({
         "to help at a meeting"
        ],
        "answer": 2,
-       "explain": "To help is {{aider}}."
+       "explain": "To help is {{aider}}. · সাহায্য করা হলো {{aider}}।"
       }
      ]
     }
@@ -765,7 +765,7 @@ LC.units.push({
    "id": "u6-abbrev",
    "icon": "SVP",
    "title": "Abbreviations & French in English",
-   "subtitle": "Reading signs, and the words you already know",
+   "subtitle": "Reading signs, and the words you already know · সাইনবোর্ড পড়া, আর যে শব্দগুলো আপনি আগে থেকেই জানেন",
    "minutes": 11,
    "goals": [
     "Read common French abbreviations",
@@ -911,7 +911,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{TSVP}} at the foot of a page means…",
+       "q": "{{TSVP}} at the foot of a page means… · পাতার নিচে {{TSVP}} মানে…",
        "options": [
         "please reply",
         "please sign",
@@ -919,10 +919,10 @@ LC.units.push({
         "please turn over"
        ],
        "answer": 3,
-       "explain": "{{tournez s'il vous plaît}}."
+       "explain": "{{tournez s'il vous plaît}}. · {{tournez s'il vous plaît}} — পাতা উল্টান।"
       },
       {
-       "q": "{{PDG}} is…",
+       "q": "{{PDG}} is… · {{PDG}} মানে…",
        "options": [
         "the chief executive",
         "the post office",
@@ -930,10 +930,10 @@ LC.units.push({
         "a railway company"
        ],
        "answer": 0,
-       "explain": "{{président-directeur général}}."
+       "explain": "{{président-directeur général}}. · {{président-directeur général}} — প্রধান নির্বাহী।"
       },
       {
-       "q": "Which title is no longer used on French forms?",
+       "q": "Which title is no longer used on French forms? · ফরাসি ফর্মে কোন সম্বোধনটি আর ব্যবহৃত হয় না?",
        "options": [
         "Docteur",
         "Mademoiselle",
@@ -941,10 +941,10 @@ LC.units.push({
         "Monsieur"
        ],
        "answer": 1,
-       "explain": "Dropped officially in 2012."
+       "explain": "Dropped officially in 2012. · ২০১২ সালে সরকারিভাবে বাদ দেওয়া হয়।"
       },
       {
-       "q": "In a French restaurant, {{une entrée}} is…",
+       "q": "In a French restaurant, {{une entrée}} is… · ফরাসি রেস্তোরাঁয় {{une entrée}} মানে…",
        "options": [
         "a dessert",
         "the entrance fee",
@@ -952,10 +952,10 @@ LC.units.push({
         "the main course"
        ],
        "answer": 2,
-       "explain": "The American usage changed the meaning."
+       "explain": "The American usage changed the meaning. · আমেরিকান ব্যবহার অর্থটি বদলে দিয়েছে।"
       },
       {
-       "q": "{{c.-à-d.}} stands for…",
+       "q": "{{c.-à-d.}} stands for… · {{c.-à-d.}} মানে…",
        "options": [
         "ce qui a dit",
         "ci-après demandé",
@@ -963,7 +963,7 @@ LC.units.push({
         "c'est-à-dire"
        ],
        "answer": 3,
-       "explain": "*That is to say*, the French equivalent of *i.e.*"
+       "explain": "*That is to say*, the French equivalent of *i.e.* · *অর্থাৎ* — ইংরেজি *i.e.*-এর ফরাসি রূপ।"
       }
      ]
     }
@@ -973,7 +973,7 @@ LC.units.push({
    "id": "u6-register",
    "icon": "👔",
    "title": "Register & Politeness",
-   "subtitle": "Saying the same thing three ways",
+   "subtitle": "Saying the same thing three ways · একই কথা তিনভাবে বলা",
    "minutes": 12,
    "goals": [
     "Move between informal, standard and formal French",
@@ -1056,31 +1056,31 @@ LC.units.push({
        "who": "Client",
        "t": "Bonjour madame. Pourriez-vous m'aider, s'il vous plaît ?",
        "tr": "bohn-ZHOOR mah-DAM. poo-ree-ay-voo may-DAY · বঁজ়ুর মাদাম। পুরিয়েভু মেদে",
-       "mean": "Good morning. Could you help me, please?"
+       "mean": "Good morning. Could you help me, please? · সুপ্রভাত। একটু সাহায্য করবেন অনুগ্রহ করে?"
       },
       {
        "who": "Vendeuse",
        "t": "Bien sûr, monsieur. Que cherchez-vous ?",
        "tr": "byan SEWR. kuh shair-shay-VOO · বিয়ঁ স্যুর। ক্য শেরশেভু",
-       "mean": "Of course, sir. What are you looking for?"
+       "mean": "Of course, sir. What are you looking for? · অবশ্যই, স্যার। আপনি কী খুঁজছেন?"
       },
       {
        "who": "Client",
        "t": "Je voudrais un dictionnaire français-bangla.",
        "tr": "zhuh voo-DRAY uhn deek-syoh-NAIR · জ়্য ভুদ্রে উঁ দিক্সিয়নের",
-       "mean": "I would like a French–Bangla dictionary."
+       "mean": "I would like a French–Bangla dictionary. · আমি একটি ফরাসি–বাংলা অভিধান চাই।"
       },
       {
        "who": "Vendeuse",
        "t": "Je regrette, nous n'en avons plus. Mais je peux en commander un.",
        "tr": "zhuh ruh-GRET, noo nahn-nah-vohn PLEW · জ়্য র‍্যগ্রেত, নু নাঁ নাভঁ প্ল্যু",
-       "mean": "I am sorry, we have none left. But I can order one."
+       "mean": "I am sorry, we have none left. But I can order one. · দুঃখিত, আমাদের আর নেই। তবে আমি একটি আনিয়ে দিতে পারি।"
       },
       {
        "who": "Client",
        "t": "Ce serait très aimable. Merci beaucoup.",
        "tr": "suh suh-ray tray-zay-MAHBL · স্য স্যরে ত্রে জ়েমাব্ল",
-       "mean": "That would be very kind. Thank you very much."
+       "mean": "That would be very kind. Thank you very much. · সেটা খুব ভালো হবে। অনেক ধন্যবাদ।"
       }
      ]
     },
@@ -1098,7 +1098,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The most formal way to ask for help is…",
+       "q": "The most formal way to ask for help is… · সাহায্য চাওয়ার সবচেয়ে আনুষ্ঠানিক উপায়…",
        "options": [
         "Pourriez-vous m'aider ?",
         "Pouvez-vous m'aider ?",
@@ -1106,10 +1106,10 @@ LC.units.push({
         "Aidez-moi."
        ],
        "answer": 0,
-       "explain": "The conditional raises the register."
+       "explain": "The conditional raises the register. · conditionnel ভাষার স্তর উঁচু করে।"
       },
       {
-       "q": "What should you say on entering a French shop?",
+       "q": "What should you say on entering a French shop? · ফরাসি দোকানে ঢুকে কী বলা উচিত?",
        "options": [
         "Nothing until spoken to",
         "Bonjour",
@@ -1117,10 +1117,10 @@ LC.units.push({
         "S'il vous plaît"
        ],
        "answer": 1,
-       "explain": "Not greeting first is considered rude."
+       "explain": "Not greeting first is considered rude. · আগে সম্ভাষণ না করা রূঢ় বলে গণ্য হয়।"
       },
       {
-       "q": "{{C'est quoi ?}} belongs to…",
+       "q": "{{C'est quoi ?}} belongs to… · {{C'est quoi ?}} ব্যবহৃত হয়…",
        "options": [
         "business letters",
         "official forms",
@@ -1128,10 +1128,10 @@ LC.units.push({
         "formal writing"
        ],
        "answer": 2,
-       "explain": "{{Qu'est-ce que c'est ?}} is the standard form."
+       "explain": "{{Qu'est-ce que c'est ?}} is the standard form. · {{Qu'est-ce que c'est ?}} হলো প্রচলিত রূপ।"
       },
       {
-       "q": "Which softens a refusal?",
+       "q": "Which softens a refusal? · কোনটি প্রত্যাখ্যানকে নরম করে?",
        "options": [
         "Non.",
         "Impossible.",
@@ -1139,10 +1139,10 @@ LC.units.push({
         "Je regrette, mais…"
        ],
        "answer": 3,
-       "explain": "French cushions refusals with a reason or apology."
+       "explain": "French cushions refusals with a reason or apology. · ফরাসি প্রত্যাখ্যানের সঙ্গে কারণ বা দুঃখপ্রকাশ জোড়ে।"
       },
       {
-       "q": "{{Je souhaiterais}} compared with {{Je veux}} is…",
+       "q": "{{Je souhaiterais}} compared with {{Je veux}} is… · {{Je veux}}-এর তুলনায় {{Je souhaiterais}} হলো…",
        "options": [
         "more formal",
         "less formal",
@@ -1150,7 +1150,7 @@ LC.units.push({
         "incorrect"
        ],
        "answer": 0,
-       "explain": "It is the most formal of the three levels."
+       "explain": "It is the most formal of the three levels. · তিনটি স্তরের মধ্যে এটিই সবচেয়ে আনুষ্ঠানিক।"
       }
      ]
     }

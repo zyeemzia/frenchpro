@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "⊞",
  "color": "cyan",
  "title": "Conjugation Reference",
- "subtitle": "Every verb you need, in every tense, on one shelf",
+ "subtitle": "Every verb you need, in every tense, on one shelf · দরকারি প্রতিটি ক্রিয়া, প্রতিটি কালে, এক তাকে সাজানো",
  "lessons": [
   {
    "id": "u7-etre-avoir",
    "icon": "ê/a",
    "title": "être & avoir in Full",
-   "subtitle": "The two verbs that build everything else",
+   "subtitle": "The two verbs that build everything else · যে দুটি ক্রিয়া বাকি সবকিছু গড়ে তোলে",
    "minutes": 12,
    "goals": [
     "Conjugate être and avoir in six tenses",
@@ -184,7 +184,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The imparfait of {{être}} for {{nous}} is…",
+       "q": "The imparfait of {{être}} for {{nous}} is… · {{nous}}-এর জন্য {{être}}-এর imparfait রূপ…",
        "options": [
         "étions",
         "étaient",
@@ -192,10 +192,10 @@ LC.units.push({
         "sommes"
        ],
        "answer": 0,
-       "explain": "ét- plus -ions."
+       "explain": "ét- plus -ions. · ét- ও -ions।"
       },
       {
-       "q": "{{que j'aie}} is the subjunctive of…",
+       "q": "{{que j'aie}} is the subjunctive of… · {{que j'aie}} কোন ক্রিয়ার subjonctif রূপ?",
        "options": [
         "aider",
         "avoir",
@@ -203,10 +203,10 @@ LC.units.push({
         "aller"
        ],
        "answer": 1,
-       "explain": "{{que je sois}} is être."
+       "explain": "{{que je sois}} is être. · {{que je sois}} হলো être-এর রূপ।"
       },
       {
-       "q": "The past participle of {{avoir}} is…",
+       "q": "The past participle of {{avoir}} is… · {{avoir}}-এর past participle…",
        "options": [
         "ayé",
         "avoiru",
@@ -214,10 +214,10 @@ LC.units.push({
         "avu"
        ],
        "answer": 2,
-       "explain": "{{j'ai eu}} — I have had."
+       "explain": "{{j'ai eu}} — I have had. · {{j'ai eu}} — আমার ছিল।"
       },
       {
-       "q": "The conditional of {{être}} for {{ils}} is…",
+       "q": "The conditional of {{être}} for {{ils}} is… · {{ils}}-এর জন্য {{être}}-এর conditionnel রূপ…",
        "options": [
         "seront",
         "étaient",
@@ -225,7 +225,7 @@ LC.units.push({
         "seraient"
        ],
        "answer": 3,
-       "explain": "Future stem ser- plus imparfait endings."
+       "explain": "Future stem ser- plus imparfait endings. · ভবিষ্যতের মূল ser- ও imparfait-এর শেষাংশ।"
       }
      ]
     }
@@ -235,7 +235,7 @@ LC.units.push({
    "id": "u7-regular",
    "icon": "3",
    "title": "The Three Regular Patterns",
-   "subtitle": "parler, finir, vendre across every tense",
+   "subtitle": "parler, finir, vendre across every tense · parler, finir, vendre — প্রতিটি কালে",
    "minutes": 12,
    "goals": [
     "Apply each pattern in six tenses",
@@ -380,7 +380,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{nous}} form of {{manger}} is…",
+       "q": "{{nous}} form of {{manger}} is… · {{manger}}-এর {{nous}} রূপ…",
        "options": [
         "mangeons",
         "mangons",
@@ -388,10 +388,10 @@ LC.units.push({
         "manjons"
        ],
        "answer": 0,
-       "explain": "The e keeps the g soft before o."
+       "explain": "The e keeps the g soft before o. · o-এর আগে e রাখলে g নরম থাকে।"
       },
       {
-       "q": "The conditional of {{finir}} for {{je}} is…",
+       "q": "The conditional of {{finir}} for {{je}} is… · {{je}}-এর জন্য {{finir}}-এর conditionnel রূপ…",
        "options": [
         "finisse",
         "finirais",
@@ -399,10 +399,10 @@ LC.units.push({
         "finissais"
        ],
        "answer": 1,
-       "explain": "Infinitive plus imparfait endings."
+       "explain": "Infinitive plus imparfait endings. · infinitive ও imparfait-এর শেষাংশ।"
       },
       {
-       "q": "The present participle of {{vendre}} is…",
+       "q": "The present participle of {{vendre}} is… · {{vendre}}-এর present participle…",
        "options": [
         "vendre",
         "vendrant",
@@ -410,10 +410,10 @@ LC.units.push({
         "vendu"
        ],
        "answer": 2,
-       "explain": "nous vendons → vendant."
+       "explain": "nous vendons → vendant. · nous রূপ থেকে -ons বাদ দিয়ে -ant যোগ করুন।"
       },
       {
-       "q": "Which tense keeps the r of the infinitive?",
+       "q": "Which tense keeps the r of the infinitive? · কোন কালে infinitive-এর r থেকে যায়?",
        "options": [
         "imparfait",
         "présent",
@@ -421,7 +421,7 @@ LC.units.push({
         "futur"
        ],
        "answer": 3,
-       "explain": "Both futur and conditionnel do."
+       "explain": "Both futur and conditionnel do. · futur ও conditionnel দুটোতেই থাকে।"
       }
      ]
     }
@@ -431,7 +431,7 @@ LC.units.push({
    "id": "u7-core",
    "icon": "★",
    "title": "The Core Irregulars",
-   "subtitle": "aller, faire, prendre, venir, voir, dire",
+   "subtitle": "aller, faire, prendre, venir, voir, dire · aller, faire, prendre, venir, voir, dire — ছয়টি অপরিহার্য অনিয়মিত ক্রিয়া",
    "minutes": 14,
    "goals": [
     "Conjugate the six most frequent irregulars",
@@ -601,7 +601,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The future stem of {{voir}} is…",
+       "q": "The future stem of {{voir}} is… · {{voir}}-এর ভবিষ্যৎ মূল…",
        "options": [
         "verr-",
         "voir-",
@@ -609,10 +609,10 @@ LC.units.push({
         "vair-"
        ],
        "answer": 0,
-       "explain": "{{je verrai}} — double r."
+       "explain": "{{je verrai}} — double r. · {{je verrai}} — দুটি r।"
       },
       {
-       "q": "{{ils}} form of {{venir}} is…",
+       "q": "{{ils}} form of {{venir}} is… · {{venir}}-এর {{ils}} রূপ…",
        "options": [
         "venont",
         "viennent",
@@ -620,10 +620,10 @@ LC.units.push({
         "viendrent"
        ],
        "answer": 1,
-       "explain": "The stem doubles its n in the plural."
+       "explain": "The stem doubles its n in the plural. · বহুবচনে মূলের n দ্বিগুণ হয়।"
       },
       {
-       "q": "Which verb takes {{être}} in the passé composé?",
+       "q": "Which verb takes {{être}} in the passé composé? · passé composé-তে কোন ক্রিয়া {{être}} নেয়?",
        "options": [
         "voir",
         "dire",
@@ -631,10 +631,10 @@ LC.units.push({
         "faire"
        ],
        "answer": 2,
-       "explain": "{{je suis allé}} — a movement verb."
+       "explain": "{{je suis allé}} — a movement verb. · {{je suis allé}} — একটি যাতায়াতবাচক ক্রিয়া।"
       },
       {
-       "q": "{{comprendre}} conjugates like…",
+       "q": "{{comprendre}} conjugates like… · {{comprendre}}-এর রূপ চলে…",
        "options": [
         "rendre",
         "vendre",
@@ -642,10 +642,10 @@ LC.units.push({
         "prendre"
        ],
        "answer": 3,
-       "explain": "The whole prendre family shares the pattern."
+       "explain": "The whole prendre family shares the pattern. · গোটা prendre পরিবার একই ছক মানে।"
       },
       {
-       "q": "The subjunctive of {{faire}} is…",
+       "q": "The subjunctive of {{faire}} is… · {{faire}}-এর subjonctif রূপ…",
        "options": [
         "que je fasse",
         "que je fais",
@@ -653,7 +653,7 @@ LC.units.push({
         "que je faise"
        ],
        "answer": 0,
-       "explain": "An irregular worth memorising."
+       "explain": "An irregular worth memorising. · মুখস্থ করার মতো একটি অনিয়মিত রূপ।"
       }
      ]
     }
@@ -663,7 +663,7 @@ LC.units.push({
    "id": "u7-modals",
    "icon": "⚙",
    "title": "The Modal Verbs",
-   "subtitle": "pouvoir, vouloir, devoir, savoir",
+   "subtitle": "pouvoir, vouloir, devoir, savoir · pouvoir, vouloir, devoir, savoir — চারটি modal ক্রিয়া",
    "minutes": 12,
    "goals": [
     "Conjugate the four modals",
@@ -772,12 +772,12 @@ LC.units.push({
       {
        "t": "savoir",
        "label": "a fact or a skill",
-       "desc": "{{Je sais nager}} — I know how to swim. {{Je sais qu'il vient}} — I know that he is coming."
+       "desc": "{{Je sais nager}} — I know how to swim. {{Je sais qu'il vient}} — I know that he is coming. · {{Je sais nager}} — আমি সাঁতার জানি। {{Je sais qu'il vient}} — আমি জানি সে আসছে।"
       },
       {
        "t": "connaître",
        "label": "a person or place",
-       "desc": "{{Je connais Paris}} — I know Paris. {{Je connais Rana}} — I know Rana."
+       "desc": "{{Je connais Paris}} — I know Paris. {{Je connais Rana}} — I know Rana. · {{Je connais Paris}} — আমি প্যারিস চিনি। {{Je connais Rana}} — আমি রানাকে চিনি।"
       }
      ],
      "title": "The two verbs for *to know*"
@@ -793,17 +793,17 @@ LC.units.push({
       {
        "t": "Je voudrais réserver une chambre.",
        "tr": "zhuh voo-dray ray-zair-VAY · জ়্য ভুদ্রে রেজ়ের্ভে",
-       "mean": "I would like to book a room."
+       "mean": "I would like to book a room. · আমি একটি ঘর বুক করতে চাই।"
       },
       {
        "t": "Pourriez-vous répéter ?",
        "tr": "poo-ree-ay-voo ray-pay-TAY · পুরিয়েভু রেপেতে",
-       "mean": "Could you repeat?"
+       "mean": "Could you repeat? · আবার বলবেন একটু?"
       },
       {
        "t": "Vous devriez voir un médecin.",
        "tr": "voo duh-vree-ay vwahr uhn mayd-SAN · ভু দ্যভ্রিয়ে ভোয়ার উঁ মেদসঁ",
-       "mean": "You should see a doctor."
+       "mean": "You should see a doctor. · আপনার ডাক্তার দেখানো উচিত।"
       }
      ],
      "title": "The polite conditional at work"
@@ -812,7 +812,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*I know how to swim* is…",
+       "q": "*I know how to swim* is… · *I know how to swim* হবে…",
        "options": [
         "Je sais de nager.",
         "Je sais nager.",
@@ -820,10 +820,10 @@ LC.units.push({
         "Je peux nager."
        ],
        "answer": 1,
-       "explain": "{{savoir}} plus a bare infinitive for a skill."
+       "explain": "{{savoir}} plus a bare infinitive for a skill. · দক্ষতা বোঝাতে {{savoir}} ও সরাসরি infinitive।"
       },
       {
-       "q": "The subjunctive of {{pouvoir}} is…",
+       "q": "The subjunctive of {{pouvoir}} is… · {{pouvoir}}-এর subjonctif রূপ…",
        "options": [
         "que je pouvoir",
         "que je pourrais",
@@ -831,10 +831,10 @@ LC.units.push({
         "que je peux"
        ],
        "answer": 2,
-       "explain": "{{pour que vous puissiez comprendre}}."
+       "explain": "{{pour que vous puissiez comprendre}}. · {{pour que vous puissiez comprendre}} — যাতে আপনি বুঝতে পারেন।"
       },
       {
-       "q": "Why does {{dû}} take a circumflex?",
+       "q": "Why does {{dû}} take a circumflex? · {{dû}}-তে circumflex বসে কেন?",
        "options": [
         "To mark a long vowel",
         "Because it is irregular",
@@ -842,10 +842,10 @@ LC.units.push({
         "To distinguish it from du"
        ],
        "answer": 3,
-       "explain": "Only the masculine singular keeps the accent."
+       "explain": "Only the masculine singular keeps the accent. · কেবল পুংলিঙ্গ একবচনেই চিহ্নটি থাকে।"
       },
       {
-       "q": "*I know Paris* is…",
+       "q": "*I know Paris* is… · *I know Paris* হবে…",
        "options": [
         "Je connais Paris.",
         "Je sais Paris.",
@@ -853,10 +853,10 @@ LC.units.push({
         "Je connais de Paris."
        ],
        "answer": 0,
-       "explain": "Places and people take {{connaître}}."
+       "explain": "Places and people take {{connaître}}. · জায়গা ও মানুষের ক্ষেত্রে {{connaître}} বসে।"
       },
       {
-       "q": "{{ils}} form of {{vouloir}} is…",
+       "q": "{{ils}} form of {{vouloir}} is… · {{vouloir}}-এর {{ils}} রূপ…",
        "options": [
         "veulont",
         "veulent",
@@ -864,7 +864,7 @@ LC.units.push({
         "veullent"
        ],
        "answer": 1,
-       "explain": "The stem changes in the plural."
+       "explain": "The stem changes in the plural. · বহুবচনে মূল বদলে যায়।"
       }
      ]
     }
@@ -874,7 +874,7 @@ LC.units.push({
    "id": "u7-more",
    "icon": "+",
    "title": "More Verbs in Full",
-   "subtitle": "boire, croire, connaître, mettre, partir, dormir, tenir",
+   "subtitle": "boire, croire, connaître, mettre, partir, dormir, tenir · boire, croire, connaître, mettre, partir, dormir, tenir — আরও সাতটি ক্রিয়া",
    "minutes": 13,
    "goals": [
     "Conjugate seven more common irregulars",
@@ -1044,7 +1044,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{nous}} form of {{boire}} is…",
+       "q": "{{nous}} form of {{boire}} is… · {{boire}}-এর {{nous}} রূপ…",
        "options": [
         "boyons",
         "bouvons",
@@ -1052,10 +1052,10 @@ LC.units.push({
         "boivons"
        ],
        "answer": 2,
-       "explain": "The stem changes to buv- in the plural."
+       "explain": "The stem changes to buv- in the plural. · বহুবচনে মূল হয়ে যায় buv-।"
       },
       {
-       "q": "The past participle of {{mettre}} is…",
+       "q": "The past participle of {{mettre}} is… · {{mettre}}-এর past participle…",
        "options": [
         "mettu",
         "mit",
@@ -1063,10 +1063,10 @@ LC.units.push({
         "mis"
        ],
        "answer": 3,
-       "explain": "{{j'ai mis}} — I put."
+       "explain": "{{j'ai mis}} — I put. · {{j'ai mis}} — আমি রেখেছি।"
       },
       {
-       "q": "Which of these takes {{être}} in the past?",
+       "q": "Which of these takes {{être}} in the past? · এর মধ্যে কোনটি অতীতে {{être}} নেয়?",
        "options": [
         "partir",
         "dormir",
@@ -1074,10 +1074,10 @@ LC.units.push({
         "mettre"
        ],
        "answer": 0,
-       "explain": "{{je suis parti}} — a movement verb."
+       "explain": "{{je suis parti}} — a movement verb. · {{je suis parti}} — একটি যাতায়াতবাচক ক্রিয়া।"
       },
       {
-       "q": "{{obtenir}} conjugates like…",
+       "q": "{{obtenir}} conjugates like… · {{obtenir}}-এর রূপ চলে…",
        "options": [
         "ouvrir",
         "tenir",
@@ -1085,10 +1085,10 @@ LC.units.push({
         "finir"
        ],
        "answer": 1,
-       "explain": "The tenir family shares one pattern."
+       "explain": "The tenir family shares one pattern. · tenir পরিবার একই ছক মানে।"
       },
       {
-       "q": "When does {{connaître}} keep its circumflex?",
+       "q": "When does {{connaître}} keep its circumflex? · {{connaître}} কখন তার circumflex ধরে রাখে?",
        "options": [
         "Always",
         "Never",
@@ -1096,7 +1096,7 @@ LC.units.push({
         "Before an s"
        ],
        "answer": 2,
-       "explain": "{{il connaît}}, but {{nous connaissons}}."
+       "explain": "{{il connaît}}, but {{nous connaissons}}. · {{il connaît}}, কিন্তু {{nous connaissons}}।"
       }
      ]
     }
@@ -1106,7 +1106,7 @@ LC.units.push({
    "id": "u7-participles",
    "icon": "é",
    "title": "Past Participles A–Z",
-   "subtitle": "The list to keep beside you",
+   "subtitle": "The list to keep beside you · যে তালিকাটি পাশে রাখবেন",
    "minutes": 11,
    "goals": [
     "Recall the irregular participles at speed",
@@ -1255,7 +1255,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The participle of {{naître}} is…",
+       "q": "The participle of {{naître}} is… · {{naître}}-এর participle…",
        "options": [
         "naî",
         "naissu",
@@ -1263,10 +1263,10 @@ LC.units.push({
         "né"
        ],
        "answer": 3,
-       "explain": "{{je suis né}} — I was born."
+       "explain": "{{je suis né}} — I was born. · {{je suis né}} — আমি জন্মেছিলাম।"
       },
       {
-       "q": "The participle of {{ouvrir}} is…",
+       "q": "The participle of {{ouvrir}} is… · {{ouvrir}}-এর participle…",
        "options": [
         "ouvert",
         "ouvri",
@@ -1274,10 +1274,10 @@ LC.units.push({
         "ouvré"
        ],
        "answer": 0,
-       "explain": "Like {{offrir → offert}}."
+       "explain": "Like {{offrir → offert}}. · {{offrir → offert}}-এর মতো।"
       },
       {
-       "q": "{{Les lettres que j'ai écrites}} agrees because…",
+       "q": "{{Les lettres que j'ai écrites}} agrees because… · {{Les lettres que j'ai écrites}}-এ participle মেলে কারণ…",
        "options": [
         "the helper is avoir",
         "the object comes before the verb",
@@ -1285,10 +1285,10 @@ LC.units.push({
         "écrire is irregular"
        ],
        "answer": 1,
-       "explain": "A preceding direct object triggers agreement."
+       "explain": "A preceding direct object triggers agreement. · কর্ম আগে বসলে participle মেলে।"
       },
       {
-       "q": "The participle of {{vivre}} is…",
+       "q": "The participle of {{vivre}} is… · {{vivre}}-এর participle…",
        "options": [
         "vivé",
         "vit",
@@ -1296,10 +1296,10 @@ LC.units.push({
         "vivu"
        ],
        "answer": 2,
-       "explain": "{{j'ai vécu}} — I lived."
+       "explain": "{{j'ai vécu}} — I lived. · {{j'ai vécu}} — আমি বেঁচেছিলাম।"
       },
       {
-       "q": "Which verb does **not** take être?",
+       "q": "Which verb does **not** take être? · কোন ক্রিয়াটি être **নেয় না**?",
        "options": [
         "monter",
         "tomber",
@@ -1307,7 +1307,7 @@ LC.units.push({
         "lire"
        ],
        "answer": 3,
-       "explain": "{{j'ai lu}} — reading is not movement."
+       "explain": "{{j'ai lu}} — reading is not movement. · {{j'ai lu}} — পড়া যাতায়াত নয়।"
       }
      ]
     }
@@ -1317,7 +1317,7 @@ LC.units.push({
    "id": "u7-names",
    "icon": "M.",
    "title": "Names & Forms of Address",
-   "subtitle": "Who to call what, and how to write it",
+   "subtitle": "Who to call what, and how to write it · কাকে কী বলে ডাকবেন, আর কীভাবে লিখবেন",
    "minutes": 9,
    "goals": [
     "Recognise common French first names",
@@ -1407,20 +1407,20 @@ LC.units.push({
       {
        "t": "Bonjour, monsieur.",
        "tr": "bohn-ZHOOR muh-SYUH · বঁজ়ুর ম্যসিয়্য",
-       "mean": "Good morning, sir.",
-       "note": "no surname when speaking"
+       "mean": "Good morning, sir. · সুপ্রভাত, স্যার।",
+       "note": "no surname when speaking · সরাসরি কথা বললে পদবি বসে না"
       },
       {
        "t": "Monsieur Rahman est arrivé.",
        "tr": "muh-syuh rah-MAHN · ম্যসিয়্য রামান",
-       "mean": "Mr Rahman has arrived.",
-       "note": "surname when talking about him"
+       "mean": "Mr Rahman has arrived. · মি. রহমান এসে গেছেন।",
+       "note": "surname when talking about him · তার সম্পর্কে বললে পদবি বসে"
       },
       {
        "t": "Madame la Directrice",
        "tr": "mah-dam lah dee-rek-TREES · মাদাম লা দিরেক্ত্রিস",
-       "mean": "Madam Director",
-       "note": "title by office, in a letter"
+       "mean": "Madam Director · ম্যাডাম ডিরেক্টর",
+       "note": "title by office, in a letter · চিঠিতে পদ অনুযায়ী সম্বোধন"
       }
      ]
     },
@@ -1428,7 +1428,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Which abbreviation takes a full stop?",
+       "q": "Which abbreviation takes a full stop? · কোন সংক্ষিপ্ত রূপে বিন্দু বসে?",
        "options": [
         "M.",
         "Mme",
@@ -1436,10 +1436,10 @@ LC.units.push({
         "Me"
        ],
        "answer": 0,
-       "explain": "Only when the final letter of the full word is dropped."
+       "explain": "Only when the final letter of the full word is dropped. · কেবল যখন পুরো শব্দের শেষ অক্ষরটি বাদ পড়ে।"
       },
       {
-       "q": "Greeting someone face to face, you say…",
+       "q": "Greeting someone face to face, you say… · সামনাসামনি সম্ভাষণে আপনি বলবেন…",
        "options": [
         "Bonjour, Rahman.",
         "Bonjour, monsieur.",
@@ -1447,10 +1447,10 @@ LC.units.push({
         "Bonjour, M. Rahman."
        ],
        "answer": 1,
-       "explain": "The surname is added only when speaking about someone."
+       "explain": "The surname is added only when speaking about someone. · পদবি কেবল কারও সম্পর্কে বলার সময় যোগ হয়।"
       },
       {
-       "q": "{{Camille}} is…",
+       "q": "{{Camille}} is… · {{Camille}} হলো…",
        "options": [
         "a female name only",
         "a surname only",
@@ -1458,10 +1458,10 @@ LC.units.push({
         "a male name only"
        ],
        "answer": 2,
-       "explain": "So are {{Dominique}} and {{Alix}}."
+       "explain": "So are {{Dominique}} and {{Alix}}. · {{Dominique}} ও {{Alix}}-ও তাই।"
       },
       {
-       "q": "{{Me}} before a name means the person is…",
+       "q": "{{Me}} before a name means the person is… · নামের আগে {{Me}} থাকলে বোঝায় ব্যক্তিটি…",
        "options": [
         "a doctor",
         "a teacher",
@@ -1469,7 +1469,7 @@ LC.units.push({
         "a lawyer or notary"
        ],
        "answer": 3,
-       "explain": "Short for {{maître}}."
+       "explain": "Short for {{maître}}. · {{maître}}-এর সংক্ষিপ্ত রূপ।"
       }
      ]
     }
