@@ -15,7 +15,7 @@ One set of content powers two outputs: an interactive web app and a printable bo
 
 ## What's inside
 
-7 units · 49 lessons · 251 quiz questions · 51 vocabulary words · 10 word-by-word sentences · 7 conversations
+8 units · 50 lessons · 256 quiz questions · 117 vocabulary words · 10 word-by-word sentences · 7 conversations
 
 1. **Sounds & Spelling**: The sounds that give you away — and how to fix them for good
 2. **The Grammar Engine**: Nouns, articles, adjectives and pronouns — the machinery under every sentence
@@ -24,6 +24,7 @@ One set of content powers two outputs: an interactive web app and a printable bo
 5. **Writing French**: Letters, applications, a CV and the words that hold writing together
 6. **Idiom & Culture**: Idioms, proverbs, false friends and the errors worth unlearning
 7. **Conjugation Reference**: Every verb you need, in every tense, on one shelf
+8. **Glossary · অভিধান**: Every word in three languages — French, Bangla and English, side by side
 
 **Web app extras:** built-in natural French voices (female and male) for every word and sentence, so pronunciation works on every device with nothing to install,
 a writing studio (watch-the-pen demos and tracing pads with star scores, dictation),
