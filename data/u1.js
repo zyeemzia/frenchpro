@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "ɑ̃",
  "color": "rose",
  "title": "Sounds & Spelling",
- "subtitle": "The sounds that give you away — and how to fix them for good",
+ "subtitle": "The sounds that give you away — and how to fix them for good · যে ধ্বনিগুলো আপনাকে ধরিয়ে দেয়, আর সেগুলো একেবারে ঠিক করার উপায়",
  "lessons": [
   {
    "id": "u1-nasal",
    "icon": "ɑ̃",
    "title": "The Four Nasal Vowels",
-   "subtitle": "The sound that makes French sound French",
+   "subtitle": "The sound that makes French sound French · যে ধ্বনি ফরাসিকে ফরাসি করে তোলে",
    "minutes": 14,
    "goals": [
     "Hear and make all four nasal vowels",
@@ -99,37 +99,37 @@ LC.units.push({
       {
        "t": "dans",
        "tr": "dahn · দাঁ",
-       "mean": "in",
-       "note": "Not *dans-uh* — the s is silent too."
+       "mean": "in · মধ্যে",
+       "note": "Not *dans-uh* — the s is silent too. · *dans-uh* নয় — s-ও নীরব।"
       },
       {
        "t": "le temps",
        "tr": "luh TAHN · ল্য তাঁ",
-       "mean": "time; weather",
+       "mean": "time; weather · সময়; আবহাওয়া",
        "hl": "em"
       },
       {
        "t": "bon",
        "tr": "bohn · বঁ",
-       "mean": "good",
+       "mean": "good · ভালো",
        "hl": "on"
       },
       {
        "t": "le pain",
        "tr": "luh PAN · ল্য পঁ",
-       "mean": "the bread",
+       "mean": "the bread · রুটি",
        "hl": "ain"
       },
       {
        "t": "important",
        "tr": "an-por-TAHN · অ্যাঁপরতাঁ",
-       "mean": "important",
-       "note": "Two different nasals in one word."
+       "mean": "important · গুরুত্বপূর্ণ",
+       "note": "Two different nasals in one word. · একই শব্দে দুটি ভিন্ন নাসিক্য ধ্বনি।"
       },
       {
        "t": "un",
        "tr": "uhn · উঁ",
-       "mean": "one; a",
+       "mean": "one; a · এক; একটি",
        "hl": "un"
       }
      ],
@@ -141,22 +141,22 @@ LC.units.push({
       {
        "t": "an",
        "label": "ɑ̃",
-       "desc": "Mouth wide open, as in {{dans}}. The broadest of the four."
+       "desc": "Mouth wide open, as in {{dans}}. The broadest of the four. · মুখ বড়ো করে খোলা, {{dans}}-এর মতো। চারটির মধ্যে সবচেয়ে চওড়া।"
       },
       {
        "t": "on",
        "label": "ɔ̃",
-       "desc": "Lips rounded and pushed forward, as in {{bon}}."
+       "desc": "Lips rounded and pushed forward, as in {{bon}}. · ঠোঁট গোল করে সামনে আনা, {{bon}}-এর মতো।"
       },
       {
        "t": "in",
        "label": "ɛ̃",
-       "desc": "Lips spread, almost a smile, as in {{pain}}."
+       "desc": "Lips spread, almost a smile, as in {{pain}}. · ঠোঁট ছড়ানো, প্রায় হাসির মতো, {{pain}}-এর মতো।"
       },
       {
        "t": "un",
        "label": "œ̃",
-       "desc": "Like ɛ̃ but with rounded lips, as in {{brun}}. Many French speakers now merge it with ɛ̃."
+       "desc": "Like ɛ̃ but with rounded lips, as in {{brun}}. Many French speakers now merge it with ɛ̃. · ɛ̃-এর মতো, তবে ঠোঁট গোল, {{brun}}-এর মতো। আজকাল অনেক ফরাসিভাষী একে ɛ̃-এর সঙ্গে মিলিয়ে ফেলেন।"
       }
      ],
      "title": "The four, by mouth shape"
@@ -171,7 +171,7 @@ LC.units.push({
      "name": "When the nasal breaks",
      "color": "red",
      "desc": "If the n or m is **doubled**, or followed by a **vowel**, there is no nasal at all. The vowel goes back to normal and the consonant is pronounced. · n বা m দ্বিগুণ হলে, কিংবা তার পরে স্বর থাকলে নাসিক্যতা ভেঙে যায়।",
-     "how": "Compare the pairs below carefully.",
+     "how": "Compare the pairs below carefully. · নিচের জোড়াগুলো মন দিয়ে মিলিয়ে দেখুন।",
      "examples": [
       {
        "t": "bon → bonne",
@@ -207,22 +207,22 @@ LC.units.push({
       {
        "t": "le temps",
        "tr": "luh TAHN · ল্য তাঁ",
-       "mean": "the weather"
+       "mean": "the weather · আবহাওয়া"
       },
       {
        "t": "un bon nom",
        "tr": "uhn bohn NOHN · উঁ বঁ নঁ",
-       "mean": "a good name"
+       "mean": "a good name · একটি ভালো নাম"
       },
       {
        "t": "la main",
        "tr": "lah MAN · লা মঁ",
-       "mean": "the hand"
+       "mean": "the hand · হাত"
       },
       {
        "t": "bonne",
        "tr": "bun · বন",
-       "mean": "good (feminine)"
+       "mean": "good (feminine) · ভালো (স্ত্রীলিঙ্গ)"
       }
      ]
     },
@@ -230,7 +230,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "In {{dans}}, how is the n pronounced?",
+       "q": "In {{dans}}, how is the n pronounced? · {{dans}}-এ n কীভাবে উচ্চারিত হয়?",
        "options": [
         "Not at all — it only nasalises the a",
         "Like the n in Bangla নাম",
@@ -238,10 +238,10 @@ LC.units.push({
         "Like the n in English done"
        ],
        "answer": 0,
-       "explain": "The n is a signpost, never a sound."
+       "explain": "The n is a signpost, never a sound. · n কেবল একটি সংকেত, কোনো ধ্বনি নয়।"
       },
       {
-       "q": "Which word does **not** contain a nasal vowel?",
+       "q": "Which word does **not** contain a nasal vowel? · কোন শব্দে নাসিক্য স্বর **নেই**?",
        "options": [
         "temps",
         "bonne",
@@ -249,10 +249,10 @@ LC.units.push({
         "pain"
        ],
        "answer": 1,
-       "explain": "The doubled nn breaks the nasal: {{bonne}} is said BUN."
+       "explain": "The doubled nn breaks the nasal: {{bonne}} is said BUN. · দ্বিগুণ nn নাসিক্যতা ভেঙে দেয়: {{bonne}} বলা হয় BUN।"
       },
       {
-       "q": "Which spelling gives the sound in {{pain}}?",
+       "q": "Which spelling gives the sound in {{pain}}? · {{pain}}-এর ধ্বনি কোন বানানে পাওয়া যায়?",
        "options": [
         "on",
         "oin",
@@ -260,10 +260,10 @@ LC.units.push({
         "an"
        ],
        "answer": 2,
-       "explain": "ain, ein, in, im and yn all give ɛ̃."
+       "explain": "ain, ein, in, im and yn all give ɛ̃. · ain, ein, in, im ও yn সবই ɛ̃ দেয়।"
       },
       {
-       "q": "Why is {{américaine}} not nasal at the end?",
+       "q": "Why is {{américaine}} not nasal at the end? · {{américaine}}-এর শেষে নাসিক্যতা নেই কেন?",
        "options": [
         "It is a feminine word",
         "It is borrowed from English",
@@ -271,10 +271,10 @@ LC.units.push({
         "A vowel follows the n"
        ],
        "answer": 3,
-       "explain": "A vowel after n or m always breaks the nasal."
+       "explain": "A vowel after n or m always breaks the nasal. · n বা m-এর পরে স্বর এলে নাসিক্যতা ভেঙে যায়।"
       },
       {
-       "q": "Which sentence contains all four nasal vowels?",
+       "q": "Which sentence contains all four nasal vowels? · কোন বাক্যে চারটি নাসিক্য স্বরই আছে?",
        "say": "un bon vin blanc",
        "options": [
         "un bon vin blanc",
@@ -283,10 +283,10 @@ LC.units.push({
         "le pain brun"
        ],
        "answer": 0,
-       "explain": "{{un}} œ̃, {{bon}} ɔ̃, {{vin}} ɛ̃, {{blanc}} ɑ̃."
+       "explain": "{{un}} œ̃, {{bon}} ɔ̃, {{vin}} ɛ̃, {{blanc}} ɑ̃. · {{un}} œ̃, {{bon}} ɔ̃, {{vin}} ɛ̃, {{blanc}} ɑ̃ — চারটি ভিন্ন নাসিক্য।"
       },
       {
-       "q": "In {{important}}, how many nasal vowels are there?",
+       "q": "In {{important}}, how many nasal vowels are there? · {{important}}-এ কয়টি নাসিক্য স্বর আছে?",
        "options": [
         "None",
         "Two",
@@ -294,7 +294,7 @@ LC.units.push({
         "Three"
        ],
        "answer": 1,
-       "explain": "im- gives ɛ̃ and -ant gives ɑ̃."
+       "explain": "im- gives ɛ̃ and -ant gives ɑ̃. · im- দেয় ɛ̃ আর -ant দেয় ɑ̃।"
       }
      ]
     }
@@ -304,7 +304,7 @@ LC.units.push({
    "id": "u1-silent",
    "icon": "∅",
    "title": "Silent Letters",
-   "subtitle": "Why French is written long and spoken short",
+   "subtitle": "Why French is written long and spoken short · ফরাসি কেন লেখা হয় লম্বা, বলা হয় ছোট",
    "minutes": 12,
    "goals": [
     "Know which final consonants stay silent",
@@ -355,26 +355,26 @@ LC.units.push({
       {
        "t": "avec",
        "tr": "ah-VEK · আভেক",
-       "mean": "with",
-       "note": "c sounds"
+       "mean": "with · সঙ্গে",
+       "note": "c sounds · c শোনা যায়"
       },
       {
        "t": "bonjour",
        "tr": "bohn-ZHOOR · বঁজ়ুর",
-       "mean": "hello",
-       "note": "r sounds"
+       "mean": "hello · হ্যালো; নমস্কার",
+       "note": "r sounds · r শোনা যায়"
       },
       {
        "t": "neuf",
        "tr": "nuhf · ন্যফ্‌",
-       "mean": "nine",
-       "note": "f sounds"
+       "mean": "nine · নয়",
+       "note": "f sounds · f শোনা যায়"
       },
       {
        "t": "le journal",
        "tr": "luh zhoor-NAL · ল্য জ়ুরনাল",
-       "mean": "the newspaper",
-       "note": "l sounds"
+       "mean": "the newspaper · সংবাদপত্র",
+       "note": "l sounds · l শোনা যায়"
       }
      ],
      "title": "CaReFuL in action"
@@ -473,7 +473,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "How is {{petit}} pronounced?",
+       "q": "How is {{petit}} pronounced? · {{petit}} কীভাবে উচ্চারিত হয়?",
        "options": [
         "PET-it",
         "puh-TEE-tuh",
@@ -481,10 +481,10 @@ LC.units.push({
         "puh-TEET"
        ],
        "answer": 2,
-       "explain": "Both the final t and the e are silent."
+       "explain": "Both the final t and the e are silent. · শেষের t ও e দুটোই নীরব।"
       },
       {
-       "q": "Which consonant is usually **heard** at the end of a word?",
+       "q": "Which consonant is usually **heard** at the end of a word? · শব্দের শেষে সাধারণত কোন ব্যঞ্জন **শোনা যায়**?",
        "options": [
         "s",
         "t",
@@ -492,10 +492,10 @@ LC.units.push({
         "l"
        ],
        "answer": 3,
-       "explain": "CaReFuL: c, r, f and l usually sound."
+       "explain": "CaReFuL: c, r, f and l usually sound. · CaReFuL: c, r, f ও l সাধারণত শোনা যায়।"
       },
       {
-       "q": "{{ils parlent}} is said…",
+       "q": "{{ils parlent}} is said… · {{ils parlent}} বলা হয়…",
        "options": [
         "eel PARL",
         "eel PAR-lent",
@@ -503,10 +503,10 @@ LC.units.push({
         "eels PARL"
        ],
        "answer": 0,
-       "explain": "The verb ending -ent is completely silent."
+       "explain": "The verb ending -ent is completely silent. · ক্রিয়ার -ent সম্পূর্ণ নীরব।"
       },
       {
-       "q": "Why is {{parler}} said par-LAY?",
+       "q": "Why is {{parler}} said par-LAY? · {{parler}} কেন par-LAY বলা হয়?",
        "options": [
         "The final e took the sound",
         "The r of -er verb endings is silent",
@@ -514,10 +514,10 @@ LC.units.push({
         "It is an irregular verb"
        ],
        "answer": 1,
-       "explain": "The -er infinitive ending always sounds like -é."
+       "explain": "The -er infinitive ending always sounds like -é. · -er infinitive-এর উচ্চারণ সবসময় -é-এর মতো।"
       },
       {
-       "q": "Which word keeps its final consonant sound?",
+       "q": "Which word keeps its final consonant sound? · কোন শব্দের শেষ ব্যঞ্জনধ্বনি থেকে যায়?",
        "options": [
         "le nez",
         "beaucoup",
@@ -525,7 +525,7 @@ LC.units.push({
         "grand"
        ],
        "answer": 2,
-       "explain": "f is one of the CaReFuL letters."
+       "explain": "f is one of the CaReFuL letters. · f হলো CaReFuL বর্ণগুলোর একটি।"
       }
      ]
     }
@@ -535,7 +535,7 @@ LC.units.push({
    "id": "u1-liaison",
    "icon": "‿",
    "title": "Liaison",
-   "subtitle": "When a silent letter wakes up",
+   "subtitle": "When a silent letter wakes up · নীরব বর্ণ যখন জেগে ওঠে",
    "minutes": 13,
    "goals": [
     "Know when a silent final consonant must be sounded",
@@ -553,25 +553,25 @@ LC.units.push({
       {
        "t": "les amis",
        "tr": "lay-zah-MEE · লে জ়ামি",
-       "mean": "the friends",
-       "note": "s wakes up as z"
+       "mean": "the friends · বন্ধুরা",
+       "note": "s wakes up as z · s জেগে ওঠে z হয়ে"
       },
       {
        "t": "nous avons",
        "tr": "noo-zah-VOHN · নু জ়াভঁ",
-       "mean": "we have",
+       "mean": "we have · আমাদের আছে",
        "hl": "s a"
       },
       {
        "t": "un grand homme",
        "tr": "uhn grahn-TUM · উঁ গ্রাঁতম",
-       "mean": "a great man",
-       "note": "d wakes up as t"
+       "mean": "a great man · একজন মহান মানুষ",
+       "note": "d wakes up as t · d জেগে ওঠে t হয়ে"
       },
       {
        "t": "très important",
        "tr": "tray-zan-por-TAHN · ত্রে জ়াঁপরতাঁ",
-       "mean": "very important"
+       "mean": "very important · খুব গুরুত্বপূর্ণ"
       }
      ],
      "title": "The consonant returns"
@@ -641,12 +641,12 @@ LC.units.push({
       {
        "t": "les hôtels",
        "label": "mute h",
-       "desc": "Said lay-zoh-TEL. The h is invisible, so the liaison happens."
+       "desc": "Said lay-zoh-TEL. The h is invisible, so the liaison happens. · উচ্চারণ lay-zoh-TEL। h অদৃশ্য, তাই liaison ঘটে।"
       },
       {
        "t": "les héros",
        "label": "aspirate h",
-       "desc": "Said lay ay-ROH. A tiny gap is left; no z appears."
+       "desc": "Said lay ay-ROH. A tiny gap is left; no z appears. · উচ্চারণ lay ay-ROH। সামান্য ফাঁক থাকে; z আসে না।"
       }
      ],
      "title": "The two h's"
@@ -671,7 +671,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "In {{les amis}}, the s is said as…",
+       "q": "In {{les amis}}, the s is said as… · {{les amis}}-এ s উচ্চারিত হয়…",
        "options": [
         "s",
         "sh",
@@ -679,10 +679,10 @@ LC.units.push({
         "z"
        ],
        "answer": 3,
-       "explain": "s and x both become z in liaison."
+       "explain": "s and x both become z in liaison. · liaison-এ s ও x দুটোই z হয়ে যায়।"
       },
       {
-       "q": "Which pair must **never** be joined?",
+       "q": "Which pair must **never** be joined? · কোন জোড়া **কখনোই** জোড়া লাগে না?",
        "options": [
         "et | il",
         "nous avons",
@@ -690,10 +690,10 @@ LC.units.push({
         "très utile"
        ],
        "answer": 0,
-       "explain": "Liaison after {{et}} is always forbidden."
+       "explain": "Liaison after {{et}} is always forbidden. · {{et}}-এর পরে liaison সবসময় নিষিদ্ধ।"
       },
       {
-       "q": "In {{un grand homme}}, the d is said as…",
+       "q": "In {{un grand homme}}, the d is said as… · {{un grand homme}}-এ d উচ্চারিত হয়…",
        "options": [
         "nothing",
         "t",
@@ -701,10 +701,10 @@ LC.units.push({
         "z"
        ],
        "answer": 1,
-       "explain": "d hardens to t in liaison."
+       "explain": "d hardens to t in liaison. · liaison-এ d শক্ত হয়ে t হয়।"
       },
       {
-       "q": "Why is there no liaison in {{les héros}}?",
+       "q": "Why is there no liaison in {{les héros}}? · {{les héros}}-এ liaison নেই কেন?",
        "options": [
         "The s is already silent",
         "It is a borrowed word",
@@ -712,10 +712,10 @@ LC.units.push({
         "héros is plural"
        ],
        "answer": 2,
-       "explain": "Aspirate h blocks liaison; mute h does not."
+       "explain": "Aspirate h blocks liaison; mute h does not. · aspirate h liaison আটকায়; mute h আটকায় না।"
       },
       {
-       "q": "Which of these is an obligatory liaison?",
+       "q": "Which of these is an obligatory liaison? · এর মধ্যে কোনটি বাধ্যতামূলক liaison?",
        "say": "nous avons",
        "options": [
         "les héros",
@@ -724,7 +724,7 @@ LC.units.push({
         "nous avons"
        ],
        "answer": 3,
-       "explain": "Pronoun plus verb always joins."
+       "explain": "Pronoun plus verb always joins. · pronoun ও ক্রিয়া সবসময় জোড়া লাগে।"
       }
      ]
     }
@@ -734,7 +734,7 @@ LC.units.push({
    "id": "u1-elision",
    "icon": "l'",
    "title": "Elision & the Apostrophe",
-   "subtitle": "When a vowel gets out of the way",
+   "subtitle": "When a vowel gets out of the way · স্বর যখন পথ ছেড়ে দেয়",
    "minutes": 10,
    "goals": [
     "Know which small words elide",
@@ -805,23 +805,23 @@ LC.units.push({
       {
        "t": "l'hôtel",
        "tr": "loh-TEL · লোতেল",
-       "mean": "the hotel",
-       "note": "mute h behaves like a vowel"
+       "mean": "the hotel · হোটেল",
+       "note": "mute h behaves like a vowel · mute h স্বরের মতো আচরণ করে"
       },
       {
        "t": "j'habite à Dacca",
        "tr": "zhah-BEET ah dah-KAH · জ়াবিত আ দাকা",
-       "mean": "I live in Dhaka"
+       "mean": "I live in Dhaka · আমি ঢাকায় থাকি"
       },
       {
        "t": "je n'ai pas d'argent",
        "tr": "zhuh nay pah dar-ZHAHN · জ়্য নে পা দারজ়াঁ",
-       "mean": "I have no money"
+       "mean": "I have no money · আমার কাছে টাকা নেই"
       },
       {
        "t": "s'il vous plaît",
        "tr": "seel voo PLAY · সিল ভু প্লে",
-       "mean": "please"
+       "mean": "please · অনুগ্রহ করে"
       }
      ]
     },
@@ -849,31 +849,31 @@ LC.units.push({
       {
        "t": "d'abord",
        "tr": "dah-BOR · দাবর",
-       "mean": "first of all",
+       "mean": "first of all · প্রথমত",
        "root": "de"
       },
       {
        "t": "d'accord",
        "tr": "dah-KOR · দাকর",
-       "mean": "agreed, OK",
+       "mean": "agreed, OK · সম্মত; ঠিক আছে",
        "root": "de"
       },
       {
        "t": "aujourd'hui",
        "tr": "oh-zhoor-DWEE · ওজ়ুরদুই",
-       "mean": "today",
+       "mean": "today · আজ",
        "root": "jour"
       },
       {
        "t": "jusqu'à",
        "tr": "zhews-KAH · জ়্যুস্কা",
-       "mean": "until, as far as",
+       "mean": "until, as far as · পর্যন্ত",
        "root": "que"
       },
       {
        "t": "l'un l'autre",
        "tr": "luhn LOHTR · লুঁ লোত্‌র",
-       "mean": "one another"
+       "mean": "one another · একে অপরকে"
       }
      ]
     },
@@ -881,7 +881,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Which is correct?",
+       "q": "Which is correct? · কোনটি সঠিক?",
        "options": [
         "s'il vous plaît",
         "si il vous plaît",
@@ -889,10 +889,10 @@ LC.units.push({
         "si'l vous plaît"
        ],
        "answer": 0,
-       "explain": "si elides before il, giving s'il."
+       "explain": "si elides before il, giving s'il. · il-এর আগে si সংক্ষিপ্ত হয়ে s'il হয়।"
       },
       {
-       "q": "How do you write *the friend* (male)?",
+       "q": "How do you write *the friend* (male)? · *the friend* (পুরুষ) কীভাবে লেখা হয়?",
        "options": [
         "l ami",
         "l'ami",
@@ -900,10 +900,10 @@ LC.units.push({
         "la ami"
        ],
        "answer": 1,
-       "explain": "le becomes l' before a vowel."
+       "explain": "le becomes l' before a vowel. · স্বরের আগে le হয়ে যায় l'।"
       },
       {
-       "q": "Which word does **not** elide?",
+       "q": "Which word does **not** elide? · কোন শব্দ সংক্ষিপ্ত **হয় না**?",
        "options": [
         "de",
         "que",
@@ -911,10 +911,10 @@ LC.units.push({
         "je"
        ],
        "answer": 2,
-       "explain": "{{si elle}} stays in full; only il and ils trigger it."
+       "explain": "{{si elle}} stays in full; only il and ils trigger it. · {{si elle}} পুরো থাকে; কেবল il ও ils এটি ঘটায়।"
       },
       {
-       "q": "Why is it {{l'hôtel}} and not {{le hôtel}}?",
+       "q": "Why is it {{l'hôtel}} and not {{le hôtel}}? · {{le hôtel}} না হয়ে {{l'hôtel}} কেন?",
        "options": [
         "Hôtel is feminine",
         "The accent demands it",
@@ -922,10 +922,10 @@ LC.units.push({
         "The h is mute, so it counts as a vowel"
        ],
        "answer": 3,
-       "explain": "A mute h is invisible to the ear."
+       "explain": "A mute h is invisible to the ear. · mute h কানে ধরা পড়ে না।"
       },
       {
-       "q": "{{je ai}} is written…",
+       "q": "{{je ai}} is written… · {{je ai}} লেখা হয়…",
        "options": [
         "j'ai",
         "je'ai",
@@ -933,7 +933,7 @@ LC.units.push({
         "j ai"
        ],
        "answer": 0,
-       "explain": "je loses its e before a vowel."
+       "explain": "je loses its e before a vowel. · স্বরের আগে je তার e হারায়।"
       }
      ]
     }
@@ -943,7 +943,7 @@ LC.units.push({
    "id": "u1-tricky",
    "icon": "R",
    "title": "The Three Hard Sounds",
-   "subtitle": "e, r and u — where Bengali speakers are heard",
+   "subtitle": "e, r and u — where Bengali speakers are heard · e, r ও u — যেখানে বাঙালি শিক্ষার্থীকে চেনা যায়",
    "minutes": 14,
    "goals": [
     "Make the French R at the back of the throat",
@@ -960,7 +960,7 @@ LC.units.push({
      "name": "The French R",
      "color": "purple",
      "desc": "It is not Bangla র. The tongue tip stays **down** behind the lower teeth, and the sound is made at the back of the throat, like a very soft gargle. · এটি বাংলা র নয়। জিভের ডগা নিচে থাকবে, ধ্বনি তৈরি হবে গলার পেছনে।",
-     "how": "Hold a pencil flat across your tongue so the tip cannot rise, then say ra, re, ri, ro, ru slowly.",
+     "how": "Hold a pencil flat across your tongue so the tip cannot rise, then say ra, re, ri, ro, ru slowly. · জিভের উপর আড়াআড়ি করে একটি পেনসিল রাখুন যাতে ডগা উপরে উঠতে না পারে, তারপর ধীরে ধীরে বলুন ra, re, ri, ro, ru।",
      "examples": [
       {
        "t": "rouge",
@@ -1013,22 +1013,22 @@ LC.units.push({
       {
        "t": "tu",
        "label": "u",
-       "desc": "*you*. Lips rounded, tongue forward and high."
+       "desc": "*you*. Lips rounded, tongue forward and high. · *তুমি*। ঠোঁট গোল, জিভ সামনে ও উপরে।"
       },
       {
        "t": "tout",
        "label": "ou",
-       "desc": "*all*. Lips rounded, tongue pulled back."
+       "desc": "*all*. Lips rounded, tongue pulled back. · *সব*। ঠোঁট গোল, জিভ পেছনে টানা।"
       },
       {
        "t": "dessus",
        "label": "u",
-       "desc": "*above*. Ends with the pointed u."
+       "desc": "*above*. Ends with the pointed u. · *উপরে*। শেষে সেই সরু u।"
       },
       {
        "t": "dessous",
        "label": "ou",
-       "desc": "*below*. Ends with a round oo. One letter, opposite meaning."
+       "desc": "*below*. Ends with a round oo. One letter, opposite meaning. · *নিচে*। শেষে গোল উ। এক অক্ষরের তফাতে উল্টো অর্থ।"
       }
      ],
      "title": "Pairs that matter"
@@ -1078,22 +1078,22 @@ LC.units.push({
       {
        "t": "la rue",
        "tr": "lah REW · লা র‍্যু",
-       "mean": "the street"
+       "mean": "the street · রাস্তা"
       },
       {
        "t": "la roue",
        "tr": "lah ROO · লা রু",
-       "mean": "the wheel"
+       "mean": "the wheel · চাকা"
       },
       {
        "t": "dessus",
        "tr": "duh-SEW · দ্যস্যু",
-       "mean": "above"
+       "mean": "above · উপরে"
       },
       {
        "t": "dessous",
        "tr": "duh-SOO · দ্যসু",
-       "mean": "below"
+       "mean": "below · নিচে"
       }
      ]
     },
@@ -1101,7 +1101,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Where is the French R made?",
+       "q": "Where is the French R made? · ফরাসি R কোথায় তৈরি হয়?",
        "options": [
         "Against the upper teeth",
         "At the back of the throat",
@@ -1109,10 +1109,10 @@ LC.units.push({
         "Between the lips"
        ],
        "answer": 1,
-       "explain": "The tongue tip stays down throughout."
+       "explain": "The tongue tip stays down throughout. · জিভের ডগা পুরো সময় নিচে থাকে।"
       },
       {
-       "q": "{{la roue}} means…",
+       "q": "{{la roue}} means… · {{la roue}} মানে…",
        "options": [
         "the red one",
         "the road",
@@ -1120,10 +1120,10 @@ LC.units.push({
         "the street"
        ],
        "answer": 2,
-       "explain": "{{la rue}} is the street; {{la roue}} is the wheel."
+       "explain": "{{la rue}} is the street; {{la roue}} is the wheel. · {{la rue}} মানে রাস্তা; {{la roue}} মানে চাকা।"
       },
       {
-       "q": "To make the u of {{tu}}, you should…",
+       "q": "To make the u of {{tu}}, you should… · {{tu}}-এর u বলতে হলে…",
        "options": [
         "Say oo, then spread the lips",
         "Say o with an open mouth",
@@ -1131,10 +1131,10 @@ LC.units.push({
         "Say ee, then round the lips"
        ],
        "answer": 3,
-       "explain": "Tongue in the ee position, lips rounded."
+       "explain": "Tongue in the ee position, lips rounded. · জিভ ই-এর অবস্থানে, ঠোঁট গোল।"
       },
       {
-       "q": "In relaxed speech, {{je ne sais pas}} often sounds like…",
+       "q": "In relaxed speech, {{je ne sais pas}} often sounds like… · স্বাভাবিক কথ্য ভাষায় {{je ne sais pas}} প্রায়ই শোনায়…",
        "options": [
         "zhuhn-say-PAH",
         "zhuh-nuh-say-PAH",
@@ -1142,10 +1142,10 @@ LC.units.push({
         "zhuh-nay-PAH"
        ],
        "answer": 0,
-       "explain": "The unaccented e sounds drop out."
+       "explain": "The unaccented e sounds drop out. · চিহ্নহীন e ধ্বনিগুলো পড়ে যায়।"
       },
       {
-       "q": "Which pair differs only by u and ou?",
+       "q": "Which pair differs only by u and ou? · কোন জোড়ার পার্থক্য কেবল u ও ou-তে?",
        "options": [
         "les / des",
         "dessus / dessous",
@@ -1153,7 +1153,7 @@ LC.units.push({
         "bon / bonne"
        ],
        "answer": 1,
-       "explain": "Above and below — one letter apart, opposite in meaning."
+       "explain": "Above and below — one letter apart, opposite in meaning. · উপরে ও নিচে — এক অক্ষরের তফাত, উল্টো অর্থ।"
       }
      ]
     }
@@ -1163,7 +1163,7 @@ LC.units.push({
    "id": "u1-rhythm",
    "icon": "♪",
    "title": "Rhythm & Intonation",
-   "subtitle": "Where French puts its weight",
+   "subtitle": "Where French puts its weight · ফরাসি কোথায় জোর দেয়",
    "minutes": 11,
    "goals": [
     "Stress the end of a group, not the start of a word",
@@ -1181,19 +1181,19 @@ LC.units.push({
       {
        "t": "un restaurant",
        "tr": "uhn res-toh-RAHN · উঁ রেস্তোরাঁ",
-       "mean": "a restaurant",
-       "note": "weight on the last syllable only"
+       "mean": "a restaurant · একটি রেস্তোরাঁ",
+       "note": "weight on the last syllable only · জোর কেবল শেষ অক্ষরে"
       },
       {
        "t": "un petit restaurant",
        "tr": "uhn puh-tee res-toh-RAHN · উঁ প্যতি রেস্তোরাঁ",
-       "mean": "a small restaurant",
-       "note": "still only one stress, at the very end"
+       "mean": "a small restaurant · একটি ছোট রেস্তোরাঁ",
+       "note": "still only one stress, at the very end · তবুও একটিই জোর, একেবারে শেষে"
       },
       {
        "t": "C'est un très bon restaurant.",
        "tr": "say-tuhn tray bohn res-toh-RAHN · সে তুঁ ত্রে বঁ রেস্তোরাঁ",
-       "mean": "It is a very good restaurant."
+       "mean": "It is a very good restaurant. · এটি খুব ভালো একটি রেস্তোরাঁ।"
       }
      ],
      "title": "One group, one beat"
@@ -1233,25 +1233,25 @@ LC.units.push({
        "title": "Statement",
        "t": "Vous parlez français.",
        "tr": "voice falls at the end",
-       "mean": "You speak French."
+       "mean": "You speak French. · আপনি ফরাসি বলেন।"
       },
       {
        "title": "Question by voice",
        "t": "Vous parlez français ?",
        "tr": "voice rises at the end",
-       "mean": "Do you speak French?"
+       "mean": "Do you speak French? · আপনি কি ফরাসি বলেন?"
       },
       {
        "title": "Question by est-ce que",
        "t": "Est-ce que vous parlez français ?",
        "tr": "neutral and safe in every register",
-       "mean": "Do you speak French?"
+       "mean": "Do you speak French? · আপনি কি ফরাসি বলেন?"
       },
       {
        "title": "Question by inversion",
        "t": "Parlez-vous français ?",
        "tr": "formal, and used in writing",
-       "mean": "Do you speak French?"
+       "mean": "Do you speak French? · আপনি কি ফরাসি বলেন?"
       }
      ]
     },
@@ -1275,7 +1275,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Where does the stress fall in a French group of words?",
+       "q": "Where does the stress fall in a French group of words? · ফরাসি শব্দগুচ্ছে জোর কোথায় পড়ে?",
        "options": [
         "On every long word",
         "On the verb",
@@ -1283,10 +1283,10 @@ LC.units.push({
         "On the first word"
        ],
        "answer": 2,
-       "explain": "French stresses groups, not individual words."
+       "explain": "French stresses groups, not individual words. · ফরাসি শব্দগুচ্ছে জোর দেয়, আলাদা শব্দে নয়।"
       },
       {
-       "q": "Which question form is the most common in everyday speech?",
+       "q": "Which question form is the most common in everyday speech? · দৈনন্দিন কথ্য ভাষায় কোন প্রশ্নরূপ সবচেয়ে প্রচলিত?",
        "options": [
         "Parlez-vous français ?",
         "Français parlez-vous ?",
@@ -1294,10 +1294,10 @@ LC.units.push({
         "Vous parlez français ?"
        ],
        "answer": 3,
-       "explain": "A simple rise in the voice is the everyday choice."
+       "explain": "A simple rise in the voice is the everyday choice. · স্বর একটু উঠিয়ে দেওয়াই দৈনন্দিন উপায়।"
       },
       {
-       "q": "{{important}} should be said…",
+       "q": "{{important}} should be said… · {{important}} বলা উচিত…",
        "options": [
         "an-por-TAHN",
         "an-POR-tahn",
@@ -1305,10 +1305,10 @@ LC.units.push({
         "an-por-tahn-TUH"
        ],
        "answer": 0,
-       "explain": "The weight slides to the final syllable."
+       "explain": "The weight slides to the final syllable. · ভার শেষ অক্ষরে সরে যায়।"
       },
       {
-       "q": "Which form is the most formal?",
+       "q": "Which form is the most formal? · কোন রূপটি সবচেয়ে আনুষ্ঠানিক?",
        "options": [
         "Français ?",
         "Parlez-vous français ?",
@@ -1316,10 +1316,10 @@ LC.units.push({
         "Est-ce que vous parlez français ?"
        ],
        "answer": 1,
-       "explain": "Inversion belongs to careful speech and writing."
+       "explain": "Inversion belongs to careful speech and writing. · উল্টোক্রম সাবধানী কথা ও লেখার জন্য।"
       },
       {
-       "q": "In French typography, what goes before a question mark?",
+       "q": "In French typography, what goes before a question mark? · ফরাসি মুদ্রণরীতিতে প্রশ্নবোধক চিহ্নের আগে কী বসে?",
        "options": [
         "A comma",
         "A full stop",
@@ -1327,7 +1327,7 @@ LC.units.push({
         "Nothing at all"
        ],
        "answer": 2,
-       "explain": "French spaces its high punctuation: {{Ça va ?}}"
+       "explain": "French spaces its high punctuation: {{Ça va ?}} · ফরাসি উঁচু চিহ্নের আগে ফাঁক রাখে: {{Ça va ?}}"
       }
      ]
     }

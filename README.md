@@ -15,9 +15,9 @@ One set of content powers two outputs: an interactive web app and a printable bo
 
 ## What's inside
 
-8 units · 50 lessons · 256 quiz questions · 117 vocabulary words · 10 word-by-word sentences · 7 conversations
+8 units · 51 lessons · 261 quiz questions · 182 vocabulary words · 10 word-by-word sentences · 7 conversations
 
-1. **Sounds & Spelling**: The sounds that give you away — and how to fix them for good
+1. **Sounds & Spelling**: The sounds that give you away — and how to fix them for good · যে ধ্বনিগুলো আপনাকে ধরিয়ে দেয়, আর সেগুলো একেবারে ঠিক করার উপায়
 2. **The Grammar Engine**: Nouns, articles, adjectives and pronouns — the machinery under every sentence
 3. **Verbs & Tenses**: The whole French verb system, one tense at a time
 4. **Everyday & Professional French**: Numbers, time, money, travel and the conversations you will actually have
