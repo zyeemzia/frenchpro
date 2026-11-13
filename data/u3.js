@@ -216,7 +216,7 @@ LC.units.push({
    "id": "u3-irregular",
    "icon": "4",
    "title": "The Big Four",
-   "subtitle": "être, avoir, aller, faire · être, avoir, aller, faire",
+   "subtitle": "être, avoir, aller, faire · চারটি অপরিহার্য ক্রিয়া",
    "minutes": 13,
    "goals": [
     "Conjugate the four most used verbs without thinking",
@@ -1462,7 +1462,7 @@ LC.units.push({
         "suis"
        ],
        "answer": 2,
-       "explain": "{{que je sois}}. · {{que je sois}}।"
+       "explain": "{{que je sois}} — এটিই subjonctif রূপ।"
       },
       {
        "q": "*I want to leave* should be… · *I want to leave* হওয়া উচিত…",

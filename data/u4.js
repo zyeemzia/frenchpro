@@ -6,13 +6,13 @@ LC.units.push({
  "icon": "€",
  "color": "amber",
  "title": "Everyday & Professional French",
- "subtitle": "Numbers, time, money, travel and the conversations you will actually have",
+ "subtitle": "Numbers, time, money, travel and the conversations you will actually have · সংখ্যা, সময়, টাকা, ভ্রমণ আর যে কথোপকথনগুলো সত্যিই কাজে লাগবে",
  "lessons": [
   {
    "id": "u4-numbers",
    "icon": "70",
    "title": "Numbers, Including the Strange Ones",
-   "subtitle": "Why 97 is four-twenty-seventeen",
+   "subtitle": "Why 97 is four-twenty-seventeen · ৯৭ কেন চার-বিশ-সতেরো",
    "minutes": 13,
    "goals": [
     "Count confidently to a thousand",
@@ -152,7 +152,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "How do you say 97 in French?",
+       "q": "How do you say 97 in French? · ফরাসিতে ৯৭ কীভাবে বলে?",
        "options": [
         "quatre-vingt-dix-sept",
         "nonante-sept",
@@ -160,10 +160,10 @@ LC.units.push({
         "quatre-vingt-sept"
        ],
        "answer": 0,
-       "explain": "Four-twenty-seventeen. {{nonante-sept}} is Belgian."
+       "explain": "Four-twenty-seventeen. {{nonante-sept}} is Belgian. · চার-বিশ-সতেরো। {{nonante-sept}} বেলজিয়ান রূপ।"
       },
       {
-       "q": "Which is written correctly?",
+       "q": "Which is written correctly? · কোনটি সঠিকভাবে লেখা?",
        "options": [
         "quatre vingts un",
         "quatre-vingt-un",
@@ -171,10 +171,10 @@ LC.units.push({
         "quatre-vingt-uns"
        ],
        "answer": 1,
-       "explain": "{{vingts}} loses its s before another number."
+       "explain": "{{vingts}} loses its s before another number. · আরেকটি সংখ্যার আগে {{vingts}} তার s হারায়।"
       },
       {
-       "q": "The plural of {{mille}} is…",
+       "q": "The plural of {{mille}} is… · {{mille}}-এর বহুবচন…",
        "options": [
         "milliers",
         "milles-s",
@@ -182,10 +182,10 @@ LC.units.push({
         "milles"
        ],
        "answer": 2,
-       "explain": "{{mille}} is invariable."
+       "explain": "{{mille}} is invariable. · {{mille}} কখনো বদলায় না।"
       },
       {
-       "q": "*Ninth* in French is…",
+       "q": "*Ninth* in French is… · ফরাসিতে *ninth* হলো…",
        "options": [
         "neufième",
         "neuvèime",
@@ -193,10 +193,10 @@ LC.units.push({
         "neuvième"
        ],
        "answer": 3,
-       "explain": "The f softens to v before -ième."
+       "explain": "The f softens to v before -ième. · -ième-এর আগে f নরম হয়ে v হয়।"
       },
       {
-       "q": "In French, 1 000,50 € means…",
+       "q": "In French, 1 000,50 € means… · ফরাসিতে 1 000,50 € মানে…",
        "options": [
         "one thousand euros and fifty cents",
         "one hundred thousand euros",
@@ -204,7 +204,7 @@ LC.units.push({
         "ten euros fifty"
        ],
        "answer": 0,
-       "explain": "The comma is the decimal separator."
+       "explain": "The comma is the decimal separator. · কমাই দশমিক চিহ্ন।"
       }
      ]
     }
@@ -214,7 +214,7 @@ LC.units.push({
    "id": "u4-time",
    "icon": "h",
    "title": "Telling the Time",
-   "subtitle": "Quarter past, half past, and the 24-hour clock",
+   "subtitle": "Quarter past, half past, and the 24-hour clock · সোয়া, সাড়ে, আর ২৪ ঘণ্টার ঘড়ি",
    "minutes": 11,
    "goals": [
     "Ask and give the time",
@@ -232,27 +232,27 @@ LC.units.push({
       {
        "t": "Quelle heure est-il ?",
        "tr": "kel UHR eh-TEEL · কেল ্যর এতিল",
-       "mean": "What time is it?"
+       "mean": "What time is it? · কয়টা বাজে?"
       },
       {
        "t": "Il est huit heures.",
        "tr": "eel ay weet UHR · ইল এ উইত ্যর",
-       "mean": "It is eight o'clock."
+       "mean": "It is eight o'clock. · আটটা বাজে।"
       },
       {
        "t": "Il est huit heures et quart.",
        "tr": "...ay KAR · ...এ কার",
-       "mean": "It is quarter past eight."
+       "mean": "It is quarter past eight. · সোয়া আটটা বাজে।"
       },
       {
        "t": "Il est huit heures et demie.",
        "tr": "...ay duh-MEE · ...এ দ্যমি",
-       "mean": "It is half past eight."
+       "mean": "It is half past eight. · সাড়ে আটটা বাজে।"
       },
       {
        "t": "Il est neuf heures moins le quart.",
        "tr": "...mwan luh KAR · ...মোয়াঁ ল্য কার",
-       "mean": "It is quarter to nine."
+       "mean": "It is quarter to nine. · পৌনে নয়টা বাজে।"
       }
      ],
      "title": "The core phrases"
@@ -328,25 +328,25 @@ LC.units.push({
        "who": "Rana",
        "t": "Excusez-moi, quelle heure est-il ?",
        "tr": "ek-skew-zay-MWAH, kel UHR eh-TEEL · এক্‌স্ক্যুজ়েমোয়া, কেল ্যর এতিল",
-       "mean": "Excuse me, what time is it?"
+       "mean": "Excuse me, what time is it? · মাফ করবেন, কয়টা বাজে?"
       },
       {
        "who": "Shila",
        "t": "Il est huit heures et quart.",
        "tr": "eel ay weet UHR ay KAR · ইল এ উইত ্যর এ কার",
-       "mean": "It is quarter past eight."
+       "mean": "It is quarter past eight. · সোয়া আটটা বাজে।"
       },
       {
        "who": "Rana",
        "t": "Déjà ? À quelle heure part le train ?",
        "tr": "day-ZHAH ? ah kel UHR par luh TRAN · দেজ়া? আ কেল ্যর পার ল্য ত্রঁ",
-       "mean": "Already? What time does the train leave?"
+       "mean": "Already? What time does the train leave? · এত তাড়াতাড়ি? ট্রেন কয়টায় ছাড়ে?"
       },
       {
        "who": "Shila",
        "t": "À huit heures quarante-cinq. Dépêchez-vous !",
        "tr": "ah weet UHR kah-rahnt-SANK · আ উইত ্যর কারাঁত সঁক",
-       "mean": "At 8:45. Hurry up!"
+       "mean": "At 8:45. Hurry up! · ৮টা ৪৫-এ। তাড়াতাড়ি করুন!"
       }
      ]
     },
@@ -354,7 +354,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*What time is it?* is…",
+       "q": "*What time is it?* is… · *What time is it?* হবে…",
        "options": [
         "Combien d'heure est-il ?",
         "Quelle heure est-il ?",
@@ -362,10 +362,10 @@ LC.units.push({
         "Quelle temps est-il ?"
        ],
        "answer": 1,
-       "explain": "{{heure}} is feminine, so {{quelle}}."
+       "explain": "{{heure}} is feminine, so {{quelle}}. · {{heure}} স্ত্রীলিঙ্গ, তাই {{quelle}}।"
       },
       {
-       "q": "*Quarter to nine* is…",
+       "q": "*Quarter to nine* is… · *Quarter to nine* হবে…",
        "options": [
         "neuf heures et quart",
         "huit heures trois quarts",
@@ -373,10 +373,10 @@ LC.units.push({
         "huit heures moins le quart"
        ],
        "answer": 2,
-       "explain": "French names the coming hour, then subtracts."
+       "explain": "French names the coming hour, then subtracts. · ফরাসি আগে পরের ঘণ্টা বলে, তারপর বিয়োগ করে।"
       },
       {
-       "q": "Why is it {{midi et demi}} without an e?",
+       "q": "Why is it {{midi et demi}} without an e? · {{midi et demi}}-তে e নেই কেন?",
        "options": [
         "demi never agrees",
         "It is an abbreviation",
@@ -384,10 +384,10 @@ LC.units.push({
         "midi is masculine"
        ],
        "answer": 3,
-       "explain": "{{heure}} is feminine so takes demie; {{midi}} is masculine."
+       "explain": "{{heure}} is feminine so takes demie; {{midi}} is masculine. · {{heure}} স্ত্রীলিঙ্গ বলে demie হয়; {{midi}} পুংলিঙ্গ।"
       },
       {
-       "q": "15 h 45 is read as…",
+       "q": "15 h 45 is read as… · 15 h 45 পড়া হয়…",
        "options": [
         "quinze heures quarante-cinq",
         "trois heures quarante-cinq",
@@ -395,10 +395,10 @@ LC.units.push({
         "quinze et quarante-cinq"
        ],
        "answer": 0,
-       "explain": "Official times are read straight through."
+       "explain": "Official times are read straight through. · সরকারি সময় সরাসরি পড়া হয়।"
       },
       {
-       "q": "How does French mark the afternoon?",
+       "q": "How does French mark the afternoon? · ফরাসি বিকেল কীভাবে বোঝায়?",
        "options": [
         "en après-midi",
         "de l'après-midi",
@@ -406,7 +406,7 @@ LC.units.push({
         "après-midi seul"
        ],
        "answer": 1,
-       "explain": "{{du matin}}, {{de l'après-midi}}, {{du soir}}."
+       "explain": "{{du matin}}, {{de l'après-midi}}, {{du soir}}. · {{du matin}}, {{de l'après-midi}}, {{du soir}} — সকাল, বিকেল, সন্ধ্যা।"
       }
      ]
     }
@@ -416,7 +416,7 @@ LC.units.push({
    "id": "u4-dates",
    "icon": "📅",
    "title": "Days, Months & Dates",
-   "subtitle": "Writing the date the French way",
+   "subtitle": "Writing the date the French way · ফরাসি রীতিতে তারিখ লেখা",
    "minutes": 10,
    "goals": [
     "Name the days, months and seasons",
@@ -549,27 +549,27 @@ LC.units.push({
       {
        "t": "aujourd'hui",
        "tr": "oh-zhoor-DWEE · ওজ়ুরদুই",
-       "mean": "today"
+       "mean": "today · আজ"
       },
       {
        "t": "demain",
        "tr": "duh-MAN · দ্যমঁ",
-       "mean": "tomorrow"
+       "mean": "tomorrow · আগামীকাল"
       },
       {
        "t": "hier",
        "tr": "YAIR · ইয়ের",
-       "mean": "yesterday"
+       "mean": "yesterday · গতকাল"
       },
       {
        "t": "la semaine prochaine",
        "tr": "lah suh-men proh-SHEN · লা স্যমেন প্রশেন",
-       "mean": "next week"
+       "mean": "next week · আগামী সপ্তাহ"
       },
       {
        "t": "le mois dernier",
        "tr": "luh mwah dair-NYAY · ল্য মোয়া দেরনিয়ে",
-       "mean": "last month"
+       "mean": "last month · গত মাস"
       }
      ]
     },
@@ -577,7 +577,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "Which is written correctly?",
+       "q": "Which is written correctly? · কোনটি সঠিকভাবে লেখা?",
        "options": [
         "Le 5 décembre",
         "le cinquième décembre",
@@ -585,10 +585,10 @@ LC.units.push({
         "le 5 Décembre"
        ],
        "answer": 2,
-       "explain": "Months are lower case and the day is a plain number."
+       "explain": "Months are lower case and the day is a plain number. · মাসের নাম ছোট হাতের অক্ষরে, আর দিন সাধারণ সংখ্যা।"
       },
       {
-       "q": "*The first of January* is…",
+       "q": "*The first of January* is… · *The first of January* হবে…",
        "options": [
         "le un janvier",
         "le première janvier",
@@ -596,10 +596,10 @@ LC.units.push({
         "le premier janvier"
        ],
        "answer": 3,
-       "explain": "Only the 1st uses an ordinal."
+       "explain": "Only the 1st uses an ordinal. · কেবল ১ তারিখে ordinal বসে।"
       },
       {
-       "q": "*In spring* is…",
+       "q": "*In spring* is… · *In spring* হবে…",
        "options": [
         "au printemps",
         "en printemps",
@@ -607,10 +607,10 @@ LC.units.push({
         "dans le printemps"
        ],
        "answer": 0,
-       "explain": "Spring is the exception that takes {{au}}."
+       "explain": "Spring is the exception that takes {{au}}. · বসন্তই ব্যতিক্রম, যা {{au}} নেয়।"
       },
       {
-       "q": "{{le lundi}} means…",
+       "q": "{{le lundi}} means… · {{le lundi}} মানে…",
        "options": [
         "next Monday",
         "on Mondays, every week",
@@ -618,10 +618,10 @@ LC.units.push({
         "last Monday"
        ],
        "answer": 1,
-       "explain": "The article makes it habitual."
+       "explain": "The article makes it habitual. · article যোগ হলে তা অভ্যাস বোঝায়।"
       },
       {
-       "q": "Which season takes {{en}}?",
+       "q": "Which season takes {{en}}? · কোন ঋতুতে {{en}} বসে?",
        "options": [
         "le weekend",
         "le mois",
@@ -629,7 +629,7 @@ LC.units.push({
         "le printemps"
        ],
        "answer": 2,
-       "explain": "{{en hiver}}, {{en été}}, {{en automne}}."
+       "explain": "{{en hiver}}, {{en été}}, {{en automne}}. · {{en hiver}}, {{en été}}, {{en automne}} — শীত, গ্রীষ্ম, শরৎ।"
       }
      ]
     }
@@ -639,7 +639,7 @@ LC.units.push({
    "id": "u4-money",
    "icon": "€",
    "title": "Money & Paying",
-   "subtitle": "Prices, banks and settling the bill",
+   "subtitle": "Prices, banks and settling the bill · দাম, ব্যাংক আর বিল মেটানো",
    "minutes": 12,
    "goals": [
     "Ask how much something costs",
@@ -657,24 +657,24 @@ LC.units.push({
       {
        "t": "C'est combien ?",
        "tr": "say kohn-BYAN · সে কঁবিয়ঁ",
-       "mean": "How much is it?",
-       "note": "the everyday form"
+       "mean": "How much is it? · এটার দাম কত?",
+       "note": "the everyday form · দৈনন্দিন রূপ"
       },
       {
        "t": "Combien ça coûte ?",
        "tr": "kohn-byan sah KOOT · কঁবিয়ঁ সা কুত",
-       "mean": "How much does it cost?"
+       "mean": "How much does it cost? · এর দাম কত পড়বে?"
       },
       {
        "t": "Quel est le prix ?",
        "tr": "kel ay luh PREE · কেল এ ল্য প্রি",
-       "mean": "What is the price?",
-       "note": "more formal"
+       "mean": "What is the price? · দাম কত?",
+       "note": "more formal · বেশি আনুষ্ঠানিক"
       },
       {
        "t": "Ça fait combien en tout ?",
        "tr": "sah fay kohn-byan ahn TOO · সা ফে কঁবিয়ঁ আঁ তু",
-       "mean": "How much is that altogether?"
+       "mean": "How much is that altogether? · সব মিলিয়ে কত হলো?"
       }
      ],
      "title": "Asking the price"
@@ -727,25 +727,25 @@ LC.units.push({
        "who": "Salim",
        "t": "Excusez-moi, j'ai besoin de monnaie.",
        "tr": "zhay buh-zwan duh moh-NAY · জ়ে ব্যজ়োয়াঁ দ্য মনে",
-       "mean": "Excuse me, I need some change."
+       "mean": "Excuse me, I need some change. · মাফ করবেন, আমার কিছু খুচরো দরকার।"
       },
       {
        "who": "Employé",
        "t": "Bien sûr. Vous payez comment ?",
        "tr": "byan SEWR. voo pay-yay koh-MAHN · বিয়ঁ স্যুর। ভু পেয়ে কমাঁ",
-       "mean": "Of course. How are you paying?"
+       "mean": "Of course. How are you paying? · অবশ্যই। আপনি কীভাবে দিচ্ছেন?"
       },
       {
        "who": "Salim",
        "t": "Par carte, s'il vous plaît. Ça fait combien ?",
        "tr": "par KART, seel voo PLAY · পার কার্ত, সিল ভু প্লে",
-       "mean": "By card, please. How much is it?"
+       "mean": "By card, please. How much is it? · কার্ডে, অনুগ্রহ করে। কত হলো?"
       },
       {
        "who": "Employé",
        "t": "Deux cent cinquante takas. Voilà votre reçu.",
        "tr": "duh sahn san-KAHNT · দ্য সাঁ সঁকাঁত",
-       "mean": "Two hundred and fifty takas. Here is your receipt."
+       "mean": "Two hundred and fifty takas. Here is your receipt. · দুইশ পঞ্চাশ টাকা। এই নিন আপনার রসিদ।"
       }
      ]
     },
@@ -753,47 +753,47 @@ LC.units.push({
      "type": "sentence",
      "t": "Un billet simple pour Sylhet, c'est deux cent cinquante takas.",
      "tr": "uhn bee-yay SANPL poor seel-ET, say duh sahn san-KAHNT tah-KAH · উঁ বিয়ে সঁপ্ল পুর সিলেত, সে দ্য সাঁ সঁকাঁত তাকা",
-     "mean": "A single ticket to Sylhet is two hundred and fifty takas.",
+     "mean": "A single ticket to Sylhet is two hundred and fifty takas. · সিলেটের একটি একমুখী টিকিট দুইশ পঞ্চাশ টাকা।",
      "words": [
       {
        "t": "Un",
-       "mean": "a"
+       "mean": "a · একটি"
       },
       {
        "t": "billet",
-       "mean": "ticket"
+       "mean": "ticket · টিকিট"
       },
       {
        "t": "simple",
-       "mean": "single"
+       "mean": "single · একমুখী"
       },
       {
        "t": "pour",
-       "mean": "for, to"
+       "mean": "for, to · জন্য; পর্যন্ত"
       },
       {
        "t": "Sylhet",
-       "mean": "Sylhet"
+       "mean": "Sylhet · সিলেট"
       },
       {
        "t": "c'est",
-       "mean": "it is"
+       "mean": "it is · এটি হলো"
       },
       {
        "t": "deux",
-       "mean": "two"
+       "mean": "two · দুই"
       },
       {
        "t": "cent",
-       "mean": "hundred"
+       "mean": "hundred · শত"
       },
       {
        "t": "cinquante",
-       "mean": "fifty"
+       "mean": "fifty · পঞ্চাশ"
       },
       {
        "t": "takas",
-       "mean": "takas"
+       "mean": "takas · টাকা"
       }
      ]
     },
@@ -801,7 +801,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "The everyday way to ask a price is…",
+       "q": "The everyday way to ask a price is… · দাম জিজ্ঞেস করার দৈনন্দিন উপায়…",
        "options": [
         "Quel est le prix ?",
         "Combien est-il ?",
@@ -809,10 +809,10 @@ LC.units.push({
         "C'est combien ?"
        ],
        "answer": 3,
-       "explain": "Short and used everywhere."
+       "explain": "Short and used everywhere. · সংক্ষিপ্ত এবং সর্বত্র ব্যবহৃত।"
       },
       {
-       "q": "{{la monnaie}} means…",
+       "q": "{{la monnaie}} means… · {{la monnaie}} মানে…",
        "options": [
         "change",
         "money in general",
@@ -820,10 +820,10 @@ LC.units.push({
         "a bank"
        ],
        "answer": 0,
-       "explain": "{{l'argent}} is money; {{la monnaie}} is change."
+       "explain": "{{l'argent}} is money; {{la monnaie}} is change. · {{l'argent}} মানে টাকা; {{la monnaie}} মানে খুচরো।"
       },
       {
-       "q": "*In cash* is…",
+       "q": "*In cash* is… · *In cash* হবে…",
        "options": [
         "en argent",
         "en espèces",
@@ -831,10 +831,10 @@ LC.units.push({
         "par chèque"
        ],
        "answer": 1,
-       "explain": "{{en espèces}} is the standard phrase."
+       "explain": "{{en espèces}} is the standard phrase. · {{en espèces}} হলো প্রচলিত বাক্যাংশ।"
       },
       {
-       "q": "*A single ticket* is…",
+       "q": "*A single ticket* is… · *A single ticket* হবে…",
        "options": [
         "un billet unique",
         "un simple billet",
@@ -842,10 +842,10 @@ LC.units.push({
         "un billet seul"
        ],
        "answer": 2,
-       "explain": "Return is {{un aller-retour}}."
+       "explain": "Return is {{un aller-retour}}. · যাওয়া-আসার টিকিট হলো {{un aller-retour}}।"
       },
       {
-       "q": "{{le taux de change}} means…",
+       "q": "{{le taux de change}} means… · {{le taux de change}} মানে…",
        "options": [
         "the price list",
         "the cash desk",
@@ -853,7 +853,7 @@ LC.units.push({
         "the exchange rate"
        ],
        "answer": 3,
-       "explain": "Useful at any bank or bureau de change."
+       "explain": "Useful at any bank or bureau de change. · যেকোনো ব্যাংক বা মুদ্রা বিনিময় কেন্দ্রে কাজে লাগে।"
       }
      ]
     }
@@ -863,7 +863,7 @@ LC.units.push({
    "id": "u4-cafe",
    "icon": "☕",
    "title": "Café & Restaurant",
-   "subtitle": "Ordering, and asking for the bill",
+   "subtitle": "Ordering, and asking for the bill · অর্ডার দেওয়া আর বিল চাওয়া",
    "minutes": 12,
    "goals": [
     "Order food and drink naturally",
@@ -881,32 +881,32 @@ LC.units.push({
       {
        "t": "un café crème",
        "tr": "uhn kah-fay KREM · উঁ কাফে ক্রেম",
-       "mean": "a white coffee"
+       "mean": "a white coffee · দুধ-কফি"
       },
       {
        "t": "un café noir",
        "tr": "uhn kah-fay NWAHR · উঁ কাফে নোয়ার",
-       "mean": "a black coffee"
+       "mean": "a black coffee · কালো কফি"
       },
       {
        "t": "l'addition",
        "tr": "lah-dee-SYOHN · লাদিসিয়ঁ",
-       "mean": "the bill"
+       "mean": "the bill · বিল"
       },
       {
        "t": "la carte",
        "tr": "lah KART · লা কার্ত",
-       "mean": "the menu"
+       "mean": "the menu · মেনু"
       },
       {
        "t": "le sucre",
        "tr": "luh SEWKR · ল্য স্যুক্‌র",
-       "mean": "sugar"
+       "mean": "sugar · চিনি"
       },
       {
        "t": "l'eau",
        "tr": "LOH · লো",
-       "mean": "water"
+       "mean": "water · পানি"
       }
      ]
     },
@@ -917,31 +917,31 @@ LC.units.push({
        "who": "Serveur",
        "t": "Bonjour messieurs-dames. Vous avez choisi ?",
        "tr": "voo-zah-vay shwah-ZEE · ভু জ়াভে শোয়াজ়ি",
-       "mean": "Good morning. Have you chosen?"
+       "mean": "Good morning. Have you chosen? · সুপ্রভাত। আপনারা বেছে নিয়েছেন?"
       },
       {
        "who": "M. Rahman",
        "t": "Un café noir pour moi et un café crème pour ma femme.",
        "tr": "uhn kah-fay NWAHR poor MWAH · উঁ কাফে নোয়ার পুর মোয়া",
-       "mean": "A black coffee for me and a white coffee for my wife."
+       "mean": "A black coffee for me and a white coffee for my wife. · আমার জন্য কালো কফি আর আমার স্ত্রীর জন্য দুধ-কফি।"
       },
       {
        "who": "Serveur",
        "t": "Avec du sucre ?",
        "tr": "ah-vek dew SEWKR · আভেক দ্যু স্যুক্‌র",
-       "mean": "With sugar?"
+       "mean": "With sugar? · চিনি দিয়ে?"
       },
       {
        "who": "M. Rahman",
        "t": "Non merci, je ne prends pas de sucre.",
        "tr": "nohn mair-SEE · নঁ মেরসি",
-       "mean": "No thank you, I do not take sugar."
+       "mean": "No thank you, I do not take sugar. · না ধন্যবাদ, আমি চিনি নিই না।"
       },
       {
        "who": "Mme Rahman",
        "t": "Garçon, l'addition s'il vous plaît.",
        "tr": "gar-SOHN, lah-dee-syohn seel voo PLAY · গারসঁ, লাদিসিয়ঁ সিল ভু প্লে",
-       "mean": "Waiter, the bill please."
+       "mean": "Waiter, the bill please. · ওয়েটার, বিলটা দিন অনুগ্রহ করে।"
       }
      ]
     },
@@ -979,17 +979,17 @@ LC.units.push({
       {
        "t": "Je voudrais réserver une table pour deux.",
        "tr": "zhuh voo-dray ray-zair-VAY · জ়্য ভুদ্রে রেজ়ের্ভে",
-       "mean": "I would like to book a table for two."
+       "mean": "I would like to book a table for two. · দুজনের জন্য একটি টেবিল বুক করতে চাই।"
       },
       {
        "t": "C'est délicieux !",
        "tr": "say day-lee-SYUH · সে দেলিসিয়্য",
-       "mean": "It is delicious!"
+       "mean": "It is delicious! · এটা দারুণ সুস্বাদু!"
       },
       {
        "t": "J'ai assez mangé, merci.",
        "tr": "zhay ah-say mahn-ZHAY · জ়ে আসে মাঁজ়ে",
-       "mean": "I have had enough, thank you."
+       "mean": "I have had enough, thank you. · আমার যথেষ্ট হয়েছে, ধন্যবাদ।"
       }
      ],
      "title": "Three more you will use"
@@ -998,7 +998,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*The bill, please* is…",
+       "q": "*The bill, please* is… · *The bill, please* হবে…",
        "options": [
         "L'addition s'il vous plaît.",
         "La carte s'il vous plaît.",
@@ -1006,10 +1006,10 @@ LC.units.push({
         "La monnaie s'il vous plaît."
        ],
        "answer": 0,
-       "explain": "{{la carte}} is the menu; {{l'addition}} is the bill."
+       "explain": "{{la carte}} is the menu; {{l'addition}} is the bill. · {{la carte}} মানে মেনু; {{l'addition}} মানে বিল।"
       },
       {
-       "q": "*I do not take sugar* is…",
+       "q": "*I do not take sugar* is… · *I do not take sugar* হবে…",
        "options": [
         "Je prends pas de sucre.",
         "Je ne prends pas de sucre.",
@@ -1017,10 +1017,10 @@ LC.units.push({
         "Je ne prends pas le sucre."
        ],
        "answer": 1,
-       "explain": "After a negative, {{du}} becomes {{de}}."
+       "explain": "After a negative, {{du}} becomes {{de}}. · না-বাচক ক্রিয়ার পরে {{du}} হয়ে যায় {{de}}।"
       },
       {
-       "q": "How should you call a waiter in France today?",
+       "q": "How should you call a waiter in France today? · আজকের ফ্রান্সে ওয়েটারকে কীভাবে ডাকা উচিত?",
        "options": [
         "Hé, monsieur",
         "Serveur !",
@@ -1028,10 +1028,10 @@ LC.units.push({
         "Garçon"
        ],
        "answer": 2,
-       "explain": "{{Garçon}} now sounds dated and abrupt."
+       "explain": "{{Garçon}} now sounds dated and abrupt. · {{Garçon}} এখন সেকেলে ও রূঢ় শোনায়।"
       },
       {
-       "q": "*A white coffee* is…",
+       "q": "*A white coffee* is… · *A white coffee* হবে…",
        "options": [
         "un café blanc",
         "un café au lait blanc",
@@ -1039,10 +1039,10 @@ LC.units.push({
         "un café crème"
        ],
        "answer": 3,
-       "explain": "{{un crème}} on its own also works in a café."
+       "explain": "{{un crème}} on its own also works in a café. · ক্যাফেতে কেবল {{un crème}} বললেও চলে।"
       },
       {
-       "q": "*I would like some water* is…",
+       "q": "*I would like some water* is… · *I would like some water* হবে…",
        "options": [
         "Je voudrais de l'eau.",
         "Je voudrais l'eau.",
@@ -1050,7 +1050,7 @@ LC.units.push({
         "Je voudrais du eau."
        ],
        "answer": 0,
-       "explain": "{{eau}} is feminine and starts with a vowel: {{de l'eau}}."
+       "explain": "{{eau}} is feminine and starts with a vowel: {{de l'eau}}. · {{eau}} স্ত্রীলিঙ্গ এবং স্বর দিয়ে শুরু: {{de l'eau}}।"
       }
      ]
     }
@@ -1060,7 +1060,7 @@ LC.units.push({
    "id": "u4-travel",
    "icon": "🏨",
    "title": "Hotel & Directions",
-   "subtitle": "Booking a room and finding your way",
+   "subtitle": "Booking a room and finding your way · ঘর বুক করা আর পথ খুঁজে নেওয়া",
    "minutes": 13,
    "goals": [
     "Book and describe a hotel room",
@@ -1078,27 +1078,27 @@ LC.units.push({
       {
        "t": "une chambre simple",
        "tr": "ewn SHAHNBR SANPL · ্যুন শাঁব্‌র সঁপ্ল",
-       "mean": "a single room"
+       "mean": "a single room · একক ঘর"
       },
       {
        "t": "une chambre double",
        "tr": "ewn shahnbr DOOBL · ্যুন শাঁব্‌র দুব্ল",
-       "mean": "a double room"
+       "mean": "a double room · দুজনের ঘর"
       },
       {
        "t": "la clé",
        "tr": "lah KLAY · লা ক্লে",
-       "mean": "the key"
+       "mean": "the key · চাবি"
       },
       {
        "t": "l'ascenseur",
        "tr": "lah-sahn-SUHR · লাসাঁস্যর",
-       "mean": "the lift"
+       "mean": "the lift · লিফট"
       },
       {
        "t": "complet",
        "tr": "kohn-PLAY · কঁপ্লে",
-       "mean": "fully booked"
+       "mean": "fully booked · সব ঘর ভর্তি"
       }
      ]
     },
@@ -1114,25 +1114,25 @@ LC.units.push({
        "who": "Shafique",
        "t": "Bonsoir. Avez-vous une chambre pour deux nuits ?",
        "tr": "ah-vay-voo ewn SHAHNBR · আভেভু ্যুন শাঁব্‌র",
-       "mean": "Good evening. Do you have a room for two nights?"
+       "mean": "Good evening. Do you have a room for two nights? · শুভ সন্ধ্যা। দুই রাতের জন্য ঘর আছে?"
       },
       {
        "who": "Réceptionniste",
        "t": "Oui, une chambre double au deuxième étage.",
        "tr": "oh duh-zyem ay-TAHZH · ও দ্যজ়িয়েম এতাজ়",
-       "mean": "Yes, a double room on the second floor."
+       "mean": "Yes, a double room on the second floor. · হ্যাঁ, দোতলায় দুজনের একটি ঘর।"
       },
       {
        "who": "Shafique",
        "t": "Très bien. Il y a un ascenseur ?",
        "tr": "eel ee ah uhn ah-sahn-SUHR · ইল ই আ উঁ আসাঁস্যর",
-       "mean": "Very good. Is there a lift?"
+       "mean": "Very good. Is there a lift? · খুব ভালো। লিফট আছে?"
       },
       {
        "who": "Réceptionniste",
        "t": "Bien sûr. Voici votre clé, chambre vingt-trois.",
        "tr": "vwah-see vohtr KLAY · ভোয়াসি ভত্‌র ক্লে",
-       "mean": "Of course. Here is your key, room twenty-three."
+       "mean": "Of course. Here is your key, room twenty-three. · অবশ্যই। এই নিন চাবি, ২৩ নম্বর ঘর।"
       }
      ]
     },
@@ -1178,22 +1178,22 @@ LC.units.push({
       {
        "t": "Pour aller à la gare, s'il vous plaît ?",
        "tr": "poor ah-lay ah lah GAR · পুর আলে আ লা গার",
-       "mean": "How do I get to the station, please?"
+       "mean": "How do I get to the station, please? · স্টেশনে কীভাবে যাব, অনুগ্রহ করে বলবেন?"
       },
       {
        "t": "Suivez cette rue jusqu'au bout.",
        "tr": "swee-vay set REW zhews-koh BOO · সুইভে সেত র‍্যু জ়্যুসকো বু",
-       "mean": "Follow this street to the end."
+       "mean": "Follow this street to the end. · এই রাস্তা ধরে একেবারে শেষ পর্যন্ত যান।"
       },
       {
        "t": "C'est en face de la poste.",
        "tr": "say ahn fahs duh lah PUST · সে আঁ ফাস দ্য লা পস্ত",
-       "mean": "It is opposite the post office."
+       "mean": "It is opposite the post office. · এটি ডাকঘরের ঠিক উল্টো দিকে।"
       },
       {
        "t": "C'est à cinq minutes à pied.",
        "tr": "say ah sank mee-NEWT ah PYAY · সে আ সঁক মিন্যুত আ পিয়ে",
-       "mean": "It is five minutes on foot."
+       "mean": "It is five minutes on foot. · হেঁটে পাঁচ মিনিটের পথ।"
       }
      ],
      "title": "Real exchanges"
@@ -1202,7 +1202,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "{{le rez-de-chaussée}} is…",
+       "q": "{{le rez-de-chaussée}} is… · {{le rez-de-chaussée}} মানে…",
        "options": [
         "the top floor",
         "the ground floor",
@@ -1210,10 +1210,10 @@ LC.units.push({
         "the basement"
        ],
        "answer": 1,
-       "explain": "{{le premier étage}} is one flight above it."
+       "explain": "{{le premier étage}} is one flight above it. · {{le premier étage}} তার এক তলা উপরে।"
       },
       {
-       "q": "*Turn left* is…",
+       "q": "*Turn left* is… · *Turn left* হবে…",
        "options": [
         "tout droit",
         "en face",
@@ -1221,10 +1221,10 @@ LC.units.push({
         "tournez à droite"
        ],
        "answer": 2,
-       "explain": "{{droite}} is right; {{gauche}} is left."
+       "explain": "{{droite}} is right; {{gauche}} is left. · {{droite}} মানে ডান; {{gauche}} মানে বাম।"
       },
       {
-       "q": "{{tout droit}} means…",
+       "q": "{{tout droit}} means… · {{tout droit}} মানে…",
        "options": [
         "to the right",
         "all right",
@@ -1232,10 +1232,10 @@ LC.units.push({
         "straight on"
        ],
        "answer": 3,
-       "explain": "A classic trap: it is not {{à droite}}."
+       "explain": "A classic trap: it is not {{à droite}}. · চেনা ফাঁদ: এটি {{à droite}} নয়।"
       },
       {
-       "q": "*The hotel is fully booked* is…",
+       "q": "*The hotel is fully booked* is… · *The hotel is fully booked* হবে…",
        "options": [
         "L'hôtel est complet.",
         "L'hôtel est plein.",
@@ -1243,10 +1243,10 @@ LC.units.push({
         "L'hôtel est fermé."
        ],
        "answer": 0,
-       "explain": "{{complet}} is the word used on signs."
+       "explain": "{{complet}} is the word used on signs. · সাইনবোর্ডে {{complet}} শব্দটি ব্যবহৃত হয়।"
       },
       {
-       "q": "*It is five minutes on foot* is…",
+       "q": "*It is five minutes on foot* is… · *It is five minutes on foot* হবে…",
        "options": [
         "C'est pour cinq minutes à pied.",
         "C'est à cinq minutes à pied.",
@@ -1254,7 +1254,7 @@ LC.units.push({
         "C'est dans cinq minutes à pied."
        ],
        "answer": 1,
-       "explain": "Distance in time takes {{à}}."
+       "explain": "Distance in time takes {{à}}. · সময়ে মাপা দূরত্বে {{à}} বসে।"
       }
      ]
     }
@@ -1264,7 +1264,7 @@ LC.units.push({
    "id": "u4-phone",
    "icon": "☎",
    "title": "Telephone, Weather & Health",
-   "subtitle": "Three everyday situations with fixed phrases",
+   "subtitle": "Three everyday situations with fixed phrases · নির্দিষ্ট বাক্যাংশ দিয়ে চলা তিনটি দৈনন্দিন পরিস্থিতি",
    "minutes": 12,
    "goals": [
     "Handle a phone call in French",
@@ -1282,27 +1282,27 @@ LC.units.push({
       {
        "t": "Allô, qui est à l'appareil ?",
        "tr": "ah-LOH, kee ay tah lah-pah-RAY · আলো, কি এ তা লাপারে",
-       "mean": "Hello, who is speaking?"
+       "mean": "Hello, who is speaking? · হ্যালো, কে বলছেন?"
       },
       {
        "t": "C'est de la part de qui ?",
        "tr": "say duh lah par duh KEE · সে দ্য লা পার দ্য কি",
-       "mean": "Who shall I say is calling?"
+       "mean": "Who shall I say is calling? · কার কথা বলব?"
       },
       {
        "t": "Ne quittez pas.",
        "tr": "nuh kee-tay PAH · ন্য কিতে পা",
-       "mean": "Hold the line."
+       "mean": "Hold the line. · লাইনে থাকুন।"
       },
       {
        "t": "Je vous le passe.",
        "tr": "zhuh voo luh PAHS · জ়্য ভু ল্য পাস",
-       "mean": "I am putting you through."
+       "mean": "I am putting you through. · আমি আপনাকে সংযোগ করে দিচ্ছি।"
       },
       {
        "t": "Vous avez fait un faux numéro.",
        "tr": "voo-zah-vay fay uhn foh new-may-ROH · ভু জ়াভে ফে উঁ ফো ন্যুমেরো",
-       "mean": "You have the wrong number."
+       "mean": "You have the wrong number. · আপনি ভুল নম্বরে ফোন করেছেন।"
       }
      ],
      "title": "On the telephone"
@@ -1380,25 +1380,25 @@ LC.units.push({
        "who": "Médecin",
        "t": "Bonjour, qu'est-ce qui ne va pas ?",
        "tr": "kes-kee nuh vah PAH · কেস্‌কি ন্য ভা পা",
-       "mean": "Hello, what is wrong?"
+       "mean": "Hello, what is wrong? · বলুন, কী সমস্যা?"
       },
       {
        "who": "Patiente",
        "t": "J'ai mal à la tête depuis trois jours.",
        "tr": "zhay mal ah lah TET duh-pwee trwah ZHOOR · জ়ে মাল আ লা তেত দ্যপুই ত্রোয়া জ়ুর",
-       "mean": "I have had a headache for three days."
+       "mean": "I have had a headache for three days. · তিন দিন ধরে আমার মাথা ব্যথা করছে।"
       },
       {
        "who": "Médecin",
        "t": "Avez-vous de la fièvre ?",
        "tr": "ah-vay-voo duh lah FYEVR · আভেভু দ্য লা ফিয়েভ্‌র",
-       "mean": "Do you have a fever?"
+       "mean": "Do you have a fever? · আপনার কি জ্বর আছে?"
       },
       {
        "who": "Patiente",
        "t": "Un peu, et je suis très fatiguée.",
        "tr": "uhn PUH · উঁ প্য",
-       "mean": "A little, and I am very tired."
+       "mean": "A little, and I am very tired. · একটু, আর আমি খুব ক্লান্ত।"
       }
      ]
     },
@@ -1411,7 +1411,7 @@ LC.units.push({
      "type": "quiz",
      "items": [
       {
-       "q": "*Hold the line* is…",
+       "q": "*Hold the line* is… · *Hold the line* হবে…",
        "options": [
         "Attendez la ligne.",
         "Restez ici.",
@@ -1419,10 +1419,10 @@ LC.units.push({
         "Ne partez pas."
        ],
        "answer": 2,
-       "explain": "The standard telephone phrase."
+       "explain": "The standard telephone phrase. · ফোনে ব্যবহৃত প্রচলিত বাক্যাংশ।"
       },
       {
-       "q": "*It is windy* is…",
+       "q": "*It is windy* is… · *It is windy* হবে…",
        "options": [
         "Il fait du vent.",
         "Il est venteux.",
@@ -1430,10 +1430,10 @@ LC.units.push({
         "Il y a du vent."
        ],
        "answer": 3,
-       "explain": "{{Il y a du vent}} is the usual form."
+       "explain": "{{Il y a du vent}} is the usual form. · {{Il y a du vent}} হলো স্বাভাবিক রূপ।"
       },
       {
-       "q": "*I have toothache* is…",
+       "q": "*I have toothache* is… · *I have toothache* হবে…",
        "options": [
         "J'ai mal aux dents.",
         "J'ai mal à les dents.",
@@ -1441,10 +1441,10 @@ LC.units.push({
         "Je suis mal aux dents."
        ],
        "answer": 0,
-       "explain": "à + les contracts to aux."
+       "explain": "à + les contracts to aux. · à + les সংকুচিত হয়ে aux হয়।"
       },
       {
-       "q": "*I have lived here for five years* is…",
+       "q": "*I have lived here for five years* is… · *I have lived here for five years* হবে…",
        "options": [
         "J'habite ici pour cinq ans.",
         "J'habite ici depuis cinq ans.",
@@ -1452,10 +1452,10 @@ LC.units.push({
         "J'habitais ici depuis cinq ans."
        ],
        "answer": 1,
-       "explain": "{{depuis}} takes the present when the action continues."
+       "explain": "{{depuis}} takes the present when the action continues. · কাজ চলতে থাকলে {{depuis}}-এর সঙ্গে বর্তমান কাল বসে।"
       },
       {
-       "q": "When is {{Allô}} used?",
+       "q": "When is {{Allô}} used? · {{Allô}} কখন ব্যবহৃত হয়?",
        "options": [
         "Only when answering the door",
         "In formal letters",
@@ -1463,7 +1463,7 @@ LC.units.push({
         "As a general greeting"
        ],
        "answer": 2,
-       "explain": "Face to face it sounds comic."
+       "explain": "Face to face it sounds comic. · সামনাসামনি বললে হাস্যকর শোনায়।"
       }
      ]
     }
