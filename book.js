@@ -42,7 +42,7 @@
 
   function cover() {
     return `<section class="page cover"><div class="khatam"></div><div class="cover-in">
-      <div class="cover-top">${D.units.length} Units · ${D.lessons.length} Lessons · English to ${esc(C.lang || "")}</div>
+      <div class="cover-top">${D.units.length} Units · ${D.lessons.length} Lessons · ${esc(C.coverFrom || "English")} to ${esc(C.lang || "")}</div>
       <div class="cover-cal" lang="${HL}">${esc(C.native || '')}</div>
       <h1>${esc(C.title || '')}<span class="sub">Book &amp; Workbook</span></h1>
       <p class="cover-lead">${esc(C.tagline || '')}</p>

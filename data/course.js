@@ -7,6 +7,7 @@ LC.course = {
  "native": "Le français avancé",
  "tagline": "Advanced French for Bengali learners, in English and Bangla — from solid grammar to confident, real French.",
  "lang": "French",
+ "coverFrom": "English & Bangla",
  "langNative": "Français",
  "voice": "fr-FR",
  "htmlLang": "fr",
