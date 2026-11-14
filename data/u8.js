@@ -12351,6 +12351,2892 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u8-vz",
+   "icon": "W–Z",
+   "title": "V–Z · volontaire → la zélatrice",
+   "subtitle": "The last letters, and the end of the French–Bangla half · শেষ বর্ণগুলি, আর ফরাসি–বাংলা অংশের সমাপ্তি",
+   "minutes": 12,
+   "goals": [
+    "Read each entry in all three languages",
+    "Note that W and X words are nearly all borrowed",
+    "Finish the French–Bangla half of the dictionary"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The alphabet closes with its smallest letters. **W** exists in French only in borrowed words — {{le wagon}}, {{le week-end}}. **X** is almost entirely Greek — {{le xylophone}}, {{la xénophobie}}. **Y** and **Z** are barely larger. · বর্ণমালা শেষ হচ্ছে তার ক্ষুদ্রতম বর্ণগুলি দিয়ে। **W** কেবল ধার করা শব্দে, **X** প্রায় পুরোটাই গ্রিক।"
+    },
+    {
+     "type": "vocab",
+     "title": "vol– · vul–",
+     "items": [
+      {
+       "t": "volontaire",
+       "tr": "voh-lohn-TAIR · ভ়লঁতের্",
+       "mean": "(adj./n.) voluntary; a volunteer · স্বেচ্ছাক্রিয়; স্বেচ্ছাসেবক"
+      },
+      {
+       "t": "la volonté",
+       "tr": "lah voh-lohn-TAY · লা ভ়লঁতে",
+       "mean": "will, wish · ইচ্ছা; আকাঙ্ক্ষা"
+      },
+      {
+       "t": "vomir",
+       "tr": "voh-MEER · ভ়মির্",
+       "mean": "(v.) to vomit · বমি করা"
+      },
+      {
+       "t": "le voyage",
+       "tr": "luh vwah-YAHZH · ল্য ভ়োয়াঈয়াজ়্",
+       "mean": "journey, trip · ভ্রমণ"
+      },
+      {
+       "t": "voyager",
+       "tr": "vwah-yah-ZHAY · ভ়োয়াঈয়াজ়ে",
+       "mean": "(v.) to travel · ভ্রমণ করা"
+      },
+      {
+       "t": "le voyageur / la voyageuse",
+       "tr": "luh vwah-yah-ZHUHR · ল্য ভ়োয়াঈয়াজ়্যর্",
+       "mean": "traveller · ভ্রমণকারী"
+      },
+      {
+       "t": "vraiment",
+       "tr": "vreh-MAHN · ভ়্রেমঁ",
+       "mean": "(adv.) really, truly · বাস্তবিকভাবে; সত্যিকারভাবে"
+      },
+      {
+       "t": "vraisemblable",
+       "tr": "vreh-sahn-BLAHBL · ভ়্রেসঁব্লাব্‌ল্",
+       "mean": "(adj.) likely, plausible · বিশ্বাসযোগ্য; সম্ভাব্য"
+      },
+      {
+       "t": "la vue",
+       "tr": "lah VEW · লা ভ়্যু",
+       "mean": "sight; a view · দৃশ্য; দৃষ্টিশক্তি"
+      },
+      {
+       "t": "vulgaire",
+       "tr": "vewl-GAIR · ভ়্যুল্‌গের্",
+       "mean": "(adj.) vulgar, coarse; common · ইতর; অমার্জিত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "W · the borrowed letter",
+     "items": [
+      {
+       "t": "le wagon",
+       "tr": "luh vah-GOHN · ল্য ভ়াগঁ",
+       "mean": "railway carriage · রেলগাড়ির বগি"
+      },
+      {
+       "t": "le wagon-lit",
+       "tr": "luh vah-gohn-LEE · ল্য ভ়াগঁ লি",
+       "mean": "sleeping car · রেলগাড়ির শয়নবগি"
+      },
+      {
+       "t": "le week-end",
+       "tr": "luh wee-KEND · ল্য উইকয়েন্দ্",
+       "mean": "weekend · সপ্তাহান্ত"
+      },
+      {
+       "t": "les WC",
+       "tr": "lay doo-bluh-vay-SAY · লে দুব্‌ল্যভ়ে সে",
+       "mean": "(m.pl.) the lavatory · পায়খানা; শৌচাগার"
+      },
+      {
+       "t": "le wagonnet",
+       "tr": "luh vah-goh-NEH · ল্য ভ়াগনে",
+       "mean": "a small tipper truck, a trolley · ছোট মালগাড়ি"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "X · Y",
+     "items": [
+      {
+       "t": "xénophobe",
+       "tr": "ksay-noh-FOB · ক্সেনোফ়ব্",
+       "mean": "(adj./n.) xenophobic · বিদেশিবিদ্বেষী"
+      },
+      {
+       "t": "la xénophobie",
+       "tr": "lah ksay-noh-foh-BEE · লা ক্সেনোফ়বি",
+       "mean": "xenophobia · বিদেশিবিদ্বেষ"
+      },
+      {
+       "t": "le xylophone",
+       "tr": "luh ksee-loh-FON · ল্য ক্সিলোফ়ন্",
+       "mean": "xylophone · জাইলোফোন"
+      },
+      {
+       "t": "le xiphias",
+       "tr": "luh ksee-FYAHSS · ল্য ক্সিফ়ীআস্",
+       "mean": "swordfish · তরোয়াল মাছ"
+      },
+      {
+       "t": "y",
+       "tr": "EE · ই",
+       "mean": "(adv./pron.) there; to it · সেখানে; ওটা"
+      },
+      {
+       "t": "le yaourt",
+       "tr": "luh yah-OORT · ল্য ঈয়াউর্ত্",
+       "mean": "yoghurt · দই"
+      },
+      {
+       "t": "les yeux",
+       "tr": "lay ZYUH · লেজ় ঈও",
+       "mean": "the eyes (plural of {{un œil}}) · চোখ দুটো"
+      },
+      {
+       "t": "le yoga",
+       "tr": "luh yoh-GAH · ল্য ঈওগা",
+       "mean": "yoga · যোগব্যায়াম"
+      },
+      {
+       "t": "le yogi",
+       "tr": "luh yoh-GEE · ল্য ঈওগি",
+       "mean": "yogi · যোগী; সাধক"
+      },
+      {
+       "t": "le youyou",
+       "tr": "luh yoo-YOO · ল্য ঈউঈউ",
+       "mean": "dinghy, small boat · ছোট নৌকা; ডিঙি"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "Z · the last letter",
+     "items": [
+      {
+       "t": "le zèbre",
+       "tr": "luh ZEBR · ল্য জ়েব্র্",
+       "mean": "zebra · জেব্রা"
+      },
+      {
+       "t": "le zèle",
+       "tr": "luh ZEL · ল্য জ়েল্",
+       "mean": "zeal, keenness · বিশেষ আগ্রহ"
+      },
+      {
+       "t": "le zébu",
+       "tr": "luh zay-BEW · ল্য জ়েব্যু",
+       "mean": "zebu, humped ox of Asia and Africa · কুঁজযুক্ত ষাঁড়"
+      },
+      {
+       "t": "le zénith",
+       "tr": "luh zay-NEET · ল্য জ়েনিত্",
+       "mean": "zenith, peak · চূড়ান্ত; শীর্ষ"
+      },
+      {
+       "t": "le zéro",
+       "tr": "luh zay-ROH · ল্য জ়েরো",
+       "mean": "zero · শূন্য"
+      },
+      {
+       "t": "la zone",
+       "tr": "lah ZOHN · লা জ়োন্",
+       "mean": "zone, area · এলাকা; অঞ্চল"
+      },
+      {
+       "t": "le zoo",
+       "tr": "luh ZOH · ল্য জ়ো",
+       "mean": "zoo · চিড়িয়াখানা"
+      },
+      {
+       "t": "la zoologie",
+       "tr": "lah zoh-oh-loh-ZHEE · লা জ়োলজ়ি",
+       "mean": "zoology · প্রাণীবিদ্যা"
+      },
+      {
+       "t": "zut !",
+       "tr": "ZEWT · জ়্যুত্",
+       "mean": "(interj.) blast! bother! · ধুৎ!"
+      },
+      {
+       "t": "le zigzag",
+       "tr": "luh zeeg-ZAHG · ল্য জ়িগজ়াগ্",
+       "mean": "zigzag · আঁকাবাঁকা পথ"
+      },
+      {
+       "t": "le zinc",
+       "tr": "luh ZANG · ল্য জ়াঁগ্",
+       "mean": "zinc · দস্তা"
+      },
+      {
+       "t": "le zélateur / la zélatrice",
+       "tr": "luh zay-lah-TUHR · ল্য জ়েলাতোর্",
+       "mean": "a zealot, an over-eager supporter · গোঁড়া সমর্থক"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{les yeux}} is the plural of… · {{les yeux}} কোন শব্দের বহুবচন?",
+       "options": [
+        "un an",
+        "un œil",
+        "un ami",
+        "un os"
+       ],
+       "answer": 1,
+       "explain": "The one irregular plural everyone must learn · সবাইকে শিখতেই হয় এমন অনিয়মিত বহুবচন।"
+      },
+      {
+       "q": "{{les WC}} is pronounced… · {{les WC}}-এর উচ্চারণ…",
+       "options": [
+        "lay VAY-SAY",
+        "lay doo-bluh-vay-SAY",
+        "lay DUB-see",
+        "lay WAY-SAY"
+       ],
+       "answer": 1,
+       "explain": "W is {{double vé}} in French · ফরাসিতে W হলো {{double vé}}।"
+      },
+      {
+       "q": "{{Zut !}} is… · {{Zut !}} হলো…",
+       "options": [
+        "a greeting",
+        "a mild exclamation of annoyance",
+        "a strong insult",
+        "a farewell"
+       ],
+       "answer": 1,
+       "explain": "Safe to say in any company · যেকোনো পরিবেশে বলা নিরাপদ।"
+      },
+      {
+       "q": "Why are there so few W words in French? · ফরাসিতে W দিয়ে এত কম শব্দ কেন?",
+       "options": [
+        "W is a recent borrowing into the alphabet",
+        "W is hard to write",
+        "W was abolished",
+        "W is only for names"
+       ],
+       "answer": 0,
+       "explain": "Every W word came in from another language · প্রতিটি W শব্দ অন্য ভাষা থেকে এসেছে।"
+      },
+      {
+       "q": "{{vraiment}} means… · {{vraiment}} মানে…",
+       "options": [
+        "probably",
+        "really",
+        "rarely",
+        "roughly"
+       ],
+       "answer": 1,
+       "explain": "From {{vrai}}, true · {{vrai}} অর্থাৎ সত্য থেকে।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf1",
+   "icon": "অ",
+   "title": "অ · the Bangla–French half opens",
+   "subtitle": "Now look the other way: from Bangla to French · এবার উল্টো দিক — বাংলা থেকে ফরাসি",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Notice how many Bangla negatives map to French in– and im–"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The second half of the dictionary runs the other way: you start from the Bangla word and find the French. Each entry gives the Bangla headword, the French word with its pronunciation, and the English. This is the half you use when you are writing, not reading. · অভিধানের দ্বিতীয় অংশ চলে উল্টো পথে: বাংলা শব্দ থেকে ফরাসি। লেখার সময় এই অংশটিই কাজে লাগে।"
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "Bangla marks a negative with অ- or অন-, exactly as French marks it with **in-**, **im-** or **mal-**. {{অকার্যকর → inefficace}}, {{অখাদ্য → immangeable}}, {{অখুশি → mécontent}}. The two languages build opposites the same way. · বাংলা যেমন অ- বা অন- দিয়ে নেতিবাচক গড়ে, ফরাসিও তেমনি **in-**, **im-**, **mal-** দিয়ে। দুই ভাষার ছক এক।"
+    },
+    {
+     "type": "vocab",
+     "title": "অকপট · অগণিত",
+     "items": [
+      {
+       "t": "অকপট → franc / franche",
+       "tr": "FRAHN · ফ্রঁ",
+       "mean": "frank, candid · অকপট; খোলামেলা"
+      },
+      {
+       "t": "অকর্মা → paresseux",
+       "tr": "pah-reh-SUH · পারেসো",
+       "mean": "idle, lazy · অকর্মা"
+      },
+      {
+       "t": "অকল্যাণ → le malheur",
+       "tr": "luh mah-LUHR · ল্য মাল্যর্",
+       "mean": "misfortune, harm · অকল্যাণ"
+      },
+      {
+       "t": "অকাট্য → irréfutable",
+       "tr": "ee-ray-few-TAHBL · ইরেফ়্যুতাব্‌ল্",
+       "mean": "irrefutable · অকাট্য"
+      },
+      {
+       "t": "অকার্যকর → inefficace",
+       "tr": "ee-neh-fee-KASS · ইনেফ়িকাস্",
+       "mean": "ineffective · অকার্যকর"
+      },
+      {
+       "t": "অকৃতজ্ঞ → ingrat / ingrate",
+       "tr": "an-GRAH · আঁগ্রা",
+       "mean": "ungrateful · অকৃতজ্ঞ"
+      },
+      {
+       "t": "অক্লান্ত → infatigable",
+       "tr": "an-fah-tee-GAHBL · আঁফ়াতিগাব্‌ল্",
+       "mean": "tireless · অক্লান্ত"
+      },
+      {
+       "t": "অখাদ্য → immangeable",
+       "tr": "ee-mahn-ZHAHBL · ইম্‌মঁজ়াব্‌ল্",
+       "mean": "inedible · অখাদ্য"
+      },
+      {
+       "t": "অখ্যাত → obscur / obscure",
+       "tr": "ob-SKEWR · অব্‌স্ক্যুর্",
+       "mean": "obscure, little known · অখ্যাত"
+      },
+      {
+       "t": "অখুশি → mécontent",
+       "tr": "may-kohn-TAHN · মেকঁতঁ",
+       "mean": "displeased · অখুশি"
+      },
+      {
+       "t": "অগণিত → innombrable",
+       "tr": "ee-nohn-BRAHBL · ইন্‌নঁব্রাব্‌ল্",
+       "mean": "countless · অগণিত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "অঙ্গীকার · অদ্ভুত",
+     "items": [
+      {
+       "t": "অঙ্গীকার → la promesse",
+       "tr": "lah proh-MESS · লা প্রমেস্",
+       "mean": "promise, pledge · অঙ্গীকার"
+      },
+      {
+       "t": "অচেতন → inconscient",
+       "tr": "an-kohn-SYAHN · আঁকঁসীয়ঁ",
+       "mean": "unconscious · অচেতন"
+      },
+      {
+       "t": "অচেনা → peu familier",
+       "tr": "puh fah-mee-LYAY · প্য ফ়ামিলীয়ে",
+       "mean": "unfamiliar · অচেনা"
+      },
+      {
+       "t": "অতএব → ainsi",
+       "tr": "an-SEE · আঁসি",
+       "mean": "thus, therefore · অতএব"
+      },
+      {
+       "t": "অতঃপর → ensuite",
+       "tr": "ahn-SWEET · অঁস্যুইত্",
+       "mean": "then, afterwards · অতঃপর"
+      },
+      {
+       "t": "অতিথি → un invité",
+       "tr": "uhn an-vee-TAY · আঁন্ আঁভ়িতে",
+       "mean": "guest · অতিথি"
+      },
+      {
+       "t": "অতৃপ্ত → peu satisfait",
+       "tr": "puh sah-tees-FEH · প্য সাতিস্ফ়ে",
+       "mean": "unsatisfied · অতৃপ্ত"
+      },
+      {
+       "t": "অত্যাবশ্যকীয় → essentiel",
+       "tr": "ay-sahn-SYEL · এসঁসীয়েল্",
+       "mean": "essential · অত্যাবশ্যকীয়"
+      },
+      {
+       "t": "অত্যাচার → une oppression",
+       "tr": "ewn oh-preh-SYOHN · য়্যুন্ অপ্রেসীওঁ",
+       "mean": "oppression · অত্যাচার"
+      },
+      {
+       "t": "অদক্ষ → inexpérimenté",
+       "tr": "ee-nek-spay-ree-mahn-TAY · ইনএক্স্পেরিমঁতে",
+       "mean": "inexperienced · অদক্ষ"
+      },
+      {
+       "t": "অদ্ভুত → étrange",
+       "tr": "ay-TRAHNZH · এত্রঁজ়্",
+       "mean": "strange · অদ্ভুত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "অধার্মিক · অনুমোদন",
+     "items": [
+      {
+       "t": "অধার্মিক → irréligieux",
+       "tr": "ee-ray-lee-ZHYUH · ইরেলিজ়ীও",
+       "mean": "irreligious · অধার্মিক"
+      },
+      {
+       "t": "অধিকার → la propriété",
+       "tr": "lah proh-pryay-TAY · লা প্রপ্রীয়েতে",
+       "mean": "right, ownership · অধিকার"
+      },
+      {
+       "t": "অধিবেশন → la session",
+       "tr": "lah seh-SYOHN · লা সেসীওঁ",
+       "mean": "session, sitting · অধিবেশন"
+      },
+      {
+       "t": "অধ্যবসায় → la persévérance",
+       "tr": "lah pair-say-vay-RAHNSS · লা পের্সেভ়েরঁস্",
+       "mean": "perseverance · অধ্যবসায়"
+      },
+      {
+       "t": "অধ্যয়ন → une étude",
+       "tr": "ewn ay-TEWD · য়্যুন্ এত্যুদ্",
+       "mean": "study · অধ্যয়ন"
+      },
+      {
+       "t": "অধ্যাদেশ → une ordonnance",
+       "tr": "ewn or-doh-NAHNSS · য়্যুন্ অর্দনঁস্",
+       "mean": "ordinance, decree · অধ্যাদেশ"
+      },
+      {
+       "t": "অনভ্যস্ত → inaccoutumé",
+       "tr": "ee-nah-koo-tew-MAY · ইনাকুত্যুমে",
+       "mean": "unaccustomed · অনভ্যস্ত"
+      },
+      {
+       "t": "অনর্গল → couramment",
+       "tr": "koo-rah-MAHN · কুরামঁ",
+       "mean": "fluently · অনর্গল"
+      },
+      {
+       "t": "অনর্থক → inutile",
+       "tr": "ee-new-TEEL · ইন্যুতিল্",
+       "mean": "pointless · অনর্থক"
+      },
+      {
+       "t": "অনস্বীকার্য → incontestable",
+       "tr": "an-kohn-tes-TAHBL · আঁকঁতেস্তাব্‌ল্",
+       "mean": "undeniable · অনস্বীকার্য"
+      },
+      {
+       "t": "অনহংকারী → modeste",
+       "tr": "moh-DEST · মদেস্ত্",
+       "mean": "modest · অনহংকারী"
+      },
+      {
+       "t": "অনিচ্ছা → la mauvaise volonté",
+       "tr": "lah moh-vez voh-lohn-TAY · লা মোভ়েজ় ভ়লঁতে",
+       "mean": "unwillingness · অনিচ্ছা"
+      },
+      {
+       "t": "অনির্দিষ্ট → indéfini",
+       "tr": "an-day-fee-NEE · আঁদেফ়িনি",
+       "mean": "indefinite · অনির্দিষ্ট"
+      },
+      {
+       "t": "অনুকরণ → une imitation",
+       "tr": "ewn ee-mee-tah-SYOHN · য়্যুন্ ইমিতাসীওঁ",
+       "mean": "imitation · অনুকরণ"
+      },
+      {
+       "t": "অনুভূতি → le sentiment",
+       "tr": "luh sahn-tee-MAHN · ল্য সঁতিমঁ",
+       "mean": "feeling · অনুভূতি"
+      },
+      {
+       "t": "অনুমোদন → le consentement",
+       "tr": "luh kohn-sahnt-MAHN · ল্য কঁসঁত্‌মঁ",
+       "mean": "consent, approval · অনুমোদন"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "অন্তর্বর্তী · অলৌকিক",
+     "items": [
+      {
+       "t": "অন্তর্বর্তী → un intérim",
+       "tr": "uhn an-tay-REEM · আঁন্ আঁতেরিম্",
+       "mean": "interim · অন্তর্বর্তী"
+      },
+      {
+       "t": "অপচয় → le gaspillage",
+       "tr": "luh gas-pee-YAHZH · ল্য গাস্পীয়াজ়্",
+       "mean": "waste · অপচয়"
+      },
+      {
+       "t": "অপমান করা → insulter",
+       "tr": "an-sewl-TAY · আঁস্যুল্‌তে",
+       "mean": "to insult · অপমান করা"
+      },
+      {
+       "t": "অপরিষ্কার → malpropre",
+       "tr": "mal-PROPR · মাল্‌প্রপ্র্",
+       "mean": "unclean, dirty · অপরিষ্কার"
+      },
+      {
+       "t": "অপরিষ্কার (বিশেষ্য) → la saleté",
+       "tr": "lah sal-TAY · লা সাল্‌তে",
+       "mean": "dirtiness, filth · নোংরামি"
+      },
+      {
+       "t": "অপরিহার্য → indispensable",
+       "tr": "an-dees-pahn-SAHBL · আঁদিস্পঁসাব্‌ল্",
+       "mean": "indispensable · অপরিহার্য"
+      },
+      {
+       "t": "অপ্রাসঙ্গিক → inapplicable",
+       "tr": "ee-nah-plee-KAHBL · ইনাপ্লিকাব্‌ল্",
+       "mean": "inapplicable · অপ্রাসঙ্গিক"
+      },
+      {
+       "t": "অপ্রীতিকর → déplaisant",
+       "tr": "day-pleh-ZAHN · দেপ্লেজ়ঁ",
+       "mean": "unpleasant · অপ্রীতিকর"
+      },
+      {
+       "t": "অবকাশ → le loisir",
+       "tr": "luh lwah-ZEER · ল্য লোয়াজ়ির্",
+       "mean": "leisure · অবকাশ"
+      },
+      {
+       "t": "অবদান → la contribution",
+       "tr": "lah kohn-tree-bew-SYOHN · লা কঁত্রিব্যুসীওঁ",
+       "mean": "contribution · অবদান"
+      },
+      {
+       "t": "অবহেলা → la négligence",
+       "tr": "lah nay-glee-ZHAHNSS · লা নেগ্লিজ়ঁস্",
+       "mean": "negligence · অবহেলা"
+      },
+      {
+       "t": "অবিশ্বাস করা → se défier de",
+       "tr": "suh day-FYAY duh · স্য দেফ়ীয়ে দ্য",
+       "mean": "to distrust · অবিশ্বাস করা"
+      },
+      {
+       "t": "অভিভাবক → le gardien",
+       "tr": "luh gar-DYAN · ল্য গার্দীয়াঁ",
+       "mean": "guardian · অভিভাবক"
+      },
+      {
+       "t": "অভ্যাস → une habitude",
+       "tr": "ewn ah-bee-TEWD · য়্যুন্ আবিত্যুদ্",
+       "mean": "habit · অভ্যাস"
+      },
+      {
+       "t": "অমনোযোগী → inattentif",
+       "tr": "ee-nah-tahn-TEEF · ইনাতঁতিফ়্",
+       "mean": "inattentive · অমনোযোগী"
+      },
+      {
+       "t": "অলৌকিক → le surnaturel",
+       "tr": "luh sewr-nah-tew-REL · ল্য স্যুর্নাত্যুরেল্",
+       "mean": "the supernatural · অলৌকিক"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{অনর্গল}} in French is… · ফরাসিতে {{অনর্গল}} হলো…",
+       "options": [
+        "lentement",
+        "couramment",
+        "rarement",
+        "nettement"
+       ],
+       "answer": 1,
+       "explain": "{{Il parle couramment français}} — he speaks fluent French · সে অনর্গল ফরাসি বলে।"
+      },
+      {
+       "q": "{{অতিথি}} is… · {{অতিথি}} হলো…",
+       "options": [
+        "un invité",
+        "un étranger",
+        "un hôtel",
+        "un habitant"
+       ],
+       "answer": 0,
+       "explain": "From {{inviter}}, to invite · {{inviter}} অর্থাৎ নিমন্ত্রণ করা থেকে।"
+      },
+      {
+       "q": "{{অখাদ্য}} uses which French prefix? · {{অখাদ্য}}-তে কোন ফরাসি উপসর্গ?",
+       "options": [
+        "in-",
+        "im-",
+        "mal-",
+        "dé-"
+       ],
+       "answer": 1,
+       "explain": "{{immangeable}} — im- before m · m-এর আগে im-।"
+      },
+      {
+       "q": "{{অভ্যাস}} is… · {{অভ্যাস}} হলো…",
+       "options": [
+        "un habit",
+        "une habitude",
+        "un habitant",
+        "une habileté"
+       ],
+       "answer": 1,
+       "explain": "{{un habit}} is a garment · {{un habit}} মানে পোশাক।"
+      },
+      {
+       "q": "{{অপচয়}} is… · {{অপচয়}} হলো…",
+       "options": [
+        "le gaspillage",
+        "le gâteau",
+        "la dépense",
+        "le déchet"
+       ],
+       "answer": 0,
+       "explain": "{{la dépense}} is ordinary spending · {{la dépense}} মানে সাধারণ খরচ।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf2",
+   "icon": "আ",
+   "title": "অ–আ · অসম্পূর্ণ → আশঙ্কা",
+   "subtitle": "The close of অ, and the whole of আ · অ-এর শেষ আর গোটা আ",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Learn the French words for feelings and conduct"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The letter আ carries the vocabulary of character and feeling — confidence, conduct, hospitality, regret. These are exactly the words you reach for in a letter, and rarely find in a phrasebook. · আ বর্ণে আছে চরিত্র ও অনুভূতির শব্দ — আত্মবিশ্বাস, আচরণ, আপ্যায়ন, আফসোস। চিঠি লিখতে গিয়ে ঠিক এই শব্দগুলোই দরকার হয়।"
+    },
+    {
+     "type": "vocab",
+     "title": "অসম্পূর্ণ · অসামাজিক",
+     "items": [
+      {
+       "t": "অসম্পূর্ণ → incomplet",
+       "tr": "an-kohn-PLEH · আঁকঁপ্লে",
+       "mean": "incomplete · অসম্পূর্ণ"
+      },
+      {
+       "t": "অসাধারণ → peu commun",
+       "tr": "puh koh-MAN · প্য কমাঁ",
+       "mean": "uncommon, out of the ordinary · অসাধারণ"
+      },
+      {
+       "t": "অহংকারী → orgueilleux",
+       "tr": "or-guh-YUH · অর্গ্যঈও",
+       "mean": "proud, haughty · অহংকারী"
+      },
+      {
+       "t": "অসামাজিক → insociable",
+       "tr": "an-soh-SYAHBL · আঁসসীয়াব্‌ল্",
+       "mean": "unsociable · অসামাজিক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "আল্লাহ · আত্মবিশ্বাস",
+     "items": [
+      {
+       "t": "আল্লাহ → Allah",
+       "tr": "ah-LAH · আল্লাহ্",
+       "mean": "Allah · আল্লাহ"
+      },
+      {
+       "t": "আকর্ষণ → une attraction",
+       "tr": "ewn ah-trak-SYOHN · য়্যুন্ আত্রাক্সীওঁ",
+       "mean": "attraction · আকর্ষণ"
+      },
+      {
+       "t": "আকস্মিক → accidentel",
+       "tr": "ak-see-dahn-TEL · আক্সিদঁতেল্",
+       "mean": "accidental, sudden · আকস্মিক"
+      },
+      {
+       "t": "আকাঙ্ক্ষা → le désir",
+       "tr": "luh day-ZEER · ল্য দেজ়ির্",
+       "mean": "desire, longing · আকাঙ্ক্ষা"
+      },
+      {
+       "t": "আগ্রহ → une ardeur",
+       "tr": "ewn ar-DUHR · য়্যুন্ আর্দোর্",
+       "mean": "ardour, keenness · আগ্রহ"
+      },
+      {
+       "t": "আগ্রহী → zélateur",
+       "tr": "zay-lah-TUHR · জ়েলাতোর্",
+       "mean": "zealous, eager · আগ্রহী"
+      },
+      {
+       "t": "আচরণ → la conduite",
+       "tr": "lah kohn-DWEET · লা কঁদুইত্",
+       "mean": "conduct, behaviour · আচরণ"
+      },
+      {
+       "t": "আত্মবিশ্বাস → une assurance",
+       "tr": "ewn ah-sew-RAHNSS · য়্যুন্ আস্যুরঁস্",
+       "mean": "self-confidence · আত্মবিশ্বাস"
+      },
+      {
+       "t": "আত্মবিশ্বাসী → confiant",
+       "tr": "kohn-FYAHN · কঁফ়ীয়ঁ",
+       "mean": "confident · আত্মবিশ্বাসী"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "আদেশ · আশঙ্কা",
+     "items": [
+      {
+       "t": "আদেশ → un ordre",
+       "tr": "uhn ORDR · আঁন্ অর্দ্র্",
+       "mean": "order, command · আদেশ"
+      },
+      {
+       "t": "আনন্দিত → ravi / ravie",
+       "tr": "rah-VEE · রাভ়ি",
+       "mean": "delighted · আনন্দিত"
+      },
+      {
+       "t": "আপত্তি → une objection",
+       "tr": "ewn ob-zhek-SYOHN · য়্যুন্ অব্‌জ়েক্সীওঁ",
+       "mean": "objection · আপত্তি"
+      },
+      {
+       "t": "আপ্যায়ন → une hospitalité",
+       "tr": "ewn os-pee-tah-lee-TAY · য়্যুন্ অস্পিতালিতে",
+       "mean": "hospitality · আপ্যায়ন"
+      },
+      {
+       "t": "আফসোস → le remords",
+       "tr": "luh ruh-MOR · ল্য র্যমর্",
+       "mean": "remorse, regret · আফসোস"
+      },
+      {
+       "t": "আবশ্যক → le besoin",
+       "tr": "luh buh-ZWAN · ল্য ব্যজ়োয়াঁ",
+       "mean": "need, requirement · আবশ্যক"
+      },
+      {
+       "t": "আমানত → le dépôt",
+       "tr": "luh day-POH · ল্য দেপো",
+       "mean": "deposit · আমানত"
+      },
+      {
+       "t": "আলোচনা → la discussion",
+       "tr": "lah dees-kew-SYOHN · লা দিস্ক্যুসীওঁ",
+       "mean": "discussion · আলোচনা"
+      },
+      {
+       "t": "আশ্চর্য → surprenant",
+       "tr": "sewr-pruh-NAHN · স্যুর্প্র্যনঁ",
+       "mean": "surprising · আশ্চর্য"
+      },
+      {
+       "t": "আশঙ্কা → le soupçon",
+       "tr": "luh soop-SOHN · ল্য সুপ্সঁ",
+       "mean": "suspicion, misgiving · আশঙ্কা"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ই · ঈ",
+     "items": [
+      {
+       "t": "ইচ্ছা → le souhait",
+       "tr": "luh soo-EH · ল্য সুয়ে",
+       "mean": "wish · ইচ্ছা"
+      },
+      {
+       "t": "ইট → la brique",
+       "tr": "lah BREEK · লা ব্রিক্",
+       "mean": "brick · ইট"
+      },
+      {
+       "t": "ইতিহাসবিদ → un historien",
+       "tr": "uhn ees-toh-RYAN · আঁন্ ইস্তরীয়াঁ",
+       "mean": "historian · ইতিহাসবিদ"
+      },
+      {
+       "t": "ইনজেকশন → la piqûre",
+       "tr": "lah pee-KEWR · লা পিক্যুর্",
+       "mean": "injection, jab · ইনজেকশন"
+      },
+      {
+       "t": "ইসলাম → l'Islam",
+       "tr": "lees-LAHM · লিস্লাম্",
+       "mean": "Islam · ইসলাম"
+      },
+      {
+       "t": "ইস্পাত → un acier",
+       "tr": "uhn ah-SYAY · আঁন্ আসীয়ে",
+       "mean": "steel · ইস্পাত"
+      },
+      {
+       "t": "ইত্যাদি → et cetera",
+       "tr": "et say-tay-RAH · এত্‌সেতেরা",
+       "mean": "et cetera · ইত্যাদি"
+      },
+      {
+       "t": "ঈগল → un aigle",
+       "tr": "uhn EGL · আঁন্ এগ্‌ল্",
+       "mean": "eagle · ঈগল"
+      },
+      {
+       "t": "ঈর্ষা → la jalousie",
+       "tr": "lah zhah-loo-ZEE · লা জ়ালুজ়ি",
+       "mean": "jealousy · ঈর্ষা"
+      },
+      {
+       "t": "ঈশ্বর → le Dieu",
+       "tr": "luh DYUH · ল্য দীও",
+       "mean": "God · ঈশ্বর"
+      },
+      {
+       "t": "ঈষৎ → un peu",
+       "tr": "uhn PUH · আঁ প্য",
+       "mean": "a little, slightly · ঈষৎ"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "উ",
+     "items": [
+      {
+       "t": "উকিল → un avoué",
+       "tr": "uhn ah-voo-AY · আঁন্ আভ়ুয়ে",
+       "mean": "solicitor, lawyer · উকিল"
+      },
+      {
+       "t": "উক্তি → la déclaration",
+       "tr": "lah day-klah-rah-SYOHN · লা দেক্লারাসীওঁ",
+       "mean": "statement, utterance · উক্তি"
+      },
+      {
+       "t": "উচ্চারণ → la prononciation",
+       "tr": "lah proh-nohn-syah-SYOHN · লা প্রনঁসীয়াসীওঁ",
+       "mean": "pronunciation · উচ্চারণ"
+      },
+      {
+       "t": "উজ্জ্বল → brillant",
+       "tr": "bree-YAHN · ব্রিঈয়ঁ",
+       "mean": "bright, brilliant · উজ্জ্বল"
+      },
+      {
+       "t": "উৎকৃষ্ট → excellent",
+       "tr": "ek-say-LAHN · এক্সেলঁ",
+       "mean": "excellent · উৎকৃষ্ট"
+      },
+      {
+       "t": "উত্তরাধিকারী → un héritier",
+       "tr": "uhn ay-ree-TYAY · আঁন্ এরিতিয়ে",
+       "mean": "heir · উত্তরাধিকারী"
+      },
+      {
+       "t": "উত্তেজিত → excité / excitée",
+       "tr": "ek-see-TAY · এক্সিতে",
+       "mean": "excited · উত্তেজিত"
+      },
+      {
+       "t": "উত্তেজক → le stimulant",
+       "tr": "luh stee-mew-LAHN · ল্য স্তিম্যুলঁ",
+       "mean": "stimulant · উত্তেজক"
+      },
+      {
+       "t": "উৎসাহ → un enthousiasme",
+       "tr": "uhn ahn-too-ZYAHZM · আঁন্ অঁতুজ়ীয়াস্‌ম্",
+       "mean": "enthusiasm · উৎসাহ"
+      },
+      {
+       "t": "উদ্দেশ্য → le but",
+       "tr": "luh BEWT · ল্য ব্যুত্",
+       "mean": "aim, purpose · উদ্দেশ্য"
+      },
+      {
+       "t": "উদ্বোধন করা → inaugurer",
+       "tr": "ee-noh-gew-RAY · ইনোগ্যুরে",
+       "mean": "to inaugurate · উদ্বোধন করা"
+      },
+      {
+       "t": "উদ্যমী → enthousiaste",
+       "tr": "ahn-too-ZYAHST · অঁতুজ়ীয়াস্ত্",
+       "mean": "enthusiastic · উদ্যমী"
+      },
+      {
+       "t": "উন্নতি → la prospérité",
+       "tr": "lah pros-pay-ree-TAY · লা প্রস্পেরিতে",
+       "mean": "prosperity, progress · উন্নতি"
+      },
+      {
+       "t": "উপকূল → la côte",
+       "tr": "lah KOHT · লা কোত্",
+       "mean": "coast · উপকূল"
+      },
+      {
+       "t": "উপন্যাস → le roman",
+       "tr": "luh roh-MAHN · ল্য রমঁ",
+       "mean": "novel · উপন্যাস"
+      },
+      {
+       "t": "উপবাস → le jeûne",
+       "tr": "luh ZHUHN · ল্য জ়্যন্",
+       "mean": "fasting · উপবাস"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{উপবাস}} in French is… · ফরাসিতে {{উপবাস}} হলো…",
+       "options": [
+        "le jeune",
+        "le jeûne",
+        "la jeunesse",
+        "le déjeuner"
+       ],
+       "answer": 1,
+       "explain": "The circumflex separates fasting from *young* · circumflex উপবাসকে *তরুণ* থেকে আলাদা করে।"
+      },
+      {
+       "q": "{{আত্মবিশ্বাস}} is… · {{আত্মবিশ্বাস}} হলো…",
+       "options": [
+        "une assurance",
+        "une assistance",
+        "une insurance",
+        "une confidence"
+       ],
+       "answer": 0,
+       "explain": "{{confiant}} is the adjective · বিশেষণ হলো {{confiant}}।"
+      },
+      {
+       "q": "{{আফসোস}} is… · {{আফসোস}} হলো…",
+       "options": [
+        "le regret only",
+        "le remords",
+        "la rumeur",
+        "le retard"
+       ],
+       "answer": 1,
+       "explain": "A deeper regret than {{le regret}} · {{le regret}}-এর চেয়ে গভীর অনুতাপ।"
+      },
+      {
+       "q": "{{উদ্দেশ্য}} and {{le but}} both mean… · {{উদ্দেশ্য}} ও {{le but}} দুটিরই অর্থ…",
+       "options": [
+        "aim, purpose",
+        "a boot",
+        "a goal in football only",
+        "a bud"
+       ],
+       "answer": 0,
+       "explain": "{{le but}} is also a goal in sport · খেলায় {{le but}} মানে গোলও।"
+      },
+      {
+       "q": "{{ঈশ্বর}} is… · {{ঈশ্বর}} হলো…",
+       "options": [
+        "le Dieu",
+        "le dieu de la guerre",
+        "la déesse",
+        "le divin"
+       ],
+       "answer": 0,
+       "explain": "Capitalised for the one God · একেশ্বর বোঝাতে বড়ো হাতের অক্ষর।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf3",
+   "icon": "উ–ঐ",
+   "title": "উ–ঐ · উপবাস থাকা → ঐতিহ্য",
+   "subtitle": "Debt, dawn and the one-ruler words · ঋণ, ঊষা আর একনায়কের শব্দ",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Learn the borrowing pair {{emprunter}} and {{prêter}}"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The ঋ section gives you the one pair every traveller mixes up: {{emprunter}} is to **borrow** — you take; {{prêter}} is to **lend** — you give. Bangla keeps them straight as ঋণ নেওয়া and ঋণ দেওয়া. · ঋ অংশে আছে সেই জোড়া যা সবাই গুলিয়ে ফেলে: {{emprunter}} মানে ধার নেওয়া, {{prêter}} মানে ধার দেওয়া।"
+    },
+    {
+     "type": "vocab",
+     "title": "উপবাস থাকা · উপাসনা",
+     "items": [
+      {
+       "t": "উপবাস থাকা → jeûner",
+       "tr": "zhuh-NAY · জ়্যনে",
+       "mean": "to fast · উপবাস থাকা"
+      },
+      {
+       "t": "উপযুক্ত → approprié",
+       "tr": "ah-proh-pree-AY · আপ্রোপ্রিয়ে",
+       "mean": "appropriate, fitting · উপযুক্ত"
+      },
+      {
+       "t": "উপর্যুপরি → successivement",
+       "tr": "sewk-say-seev-MAHN · স্যুক্সেসীভ়্‌মঁ",
+       "mean": "successively, one after another · উপর্যুপরি"
+      },
+      {
+       "t": "উপলক্ষ → le but",
+       "tr": "luh BEWT · ল্য ব্যুত্",
+       "mean": "occasion, purpose · উপলক্ষ"
+      },
+      {
+       "t": "উপলব্ধি → la réalisation",
+       "tr": "lah ray-ah-lee-zah-SYOHN · লা রেয়ালিজ়াসীওঁ",
+       "mean": "realisation · উপলব্ধি"
+      },
+      {
+       "t": "উপসংহার → la conclusion",
+       "tr": "lah kohn-klew-ZYOHN · লা কঁক্ল্যুজ়ীওঁ",
+       "mean": "conclusion · উপসংহার"
+      },
+      {
+       "t": "উপহার → le don",
+       "tr": "luh DOHN · ল্য দঁ",
+       "mean": "gift · উপহার"
+      },
+      {
+       "t": "উপহাস করা → ridiculiser",
+       "tr": "ree-dee-kew-lee-ZAY · রিদিক্যুলিজ়ে",
+       "mean": "to ridicule · উপহাস করা"
+      },
+      {
+       "t": "উপার্জন → le gain",
+       "tr": "luh GAN · ল্য গাঁ",
+       "mean": "earnings, gain · উপার্জন"
+      },
+      {
+       "t": "উপেক্ষা → une insouciance",
+       "tr": "ewn an-soo-SYAHNSS · য়্যুন্ আঁসুসিয়ঁস্",
+       "mean": "indifference, unconcern · উপেক্ষা"
+      },
+      {
+       "t": "উপাসনা → le culte",
+       "tr": "luh KEWLT · ল্য ক্যুল্‌ত্",
+       "mean": "worship · উপাসনা"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "উভয় · উলঙ্গ",
+     "items": [
+      {
+       "t": "উভয় → tous les deux",
+       "tr": "too lay DUH · তু লে দ্য",
+       "mean": "both · উভয়"
+      },
+      {
+       "t": "উল্লাস → la joie",
+       "tr": "lah ZHWAH · লা জ়োয়া",
+       "mean": "joy, delight · উল্লাস"
+      },
+      {
+       "t": "উল্লেখ করা → mentionner",
+       "tr": "mahn-syoh-NAY · মঁসীওনে",
+       "mean": "to mention · উল্লেখ করা"
+      },
+      {
+       "t": "উল্লেখযোগ্য → remarquable",
+       "tr": "ruh-mar-KAHBL · র্যমার্কাব্‌ল্",
+       "mean": "noteworthy · উল্লেখযোগ্য"
+      },
+      {
+       "t": "উলঙ্গ → nu / nue",
+       "tr": "NEW · ন্যু",
+       "mean": "naked · উলঙ্গ"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ঊ · ঋ",
+     "items": [
+      {
+       "t": "ঊর্ণনাভ → une araignée",
+       "tr": "ewn ah-reh-NYAY · য়্যুন্ আরেঞে",
+       "mean": "spider · মাকড়সা"
+      },
+      {
+       "t": "ঊর্ণা → la laine",
+       "tr": "lah LEN · লা লেন্",
+       "mean": "wool · ঊর্ণা; পশম"
+      },
+      {
+       "t": "ঊর্মি → la vague",
+       "tr": "lah VAHG · লা ভ়াগ্",
+       "mean": "wave · ঊর্মি; ঢেউ"
+      },
+      {
+       "t": "ঊষা → une aube",
+       "tr": "ewn OHB · য়্যুন্ ওব্",
+       "mean": "dawn · ঊষা"
+      },
+      {
+       "t": "ঊহ্য → implicite",
+       "tr": "am-plee-SEET · আঁপ্লিসিত্",
+       "mean": "implicit, understood · ঊহ্য"
+      },
+      {
+       "t": "ঋণ → la dette",
+       "tr": "lah DET · লা দেত্",
+       "mean": "debt · ঋণ"
+      },
+      {
+       "t": "ঋণ নেওয়া → emprunter",
+       "tr": "ahm-pran-TAY · অঁপ্রাঁতে",
+       "mean": "to borrow · ঋণ নেওয়া"
+      },
+      {
+       "t": "ঋণ দেওয়া → prêter",
+       "tr": "preh-TAY · প্রেতে",
+       "mean": "to lend · ঋণ দেওয়া"
+      },
+      {
+       "t": "ঋণদাতা → le prêteur",
+       "tr": "luh preh-TUHR · ল্য প্রেত্যর্",
+       "mean": "lender · ঋণদাতা"
+      },
+      {
+       "t": "ঋণগ্রহীতা → l'emprunteur",
+       "tr": "lahm-pran-TUHR · লঁপ্রাঁত্যর্",
+       "mean": "borrower · ঋণগ্রহীতা"
+      },
+      {
+       "t": "ঋণী → endetté",
+       "tr": "ahn-deh-TAY · অঁদেতে",
+       "mean": "in debt, indebted · ঋণী"
+      },
+      {
+       "t": "ঋতু → la saison",
+       "tr": "lah seh-ZOHN · লা সেজ়ঁ",
+       "mean": "season · ঋতু"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "এ",
+     "items": [
+      {
+       "t": "একঘেয়েমি → la monotonie",
+       "tr": "lah moh-noh-toh-NEE · লা মনতনি",
+       "mean": "monotony · একঘেয়েমি"
+      },
+      {
+       "t": "একচেটিয়া ব্যবসায় → le monopole",
+       "tr": "luh moh-noh-POL · ল্য মনপল্",
+       "mean": "monopoly · একচেটিয়া ব্যবসায়"
+      },
+      {
+       "t": "একটু → un peu",
+       "tr": "uhn PUH · আঁ প্য",
+       "mean": "a little · একটু"
+      },
+      {
+       "t": "একতা → une unité",
+       "tr": "ewn ew-nee-TAY · য়্যুন্ য়্যুনিতে",
+       "mean": "unity · একতা"
+      },
+      {
+       "t": "একনায়ক → le dictateur",
+       "tr": "luh deek-tah-TUHR · ল্য দিক্তাত্যর্",
+       "mean": "dictator · একনায়ক"
+      },
+      {
+       "t": "একনায়কতন্ত্র → une autocratie",
+       "tr": "ewn oh-toh-krah-SEE · য়্যুন্ অতক্রাসি",
+       "mean": "autocracy · একনায়কতন্ত্র"
+      },
+      {
+       "t": "একবাক্যে → unanimement",
+       "tr": "ew-nah-neem-MAHN · য়্যুনানিম্‌মঁ",
+       "mean": "unanimously · একবাক্যে"
+      },
+      {
+       "t": "একেশ্বরবাদ → le monothéisme",
+       "tr": "luh moh-noh-tay-EEZM · ল্য মনতেইজ়্‌ম্",
+       "mean": "monotheism · একেশ্বরবাদ"
+      },
+      {
+       "t": "এবাদত → la prière",
+       "tr": "lah pree-AIR · লা প্রিয়ের্",
+       "mean": "prayer, worship · এবাদত"
+      },
+      {
+       "t": "এলাকা → la zone",
+       "tr": "lah ZOHN · লা জ়োন্",
+       "mean": "area, zone · এলাকা"
+      },
+      {
+       "t": "এরোপ্লেন → un aéroplane",
+       "tr": "uhn ah-ay-roh-PLAHN · আঁন্ আএরপ্লান্",
+       "mean": "aeroplane · এরোপ্লেন"
+      },
+      {
+       "t": "এলোমেলো → en désordre",
+       "tr": "ahn day-ZORDR · অঁ দেজ়র্দ্র্",
+       "mean": "in disorder, untidy · এলোমেলো"
+      },
+      {
+       "t": "এত, এতো → tant",
+       "tr": "TAHN · তঁ",
+       "mean": "so much, so many · এত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ঐ",
+     "items": [
+      {
+       "t": "ঐকমত্য → une unanimité",
+       "tr": "ewn ew-nah-nee-mee-TAY · য়্যুন্ য়্যুনানিমিতে",
+       "mean": "unanimity · ঐকমত্য"
+      },
+      {
+       "t": "ঐক্য → une unité",
+       "tr": "ewn ew-nee-TAY · য়্যুন্ য়্যুনিতে",
+       "mean": "unity · ঐক্য"
+      },
+      {
+       "t": "ঐচ্ছিক → facultatif",
+       "tr": "fah-kewl-tah-TEEF · ফ়াক্যুল্‌তাতিফ়্",
+       "mean": "optional · ঐচ্ছিক"
+      },
+      {
+       "t": "ঐতিহাসিক → historique",
+       "tr": "ees-toh-REEK · ইস্তরিক্",
+       "mean": "historical · ঐতিহাসিক"
+      },
+      {
+       "t": "ঐতিহ্য → la tradition",
+       "tr": "lah trah-dee-SYOHN · লা ত্রাদিসীওঁ",
+       "mean": "tradition · ঐতিহ্য"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "Which verb means *to borrow*? · *ধার নেওয়া* কোন ক্রিয়া?",
+       "options": [
+        "prêter",
+        "emprunter",
+        "endetter",
+        "donner"
+       ],
+       "answer": 1,
+       "explain": "{{prêter}} is to lend · {{prêter}} মানে ধার দেওয়া।"
+      },
+      {
+       "q": "{{ঐচ্ছিক}} on a school form is… · স্কুলের ফর্মে {{ঐচ্ছিক}} হলো…",
+       "options": [
+        "obligatoire",
+        "facultatif",
+        "nécessaire",
+        "essentiel"
+       ],
+       "answer": 1,
+       "explain": "The opposite of {{obligatoire}} · {{obligatoire}}-এর বিপরীত।"
+      },
+      {
+       "q": "{{উভয়}} in French is… · ফরাসিতে {{উভয়}} হলো…",
+       "options": [
+        "tous les deux",
+        "tous les jours",
+        "tout le monde",
+        "toutes les deux heures"
+       ],
+       "answer": 0,
+       "explain": "Literally *all the two* · আক্ষরিক অর্থে *দুজনেই*।"
+      },
+      {
+       "q": "{{একনায়ক}} is… · {{একনায়ক}} হলো…",
+       "options": [
+        "le directeur",
+        "le dictateur",
+        "le dicteur",
+        "le didacteur"
+       ],
+       "answer": 1,
+       "explain": "{{une autocratie}} is the system · ব্যবস্থাটি হলো {{une autocratie}}।"
+      },
+      {
+       "q": "{{ঊষা}} is… · {{ঊষা}} হলো…",
+       "options": [
+        "une aube",
+        "une ombre",
+        "une herbe",
+        "une arme"
+       ],
+       "answer": 0,
+       "explain": "{{à l'aube}} — at dawn · {{à l'aube}} মানে ভোরবেলা।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf4",
+   "icon": "ও–ক",
+   "title": "ঐ–ক · ঐশ্বরিক → কুহেলিকা",
+   "subtitle": "Work, duty and the words of character · কাজ, কর্তব্য ও চরিত্রের শব্দ",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Collect the কর্ম– family of work words"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The letter ক opens the long middle of the Bangla alphabet, and it carries the vocabulary of work: কর্তব্য duty, কর্মচারী employee, কর্মদক্ষ competent, কাজ work itself. Learn this run and you can describe a working life in French. · ক বর্ণে আছে কাজের শব্দভান্ডার — কর্তব্য, কর্মচারী, কর্মদক্ষ, কাজ। এই অংশটি শিখলে ফরাসিতে কর্মজীবনের বর্ণনা দিতে পারবেন।"
+    },
+    {
+     "type": "vocab",
+     "title": "ঐশ্বরিক · ওয়ারেন্ট",
+     "items": [
+      {
+       "t": "ঐশ্বরিক → divin / divine",
+       "tr": "dee-VAN · দিভ়াঁ",
+       "mean": "divine · ঐশ্বরিক"
+      },
+      {
+       "t": "ঐশ্বর্য → la richesse",
+       "tr": "lah ree-SHESS · লা রিশেস্",
+       "mean": "wealth, riches · ঐশ্বর্য"
+      },
+      {
+       "t": "ঐশ্বর্যশালী → opulent",
+       "tr": "oh-pew-LAHN · অপ্যুলঁ",
+       "mean": "opulent, wealthy · ঐশ্বর্যশালী"
+      },
+      {
+       "t": "ওজন → le poids",
+       "tr": "luh PWAH · ল্য পোয়া",
+       "mean": "weight · ওজন"
+      },
+      {
+       "t": "ওতপ্রোতভাবে → inséparablement",
+       "tr": "an-say-pah-rah-bluh-MAHN · আঁসেপারাব্ল্যমঁ",
+       "mean": "inseparably · ওতপ্রোতভাবে"
+      },
+      {
+       "t": "ওয়াজিব → obligatoire",
+       "tr": "oh-blee-gah-TWAHR · অব্‌লিগাতোয়ার্",
+       "mean": "obligatory · ওয়াজিব"
+      },
+      {
+       "t": "ওলন্দাজ → un Hollandais",
+       "tr": "uhn oh-lahn-DEH · আঁন্ অলঁদে",
+       "mean": "a Dutchman · ওলন্দাজ"
+      },
+      {
+       "t": "ওষুধ → la médecine",
+       "tr": "lah mayd-SEEN · লা মেদ্‌সিন্",
+       "mean": "medicine · ওষুধ"
+      },
+      {
+       "t": "ওয়ারেন্ট → le mandat",
+       "tr": "luh mahn-DAH · ল্য মঁদা",
+       "mean": "warrant; a money order · ওয়ারেন্ট"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ঔ",
+     "items": [
+      {
+       "t": "ঔজ্জ্বল্য → le brillant",
+       "tr": "luh bree-YAHN · ল্য ব্রিঈয়ঁ",
+       "mean": "brilliance, shine · ঔজ্জ্বল্য"
+      },
+      {
+       "t": "ঔৎসুক্য → la curiosité",
+       "tr": "lah kew-ryoh-zee-TAY · লা ক্যুরিওজ়িতে",
+       "mean": "curiosity · ঔৎসুক্য"
+      },
+      {
+       "t": "ঔপন্যাসিক → le romancier",
+       "tr": "luh roh-mahn-SYAY · ল্য রমঁসীয়ে",
+       "mean": "novelist · ঔপন্যাসিক"
+      },
+      {
+       "t": "ঔষধালয় → le dispensaire",
+       "tr": "luh dees-pahn-SAIR · ল্য দিস্পঁসের্",
+       "mean": "dispensary, clinic · ঔষধালয়"
+      },
+      {
+       "t": "ঔদাসীন্য → une indifférence",
+       "tr": "ewn an-dee-fay-RAHNSS · য়্যুন্ আঁদিফ়েরঁস্",
+       "mean": "indifference · ঔদাসীন্য"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "কঠিন · কল্যাণকর",
+     "items": [
+      {
+       "t": "কঠিন → inflexible",
+       "tr": "an-flek-SEEBL · আঁফ়্লেক্সিব্‌ল্",
+       "mean": "inflexible, hard · কঠিন"
+      },
+      {
+       "t": "কঠোর → strict / stricte",
+       "tr": "STREEKT · স্ত্রিক্ত্",
+       "mean": "strict, severe · কঠোর"
+      },
+      {
+       "t": "কতিপয় → plusieurs",
+       "tr": "plew-ZYUHR · প্ল্যুজ়ীওর্",
+       "mean": "several · কতিপয়"
+      },
+      {
+       "t": "কবিতা → le poème",
+       "tr": "luh poh-EM · ল্য পয়েম্",
+       "mean": "poem · কবিতা"
+      },
+      {
+       "t": "কবর → la tombe",
+       "tr": "lah TOHMB · লা তঁব্",
+       "mean": "grave · কবর"
+      },
+      {
+       "t": "কয়লা → le charbon",
+       "tr": "luh shar-BOHN · ল্য শার্বঁ",
+       "mean": "coal · কয়লা"
+      },
+      {
+       "t": "করুণ → pathétique",
+       "tr": "pah-tay-TEEK · পাতেতিক্",
+       "mean": "moving, pathetic · করুণ"
+      },
+      {
+       "t": "করুণা → la bienveillance",
+       "tr": "lah byan-veh-YAHNSS · লা বীয়াঁভ়েঈয়ঁস্",
+       "mean": "kindness, benevolence · করুণা"
+      },
+      {
+       "t": "কল্পনা করা → imaginer",
+       "tr": "ee-mah-zhee-NAY · ইমাজ়িনে",
+       "mean": "to imagine · কল্পনা করা"
+      },
+      {
+       "t": "কল্পনাপ্রবণ → fantaisiste",
+       "tr": "fahn-teh-ZEEST · ফ়ঁতেজ়িস্ত্",
+       "mean": "fanciful · কল্পনাপ্রবণ"
+      },
+      {
+       "t": "কল্যাণকর → bénéfique",
+       "tr": "bay-nay-FEEK · বেনেফ়িক্",
+       "mean": "beneficial · কল্যাণকর"
+      },
+      {
+       "t": "কলঙ্ক → le scandale",
+       "tr": "luh skahn-DAL · ল্য স্কঁদাল্",
+       "mean": "scandal, disgrace · কলঙ্ক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "কর্তব্য · কর্মদক্ষ",
+     "items": [
+      {
+       "t": "কর্তব্য → le devoir",
+       "tr": "luh duh-VWAHR · ল্য দ্যভ়োয়ার্",
+       "mean": "duty · কর্তব্য"
+      },
+      {
+       "t": "কর্তব্যনিষ্ঠ → soumis",
+       "tr": "soo-MEE · সুমি",
+       "mean": "dutiful, submissive · কর্তব্যনিষ্ঠ"
+      },
+      {
+       "t": "কর্তৃপক্ষ → une autorité",
+       "tr": "ewn oh-toh-ree-TAY · য়্যুন্ অতরিতে",
+       "mean": "the authorities · কর্তৃপক্ষ"
+      },
+      {
+       "t": "কর্মক্লান্ত → fatigué",
+       "tr": "fah-tee-GAY · ফ়াতিগে",
+       "mean": "tired out · কর্মক্লান্ত"
+      },
+      {
+       "t": "কর্মচারী → un employé",
+       "tr": "uhn ahm-plwah-YAY · আঁন্ অঁপ্লোয়াঈয়ে",
+       "mean": "employee · কর্মচারী"
+      },
+      {
+       "t": "কর্মঠ → laborieux",
+       "tr": "lah-boh-RYUH · লাবরীও",
+       "mean": "hard-working · কর্মঠ"
+      },
+      {
+       "t": "কর্মদক্ষ → compétent",
+       "tr": "kohn-pay-TAHN · কঁপেতঁ",
+       "mean": "competent · কর্মদক্ষ"
+      },
+      {
+       "t": "কসম → le serment",
+       "tr": "luh sair-MAHN · ল্য সের্মঁ",
+       "mean": "oath · কসম"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "কাঙ্ক্ষিত · কুহেলিকা",
+     "items": [
+      {
+       "t": "কাঙ্ক্ষিত → désiré",
+       "tr": "day-zee-RAY · দেজ়িরে",
+       "mean": "desired · কাঙ্ক্ষিত"
+      },
+      {
+       "t": "কাজ → le travail",
+       "tr": "luh trah-VYE · ল্য ত্রাভ়াঈ",
+       "mean": "work · কাজ"
+      },
+      {
+       "t": "কাঠ → le bois",
+       "tr": "luh BWAH · ল্য বোয়া",
+       "mean": "wood · কাঠ"
+      },
+      {
+       "t": "কানা → aveugle",
+       "tr": "ah-VUHGL · আভ়্যগ্‌ল্",
+       "mean": "blind · কানা; অন্ধ"
+      },
+      {
+       "t": "কান্না → le cri",
+       "tr": "luh KREE · ল্য ক্রি",
+       "mean": "a cry · কান্না"
+      },
+      {
+       "t": "কান্নাকাটি করা → crier",
+       "tr": "kree-AY · ক্রিয়ে",
+       "mean": "to cry out · কান্নাকাটি করা"
+      },
+      {
+       "t": "কাপুরুষ → le lâche",
+       "tr": "luh LAHSH · ল্য লাশ্",
+       "mean": "coward · কাপুরুষ"
+      },
+      {
+       "t": "কারণ → la cause",
+       "tr": "lah KOHZ · লা কজ়্",
+       "mean": "cause, reason · কারণ"
+      },
+      {
+       "t": "কাহিনী → le récit",
+       "tr": "luh ray-SEE · ল্য রেসি",
+       "mean": "story, account · কাহিনী"
+      },
+      {
+       "t": "কিংকর্তব্যবিমূঢ় → embarrassé",
+       "tr": "ahm-bah-rah-SAY · অঁবারাসে",
+       "mean": "at a loss, embarrassed · কিংকর্তব্যবিমূঢ়"
+      },
+      {
+       "t": "কোনোকিছু → quelque chose",
+       "tr": "kelk SHOHZ · কেল্‌ক্ শোজ়্",
+       "mean": "something · কোনোকিছু"
+      },
+      {
+       "t": "কুকীর্তি → le méfait",
+       "tr": "luh may-FEH · ল্য মেফ়ে",
+       "mean": "misdeed · কুকীর্তি"
+      },
+      {
+       "t": "কুখ্যাত → infâme",
+       "tr": "an-FAHM · আঁফ়াম্",
+       "mean": "infamous · কুখ্যাত"
+      },
+      {
+       "t": "কুমারী → la vierge",
+       "tr": "lah VYAIRZH · লা ভ়ীয়ের্জ়্",
+       "mean": "maiden, virgin · কুমারী"
+      },
+      {
+       "t": "কুরআন, কোরান → le Coran",
+       "tr": "luh koh-RAHN · ল্য করঁ",
+       "mean": "the Quran · কুরআন"
+      },
+      {
+       "t": "কুসংস্কার → la superstition",
+       "tr": "lah sew-pair-stee-SYOHN · লা স্যুপের্স্তিসীওঁ",
+       "mean": "superstition · কুসংস্কার"
+      },
+      {
+       "t": "কুহেলিকা → le brouillard",
+       "tr": "luh broo-YAR · ল্য ব্রুইয়ার্",
+       "mean": "fog, mist · কুহেলিকা"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{কাজ}} in French is… · ফরাসিতে {{কাজ}} হলো…",
+       "options": [
+        "le devoir",
+        "le travail",
+        "la tâche",
+        "le métier"
+       ],
+       "answer": 1,
+       "explain": "{{le devoir}} is duty, {{la tâche}} a single task · {{le devoir}} কর্তব্য, {{la tâche}} একটি নির্দিষ্ট কাজ।"
+      },
+      {
+       "q": "{{কুহেলিকা}} is… · {{কুহেলিকা}} হলো…",
+       "options": [
+        "le brouillard",
+        "le bruit",
+        "le bouillon",
+        "la brouette"
+       ],
+       "answer": 0,
+       "explain": "{{il y a du brouillard}} — it is foggy · কুয়াশা পড়েছে।"
+      },
+      {
+       "q": "{{কর্মদক্ষ}} is… · {{কর্মদক্ষ}} হলো…",
+       "options": [
+        "content",
+        "compétent",
+        "comptable",
+        "complet"
+       ],
+       "answer": 1,
+       "explain": "{{le comptable}} is the accountant · {{le comptable}} হিসাবরক্ষক।"
+      },
+      {
+       "q": "{{কাপুরুষ}} is… · {{কাপুরুষ}} হলো…",
+       "options": [
+        "le lâche",
+        "la lâcheté",
+        "le lac",
+        "la tâche"
+       ],
+       "answer": 0,
+       "explain": "{{la lâcheté}} is the cowardice itself · {{la lâcheté}} মানে কাপুরুষতা।"
+      },
+      {
+       "q": "{{ওজন}} in French is… · ফরাসিতে {{ওজন}} হলো…",
+       "options": [
+        "le poids",
+        "le point",
+        "le pois",
+        "la poche"
+       ],
+       "answer": 0,
+       "explain": "{{le pois}} is a pea · {{le pois}} মানে মটরশুঁটি।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf5",
+   "icon": "খ–ঘ",
+   "title": "ক–ঘ · কৃপণ → ঘৃণা",
+   "subtitle": "News, food and fame · খবর, খাবার ও খ্যাতি",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Note how many Bangla abstract nouns become French -ance and -ité"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "A pattern worth noticing: Bangla abstract nouns in -তা and -ত্ব usually land on French **-ité**, **-ance** or **-esse** — {{ক্ষমতা → la puissance}}, {{কৃপণতা → une avarice}}, {{ঐশ্বর্য → la richesse}}. Spot the ending and you can often guess the French. · লক্ষ করুন: বাংলার -তা ও -ত্ব সাধারণত ফরাসির **-ité**, **-ance** বা **-esse**-এ গিয়ে দাঁড়ায়।"
+    },
+    {
+     "type": "vocab",
+     "title": "কৃপণ · ক্ষোভ",
+     "items": [
+      {
+       "t": "কৃপণ → un avare",
+       "tr": "uhn ah-VAR · আঁন্ আভ়ার্",
+       "mean": "a miser · কৃপণ"
+      },
+      {
+       "t": "কৃপণতা → une avarice",
+       "tr": "ewn ah-vah-REESS · য়্যুন্ আভ়ারিস্",
+       "mean": "miserliness · কৃপণতা"
+      },
+      {
+       "t": "কৈশোর → l'adolescence",
+       "tr": "lah-doh-leh-SAHNSS · লাদলেসঁস্",
+       "mean": "adolescence · কৈশোর"
+      },
+      {
+       "t": "কোষাধ্যক্ষ → le trésorier",
+       "tr": "luh tray-zoh-RYAY · ল্য ত্রেজ়রীয়ে",
+       "mean": "treasurer · কোষাধ্যক্ষ"
+      },
+      {
+       "t": "কৌতুক → la plaisanterie",
+       "tr": "lah pleh-zahn-TREE · লা প্লেজ়ঁতেরি",
+       "mean": "joke, pleasantry · কৌতুক"
+      },
+      {
+       "t": "ক্ষমতা → la puissance",
+       "tr": "lah pwee-SAHNSS · লা পুইসঁস্",
+       "mean": "power · ক্ষমতা"
+      },
+      {
+       "t": "ক্ষমতাশালী → puissant",
+       "tr": "pwee-SAHN · পুইসঁ",
+       "mean": "powerful · ক্ষমতাশালী"
+      },
+      {
+       "t": "ক্ষমা → le pardon",
+       "tr": "luh par-DOHN · ল্য পার্দঁ",
+       "mean": "forgiveness, pardon · ক্ষমা"
+      },
+      {
+       "t": "ক্ষুদ্র → petit",
+       "tr": "puh-TEE · প্যতি",
+       "mean": "small · ক্ষুদ্র"
+      },
+      {
+       "t": "ক্ষুধা → la faim",
+       "tr": "lah FAN · লা ফ়াঁ",
+       "mean": "hunger · ক্ষুধা"
+      },
+      {
+       "t": "ক্ষুব্ধ → agité / agitée",
+       "tr": "ah-zhee-TAY · আজ়িতে",
+       "mean": "agitated, upset · ক্ষুব্ধ"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "খবর · খারাপ",
+     "items": [
+      {
+       "t": "খবর → la nouvelle",
+       "tr": "lah noo-VEL · লা নুভ়েল্",
+       "mean": "news · খবর"
+      },
+      {
+       "t": "খতনা → la circoncision",
+       "tr": "lah seer-kohn-see-ZYOHN · লা সির্কঁসিজ়ীওঁ",
+       "mean": "circumcision · খতনা"
+      },
+      {
+       "t": "খদ্দের, খরিদ্দার → le chaland",
+       "tr": "luh shah-LAHN · ল্য শালঁ",
+       "mean": "customer · খদ্দের"
+      },
+      {
+       "t": "খাজাঞ্চি → le trésorier",
+       "tr": "luh tray-zoh-RYAY · ল্য ত্রেজ়রীয়ে",
+       "mean": "cashier, treasurer · খাজাঞ্চি"
+      },
+      {
+       "t": "খাতক → le débiteur",
+       "tr": "luh day-bee-TUHR · ল্য দেবিত্যর্",
+       "mean": "debtor · খাতক"
+      },
+      {
+       "t": "খাবার → la nourriture",
+       "tr": "lah noo-ree-TEWR · লা নুরিত্যুর্",
+       "mean": "food · খাবার"
+      },
+      {
+       "t": "খারাপ → mauvais",
+       "tr": "moh-VEH · মোভ়ে",
+       "mean": "bad · খারাপ"
+      },
+      {
+       "t": "খুশকি → les pellicules",
+       "tr": "lay peh-lee-KEWL · লে পেলিক্যুল্",
+       "mean": "dandruff · খুশকি"
+      },
+      {
+       "t": "খুশি, খুশী → le bonheur",
+       "tr": "luh boh-NUHR · ল্য বন্যর্",
+       "mean": "happiness · খুশি"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "খুন · খোরপোশ",
+     "items": [
+      {
+       "t": "খুন → le meurtre",
+       "tr": "luh MUHRTR · ল্য ম্যর্ত্র্",
+       "mean": "murder · খুন"
+      },
+      {
+       "t": "খেয়ানত → le détournement",
+       "tr": "luh day-toorn-MAHN · ল্য দেতুর্ন্যমঁ",
+       "mean": "embezzlement · খেয়ানত"
+      },
+      {
+       "t": "খেলনা → le jouet",
+       "tr": "luh zhoo-EH · ল্য জ়ুয়ে",
+       "mean": "toy · খেলনা"
+      },
+      {
+       "t": "খোলাখুলি → franchement",
+       "tr": "frahnsh-MAHN · ফ়্রঁশ্‌মঁ",
+       "mean": "frankly, openly · খোলাখুলি"
+      },
+      {
+       "t": "খ্যাতি → le renom",
+       "tr": "luh ruh-NOHN · ল্য র্যনঁ",
+       "mean": "renown, fame · খ্যাতি"
+      },
+      {
+       "t": "খ্যাতিমান → distingué",
+       "tr": "dees-tan-GAY · দিস্তাঁগে",
+       "mean": "distinguished · খ্যাতিমান"
+      },
+      {
+       "t": "খোদা → Allah",
+       "tr": "ah-LAH · আল্লাহ্",
+       "mean": "God · খোদা"
+      },
+      {
+       "t": "খোরপোশ → le maintien",
+       "tr": "luh man-TYAN · ল্য মাঁতীয়াঁ",
+       "mean": "maintenance, upkeep · খোরপোশ"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "গ",
+     "items": [
+      {
+       "t": "গতানুগতিক → traditionnel",
+       "tr": "trah-dee-syoh-NEL · ত্রাদিসীওঁনেল্",
+       "mean": "conventional, traditional · গতানুগতিক"
+      },
+      {
+       "t": "গদ্য → la prose",
+       "tr": "lah PROHZ · লা প্রজ়্",
+       "mean": "prose · গদ্য"
+      },
+      {
+       "t": "গন্তব্য → la destination",
+       "tr": "lah des-tee-nah-SYOHN · লা দেস্তিনাসীওঁ",
+       "mean": "destination · গন্তব্য"
+      },
+      {
+       "t": "গভীর → profond",
+       "tr": "proh-FOHN · প্রফ়ঁ",
+       "mean": "deep · গভীর"
+      },
+      {
+       "t": "গরহাজির → absent",
+       "tr": "ab-SAHN · আপ্সঁ",
+       "mean": "absent · গরহাজির"
+      },
+      {
+       "t": "গর্ত → le trou",
+       "tr": "luh TROO · ল্য ত্রু",
+       "mean": "hole · গর্ত"
+      },
+      {
+       "t": "গাউন → la robe",
+       "tr": "lah ROB · লা রব্",
+       "mean": "gown, dress · গাউন"
+      },
+      {
+       "t": "গহনা → un ornement",
+       "tr": "uhn or-nuh-MAHN · আঁন্ অর্ন্যমঁ",
+       "mean": "ornament, jewellery · গহনা"
+      },
+      {
+       "t": "গাড়োয়ান → le cocher",
+       "tr": "luh koh-SHAY · ল্য কশে",
+       "mean": "coachman, driver · গাড়োয়ান"
+      },
+      {
+       "t": "গিন্নি → la ménagère",
+       "tr": "lah may-nah-ZHAIR · লা মেনাজ়ের্",
+       "mean": "housewife · গিন্নি"
+      },
+      {
+       "t": "গীবত → la calomnie",
+       "tr": "lah kah-lom-NEE · লা কালম্‌নি",
+       "mean": "slander, backbiting · গীবত"
+      },
+      {
+       "t": "গুলিস্তান → le jardin d'agrément",
+       "tr": "luh zhar-dan dah-gray-MAHN · ল্য জ়ার্দাঁ দাগ্রেমঁ",
+       "mean": "pleasure garden · গুলিস্তান"
+      },
+      {
+       "t": "গোয়েন্দা → le détective",
+       "tr": "luh day-tek-TEEV · ল্য দেতেক্তিভ়্",
+       "mean": "detective · গোয়েন্দা"
+      },
+      {
+       "t": "গৌরব → la gloire",
+       "tr": "lah GLWAHR · লা গ্লোয়ার্",
+       "mean": "glory · গৌরব"
+      },
+      {
+       "t": "গ্রাহ্য → acceptable",
+       "tr": "ak-sep-TAHBL · আক্সেপ্‌তাব্‌ল্",
+       "mean": "acceptable · গ্রাহ্য"
+      },
+      {
+       "t": "গ্রেপ্তার → un arrêt",
+       "tr": "uhn ah-REH · আঁন্ আরে",
+       "mean": "arrest · গ্রেপ্তার"
+      },
+      {
+       "t": "গ্রীষ্ম → un été",
+       "tr": "uhn ay-TAY · আঁন্ এতে",
+       "mean": "summer · গ্রীষ্ম"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ঘ",
+     "items": [
+      {
+       "t": "ঘটক → le marieur",
+       "tr": "luh mah-RYUHR · ল্য মারীওর্",
+       "mean": "matchmaker · ঘটক"
+      },
+      {
+       "t": "ঘটনাক্রমে → fortuitement",
+       "tr": "for-twit-MAHN · ফ়র্তুইত্‌মঁ",
+       "mean": "by chance, fortuitously · ঘটনাক্রমে"
+      },
+      {
+       "t": "ঘাতক → le tueur",
+       "tr": "luh tew-UHR · ল্য ত্যুওর্",
+       "mean": "killer · ঘাতক"
+      },
+      {
+       "t": "ঘাস → une herbe",
+       "tr": "ewn AIRB · য়্যুন্ এর্ব্",
+       "mean": "grass · ঘাস"
+      },
+      {
+       "t": "ঘৃণা → une aversion",
+       "tr": "ewn ah-vair-SYOHN · য়্যুন্ আভ়ের্সীওঁ",
+       "mean": "aversion, hatred · ঘৃণা"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{খাবার}} in French is… · ফরাসিতে {{খাবার}} হলো…",
+       "options": [
+        "le repas",
+        "la nourriture",
+        "la cuisine",
+        "le plat"
+       ],
+       "answer": 1,
+       "explain": "{{le repas}} is the meal as an occasion · {{le repas}} মানে আহারপর্ব।"
+      },
+      {
+       "q": "{{গ্রীষ্ম}} is… · {{গ্রীষ্ম}} হলো…",
+       "options": [
+        "un hiver",
+        "un printemps",
+        "un été",
+        "un automne"
+       ],
+       "answer": 2,
+       "explain": "{{en été}} — in summer · {{en été}} মানে গ্রীষ্মকালে।"
+      },
+      {
+       "q": "{{ক্ষুধা}} and {{la faim}} both mean… · {{ক্ষুধা}} ও {{la faim}} দুটিরই অর্থ…",
+       "options": [
+        "thirst",
+        "hunger",
+        "fatigue",
+        "fever"
+       ],
+       "answer": 1,
+       "explain": "{{la soif}} is thirst · তৃষ্ণা হলো {{la soif}}।"
+      },
+      {
+       "q": "{{খোলাখুলি}} is… · {{খোলাখুলি}} হলো…",
+       "options": [
+        "franchement",
+        "finalement",
+        "fortement",
+        "fraîchement"
+       ],
+       "answer": 0,
+       "explain": "From {{franc}}, frank · {{franc}} অর্থাৎ অকপট থেকে।"
+      },
+      {
+       "q": "{{গভীর}} in French is… · ফরাসিতে {{গভীর}} হলো…",
+       "options": [
+        "parfait",
+        "profond",
+        "préféré",
+        "profane"
+       ],
+       "answer": 1,
+       "explain": "{{la profondeur}} is the depth · {{la profondeur}} মানে গভীরতা।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf6",
+   "icon": "চ–জ",
+   "title": "ঘ–জ · ঘুষ → জ্বলন্ত",
+   "subtitle": "Character, thought and the crowd · চরিত্র, চিন্তা ও জনতা",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Learn the two kisses: {{le baiser}} and {{embrasser}}"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "{{le baiser}} is the noun — a kiss. {{embrasser}} is the verb — to kiss. Beginners reach for the verb {{baiser}}, which in modern French is coarse. Use {{embrasser}} and you are always safe. · {{le baiser}} বিশেষ্য — চুমু। {{embrasser}} ক্রিয়া — চুমু দেওয়া। ক্রিয়া হিসেবে {{baiser}} আধুনিক ফরাসিতে অশ্লীল, তাই {{embrasser}}-ই নিরাপদ।"
+    },
+    {
+     "type": "vocab",
+     "title": "ঘুষ · ঘ্রাণ",
+     "items": [
+      {
+       "t": "ঘুষ, ঘুস → le pot-de-vin",
+       "tr": "luh pod-VAN · ল্য পদ্‌ভ়াঁ",
+       "mean": "bribe · ঘুষ"
+      },
+      {
+       "t": "ঘোটক → le cheval",
+       "tr": "luh shuh-VAL · ল্য শ্যভ়াল্",
+       "mean": "horse · ঘোটক"
+      },
+      {
+       "t": "ঘোমটা → la voilette",
+       "tr": "lah vwah-LET · লা ভ়োয়ালেত্",
+       "mean": "veil · ঘোমটা"
+      },
+      {
+       "t": "ঘোষণা → la proclamation",
+       "tr": "lah proh-klah-mah-SYOHN · লা প্রক্লামাসীওঁ",
+       "mean": "proclamation, announcement · ঘোষণা"
+      },
+      {
+       "t": "ঘ্রাণ → une odeur",
+       "tr": "ewn oh-DUHR · য়্যুন্ অদর্",
+       "mean": "smell · ঘ্রাণ"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "চওড়া · চাহিদা",
+     "items": [
+      {
+       "t": "চওড়া → large",
+       "tr": "LARZH · লার্জ়্",
+       "mean": "wide, broad · চওড়া"
+      },
+      {
+       "t": "চক্রান্তকারী → le conspirateur",
+       "tr": "luh kohns-pee-rah-TUHR · ল্য কঁস্পিরাতুর্",
+       "mean": "conspirator · চক্রান্তকারী"
+      },
+      {
+       "t": "চমৎকার → excellent",
+       "tr": "ek-say-LAHN · এক্সেলঁ",
+       "mean": "excellent · চমৎকার"
+      },
+      {
+       "t": "চরিত্র → le caractère",
+       "tr": "luh kah-rak-TAIR · ল্য কারাক্তের্",
+       "mean": "character · চরিত্র"
+      },
+      {
+       "t": "চাঁদা → la souscription",
+       "tr": "lah soos-kreep-SYOHN · লা সুস্ক্রিপ্‌সীওঁ",
+       "mean": "subscription · চাঁদা"
+      },
+      {
+       "t": "চামড়া → le cuir",
+       "tr": "luh KWEER · ল্য কুইর্",
+       "mean": "leather, skin · চামড়া"
+      },
+      {
+       "t": "চালাক → adroit",
+       "tr": "ah-DRWAH · আদ্রোয়া",
+       "mean": "clever, shrewd · চালাক"
+      },
+      {
+       "t": "চালক → le conducteur",
+       "tr": "luh kohn-dewk-TUHR · ল্য কঁদ্যুক্ত্যর্",
+       "mean": "driver · চালক"
+      },
+      {
+       "t": "চাহিদা → la nécessité",
+       "tr": "lah nay-say-see-TAY · লা নেসেসিতে",
+       "mean": "need, demand · চাহিদা"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "চিৎকার · চোর",
+     "items": [
+      {
+       "t": "চিৎকার করা → huer",
+       "tr": "ew-AY · য়্যুয়ে",
+       "mean": "to shout, to jeer · চিৎকার করা"
+      },
+      {
+       "t": "চিত্তাকর্ষক → attrayant",
+       "tr": "ah-treh-YAHN · আত্রেঈয়ঁ",
+       "mean": "attractive, appealing · চিত্তাকর্ষক"
+      },
+      {
+       "t": "চিন্তা → la pensée",
+       "tr": "lah pahn-SAY · লা পঁসে",
+       "mean": "thought · চিন্তা"
+      },
+      {
+       "t": "চিরস্মরণীয় → inoubliable",
+       "tr": "ee-noo-blee-AHBL · ইনুব্লিয়াব্‌ল্",
+       "mean": "unforgettable · চিরস্মরণীয়"
+      },
+      {
+       "t": "চুমু → le baiser",
+       "tr": "luh beh-ZAY · ল্য বেজ়ে",
+       "mean": "a kiss · চুমু"
+      },
+      {
+       "t": "চুমা দেওয়া → embrasser",
+       "tr": "ahm-brah-SAY · অঁব্রাসে",
+       "mean": "to kiss · চুমু দেওয়া"
+      },
+      {
+       "t": "চূড়ান্ত → final",
+       "tr": "fee-NAL · ফ়িনাল্",
+       "mean": "final · চূড়ান্ত"
+      },
+      {
+       "t": "চেতনা → la conscience",
+       "tr": "lah kohn-SYAHNSS · লা কঁসীয়ঁস্",
+       "mean": "consciousness · চেতনা"
+      },
+      {
+       "t": "চোর → le voleur",
+       "tr": "luh voh-LUHR · ল্য ভ়ল্যর্",
+       "mean": "thief · চোর"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ছ",
+     "items": [
+      {
+       "t": "ছত্রাক → le fongus",
+       "tr": "luh fohn-GEWSS · ল্য ফ়ঁগ্যুস্",
+       "mean": "fungus · ছত্রাক"
+      },
+      {
+       "t": "ছলনা → une hypocrisie",
+       "tr": "ewn ee-poh-kree-ZEE · য়্যুন্ ইপক্রিজ়ি",
+       "mean": "deceit, hypocrisy · ছলনা"
+      },
+      {
+       "t": "ছিনতাই করা → détourner",
+       "tr": "day-toor-NAY · দেতুর্নে",
+       "mean": "to hijack, to divert · ছিনতাই করা"
+      },
+      {
+       "t": "ছিনতাইকারী → le pirate",
+       "tr": "luh pee-RAHT · ল্য পিরাত্",
+       "mean": "hijacker, pirate · ছিনতাইকারী"
+      },
+      {
+       "t": "ছুরি → le couteau",
+       "tr": "luh koo-TOH · ল্য কুতো",
+       "mean": "knife · ছুরি"
+      },
+      {
+       "t": "ছোটো → tout petit",
+       "tr": "too puh-TEE · তু প্যতি",
+       "mean": "very small · ছোটো"
+      },
+      {
+       "t": "ছিমছাম → rangé",
+       "tr": "rahn-ZHAY · রঁজ়ে",
+       "mean": "tidy, orderly · ছিমছাম"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "জ",
+     "items": [
+      {
+       "t": "জখম → la blessure",
+       "tr": "lah bleh-SEWR · লা ব্লেস্যুর্",
+       "mean": "wound · জখম"
+      },
+      {
+       "t": "জঘন্য → sale",
+       "tr": "SAL · সাল্",
+       "mean": "filthy, vile · জঘন্য"
+      },
+      {
+       "t": "জঙ্গল → la forêt",
+       "tr": "lah foh-REH · লা ফ়রে",
+       "mean": "forest, jungle · জঙ্গল"
+      },
+      {
+       "t": "জটিল → compliqué",
+       "tr": "kohn-plee-KAY · কঁপ্লিকে",
+       "mean": "complicated · জটিল"
+      },
+      {
+       "t": "জনতা → la foule",
+       "tr": "lah FOOL · লা ফ়ুল্",
+       "mean": "crowd · জনতা"
+      },
+      {
+       "t": "জনাকীর্ণ → populeux",
+       "tr": "poh-pew-LUH · পপ্যুলো",
+       "mean": "crowded, populous · জনাকীর্ণ"
+      },
+      {
+       "t": "জরিপ → une inspection",
+       "tr": "ewn ans-pek-SYOHN · য়্যুন্ আঁস্পেক্সীওঁ",
+       "mean": "survey, inspection · জরিপ"
+      },
+      {
+       "t": "জলাশয় → un étang",
+       "tr": "uhn ay-TAHN · আঁন্ এতঁ",
+       "mean": "pond, reservoir · জলাশয়"
+      },
+      {
+       "t": "জাতীয়তা → la nationalité",
+       "tr": "lah nah-syoh-nah-lee-TAY · লা নাসীওনালিতে",
+       "mean": "nationality · জাতীয়তা"
+      },
+      {
+       "t": "জামিন → la caution",
+       "tr": "lah koh-SYOHN · লা কসীওঁ",
+       "mean": "bail, surety · জামিন"
+      },
+      {
+       "t": "জালিয়াতি → la falsification",
+       "tr": "lah fal-see-fee-kah-SYOHN · লা ফ়াল্‌সিফ়িকাসীওঁ",
+       "mean": "forgery · জালিয়াতি"
+      },
+      {
+       "t": "জাহান্নাম → un enfer",
+       "tr": "uhn ahn-FAIR · আঁন্ অঁফ়ের্",
+       "mean": "hell · জাহান্নাম"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "জিজ্ঞাসা · জ্বলন্ত",
+     "items": [
+      {
+       "t": "জিজ্ঞাসা → la curiosité",
+       "tr": "lah kew-ryoh-zee-TAY · লা ক্যুরিওজ়িতে",
+       "mean": "curiosity, enquiry · জিজ্ঞাসা"
+      },
+      {
+       "t": "জিম্মা → la garde",
+       "tr": "lah GARD · লা গার্দ্",
+       "mean": "custody, charge · জিম্মা"
+      },
+      {
+       "t": "জীবন্ত → vivant",
+       "tr": "vee-VAHN · ভ়িভ়ঁ",
+       "mean": "alive, living · জীবন্ত"
+      },
+      {
+       "t": "জুয়া → le jeu",
+       "tr": "luh ZHUH · ল্য জ়্য",
+       "mean": "gambling, a game · জুয়া"
+      },
+      {
+       "t": "জোছনা → le clair de lune",
+       "tr": "luh klair duh LEWN · ল্য ক্লের্ দ্য ল্যুন্",
+       "mean": "moonlight · জোছনা"
+      },
+      {
+       "t": "জ্ঞানানুশীলন → une étude",
+       "tr": "ewn ay-TEWD · য়্যুন্ এত্যুদ্",
+       "mean": "study, learning · জ্ঞানানুশীলন"
+      },
+      {
+       "t": "জ্ঞানী → sage",
+       "tr": "SAHZH · সাজ়্",
+       "mean": "wise · জ্ঞানী"
+      },
+      {
+       "t": "জ্বলন্ত → flamboyant",
+       "tr": "flahn-bwah-YAHN · ফ়্লঁবোয়াঈয়ঁ",
+       "mean": "blazing, flaming · জ্বলন্ত"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{চিন্তা}} in French is… · ফরাসিতে {{চিন্তা}} হলো…",
+       "options": [
+        "la peine",
+        "la pensée",
+        "la panse",
+        "la pension"
+       ],
+       "answer": 1,
+       "explain": "From {{penser}}, to think · {{penser}} অর্থাৎ ভাবা থেকে।"
+      },
+      {
+       "q": "To say *to kiss* you use… · *চুমু দেওয়া* বলতে ব্যবহার করুন…",
+       "options": [
+        "baiser",
+        "embrasser",
+        "le baiser",
+        "la bise"
+       ],
+       "answer": 1,
+       "explain": "The verb {{baiser}} is coarse in modern French · ক্রিয়া {{baiser}} আধুনিক ফরাসিতে অশ্লীল।"
+      },
+      {
+       "q": "{{জনতা}} is… · {{জনতা}} হলো…",
+       "options": [
+        "la foule",
+        "la folie",
+        "la feuille",
+        "la fouille"
+       ],
+       "answer": 0,
+       "explain": "{{populeux}} describes a crowded place · {{populeux}} মানে জনাকীর্ণ।"
+      },
+      {
+       "q": "{{ঘুষ}} is… · {{ঘুষ}} হলো…",
+       "options": [
+        "le pot",
+        "le vin",
+        "le pot-de-vin",
+        "le pourboire"
+       ],
+       "answer": 2,
+       "explain": "{{le pourboire}} is an honest tip · {{le pourboire}} মানে সৎ বখশিশ।"
+      },
+      {
+       "q": "{{জ্ঞানী}} and {{sage}} both mean… · {{জ্ঞানী}} ও {{sage}} দুটিরই অর্থ…",
+       "options": [
+        "wise",
+        "aged",
+        "quiet",
+        "learned by heart"
+       ],
+       "answer": 0,
+       "explain": "Of a child, {{sage}} means well-behaved · শিশুর ক্ষেত্রে {{sage}} মানে শান্ত।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf7",
+   "icon": "ঝ–ঠ",
+   "title": "জ্যোতি–ঠ · জ্যোতির্বিদ্যা → ঠাঁই",
+   "subtitle": "Quarrels, risk and the right address · ঝগড়া, ঝুঁকি আর সঠিক ঠিকানা",
+   "minutes": 10,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Learn {{ঠিক → vrai}} and {{ঠিকানা → une adresse}}"
+   ],
+   "blocks": [
+    {
+     "type": "vocab",
+     "title": "জ্যোতির্বিদ্যা · ঝানু",
+     "items": [
+      {
+       "t": "জ্যোতির্বিদ্যা → une astronomie",
+       "tr": "ewn as-troh-noh-MEE · য়্যুন্ আস্ত্রনমি",
+       "mean": "astronomy · জ্যোতির্বিদ্যা"
+      },
+      {
+       "t": "জ্যোতিষী → un astrologue",
+       "tr": "uhn as-troh-LOG · আঁন্ আস্ত্রলগ্",
+       "mean": "astrologer · জ্যোতিষী"
+      },
+      {
+       "t": "ঝরনা, ঝর্না → la fontaine",
+       "tr": "lah fohn-TEN · লা ফ়ঁতেন্",
+       "mean": "spring, fountain · ঝরনা"
+      },
+      {
+       "t": "ঝগড়াটে → querelleur",
+       "tr": "kuh-reh-LUHR · ক্যরেল্যর্",
+       "mean": "quarrelsome · ঝগড়াটে"
+      },
+      {
+       "t": "ঝামেলা → le trouble",
+       "tr": "luh TROOBL · ল্য ত্রুব্‌ল্",
+       "mean": "trouble · ঝামেলা"
+      },
+      {
+       "t": "ঝুঁকি → le risque",
+       "tr": "luh REESK · ল্য রিস্ক্",
+       "mean": "risk · ঝুঁকি"
+      },
+      {
+       "t": "ঝাঁপ → le saut",
+       "tr": "luh SOH · ল্য সো",
+       "mean": "leap, jump · ঝাঁপ"
+      },
+      {
+       "t": "ঝানু → habile",
+       "tr": "ah-BEEL · আবিল্",
+       "mean": "skilled, seasoned · ঝানু"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ট · ঠ",
+     "items": [
+      {
+       "t": "টইটম্বুর → tout plein",
+       "tr": "too PLAN · তু প্লাঁ",
+       "mean": "brim-full · টইটম্বুর"
+      },
+      {
+       "t": "টেকো → chauve",
+       "tr": "SHOHV · শোভ়্",
+       "mean": "bald · টেকো"
+      },
+      {
+       "t": "টিকেট → le ticket",
+       "tr": "luh tee-KEH · ল্য তিকে",
+       "mean": "ticket · টিকেট"
+      },
+      {
+       "t": "টীকা → la note",
+       "tr": "lah NOT · লা নত্",
+       "mean": "a note, an annotation · টীকা"
+      },
+      {
+       "t": "টিকা → la vaccination",
+       "tr": "lah vak-see-nah-SYOHN · লা ভ়াক্সিনাসীওঁ",
+       "mean": "vaccination · টিকা"
+      },
+      {
+       "t": "ঠাট্টা → la plaisanterie",
+       "tr": "lah pleh-zahn-TREE · লা প্লেজ়ঁতেরি",
+       "mean": "joke · ঠাট্টা"
+      },
+      {
+       "t": "ঠান্ডা → froid",
+       "tr": "FRWAH · ফ়্রোয়া",
+       "mean": "cold · ঠান্ডা"
+      },
+      {
+       "t": "ঠিক → vrai",
+       "tr": "VREH · ভ়্রে",
+       "mean": "right, true · ঠিক"
+      },
+      {
+       "t": "ঠিকানা → une adresse",
+       "tr": "ewn ah-DRESS · য়্যুন্ আদ্রেস্",
+       "mean": "address · ঠিকানা"
+      },
+      {
+       "t": "ঠিকাদার → le contractant",
+       "tr": "luh kohn-trak-TAHN · ল্য কঁত্রাক্তঁ",
+       "mean": "contractor · ঠিকাদার"
+      },
+      {
+       "t": "ঠেকা → la difficulté",
+       "tr": "lah dee-fee-kewl-TAY · লা দিফ়িক্যুল্‌তে",
+       "mean": "difficulty, a fix · ঠেকা"
+      },
+      {
+       "t": "ঠোঁট → la lèvre",
+       "tr": "lah LEVR · লা লেভ়্র্",
+       "mean": "lip · ঠোঁট"
+      },
+      {
+       "t": "ঠগ → un étrangleur",
+       "tr": "uhn ay-trahn-GLUHR · আঁন্ এত্রঁগ্ল্যর্",
+       "mean": "a thug, a strangler · ঠগ"
+      },
+      {
+       "t": "ঠাঁই → un accommodement",
+       "tr": "uhn ah-koh-mod-MAHN · আঁন্ আকমদ্‌মঁ",
+       "mean": "a place, accommodation · ঠাঁই"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{ঠিকানা}} in French is… · ফরাসিতে {{ঠিকানা}} হলো…",
+       "options": [
+        "une adresse",
+        "un adresse",
+        "une addresse",
+        "une adress"
+       ],
+       "answer": 0,
+       "explain": "Feminine, one d, double s · স্ত্রীলিঙ্গ, একটি d, দুটি s।"
+      },
+      {
+       "q": "{{টেকো}} is… · {{টেকো}} হলো…",
+       "options": [
+        "chaud",
+        "chauve",
+        "chaude",
+        "chauffé"
+       ],
+       "answer": 1,
+       "explain": "{{chaud}} means hot · {{chaud}} মানে গরম।"
+      },
+      {
+       "q": "{{ঝুঁকি}} is… · {{ঝুঁকি}} হলো…",
+       "options": [
+        "le risque",
+        "le reste",
+        "la rixe",
+        "le rusé"
+       ],
+       "answer": 0,
+       "explain": "{{risquer}} is the verb · ক্রিয়া হলো {{risquer}}।"
+      },
+      {
+       "q": "{{টিকা}} and {{টীকা}} differ: {{টিকা}} is… · {{টিকা}} মানে…",
+       "options": [
+        "an annotation",
+        "a vaccination",
+        "a ticket",
+        "a tick"
+       ],
+       "answer": 1,
+       "explain": "One long vowel apart in Bangla, worlds apart in French · বাংলায় এক মাত্রার তফাত, ফরাসিতে বিস্তর।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf8",
+   "icon": "ড",
+   "title": "ড · the sounds animals make",
+   "subtitle": "Every creature has its own French verb · প্রতিটি প্রাণীর নিজস্ব ফরাসি শব্দ",
+   "minutes": 12,
+   "goals": [
+    "Name the cry of any animal in French",
+    "Read each entry in all three languages",
+    "Notice the **-ement** ending that turns a cry into a noun"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "French gives almost every animal its own verb, and turns it into a noun with **-ement**: {{aboyer → un aboiement}}, {{miauler → le miaulement}}, {{rugir → le rugissement}}. English makes do with *barking*, *mewing*, *roaring*. This is one of the most charming corners of the language — and a page no phrasebook will give you. · ফরাসিতে প্রায় প্রতিটি প্রাণীর নিজস্ব ক্রিয়া আছে, আর **-ement** যোগ করে তা বিশেষ্য হয়ে যায়। কোনো ভ্রমণ-বইয়ে এই পাতাটি পাবেন না।"
+    },
+    {
+     "type": "vocab",
+     "title": "ডাক · the word itself",
+     "items": [
+      {
+       "t": "ডাক → un appel",
+       "tr": "uhn ah-PEL · আঁন্ আপেল্",
+       "mean": "a call · ডাক"
+      },
+      {
+       "t": "ডাকনাম → le surnom",
+       "tr": "luh sewr-NOHN · ল্য স্যুর্নঁ",
+       "mean": "nickname · ডাকনাম"
+      },
+      {
+       "t": "নাম-ডাক → la réputation",
+       "tr": "lah ray-pew-tah-SYOHN · লা রেপ্যুতাসীওঁ",
+       "mean": "reputation · নাম-ডাক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "The farmyard · খামারের প্রাণী",
+     "items": [
+      {
+       "t": "কুকুরের ডাক → un aboiement",
+       "tr": "uhn ah-bwah-MAHN · আঁন্ আবোয়ামঁ",
+       "mean": "a dog's bark · কুকুরের ডাক"
+      },
+      {
+       "t": "বিড়ালের ডাক → le miaulement",
+       "tr": "luh myohl-MAHN · ল্য মীওল্‌মঁ",
+       "mean": "a cat's mew · বিড়ালের ডাক"
+      },
+      {
+       "t": "গরুর ডাক → le mugissement",
+       "tr": "luh mew-zheess-MAHN · ল্য ম্যুজ়িস্‌মঁ",
+       "mean": "a cow's low · গরুর ডাক"
+      },
+      {
+       "t": "ষাঁড়ের ডাক → le beuglement",
+       "tr": "luh buh-gluh-MAHN · ল্য ব্যগ্ল্যমঁ",
+       "mean": "a bull's bellow · ষাঁড়ের ডাক"
+      },
+      {
+       "t": "মেষের ডাক → le bêlement",
+       "tr": "luh bel-MAHN · ল্য বেল্‌মঁ",
+       "mean": "a sheep's bleat · মেষের ডাক"
+      },
+      {
+       "t": "গর্দভের ডাক → le braiment",
+       "tr": "luh breh-MAHN · ল্য ব্রেমঁ",
+       "mean": "a donkey's bray · গর্দভের ডাক"
+      },
+      {
+       "t": "শূকরের ডাক → le grognement",
+       "tr": "luh groh-nyuh-MAHN · ল্য গ্রঞমঁ",
+       "mean": "a pig's grunt · শূকরের ডাক"
+      },
+      {
+       "t": "হাঁসের ডাক → le caquetage",
+       "tr": "luh kak-TAHZH · ল্য কাক্‌তাজ়্",
+       "mean": "a duck's or hen's cackle · হাঁসের ডাক"
+      },
+      {
+       "t": "মোরগের ডাক → le chant du coq",
+       "tr": "luh shahn dew KOK · ল্য শঁ দ্যু কক্",
+       "mean": "a cock's crow · মোরগের ডাক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "The wild · বন্য প্রাণী",
+     "items": [
+      {
+       "t": "সিংহের ডাক → le rugissement",
+       "tr": "luh rew-zheess-MAHN · ল্য র্যুজ়িস্‌মঁ",
+       "mean": "a lion's roar · সিংহের ডাক"
+      },
+      {
+       "t": "বাঘের ডাক → le hurlement",
+       "tr": "luh ewrl-MAHN · ল্য য়্যুর্ল্যমঁ",
+       "mean": "a tiger's or wolf's howl · বাঘের ডাক"
+      },
+      {
+       "t": "ভাল্লুকের ডাক → le grondement",
+       "tr": "luh grohnd-MAHN · ল্য গ্রঁদ্‌মঁ",
+       "mean": "a bear's growl · ভাল্লুকের ডাক"
+      },
+      {
+       "t": "শৃগালের ডাক → le glapissement",
+       "tr": "luh glah-peess-MAHN · ল্য গ্লাপিস্‌মঁ",
+       "mean": "a jackal's or fox's yelp · শৃগালের ডাক"
+      },
+      {
+       "t": "হস্তীর ডাক → le barrissement",
+       "tr": "luh bah-reess-MAHN · ল্য বারিস্‌মঁ",
+       "mean": "an elephant's trumpeting · হস্তীর ডাক"
+      },
+      {
+       "t": "বাঁদরের ডাক → la jaserie",
+       "tr": "lah zhahz-REE · লা জ়াজ়্‌রি",
+       "mean": "a monkey's chatter · বাঁদরের ডাক"
+      },
+      {
+       "t": "সাপের ডাক → le sifflement",
+       "tr": "luh see-fluh-MAHN · ল্য সিফ়্ল্যমঁ",
+       "mean": "a snake's hiss · সাপের ডাক"
+      },
+      {
+       "t": "ইঁদুরের ডাক → criard",
+       "tr": "kree-AR · ক্রিয়ার্",
+       "mean": "(adj.) shrill, squeaking · ইঁদুরের ডাক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "Birds and insects · পাখি ও পোকা",
+     "items": [
+      {
+       "t": "পাখির ডাক → le pépiement",
+       "tr": "luh pay-pee-MAHN · ল্য পেপিমঁ",
+       "mean": "a bird's chirping · পাখির ডাক"
+      },
+      {
+       "t": "ঘুঘুর ডাক → le roucoulement",
+       "tr": "luh roo-kool-MAHN · ল্য রুকুল্‌মঁ",
+       "mean": "a dove's cooing · ঘুঘুর ডাক"
+      },
+      {
+       "t": "কাকের ডাক → le croassement",
+       "tr": "luh kroh-ahss-MAHN · ল্য ক্রোয়াস্‌মঁ",
+       "mean": "a crow's caw · কাকের ডাক"
+      },
+      {
+       "t": "পেঁচার ডাক → le hululement",
+       "tr": "luh ew-lewl-MAHN · ল্য য়্যুল্যুল্‌মঁ",
+       "mean": "an owl's hoot · পেঁচার ডাক"
+      },
+      {
+       "t": "শকুনের ডাক → perçant",
+       "tr": "pair-SAHN · পের্সঁ",
+       "mean": "(adj.) piercing, shrill · শকুনের ডাক"
+      },
+      {
+       "t": "ভেকের ডাক → le coassement",
+       "tr": "luh koh-ahss-MAHN · ল্য কোয়াস্‌মঁ",
+       "mean": "a frog's croak · ভেকের ডাক"
+      },
+      {
+       "t": "মাছির ডাক → le bourdonnement",
+       "tr": "luh boor-don-MAHN · ল্য বুর্দন্‌মঁ",
+       "mean": "a fly's buzzing · মাছির ডাক"
+      },
+      {
+       "t": "মৌমাছির ডাক → le fredonnement",
+       "tr": "luh fruh-don-MAHN · ল্য ফ়্র্যদন্‌মঁ",
+       "mean": "a bee's humming · মৌমাছির ডাক"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "fun",
+     "text": "French dogs say {{ouaf ouaf}}, cats {{miaou}}, cocks {{cocorico}} and frogs {{coâ coâ}}. {{Cocorico !}} is also what the French shout when their team wins — the cockerel is the national emblem. · ফরাসি কুকুর বলে {{ouaf ouaf}}, বিড়াল {{miaou}}, মোরগ {{cocorico}}। দল জিতলে ফরাসিরাও {{Cocorico !}} বলে চেঁচায় — মোরগ তাদের জাতীয় প্রতীক।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "A dog's bark in French is… · ফরাসিতে কুকুরের ডাক…",
+       "options": [
+        "un aboiement",
+        "un abonnement",
+        "un abattement",
+        "un aboutissement"
+       ],
+       "answer": 0,
+       "explain": "From {{aboyer}}, to bark · {{aboyer}} অর্থাৎ ঘেউ ঘেউ করা থেকে।"
+      },
+      {
+       "q": "{{le rugissement}} belongs to… · {{le rugissement}} কার ডাক?",
+       "options": [
+        "a frog",
+        "a lion",
+        "a cow",
+        "a crow"
+       ],
+       "answer": 1,
+       "explain": "{{rugir}} is to roar · {{rugir}} মানে গর্জন করা।"
+      },
+      {
+       "q": "What does a French cockerel say? · ফরাসি মোরগ কী বলে?",
+       "options": [
+        "cock-a-doodle-doo",
+        "cocorico",
+        "coâ coâ",
+        "cui-cui"
+       ],
+       "answer": 1,
+       "explain": "And so do the French when they win · জিতলে ফরাসিরাও তাই বলে।"
+      },
+      {
+       "q": "{{le coassement}} is the sound of… · {{le coassement}} কার শব্দ?",
+       "options": [
+        "a frog",
+        "a crow",
+        "a bee",
+        "a duck"
+       ],
+       "answer": 0,
+       "explain": "{{le croassement}} with an r is the crow · r সহ {{le croassement}} মানে কাকের ডাক।"
+      },
+      {
+       "q": "The ending that turns an animal verb into a noun is… · প্রাণীর ক্রিয়াকে বিশেষ্য করে যে শেষাংশ…",
+       "options": [
+        "-age",
+        "-ement",
+        "-ance",
+        "-ure"
+       ],
+       "answer": 1,
+       "explain": "{{miauler → le miaulement}} · {{miauler → le miaulement}}।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
