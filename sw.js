@@ -1,7 +1,7 @@
 /* Offline cache for French Pro. Copyright © ZyeemZia
    Pages and files open instantly from the cache and are refreshed in the background.
    VERSION is stamped by the build; a new version clears the old cache. */
-const VERSION = 'cdbfec1654';
+const VERSION = '8ea70455bb';
 const CACHE = 'frenchpro-' + VERSION;
 const CORE = ['./', 'index.html', 'app.css', 'fonts.css', 'data.bundle.js', 'core.js', 'art.js', 'app.js', 'favicon.svg', 'book.html', 'book.css', 'book.js'];
 
