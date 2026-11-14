@@ -394,12 +394,12 @@ LC.units.push({
       {
        "q": "{{actuellement}} means… · {{actuellement}} মানে…",
        "options": [
-        "eventually",
         "currently",
         "actually",
-        "accurately"
+        "accurately",
+        "eventually"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "A false friend · এই সময়ে; বর্তমানে।"
       },
       {
@@ -798,12 +798,12 @@ LC.units.push({
       {
        "q": "{{un aller-retour}} is… · {{un aller-retour}} মানে…",
        "options": [
+        "a round trip by car",
         "a departure board",
         "a return ticket",
-        "a one-way ticket",
-        "a round trip by car"
+        "a one-way ticket"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{un aller simple}} is one-way · আসা-যাওয়া।"
       },
       {
@@ -842,12 +842,12 @@ LC.units.push({
       {
        "q": "{{une amende}} is… · {{une amende}} মানে…",
        "options": [
-        "a reward",
-        "a fine",
         "an amendment",
-        "an almond"
+        "an almond",
+        "a reward",
+        "a fine"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A false friend · জরিমানা।"
       }
      ]
@@ -1209,23 +1209,23 @@ LC.units.push({
       {
        "q": "{{un argent}} carries two meanings — which pair? · {{un argent}}-এর দুটি অর্থ কোন জোড়া?",
        "options": [
+        "money and paper",
         "gold and jewellery",
         "silver and money",
-        "silver and iron",
-        "money and paper"
+        "silver and iron"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The metal gave its name to the cash · ধাতুর নাম থেকেই টাকার নাম।"
       },
       {
        "q": "The feminine of {{un aviateur}} is… · {{un aviateur}}-এর স্ত্রীলিঙ্গ রূপ…",
        "options": [
-        "une aviateuse",
-        "une aviatrice",
         "une aviateure",
-        "une avionne"
+        "une avionne",
+        "une aviateuse",
+        "une aviatrice"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The -teur / -trice pair, as in {{acteur / actrice}} · -teur থেকে -trice।"
       },
       {
@@ -1533,45 +1533,45 @@ LC.units.push({
       {
        "q": "{{la banlieue}} means… · {{la banlieue}} মানে…",
        "options": [
+        "the boulevard",
         "the bank",
         "the suburb",
-        "the bench",
-        "the boulevard"
+        "the bench"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The ring of towns around a city · শহরের চারপাশের এলাকা।"
       },
       {
        "q": "{{le blé}} is… · {{le blé}} মানে…",
        "options": [
-        "blue",
-        "wheat",
         "wound",
-        "wood"
+        "wood",
+        "blue",
+        "wheat"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The grain; in slang it also means cash · শস্য; অপভাষায় টাকাও বোঝায়।"
       },
       {
        "q": "Which one is a library? · কোনটি গ্রন্থাগার?",
        "options": [
+        "la banque",
         "la librairie",
         "la bibliothèque",
-        "la boulangerie",
-        "la banque"
+        "la boulangerie"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{la librairie}} is a bookshop · {{la librairie}} মানে বইয়ের দোকান।"
       },
       {
        "q": "{{bien sûr}} means… · {{bien sûr}} মানে…",
        "options": [
-        "quite sour",
-        "of course",
         "very sure of himself",
-        "well above"
+        "well above",
+        "quite sour",
+        "of course"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A fixed phrase, always two words · নির্দিষ্ট বাক্যাংশ, সবসময় দুই শব্দ।"
       }
      ]
@@ -1995,34 +1995,34 @@ LC.units.push({
       {
        "q": "{{car}} in a French sentence means… · ফরাসি বাক্যে {{car}} মানে…",
        "options": [
+        "a cart",
         "a motor car",
         "because, for",
-        "a railway carriage",
-        "a cart"
+        "a railway carriage"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A conjunction. The vehicle is {{une voiture}} · এটি সংযোজক; গাড়ি হলো {{une voiture}}।"
       },
       {
        "q": "In a newspaper, {{un canard}} is… · খবরের কাগজে {{un canard}} মানে…",
        "options": [
-        "a duck recipe",
-        "a false story",
         "the front page",
-        "a cartoon"
+        "a cartoon",
+        "a duck recipe",
+        "a false story"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The duck lends its name to a hoax · হাঁস থেকেই গুজবের নাম।"
       },
       {
        "q": "{{cependant}} means… · {{cependant}} মানে…",
        "options": [
+        "immediately",
         "during",
         "however",
-        "depending",
-        "immediately"
+        "depending"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A contrast word, like {{néanmoins}} · বৈপরীত্যবাচক শব্দ।"
       },
       {
@@ -2039,12 +2039,12 @@ LC.units.push({
       {
        "q": "{{c'est-à-dire}} is the French equivalent of… · {{c'est-à-dire}} ইংরেজির কোনটির সমতুল্য?",
        "options": [
-        "e.g.",
-        "i.e.",
         "etc.",
-        "N.B."
+        "N.B.",
+        "e.g.",
+        "i.e."
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Often abbreviated {{c.-à-d.}} · সংক্ষেপে {{c.-à-d.}}।"
       }
      ]
@@ -2263,34 +2263,34 @@ LC.units.push({
       {
        "q": "{{le chef}} in ordinary French means… · সাধারণ ফরাসিতে {{le chef}} মানে…",
        "options": [
+        "a chapter",
         "a cook only",
         "the head, the boss",
-        "a chief of police",
-        "a chapter"
+        "a chief of police"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A cook is {{le cuisinier}} · রাঁধুনি হলো {{le cuisinier}}।"
       },
       {
        "q": "The feminine of {{le chômeur}} is… · {{le chômeur}}-এর স্ত্রীলিঙ্গ রূপ…",
        "options": [
-        "la chômeure",
-        "la chômeuse",
         "la chômière",
-        "la chômante"
+        "la chômante",
+        "la chômeure",
+        "la chômeuse"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The -eur / -euse pair · -eur থেকে -euse।"
       },
       {
        "q": "{{la clé}} and {{la clef}} are… · {{la clé}} ও {{la clef}} হলো…",
        "options": [
+        "singular and plural",
         "two different words",
         "one word, two spellings",
-        "key and lock",
-        "singular and plural"
+        "key and lock"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "Both said KLAY · দুটোরই উচ্চারণ KLAY।"
       },
       {
@@ -2531,23 +2531,23 @@ LC.units.push({
       {
        "q": "{{le collège}} in France is… · ফ্রান্সে {{le collège}} মানে…",
        "options": [
-        "a university",
-        "a secondary school",
         "a college of law",
-        "a boarding house"
+        "a boarding house",
+        "a university",
+        "a secondary school"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "University is {{l'université}} · বিশ্ববিদ্যালয় হলো {{l'université}}।"
       },
       {
        "q": "{{le congé}} means… · {{le congé}} মানে…",
        "options": [
+        "a conference",
         "a congress",
         "leave, time off",
-        "congestion",
-        "a conference"
+        "congestion"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{les congés payés}} are paid holidays · {{les congés payés}} মানে বেতনসহ ছুটি।"
       },
       {
@@ -2564,12 +2564,12 @@ LC.units.push({
       {
        "q": "A {{contrôle}} at school is… · স্কুলে {{contrôle}} মানে…",
        "options": [
-        "a remote control",
-        "a test",
         "a controller",
-        "a correction"
+        "a correction",
+        "a remote control",
+        "a test"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A class test or check · শ্রেণি পরীক্ষা।"
       },
       {
@@ -2783,34 +2783,34 @@ LC.units.push({
       {
        "q": "{{la cuisinière}} has two meanings — which pair? · {{la cuisinière}}-এর দুটি অর্থ কোন জোড়া?",
        "options": [
+        "a recipe and a cook",
         "a cook and a kitchen",
         "a cook and a cooker",
-        "a kitchen and a cupboard",
-        "a recipe and a cook"
+        "a kitchen and a cupboard"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The woman who cooks, and the stove she cooks on · রাঁধুনি আর যে চুলায় রাঁধেন।"
       },
       {
        "q": "{{la correspondance}} on a train ticket means… · ট্রেনের টিকিটে {{la correspondance}} মানে…",
        "options": [
-        "a letter",
-        "a connection",
         "a correction",
-        "a compartment"
+        "a compartment",
+        "a letter",
+        "a connection"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The change from one train to the next · এক ট্রেন থেকে আরেক ট্রেনে বদল।"
       },
       {
        "q": "{{coupable}} means… · {{coupable}} মানে…",
        "options": [
+        "capable",
         "cuttable",
         "guilty",
-        "a couple",
-        "capable"
+        "a couple"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{capable}} is the one that means *able* · *সক্ষম* হলো {{capable}}।"
       },
       {
@@ -3041,56 +3041,56 @@ LC.units.push({
       {
        "q": "{{le déjeuner}} in France is… · ফ্রান্সে {{le déjeuner}} মানে…",
        "options": [
-        "breakfast",
-        "lunch",
         "dinner",
-        "a snack"
+        "a snack",
+        "breakfast",
+        "lunch"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Breakfast is {{le petit-déjeuner}} · নাশতা হলো {{le petit-déjeuner}}।"
       },
       {
        "q": "{{déménager}} means… · {{déménager}} মানে…",
        "options": [
+        "to dismiss",
         "to manage badly",
         "to move house",
-        "to demand",
-        "to dismiss"
+        "to demand"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "From {{le ménage}}, the household · {{le ménage}} অর্থাৎ সংসার থেকে।"
       },
       {
        "q": "{{Défense de fumer}} on a sign means… · সাইনবোর্ডে {{Défense de fumer}} মানে…",
        "options": [
-        "smoking area",
-        "no smoking",
         "fire defence",
-        "smoke alarm"
+        "smoke alarm",
+        "smoking area",
+        "no smoking"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{la défense}} here is a prohibition · এখানে {{la défense}} মানে নিষেধ।"
       },
       {
        "q": "{{davantage}} means… · {{davantage}} মানে…",
        "options": [
+        "in front",
         "an advantage",
         "more",
-        "beforehand",
-        "in front"
+        "beforehand"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A false friend; the advantage is {{l'avantage}} · ছদ্মবন্ধু; সুবিধা হলো {{l'avantage}}।"
       },
       {
        "q": "The prefix {{dé-}} usually… · {{dé-}} উপসর্গ সাধারণত…",
        "options": [
-        "strengthens the verb",
-        "reverses the verb",
         "makes it past",
-        "makes it polite"
+        "makes it polite",
+        "strengthens the verb",
+        "reverses the verb"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Like English *un-* or *dis-* · ইংরেজি *un-* বা *dis-*-এর মতো।"
       }
      ]
@@ -3299,34 +3299,34 @@ LC.units.push({
       {
        "q": "{{dessous}} means… · {{dessous}} মানে…",
        "options": [
+        "behind",
         "above",
         "underneath",
-        "beside",
-        "behind"
+        "beside"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{dessus}} is the one that means above · উপরে বোঝায় {{dessus}}।"
       },
       {
        "q": "{{le devoir}} at school means… · স্কুলে {{le devoir}} মানে…",
        "options": [
-        "a duty roster",
-        "homework",
         "a device",
-        "a debate"
+        "a debate",
+        "a duty roster",
+        "homework"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{les devoirs}} are the homework · {{les devoirs}} মানে বাড়ির কাজ।"
       },
       {
        "q": "A French {{département}} is… · ফরাসি {{département}} হলো…",
        "options": [
+        "a university faculty only",
         "a shop floor",
         "an administrative district",
-        "a departure",
-        "a university faculty only"
+        "a departure"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "France has 101 of them · ফ্রান্সে এমন ১০১টি আছে।"
       },
       {
@@ -3531,34 +3531,34 @@ LC.units.push({
       {
        "q": "{{une douzaine}} is… · {{une douzaine}} মানে…",
        "options": [
-        "about ten",
-        "twelve",
         "two",
-        "twenty"
+        "twenty",
+        "about ten",
+        "twelve"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{une dizaine}} is the one that means about ten · প্রায় দশ বোঝায় {{une dizaine}}।"
       },
       {
        "q": "{{Tout droit}} as a direction means… · দিকনির্দেশে {{Tout droit}} মানে…",
        "options": [
+        "the far right",
         "turn right",
         "straight on",
-        "all rights",
-        "the far right"
+        "all rights"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{à droite}} is the one that means *to the right* · ডানে হলো {{à droite}}।"
       },
       {
        "q": "{{la faculté de droit}} teaches… · {{la faculté de droit}} পড়ায়…",
        "options": [
-        "medicine",
-        "law",
         "engineering",
-        "art"
+        "art",
+        "medicine",
+        "law"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{le droit}} is the law · {{le droit}} মানে আইন।"
       },
       {
@@ -3575,12 +3575,12 @@ LC.units.push({
       {
        "q": "{{doucement}} tells you to… · {{doucement}} বলে…",
        "options": [
+        "stop",
         "hurry",
         "go gently",
-        "speak up",
-        "stop"
+        "speak up"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "From {{doux}}, soft · {{doux}} অর্থাৎ কোমল থেকে।"
       }
      ]
@@ -3814,23 +3814,23 @@ LC.units.push({
       {
        "q": "{{les échecs}} in the plural means… · বহুবচনে {{les échecs}} মানে…",
        "options": [
-        "failures only",
-        "chess",
         "cheques",
-        "echoes"
+        "echoes",
+        "failures only",
+        "chess"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The same word, two meanings · একই শব্দ, দুটি অর্থ।"
       },
       {
        "q": "{{un élève}} is… · {{un élève}} মানে…",
        "options": [
+        "an eleven",
         "a teacher",
         "a pupil",
-        "a lift",
-        "an eleven"
+        "a lift"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The teacher is {{un professeur}} · শিক্ষক হলো {{un professeur}}।"
       },
       {
@@ -3858,12 +3858,12 @@ LC.units.push({
       {
        "q": "{{environ}} before a number means… · সংখ্যার আগে {{environ}} মানে…",
        "options": [
-        "exactly",
-        "about",
         "at most",
-        "over"
+        "over",
+        "exactly",
+        "about"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{environ dix}} — about ten · {{environ dix}} মানে প্রায় দশ।"
       }
      ]
@@ -4103,34 +4103,34 @@ LC.units.push({
       {
        "q": "{{un étranger}} is… · {{un étranger}} মানে…",
        "options": [
+        "an estranged friend",
         "a stranger only",
         "a foreigner",
-        "a strangler",
-        "an estranged friend"
+        "a strangler"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{l'étranger}} also means *abroad* · {{l'étranger}} বিদেশও বোঝায়।"
       },
       {
        "q": "{{un exposé}} at school is… · স্কুলে {{un exposé}} মানে…",
        "options": [
-        "an exposure",
-        "a spoken presentation",
         "an exhibit",
-        "a scandal"
+        "a scandal",
+        "an exposure",
+        "a spoken presentation"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{une exposition}} is the exhibition · প্রদর্শনী হলো {{une exposition}}।"
       },
       {
        "q": "{{un étage}} means… · {{un étage}} মানে…",
        "options": [
+        "an estate",
         "a stage",
         "a floor of a building",
-        "a step",
-        "an estate"
+        "a step"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{au premier étage}} — on the first floor · {{au premier étage}} মানে প্রথম তলায়।"
       },
       {
@@ -4147,12 +4147,12 @@ LC.units.push({
       {
        "q": "{{un excédent de bagages}} is… · {{un excédent de bagages}} মানে…",
        "options": [
-        "lost luggage",
-        "excess baggage",
         "hand luggage",
-        "a baggage claim"
+        "a baggage claim",
+        "lost luggage",
+        "excess baggage"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{un excédent}} is the surplus · {{un excédent}} মানে বাড়তি।"
       }
      ]
@@ -4315,12 +4315,12 @@ LC.units.push({
       {
        "q": "{{J'ai faim}} means… · {{J'ai faim}} মানে…",
        "options": [
+        "I am finished",
         "I am famous",
         "I am hungry",
-        "I am weak",
-        "I am finished"
+        "I am weak"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "French *has* hunger where English *is* hungry · ফরাসিতে ক্ষুধা *থাকে*, ইংরেজিতে মানুষ ক্ষুধার্ত *হয়*।"
       },
       {
@@ -4337,34 +4337,34 @@ LC.units.push({
       {
        "q": "{{en face de la gare}} means… · {{en face de la gare}} মানে…",
        "options": [
-        "inside the station",
-        "opposite the station",
         "behind the station",
-        "facing away"
+        "facing away",
+        "inside the station",
+        "opposite the station"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{en face de}} — opposite · {{en face de}} মানে মুখোমুখি।"
       },
       {
        "q": "{{la faux}} is… · {{la faux}} মানে…",
        "options": [
+        "a fox",
         "a falsehood",
         "a scythe",
-        "a fault",
-        "a fox"
+        "a fault"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The adjective {{faux}} is the false one · বিশেষণ {{faux}} মানে মিথ্যা।"
       },
       {
        "q": "The adverb from {{facile}} is… · {{facile}} থেকে ক্রিয়াবিশেষণ…",
        "options": [
-        "facilment",
-        "facilement",
         "facilament",
-        "facillement"
+        "facillement",
+        "facilment",
+        "facilement"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The feminine form plus -ment · স্ত্রীলিঙ্গ রূপের সঙ্গে -ment।"
       }
      ]
@@ -4598,45 +4598,45 @@ LC.units.push({
       {
        "q": "{{C'est formidable !}} means… · {{C'est formidable !}} মানে…",
        "options": [
+        "that is enormous",
         "that is frightening",
         "that is wonderful",
-        "that is formal",
-        "that is enormous"
+        "that is formal"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A compliment, not a warning · এটি প্রশংসা, সতর্কবার্তা নয়।"
       },
       {
        "q": "{{le fleuve}} differs from {{la rivière}} because it… · {{la rivière}}-এর তুলনায় {{le fleuve}}…",
        "options": [
-        "is wider",
-        "flows into the sea",
         "is in a city",
-        "is man-made"
+        "is man-made",
+        "is wider",
+        "flows into the sea"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The Seine is {{un fleuve}} · সেন নদী একটি {{fleuve}}।"
       },
       {
        "q": "{{le fusil}} ends with a silent… · {{le fusil}}-এর শেষে উচ্চারিত হয় না…",
        "options": [
+        "u",
         "s",
         "l",
-        "i",
-        "u"
+        "i"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "Said few-ZEE · উচ্চারণ ফ়্যুজ়ি।"
       },
       {
        "q": "{{le feu}} at a crossroads means… · চৌরাস্তায় {{le feu}} মানে…",
        "options": [
-        "a fire",
-        "a traffic light",
         "a fuel station",
-        "a flame"
+        "a flame",
+        "a fire",
+        "a traffic light"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{les feux}} are the traffic lights · {{les feux}} মানে ট্রাফিক বাতি।"
       },
       {
@@ -4820,56 +4820,56 @@ LC.units.push({
       {
        "q": "In {{le gendre}}, the G is… · {{le gendre}}-এ G উচ্চারিত হয়…",
        "options": [
+        "doubled",
         "hard, as in *go*",
         "soft, as in *measure*",
-        "silent",
-        "doubled"
+        "silent"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "G softens before e and i · e ও i-এর আগে G কোমল হয়।"
       },
       {
        "q": "{{gratuit}} means… · {{gratuit}} মানে…",
        "options": [
-        "grateful",
-        "free of charge",
         "gratifying",
-        "gradual"
+        "gradual",
+        "grateful",
+        "free of charge"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{entrée gratuite}} — free entry · {{entrée gratuite}} মানে প্রবেশ অবাধ।"
       },
       {
        "q": "{{la gare}} is… · {{la gare}} মানে…",
        "options": [
+        "a garden",
         "a garage",
         "a railway station",
-        "a guard",
-        "a garden"
+        "a guard"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{la gare du Nord}} in Paris · প্যারিসের {{la gare du Nord}}।"
       },
       {
        "q": "{{gagner sa vie}} means… · {{gagner sa vie}} মানে…",
        "options": [
-        "to win one's life",
-        "to earn one's living",
         "to save a life",
-        "to enjoy life"
+        "to enjoy life",
+        "to win one's life",
+        "to earn one's living"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The everyday phrase for earning · জীবিকা অর্জনের প্রচলিত বাক্যাংশ।"
       },
       {
        "q": "{{le gendre}} is… · {{le gendre}} মানে…",
        "options": [
+        "a general",
         "a gender",
         "a son-in-law",
-        "a genre",
-        "a general"
+        "a genre"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "Not related to {{le genre}}, which is the kind or gender · {{le genre}}-এর সঙ্গে সম্পর্ক নেই।"
       }
      ]
@@ -5137,23 +5137,23 @@ LC.units.push({
       {
        "q": "Which is correct? · কোনটি সঠিক?",
        "options": [
-        "l'hache",
-        "la hache",
         "le hache",
-        "l'hache (f)"
+        "l'hache (f)",
+        "l'hache",
+        "la hache"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "An aspirate H blocks the contraction · প্রতিরোধী H সংকোচন আটকায়।"
       },
       {
        "q": "{{d'habitude}} means… · {{d'habitude}} মানে…",
        "options": [
+        "from the dress",
         "by habit",
         "usually",
-        "of inhabiting",
-        "from the dress"
+        "of inhabiting"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A fixed adverbial phrase · নির্দিষ্ট ক্রিয়াবিশেষণীয় বাক্যাংশ।"
       },
       {
@@ -5170,23 +5170,23 @@ LC.units.push({
       {
        "q": "{{hebdomadaire}} describes something that happens… · {{hebdomadaire}} বোঝায় যা ঘটে…",
        "options": [
-        "daily",
-        "weekly",
         "monthly",
-        "yearly"
+        "yearly",
+        "daily",
+        "weekly"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "From the Greek for *seven* · গ্রিক *সাত* থেকে।"
       },
       {
        "q": "In {{un hôtel}}, the H is… · {{un hôtel}}-এ H…",
        "options": [
+        "doubled",
         "aspirate",
         "mute",
-        "pronounced",
-        "doubled"
+        "pronounced"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{les hôtels}} links as *lay-zoh-TEL* · {{les hôtels}} যুক্ত হয়ে উচ্চারিত হয়।"
       }
      ]
@@ -5329,56 +5329,56 @@ LC.units.push({
       {
        "q": "{{un impôt}} is… · {{un impôt}} মানে…",
        "options": [
-        "an import",
-        "a tax",
         "an imposition of rules",
-        "an impost wall"
+        "an impost wall",
+        "an import",
+        "a tax"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{les impôts}} is also the tax office · {{les impôts}} কর দপ্তরও বোঝায়।"
       },
       {
        "q": "{{un immeuble}} is… · {{un immeuble}} মানে…",
        "options": [
+        "a monument",
         "immovable property law",
         "a block of flats",
-        "furniture",
-        "a monument"
+        "furniture"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "Literally *the immovable* · আক্ষরিক অর্থে *অচল সম্পত্তি*।"
       },
       {
        "q": "Which spelling is right? · কোন বানানটি সঠিক?",
        "options": [
-        "inpossible",
-        "impossible",
         "immpossible",
-        "inmpossible"
+        "inmpossible",
+        "inpossible",
+        "impossible"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "**im-** before b, m and p · b, m, p-এর আগে **im-**।"
       },
       {
        "q": "{{une île}} needs which article? · {{une île}}-এর article কোনটি?",
        "options": [
+        "l'un",
         "un",
         "une",
-        "le",
-        "l'un"
+        "le"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "It is feminine · এটি স্ত্রীলিঙ্গ।"
       },
       {
        "q": "{{une carte d'identité}} is… · {{une carte d'identité}} মানে…",
        "options": [
-        "a credit card",
-        "an identity card",
         "a map",
-        "a menu card"
+        "a menu card",
+        "a credit card",
+        "an identity card"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Every French adult carries one · প্রতিটি প্রাপ্তবয়স্ক ফরাসির কাছে থাকে।"
       }
      ]
@@ -5579,12 +5579,12 @@ LC.units.push({
       {
        "q": "{{inutile}} is built from… · {{inutile}} গড়া হয়েছে…",
        "options": [
+        "i + nutile",
         "in + futile",
         "in + utile",
-        "inu + tile",
-        "i + nutile"
+        "inu + tile"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{utile}} means useful · {{utile}} মানে উপযোগী।"
       },
       {
@@ -5801,12 +5801,12 @@ LC.units.push({
       {
        "q": "{{un intérêt}} covers both interest in a topic and… · {{un intérêt}} আগ্রহ ছাড়াও বোঝায়…",
        "options": [
-        "an interval",
-        "interest on money",
         "an intervention",
-        "an interview"
+        "an interview",
+        "an interval",
+        "interest on money"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{le taux d'intérêt}} is the interest rate · {{le taux d'intérêt}} মানে সুদের হার।"
       },
       {
@@ -6043,12 +6043,12 @@ LC.units.push({
       {
        "q": "The plural of {{le journal}} is… · {{le journal}}-এর বহুবচন…",
        "options": [
+        "les journeaux",
         "les journals",
         "les journaux",
-        "les journales",
-        "les journeaux"
+        "les journales"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "Nouns in -al take -aux · -al শেষে -aux হয়।"
       },
       {
@@ -6065,12 +6065,12 @@ LC.units.push({
       {
        "q": "{{jadis}} refers to… · {{jadis}} বোঝায়…",
        "options": [
-        "the near future",
-        "long ago",
         "yesterday",
-        "right now"
+        "right now",
+        "the near future",
+        "long ago"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A literary word for *in days gone by* · সাহিত্যিক শব্দ, অর্থ *সেকালে*।"
       },
       {
@@ -6087,12 +6087,12 @@ LC.units.push({
       {
        "q": "{{Justement !}} as a reply means… · উত্তরে {{Justement !}} মানে…",
        "options": [
+        "Only just",
         "Just a moment",
         "Exactly so",
-        "Be fair",
-        "Only just"
+        "Be fair"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A common way to agree · সম্মতি জানানোর প্রচলিত উপায়।"
       }
      ]
@@ -6214,12 +6214,12 @@ LC.units.push({
       {
        "q": "Why is K rare in French? · ফরাসিতে K বিরল কেন?",
        "options": [
-        "It is hard to say",
-        "Native words use c or qu instead",
         "It was banned",
-        "It is only for names"
+        "It is only for names",
+        "It is hard to say",
+        "Native words use c or qu instead"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{quatre}}, {{casser}} — c and qu do the work · c ও qu-ই কাজটি করে।"
       },
       {
@@ -6236,23 +6236,23 @@ LC.units.push({
       {
        "q": "{{le képi}} is worn by… · {{le képi}} পরেন…",
        "options": [
+        "farmers",
         "chefs",
         "soldiers and police",
-        "students",
-        "farmers"
+        "students"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The flat-topped French military cap · ফরাসি সামরিক টুপি।"
       },
       {
        "q": "{{le kiosque}} sells… · {{le kiosque}}-এ বিক্রি হয়…",
        "options": [
-        "bread",
-        "newspapers",
         "tickets only",
-        "flowers"
+        "flowers",
+        "bread",
+        "newspapers"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The street newsstand · রাস্তার পত্রিকার দোকান।"
       }
      ]
@@ -6513,23 +6513,23 @@ LC.units.push({
       {
        "q": "{{la langue}} means both language and… · {{la langue}} ভাষা ছাড়াও বোঝায়…",
        "options": [
+        "the voice",
         "the lip",
         "the tongue",
-        "the throat",
-        "the voice"
+        "the throat"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The organ and the speech share one word · অঙ্গ ও ভাষা একই শব্দে।"
       },
       {
        "q": "{{payer en liquide}} means to pay… · {{payer en liquide}} মানে…",
        "options": [
-        "by card",
-        "in cash",
         "in instalments",
-        "online"
+        "online",
+        "by card",
+        "in cash"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{liquide}} is cash as opposed to a card · {{liquide}} মানে নগদ।"
       },
       {
@@ -6546,12 +6546,12 @@ LC.units.push({
       {
        "q": "{{Liberté, Égalité, Fraternité}} is… · {{Liberté, Égalité, Fraternité}} হলো…",
        "options": [
+        "a song title",
         "a poem",
         "the French national motto",
-        "a law",
-        "a song title"
+        "a law"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "It is carved on every French town hall · প্রতিটি ফরাসি টাউন হলে খোদাই করা।"
       }
      ]
@@ -6689,12 +6689,12 @@ LC.units.push({
       {
        "q": "{{Maison à louer}} on a sign means… · সাইনবোর্ডে {{Maison à louer}} মানে…",
        "options": [
-        "house for sale",
-        "house to rent",
         "house praised",
-        "house for repair"
+        "house for repair",
+        "house for sale",
+        "house to rent"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "For sale would be {{à vendre}} · বিক্রির জন্য হলে {{à vendre}}।"
       },
       {
@@ -6711,23 +6711,23 @@ LC.units.push({
       {
        "q": "{{lorsque}} introduces… · {{lorsque}} দিয়ে বোঝানো হয়…",
        "options": [
+        "a purpose",
         "a reason",
         "a time",
-        "a contrast",
-        "a purpose"
+        "a contrast"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "A near-synonym of {{quand}} · {{quand}}-এর প্রায় সমার্থক।"
       },
       {
        "q": "{{Londres}} is… · {{Londres}} মানে…",
        "options": [
-        "a French town",
-        "London",
         "the Thames",
-        "a surname"
+        "a surname",
+        "a French town",
+        "London"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "French renames most big foreign cities · ফরাসি বড়ো বিদেশি শহরের নিজস্ব নাম রাখে।"
       }
      ]
@@ -6824,34 +6824,34 @@ LC.units.push({
       {
        "q": "{{un grand magasin}} is… · {{un grand magasin}} মানে…",
        "options": [
+        "a large journal",
         "a big magazine",
         "a department store",
-        "a warehouse",
-        "a large journal"
+        "a warehouse"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "Galeries Lafayette is one · Galeries Lafayette এমনই একটি।"
       },
       {
        "q": "{{machinalement}} describes an action done… · {{machinalement}} বোঝায় এমন কাজ যা করা হয়…",
        "options": [
-        "by machine",
-        "without thinking",
         "with great care",
-        "by hand"
+        "by hand",
+        "by machine",
+        "without thinking"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Out of habit, automatically · অভ্যাসবশে, আপনাআপনি।"
       },
       {
        "q": "{{le maillot de bain}} is… · {{le maillot de bain}} মানে…",
        "options": [
+        "a bath mat",
         "a bathrobe",
         "a swimsuit",
-        "a towel",
-        "a bath mat"
+        "a towel"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{le bain}} is the bath · {{le bain}} মানে গোসল।"
       },
       {
@@ -7067,12 +7067,12 @@ LC.units.push({
       {
        "q": "{{une manifestation}} in the street is… · রাস্তায় {{une manifestation}} মানে…",
        "options": [
-        "a festival",
-        "a protest march",
         "a shop display",
-        "an exhibition"
+        "an exhibition",
+        "a festival",
+        "a protest march"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Shortened to {{une manif}} in speech · কথ্য ভাষায় {{une manif}}।"
       },
       {
@@ -7089,12 +7089,12 @@ LC.units.push({
       {
        "q": "{{Je suis malade}} means… · {{Je suis malade}} মানে…",
        "options": [
+        "I am tired",
         "I am bad",
         "I am ill",
-        "I am sad",
-        "I am tired"
+        "I am sad"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "{{la maladie}} is the illness · {{la maladie}} মানে রোগ।"
       },
       {
@@ -7315,45 +7315,45 @@ LC.units.push({
       {
        "q": "{{Il chante mieux que moi}} uses {{mieux}} because it describes… · {{Il chante mieux que moi}}-তে {{mieux}} বসেছে কারণ এটি বর্ণনা করে…",
        "options": [
-        "a noun",
-        "a verb",
         "a person",
-        "a comparison of nouns"
+        "a comparison of nouns",
+        "a noun",
+        "a verb"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "An adverb modifies the verb {{chante}} · ক্রিয়াবিশেষণ ক্রিয়াকে বদলায়।"
       },
       {
        "q": "{{faire le ménage}} means… · {{faire le ménage}} মানে…",
        "options": [
+        "to arrange furniture",
         "to manage",
         "to do the housework",
-        "to set up home",
-        "to arrange furniture"
+        "to set up home"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "The everyday phrase for cleaning · ঘর পরিষ্কারের প্রচলিত বাক্যাংশ।"
       },
       {
        "q": "{{mensuel}} describes something that happens… · {{mensuel}} বোঝায় যা ঘটে…",
        "options": [
-        "weekly",
-        "monthly",
         "yearly",
-        "daily"
+        "daily",
+        "weekly",
+        "monthly"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "From {{le mois}}, the month · {{le mois}} অর্থাৎ মাস থেকে।"
       },
       {
        "q": "{{le menteur}} is someone who… · {{le menteur}} সেই ব্যক্তি যিনি…",
        "options": [
+        "mends",
         "mentors",
         "lies",
-        "measures",
-        "mends"
+        "measures"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "From {{mentir}}, to lie · {{mentir}} অর্থাৎ মিথ্যা বলা থেকে।"
       }
      ]
@@ -7557,23 +7557,23 @@ LC.units.push({
       {
        "q": "{{Vous avez la monnaie ?}} asks for… · {{Vous avez la monnaie ?}} চায়…",
        "options": [
-        "money in general",
-        "small change",
         "a banknote",
-        "the currency rate"
+        "the currency rate",
+        "money in general",
+        "small change"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Money in general is {{l'argent}} · সাধারণভাবে টাকা হলো {{l'argent}}।"
       },
       {
        "q": "{{le mouton}} is both the animal and… · {{le mouton}} পশু ছাড়াও বোঝায়…",
        "options": [
+        "its bell",
         "its wool",
         "its meat",
-        "its field",
-        "its bell"
+        "its field"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "French uses one word where English has sheep and mutton · ইংরেজির দুটি শব্দের জায়গায় ফরাসির একটি।"
       },
       {
@@ -7590,12 +7590,12 @@ LC.units.push({
       {
        "q": "{{en moyenne}} means… · {{en moyenne}} মানে…",
        "options": [
-        "in the middle",
-        "on average",
         "by means of",
-        "at least"
+        "at least",
+        "in the middle",
+        "on average"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{la moyenne}} is the average · {{la moyenne}} মানে গড়।"
       },
       {
@@ -7785,23 +7785,23 @@ LC.units.push({
       {
        "q": "{{la note}} in a restaurant is… · রেস্তোরাঁয় {{la note}} মানে…",
        "options": [
+        "the menu",
         "a musical note",
         "the bill",
-        "a notice",
-        "the menu"
+        "a notice"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "At school it is the mark · স্কুলে এটি নম্বর।"
       },
       {
        "q": "{{les nouvelles}} means… · {{les nouvelles}} মানে…",
        "options": [
-        "the new ones",
-        "the news",
         "the novels",
-        "the newcomers"
+        "the newcomers",
+        "the new ones",
+        "the news"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{Donne-moi de tes nouvelles}} — send me your news · আপনার খবর জানাবেন।"
       },
       {
@@ -7829,12 +7829,12 @@ LC.units.push({
       {
        "q": "{{nettement}} means… · {{nettement}} মানে…",
        "options": [
+        "lately",
         "neatly only",
         "clearly, distinctly",
-        "nearly",
-        "lately"
+        "nearly"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "From {{net}}, clean and clear · {{net}} অর্থাৎ পরিষ্কার থেকে।"
       }
      ]
@@ -8148,34 +8148,34 @@ LC.units.push({
       {
        "q": "The plural of {{un œil}} is… · {{un œil}}-এর বহুবচন…",
        "options": [
-        "les œils",
-        "les yeux",
         "les œilles",
-        "les oeuils"
+        "les oeuils",
+        "les œils",
+        "les yeux"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The most irregular plural in French · ফরাসির সবচেয়ে অনিয়মিত বহুবচন।"
       },
       {
        "q": "{{obligatoire}} means… · {{obligatoire}} মানে…",
        "options": [
+        "optional",
         "obliging",
         "compulsory",
-        "obligated to thank",
-        "optional"
+        "obligated to thank"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "On a school form it means *required* · ফর্মে মানে *আবশ্যক*।"
       },
       {
        "q": "{{une occasion}} in a shop window means… · দোকানের সাইনে {{une occasion}} মানে…",
        "options": [
-        "a special occasion",
-        "a bargain or second-hand item",
         "an opening time",
-        "an occupation"
+        "an occupation",
+        "a special occasion",
+        "a bargain or second-hand item"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{d'occasion}} means second-hand · {{d'occasion}} মানে পুরোনো।"
       },
       {
@@ -8192,12 +8192,12 @@ LC.units.push({
       {
        "q": "{{un ouvrier}} is… · {{un ouvrier}} মানে…",
        "options": [
+        "a writer",
         "an opener",
         "a manual worker",
-        "an overseer",
-        "a writer"
+        "an overseer"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "From {{une œuvre}}, work · {{une œuvre}} অর্থাৎ কাজ থেকে।"
       }
      ]
@@ -8267,23 +8267,23 @@ LC.units.push({
       {
        "q": "{{l'océan Pacifique}} is… · {{l'océan Pacifique}} মানে…",
        "options": [
-        "the Atlantic",
-        "the Pacific Ocean",
         "a calm sea",
-        "the Indian Ocean"
+        "the Indian Ocean",
+        "the Atlantic",
+        "the Pacific Ocean"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Magellan named it for its calm · ম্যাগেলান শান্ত বলেই নাম রেখেছিলেন।"
       },
       {
        "q": "{{la pagaille}} means… · {{la pagaille}} মানে…",
        "options": [
-        "a paddle",
-        "a mess",
         "a payment",
-        "a page"
+        "a page",
+        "a paddle",
+        "a mess"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "An informal word for chaos · বিশৃঙ্খলার কথ্য শব্দ।"
       },
       {
@@ -8493,12 +8493,12 @@ LC.units.push({
       {
        "q": "{{en panne}} describes a car that is… · {{en panne}} বোঝায় এমন গাড়ি যা…",
        "options": [
-        "parked",
-        "broken down",
         "borrowed",
-        "rented"
+        "rented",
+        "parked",
+        "broken down"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{tomber en panne}} is to break down · {{tomber en panne}} মানে বিকল হওয়া।"
       },
       {
@@ -8515,23 +8515,23 @@ LC.units.push({
       {
        "q": "{{le patron}} means… · {{le patron}} মানে…",
        "options": [
-        "a customer",
-        "the boss",
         "a patron of the arts only",
-        "a pattern"
+        "a pattern",
+        "a customer",
+        "the boss"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The everyday word for an employer · নিয়োগকর্তার প্রচলিত শব্দ।"
       },
       {
        "q": "{{parfois}} means… · {{parfois}} মানে…",
        "options": [
-        "perfectly",
-        "sometimes",
         "by the way",
-        "at times past"
+        "at times past",
+        "perfectly",
+        "sometimes"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Literally *by times* · আক্ষরিক অর্থে *কখনও কখনও*।"
       },
       {
@@ -8746,56 +8746,56 @@ LC.units.push({
       {
        "q": "Which word means *fish*? · *মাছ* কোনটি?",
        "options": [
-        "le poison",
-        "le poisson",
         "la poisse",
-        "le poids"
+        "le poids",
+        "le poison",
+        "le poisson"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Two s, hissed · দুটি s, হিস্‌ ধ্বনি।"
       },
       {
        "q": "{{la plupart des gens}} means… · {{la plupart des gens}} মানে…",
        "options": [
-        "a few people",
-        "most people",
         "all people",
-        "several parts"
+        "several parts",
+        "a few people",
+        "most people"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Always followed by {{de}} · সবসময় {{de}} সহ।"
       },
       {
        "q": "{{pire}} is the comparative of… · {{pire}} কোন শব্দের তুলনামূলক রূপ?",
        "options": [
-        "bon",
-        "mauvais",
         "pauvre",
-        "petit"
+        "petit",
+        "bon",
+        "mauvais"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{mauvais → pire}}, like {{bon → meilleur}} · {{bon → meilleur}}-এর মতো।"
       },
       {
        "q": "{{la phrase}} means… · {{la phrase}} মানে…",
        "options": [
-        "a phrase",
-        "a sentence",
         "a saying",
-        "a paragraph"
+        "a paragraph",
+        "a phrase",
+        "a sentence"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A false friend: the whole sentence · ছদ্মবন্ধু: পুরো বাক্য।"
       },
       {
        "q": "{{peut-être}} means… · {{peut-être}} মানে…",
        "options": [
-        "can be done",
-        "perhaps",
         "must be",
-        "it is possible to be"
+        "it is possible to be",
+        "can be done",
+        "perhaps"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Literally *may be* · আক্ষরিক অর্থে *হতে পারে*।"
       }
      ]
@@ -9029,12 +9029,12 @@ LC.units.push({
       {
        "q": "{{le pourboire}} is… · {{le pourboire}} মানে…",
        "options": [
-        "a drinks bill",
-        "a tip",
         "a water jug",
-        "a drinking fountain"
+        "a drinking fountain",
+        "a drinks bill",
+        "a tip"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Literally *for drinking* · আক্ষরিক অর্থে *পান করার জন্য*।"
       },
       {
@@ -9051,12 +9051,12 @@ LC.units.push({
       {
        "q": "{{la publicité}} means… · {{la publicité}} মানে…",
        "options": [
-        "publicity only",
-        "advertising",
         "a public place",
-        "publication"
+        "publication",
+        "publicity only",
+        "advertising"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Shortened to {{la pub}} · সংক্ষেপে {{la pub}}।"
       },
       {
@@ -9073,12 +9073,12 @@ LC.units.push({
       {
        "q": "{{pourtant}} means… · {{pourtant}} মানে…",
        "options": [
-        "for that",
-        "however",
         "so much",
-        "meanwhile"
+        "meanwhile",
+        "for that",
+        "however"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A contrast word · বৈপরীত্যবাচক শব্দ।"
       }
      ]
@@ -9226,34 +9226,34 @@ LC.units.push({
       {
        "q": "{{quand}} is pronounced… · {{quand}}-এর উচ্চারণ…",
        "options": [
-        "KWAND",
-        "KAHN",
         "KWAHN",
-        "KAND"
+        "KAND",
+        "KWAND",
+        "KAHN"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "No W, and the final d is silent · W নেই, শেষের d নীরব।"
       },
       {
        "q": "{{faire la queue}} means… · {{faire la queue}} মানে…",
        "options": [
-        "to wag a tail",
-        "to queue up",
         "to make a cue",
-        "to finish last"
+        "to finish last",
+        "to wag a tail",
+        "to queue up"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{la queue}} is both a tail and a line · {{la queue}} মানে লেজ ও সারি দুটোই।"
       },
       {
        "q": "{{une quinzaine}} most often means… · {{une quinzaine}} সাধারণত বোঝায়…",
        "options": [
-        "fifty",
-        "a fortnight",
         "fifteen minutes",
-        "a quintet"
+        "a quintet",
+        "fifty",
+        "a fortnight"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The French count a fortnight as fifteen days · ফরাসিরা দুই সপ্তাহকে পনেরো দিন গোনে।"
       },
       {
@@ -9270,12 +9270,12 @@ LC.units.push({
       {
        "q": "{{le quartier}} is… · {{le quartier}} মানে…",
        "options": [
-        "a quarter of an hour",
-        "a district of a town",
         "a quart",
-        "military quarters only"
+        "military quarters only",
+        "a quarter of an hour",
+        "a district of a town"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{le Quartier latin}} in Paris · প্যারিসের {{le Quartier latin}}।"
       }
      ]
@@ -9469,45 +9469,45 @@ LC.units.push({
       {
        "q": "{{le raisin}} means… · {{le raisin}} মানে…",
        "options": [
-        "a raisin",
-        "a grape",
         "a reason",
-        "a resin"
+        "a resin",
+        "a raisin",
+        "a grape"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "A raisin is {{le raisin sec}} · কিশমিশ হলো {{le raisin sec}}।"
       },
       {
        "q": "{{avoir raison}} means… · {{avoir raison}} মানে…",
        "options": [
-        "to have a reason",
-        "to be right",
         "to reason out",
-        "to have sense"
+        "to have sense",
+        "to have a reason",
+        "to be right"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{Tu as raison}} — you are right · {{Tu as raison}} মানে তুমি ঠিক বলেছ।"
       },
       {
        "q": "{{une lettre recommandée}} is… · {{une lettre recommandée}} মানে…",
        "options": [
-        "a recommended letter",
-        "a registered letter",
         "a reference letter",
-        "a reminder"
+        "a reminder",
+        "a recommended letter",
+        "a registered letter"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The post-office term · ডাকঘরের পরিভাষা।"
       },
       {
        "q": "{{la récréation}} at school is… · স্কুলে {{la récréation}} মানে…",
        "options": [
-        "recreation hall",
-        "break time",
         "re-creation",
-        "an extra class"
+        "an extra class",
+        "recreation hall",
+        "break time"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Shortened to {{la récré}} · সংক্ষেপে {{la récré}}।"
       },
       {
@@ -9717,23 +9717,23 @@ LC.units.push({
       {
        "q": "{{J'ai rendez-vous chez le dentiste}} means… · {{J'ai rendez-vous chez le dentiste}} মানে…",
        "options": [
-        "a romantic date",
-        "a dental appointment",
         "a dental emergency",
-        "a dentist's address"
+        "a dentist's address",
+        "a romantic date",
+        "a dental appointment"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Any appointment, not only a romantic one · যেকোনো সাক্ষাতের সময়।"
       },
       {
        "q": "{{le rein}} is… · {{le rein}} মানে…",
        "options": [
-        "a reign",
-        "a kidney",
         "a queen",
-        "a rein"
+        "a rein",
+        "a reign",
+        "a kidney"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{la reine}} is the queen · রানি হলো {{la reine}}।"
       },
       {
@@ -9750,23 +9750,23 @@ LC.units.push({
       {
        "q": "{{réfléchir}} means… · {{réfléchir}} মানে…",
        "options": [
-        "to shine",
-        "to think it over",
         "to refuse",
-        "to reflect light only"
+        "to reflect light only",
+        "to shine",
+        "to think it over"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{Je vais réfléchir}} — I'll think about it · {{Je vais réfléchir}} মানে ভেবে দেখব।"
       },
       {
        "q": "{{le repas}} means… · {{le repas}} মানে…",
        "options": [
-        "a rest",
-        "a meal",
         "a repeat",
-        "a repast hall"
+        "a repast hall",
+        "a rest",
+        "a meal"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "Three a day: {{petit-déjeuner, déjeuner, dîner}} · দিনে তিনটি আহার।"
       }
      ]
@@ -9975,12 +9975,12 @@ LC.units.push({
       {
        "q": "A street address in Paris uses… · প্যারিসের ঠিকানায় ব্যবহৃত হয়…",
        "options": [
-        "la route",
-        "la rue",
         "la rivière",
-        "la revanche"
+        "la revanche",
+        "la route",
+        "la rue"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "{{rue de Rivoli}} · {{rue de Rivoli}}।"
       },
       {
@@ -15233,6 +15233,2555 @@ LC.units.push({
        ],
        "answer": 1,
        "explain": "{{miauler → le miaulement}} · {{miauler → le miaulement}}।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf9",
+   "icon": "ঢ–ত",
+   "title": "ড–ত · অশ্বের ডাক → ত্বরান্বিত",
+   "subtitle": "Family, speed and the words of law · পরিবার, গতি ও আইনের শব্দ",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Collect the three ways to say *quickly* in French"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "This stretch gives you four ways to say *quickly*, each with its own flavour: {{vite}} plainly fast, {{rapidement}} at speed, {{promptement}} without delay, {{précipitamment}} in a rush. Bangla draws the same distinctions with তাড়াতাড়ি, অতিশীঘ্র, ত্বরান্বিত. · এই অংশে *তাড়াতাড়ি* বলার চারটি উপায় পাবেন, প্রতিটির আলাদা মেজাজ।"
+    },
+    {
+     "type": "vocab",
+     "title": "অশ্বের ডাক · ডিমের কুসুম",
+     "items": [
+      {
+       "t": "অশ্বের ডাক → un hennissement",
+       "tr": "uhn ay-neess-MAHN · আঁন্ এনিস্‌মঁ",
+       "mean": "a horse's neigh · অশ্বের ডাক"
+      },
+      {
+       "t": "ডাকাত → le voleur",
+       "tr": "luh voh-LUHR · ল্য ভ়ল্যর্",
+       "mean": "robber, bandit · ডাকাত"
+      },
+      {
+       "t": "ডানা → une aile",
+       "tr": "ewn EL · য়্যুন্ এল্",
+       "mean": "wing · ডানা"
+      },
+      {
+       "t": "ডিক্রি → le décret",
+       "tr": "luh day-KREH · ল্য দেক্রে",
+       "mean": "decree · ডিক্রি"
+      },
+      {
+       "t": "ডিমের কুসুম → le jaune d'œuf",
+       "tr": "luh zhohn DUHF · ল্য জ়োন্ দ্যফ়্",
+       "mean": "egg yolk · ডিমের কুসুম"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ঢ",
+     "items": [
+      {
+       "t": "ঢাক → le tambour",
+       "tr": "luh tahn-BOOR · ল্য তঁবুর্",
+       "mean": "drum · ঢাক"
+      },
+      {
+       "t": "ঢাকা → couvrir",
+       "tr": "koo-VREER · কুভ়্রির্",
+       "mean": "to cover · ঢাকা"
+      },
+      {
+       "t": "ঢালাই → la moulure",
+       "tr": "lah moo-LEWR · লা মুল্যুর্",
+       "mean": "casting, moulding · ঢালাই"
+      },
+      {
+       "t": "ঢিলা, ঢিলে → délié",
+       "tr": "day-lee-AY · দেলিয়ে",
+       "mean": "loose, slack · ঢিলা"
+      },
+      {
+       "t": "ঢিলামি → la paresse",
+       "tr": "lah pah-RESS · লা পারেস্",
+       "mean": "slackness, idleness · ঢিলামি"
+      },
+      {
+       "t": "ঢোকা, ঢুকা → entrer dans",
+       "tr": "ahn-TRAY dahn · অঁত্রে দঁ",
+       "mean": "to enter · ঢোকা"
+      },
+      {
+       "t": "ঢেউ → la vague",
+       "tr": "lah VAHG · লা ভ়াগ্",
+       "mean": "wave · ঢেউ"
+      },
+      {
+       "t": "ঢের → abondant",
+       "tr": "ah-bohn-DAHN · আবঁদঁ",
+       "mean": "plentiful, abundant · ঢের"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "তওয়াক্কুল · তদন্ত",
+     "items": [
+      {
+       "t": "তওয়াক্কুল → la fidélité",
+       "tr": "lah fee-day-lee-TAY · লা ফ়িদেলিতে",
+       "mean": "trust, fidelity · তওয়াক্কুল"
+      },
+      {
+       "t": "তোয়াক্কা → une attention",
+       "tr": "ewn ah-tahn-SYOHN · য়্যুন্ আতঁসীওঁ",
+       "mean": "heed, regard · তোয়াক্কা"
+      },
+      {
+       "t": "তকদির → la fortune",
+       "tr": "lah for-TEWN · লা ফ়র্ত্যুন্",
+       "mean": "fate, fortune · তকদির"
+      },
+      {
+       "t": "তক্তা → la planche",
+       "tr": "lah PLAHNSH · লা প্লঁশ্",
+       "mean": "plank, board · তক্তা"
+      },
+      {
+       "t": "তড়িঘড়ি → précipitamment",
+       "tr": "pray-see-pee-tah-MAHN · প্রেসিপিতামঁ",
+       "mean": "hastily, in a rush · তড়িঘড়ি"
+      },
+      {
+       "t": "তৎক্ষণাৎ → immédiatement",
+       "tr": "ee-may-dyat-MAHN · ইম্‌মেদিয়াত্‌মঁ",
+       "mean": "immediately · তৎক্ষণাৎ"
+      },
+      {
+       "t": "তত্ত্বানুসন্ধান → la recherche",
+       "tr": "lah ruh-SHAIRSH · লা র্যশের্শ্",
+       "mean": "research, investigation · তত্ত্বানুসন্ধান"
+      },
+      {
+       "t": "তত্ত্বাবধায়ক → le concierge",
+       "tr": "luh kohn-SYAIRZH · ল্য কঁসীয়ের্জ়্",
+       "mean": "caretaker, custodian · তত্ত্বাবধায়ক"
+      },
+      {
+       "t": "তাত্ত্বিক → théorique",
+       "tr": "tay-oh-REEK · তেওরিক্",
+       "mean": "theoretical · তাত্ত্বিক"
+      },
+      {
+       "t": "তদনুসারে → en conséquence",
+       "tr": "ahn kohn-say-KAHNSS · অঁ কঁসেকঁস্",
+       "mean": "accordingly · তদনুসারে"
+      },
+      {
+       "t": "তদন্ত → une investigation",
+       "tr": "ewn an-ves-tee-gah-SYOHN · য়্যুন্ আঁভ়েস্তিগাসীওঁ",
+       "mean": "investigation, enquiry · তদন্ত"
+      },
+      {
+       "t": "তদবির → un effort",
+       "tr": "uhn ay-FOR · আঁন্ এফ়র্",
+       "mean": "effort, endeavour · তদবির"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "তনয় · তালাক",
+     "items": [
+      {
+       "t": "তনয় → le fils",
+       "tr": "luh FEESS · ল্য ফ়িস্",
+       "mean": "son · তনয়"
+      },
+      {
+       "t": "তনয়া → la fille",
+       "tr": "lah FEEY · লা ফ়িঈ",
+       "mean": "daughter · তনয়া"
+      },
+      {
+       "t": "তফসির → une annotation",
+       "tr": "ewn ah-noh-tah-SYOHN · য়্যুন্ আনতাসীওঁ",
+       "mean": "commentary, annotation · তফসির"
+      },
+      {
+       "t": "তরঙ্গ → une grande vague",
+       "tr": "ewn grahnd VAHG · য়্যুন্ গ্রঁদ্ ভ়াগ্",
+       "mean": "a great wave · তরঙ্গ"
+      },
+      {
+       "t": "তরবারি → une épée",
+       "tr": "ewn ay-PAY · য়্যুন্ এপে",
+       "mean": "sword · তরবারি"
+      },
+      {
+       "t": "তরুণ → jeune",
+       "tr": "ZHUHN · জ়্যন্",
+       "mean": "young · তরুণ"
+      },
+      {
+       "t": "তাকওয়া → la religiosité",
+       "tr": "lah ruh-lee-zhyoh-zee-TAY · লা র্যলিজ়ীওজ়িতে",
+       "mean": "piety, god-fearingness · তাকওয়া"
+      },
+      {
+       "t": "তাড়াতাড়ি → promptement",
+       "tr": "prohnpt-MAHN · প্রঁপ্‌ত্‌মঁ",
+       "mean": "promptly · তাড়াতাড়ি"
+      },
+      {
+       "t": "তামান্না → une espérance",
+       "tr": "ewn es-pay-RAHNSS · য়্যুন্ এস্পেরঁস্",
+       "mean": "hope, aspiration · তামান্না"
+      },
+      {
+       "t": "তামাম → tout",
+       "tr": "TOO · তু",
+       "mean": "all, whole · তামাম"
+      },
+      {
+       "t": "তায়দাদ → le montant",
+       "tr": "luh mohn-TAHN · ল্য মঁতঁ",
+       "mean": "total amount · তায়দাদ"
+      },
+      {
+       "t": "তারুণ্য → la jeunesse",
+       "tr": "lah zhuh-NESS · লা জ়্যনেস্",
+       "mean": "youth · তারুণ্য"
+      },
+      {
+       "t": "তালাক → le divorce",
+       "tr": "luh dee-VORSS · ল্য দিভ়র্স্",
+       "mean": "divorce · তালাক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "তিরস্কার · থুথু",
+     "items": [
+      {
+       "t": "তিরস্কার → la réprimande",
+       "tr": "lah ray-pree-MAHND · লা রেপ্রিমঁদ্",
+       "mean": "reprimand, rebuke · তিরস্কার"
+      },
+      {
+       "t": "তুষ্ট → apaisé",
+       "tr": "ah-peh-ZAY · আপেজ়ে",
+       "mean": "appeased, content · তুষ্ট"
+      },
+      {
+       "t": "তুহিন → la neige",
+       "tr": "lah NEZH · লা নেজ়্",
+       "mean": "snow · তুহিন"
+      },
+      {
+       "t": "তৃপ্ত → charmé",
+       "tr": "shar-MAY · শার্মে",
+       "mean": "pleased, charmed · তৃপ্ত"
+      },
+      {
+       "t": "তোশক → le matelas",
+       "tr": "luh mat-LAH · ল্য মাত্‌লা",
+       "mean": "mattress · তোশক"
+      },
+      {
+       "t": "ত্রাণ → le soulagement",
+       "tr": "luh soo-lahzh-MAHN · ল্য সুলাজ়্‌মঁ",
+       "mean": "relief · ত্রাণ"
+      },
+      {
+       "t": "ত্রৈমাসিক → trimestriel",
+       "tr": "tree-mes-tree-EL · ত্রিমেস্ত্রীয়েল্",
+       "mean": "quarterly · ত্রৈমাসিক"
+      },
+      {
+       "t": "ত্বরান্বিত → pressé",
+       "tr": "preh-SAY · প্রেসে",
+       "mean": "hurried · ত্বরান্বিত"
+      },
+      {
+       "t": "থমথম → le silence",
+       "tr": "luh see-LAHNSS · ল্য সিলঁস্",
+       "mean": "a heavy silence · থমথম"
+      },
+      {
+       "t": "থরথর → la palpitation",
+       "tr": "lah pal-pee-tah-SYOHN · লা পাল্‌পিতাসীওঁ",
+       "mean": "trembling, palpitation · থরথর"
+      },
+      {
+       "t": "থলি, থলে → le sac",
+       "tr": "luh SAK · ল্য সাক্",
+       "mean": "bag · থলি"
+      },
+      {
+       "t": "থাপ্পড় → la claque",
+       "tr": "lah KLAK · লা ক্লাক্",
+       "mean": "a slap · থাপ্পড়"
+      },
+      {
+       "t": "থুতু → la salive",
+       "tr": "lah sah-LEEV · লা সালিভ়্",
+       "mean": "spit, saliva · থুতু"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{তনয়}} and {{তনয়া}} are… · {{তনয়}} ও {{তনয়া}} হলো…",
+       "options": [
+        "le fils and la fille",
+        "le fil and la fille",
+        "le fils and la ville",
+        "le file and la fille"
+       ],
+       "answer": 0,
+       "explain": "{{le fil}} without the s is a thread · s ছাড়া {{le fil}} মানে সুতো।"
+      },
+      {
+       "q": "{{ঢেউ}} in French is… · ফরাসিতে {{ঢেউ}} হলো…",
+       "options": [
+        "la vague",
+        "la bague",
+        "la blague",
+        "la plage"
+       ],
+       "answer": 0,
+       "explain": "{{vague}} is also the adjective *vague* · {{vague}} বিশেষণ হিসেবে *অস্পষ্ট*ও বোঝায়।"
+      },
+      {
+       "q": "{{তালাক}} is… · {{তালাক}} হলো…",
+       "options": [
+        "le discours",
+        "le divorce",
+        "le départ",
+        "le devoir"
+       ],
+       "answer": 1,
+       "explain": "The same word as English · ইংরেজির সঙ্গে এক শব্দ।"
+      },
+      {
+       "q": "Which means *hastily*? · *তড়িঘড়ি* কোনটি?",
+       "options": [
+        "promptement",
+        "précipitamment",
+        "prochainement",
+        "proprement"
+       ],
+       "answer": 1,
+       "explain": "{{promptement}} is simply *promptly* · {{promptement}} মানে কেবল *দ্রুত*।"
+      },
+      {
+       "q": "{{তোশক}} is… · {{তোশক}} হলো…",
+       "options": [
+        "le matelas",
+        "le manteau",
+        "le marteau",
+        "le maintien"
+       ],
+       "answer": 0,
+       "explain": "{{le marteau}} is a hammer · {{le marteau}} মানে হাতুড়ি।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf10",
+   "icon": "দ–ধ",
+   "title": "দ–ধ · দক্ষ → ধ্বংস",
+   "subtitle": "Hardship, faith and patience · দুর্দশা, ধর্ম ও ধৈর্য",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Use দুর্– and in- together: both mean *hard* or *un-*"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Bangla দুর্- marks something hard or bad, and French answers it with **in-** or **im-**: {{দুঃসহ → insupportable}}, {{দুর্জয় → invincible}}, {{দুর্দান্ত → indomptable}}. Learn the pairing and a whole column of this page becomes readable at sight. · বাংলার দুর্- এর জবাবে ফরাসি দেয় **in-** বা **im-**। জোড়াটি ধরতে পারলে এই পাতার গোটা একটি স্তম্ভ এক নজরেই পড়া যায়।"
+    },
+    {
+     "type": "vocab",
+     "title": "দক্ষ · দলিল",
+     "items": [
+      {
+       "t": "দক্ষ → expert",
+       "tr": "ek-SPAIR · এক্স্পের্",
+       "mean": "expert, skilled · দক্ষ"
+      },
+      {
+       "t": "দখল → la possession",
+       "tr": "lah poh-seh-SYOHN · লা পসেসীওঁ",
+       "mean": "possession · দখল"
+      },
+      {
+       "t": "দখলচ্যুত → dépossédé",
+       "tr": "day-poh-say-DAY · দেপসেদে",
+       "mean": "dispossessed · দখলচ্যুত"
+      },
+      {
+       "t": "দগ্ধ → brûlé",
+       "tr": "brew-LAY · ব্র্যুলে",
+       "mean": "burnt · দগ্ধ"
+      },
+      {
+       "t": "দত্তক → adopté",
+       "tr": "ah-dop-TAY · আদপ্‌তে",
+       "mean": "adopted · দত্তক"
+      },
+      {
+       "t": "দম্পতি → le couple",
+       "tr": "luh KOOPL · ল্য কুপ্‌ল্",
+       "mean": "a married couple · দম্পতি"
+      },
+      {
+       "t": "দয়া → la compassion",
+       "tr": "lah kohn-pah-SYOHN · লা কঁপাসীওঁ",
+       "mean": "compassion, mercy · দয়া"
+      },
+      {
+       "t": "দারিদ্রতা → la pauvreté",
+       "tr": "lah poh-vruh-TAY · লা পোভ়্র্যতে",
+       "mean": "poverty · দারিদ্র্য"
+      },
+      {
+       "t": "দর্শন → la philosophie",
+       "tr": "lah fee-loh-zoh-FEE · লা ফ়িলোজ়ফ়ি",
+       "mean": "philosophy · দর্শন"
+      },
+      {
+       "t": "দলিল → un acte",
+       "tr": "uhn AKT · আঁন্ আক্ত্",
+       "mean": "deed, document · দলিল"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "দহরম · দালাল",
+     "items": [
+      {
+       "t": "দহরম-মহরম → une intimité",
+       "tr": "ewn an-tee-mee-TAY · য়্যুন্ আঁতিমিতে",
+       "mean": "close familiarity · দহরম-মহরম"
+      },
+      {
+       "t": "দাড়ি → la barbe",
+       "tr": "lah BARB · লা বার্ব্",
+       "mean": "beard · দাড়ি"
+      },
+      {
+       "t": "দারুণ! → fantastique",
+       "tr": "fahn-tah-STEEK · ফ়ঁতাস্তিক্",
+       "mean": "fantastic! · দারুণ!"
+      },
+      {
+       "t": "দালাল → le courtier",
+       "tr": "luh koor-TYAY · ল্য কুর্তীয়ে",
+       "mean": "broker, middleman · দালাল"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "দুঃসাধ্য · দুর্লভ",
+     "items": [
+      {
+       "t": "দুঃসাধ্য → ardu",
+       "tr": "ar-DEW · আর্দ্যু",
+       "mean": "arduous, very hard · দুঃসাধ্য"
+      },
+      {
+       "t": "দুঃসহ → insupportable",
+       "tr": "an-sew-por-TAHBL · আঁস্যুপর্তাব্‌ল্",
+       "mean": "unbearable · দুঃসহ"
+      },
+      {
+       "t": "দুর্জয় → invincible",
+       "tr": "an-van-SEEBL · আঁভ়াঁসিব্‌ল্",
+       "mean": "invincible · দুর্জয়"
+      },
+      {
+       "t": "দুর্ঘটনা → le contretemps",
+       "tr": "luh kohn-truh-TAHN · ল্য কঁত্র্যতঁ",
+       "mean": "mishap, accident · দুর্ঘটনা"
+      },
+      {
+       "t": "দুর্দান্ত → indomptable",
+       "tr": "an-dohn-TAHBL · আঁদঁতাব্‌ল্",
+       "mean": "indomitable · দুর্দান্ত"
+      },
+      {
+       "t": "দুর্ধর্ষ → affreux",
+       "tr": "ah-FRUH · আফ়্রো",
+       "mean": "fearsome, frightful · দুর্ধর্ষ"
+      },
+      {
+       "t": "দুর্ব্যবহার → la mauvaise conduite",
+       "tr": "lah moh-vez kohn-DWEET · লা মোভ়েজ় কঁদুইত্",
+       "mean": "misconduct · দুর্ব্যবহার"
+      },
+      {
+       "t": "দুর্ভিক্ষ → la famine",
+       "tr": "lah fah-MEEN · লা ফ়ামিন্",
+       "mean": "famine · দুর্ভিক্ষ"
+      },
+      {
+       "t": "দুর্লভ → rare",
+       "tr": "RAR · রার্",
+       "mean": "rare, hard to find · দুর্লভ"
+      },
+      {
+       "t": "দুশ্চরিত্র → sans caractère",
+       "tr": "sahn kah-rak-TAIR · সঁ কারাক্তের্",
+       "mean": "of bad character · দুশ্চরিত্র"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "দূত · দ্বৈত",
+     "items": [
+      {
+       "t": "দূত → le messager",
+       "tr": "luh may-sah-ZHAY · ল্য মেসাজ়ে",
+       "mean": "messenger, envoy · দূত"
+      },
+      {
+       "t": "দেরাজ → le tiroir",
+       "tr": "luh tee-RWAHR · ল্য তিরোয়ার্",
+       "mean": "drawer · দেরাজ"
+      },
+      {
+       "t": "দিয়াশলাই → une allumette",
+       "tr": "ewn ah-lew-MET · য়্যুন্ আল্যুমেত্",
+       "mean": "match (for lighting) · দিয়াশলাই"
+      },
+      {
+       "t": "দৈনন্দিন → journalier",
+       "tr": "zhoor-nah-LYAY · জ়ুর্নালীয়ে",
+       "mean": "daily · দৈনন্দিন"
+      },
+      {
+       "t": "দোয়া → la bénédiction",
+       "tr": "lah bay-nay-deek-SYOHN · লা বেনেদিক্সীওঁ",
+       "mean": "blessing · দোয়া"
+      },
+      {
+       "t": "দৌরাত্ম্য → une oppression",
+       "tr": "ewn oh-preh-SYOHN · য়্যুন্ অপ্রেসীওঁ",
+       "mean": "oppression, tyranny · দৌরাত্ম্য"
+      },
+      {
+       "t": "দ্যুতি → le brillant",
+       "tr": "luh bree-YAHN · ল্য ব্রিঈয়ঁ",
+       "mean": "brilliance · দ্যুতি"
+      },
+      {
+       "t": "দ্বৈত সংগীত → le duo",
+       "tr": "luh dew-OH · ল্য দ্যুও",
+       "mean": "duet · দ্বৈত সংগীত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ধকল · ধর্মযাজক",
+     "items": [
+      {
+       "t": "ধকল → le stress",
+       "tr": "luh STRESS · ল্য স্ত্রেস্",
+       "mean": "stress, strain · ধকল"
+      },
+      {
+       "t": "ধনতন্ত্র → le capitalisme",
+       "tr": "luh kah-pee-tah-LEEZM · ল্য কাপিতালিজ়্‌ম্",
+       "mean": "capitalism · ধনতন্ত্র"
+      },
+      {
+       "t": "ধনভাণ্ডার → le trésor",
+       "tr": "luh tray-ZOR · ল্য ত্রেজ়র্",
+       "mean": "treasury · ধনভাণ্ডার"
+      },
+      {
+       "t": "ধনদৌলত → les richesses",
+       "tr": "lay ree-SHESS · লে রিশেস্",
+       "mean": "riches, wealth · ধনদৌলত"
+      },
+      {
+       "t": "ধর্মযুদ্ধ → la croisade",
+       "tr": "lah krwah-ZAHD · লা ক্রোয়াজ়াদ্",
+       "mean": "crusade, holy war · ধর্মযুদ্ধ"
+      },
+      {
+       "t": "ধর্মপ্রচারক → le prédicateur",
+       "tr": "luh pray-dee-kah-TUHR · ল্য প্রেদিকাত্যর্",
+       "mean": "preacher · ধর্মপ্রচারক"
+      },
+      {
+       "t": "ধর্মনিরপেক্ষ → séculier",
+       "tr": "say-kew-LYAY · সেক্যুলীয়ে",
+       "mean": "secular · ধর্মনিরপেক্ষ"
+      },
+      {
+       "t": "ধর্মযাজক → le prêtre",
+       "tr": "luh PRETR · ল্য প্রেত্র্",
+       "mean": "priest · ধর্মযাজক"
+      },
+      {
+       "t": "ধাত্রী → la sage-femme",
+       "tr": "lah sahzh-FAHM · লা সাজ়্‌ফ়াম্",
+       "mean": "midwife · ধাত্রী"
+      },
+      {
+       "t": "ধারণাতীত → inconcevable",
+       "tr": "an-kohns-VAHBL · আঁকঁস্‌ভ়াব্‌ল্",
+       "mean": "inconceivable · ধারণাতীত"
+      },
+      {
+       "t": "ধূমপায়ী → le fumeur",
+       "tr": "luh few-MUHR · ল্য ফ়্যুম্যর্",
+       "mean": "smoker · ধূমপায়ী"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ধৈর্য · ধ্বংস",
+     "items": [
+      {
+       "t": "ধৈর্য → la patience",
+       "tr": "lah pah-SYAHNSS · লা পাসীয়ঁস্",
+       "mean": "patience · ধৈর্য"
+      },
+      {
+       "t": "ধৈর্যশীল → patient",
+       "tr": "pah-SYAHN · পাসীয়ঁ",
+       "mean": "patient · ধৈর্যশীল"
+      },
+      {
+       "t": "ধৈর্যহীন → impatient",
+       "tr": "an-pah-SYAHN · আঁপাসীয়ঁ",
+       "mean": "impatient · ধৈর্যহীন"
+      },
+      {
+       "t": "ধ্যানধারণা → la pensée",
+       "tr": "lah pahn-SAY · লা পঁসে",
+       "mean": "thought, notion · ধ্যানধারণা"
+      },
+      {
+       "t": "ধ্রুপদ → la musique classique",
+       "tr": "lah mew-zeek klah-SEEK · লা ম্যুজ়িক্ ক্লাসিক্",
+       "mean": "classical music · ধ্রুপদ"
+      },
+      {
+       "t": "ধ্বংসযজ্ঞ → le dégât",
+       "tr": "luh day-GAH · ল্য দেগা",
+       "mean": "damage, havoc · ধ্বংসযজ্ঞ"
+      },
+      {
+       "t": "ধ্বংসস্তূপ → les décombres",
+       "tr": "lay day-KOHMBR · লে দেকঁব্র্",
+       "mean": "rubble, ruins · ধ্বংসস্তূপ"
+      },
+      {
+       "t": "ধ্বংসাত্মক → destructeur",
+       "tr": "des-trewk-TUHR · দেস্ত্র্যুক্তোর্",
+       "mean": "destructive · ধ্বংসাত্মক"
+      },
+      {
+       "t": "ধ্বংসাবশেষ → les débris",
+       "tr": "lay day-BREE · লে দেব্রি",
+       "mean": "debris, remains · ধ্বংসাবশেষ"
+      },
+      {
+       "t": "ধ্বংস → la destruction",
+       "tr": "lah des-trewk-SYOHN · লা দেস্ত্র্যুক্সীওঁ",
+       "mean": "destruction · ধ্বংস"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{ধৈর্যহীন}} in French is… · ফরাসিতে {{ধৈর্যহীন}} হলো…",
+       "options": [
+        "impatient",
+        "inpatient",
+        "impatience",
+        "non-patient"
+       ],
+       "answer": 0,
+       "explain": "**im-** before p · p-এর আগে **im-**।"
+      },
+      {
+       "q": "{{ধাত্রী}} is… · {{ধাত্রী}} হলো…",
+       "options": [
+        "la sage",
+        "la femme sage",
+        "la sage-femme",
+        "la femme-sage"
+       ],
+       "answer": 2,
+       "explain": "Literally *the wise woman* · আক্ষরিক অর্থে *জ্ঞানী নারী*।"
+      },
+      {
+       "q": "{{দুর্ভিক্ষ}} is… · {{দুর্ভিক্ষ}} হলো…",
+       "options": [
+        "la famille",
+        "la famine",
+        "la fumée",
+        "la fermeture"
+       ],
+       "answer": 1,
+       "explain": "One letter from {{la famille}} · {{la famille}} থেকে এক অক্ষরের তফাত।"
+      },
+      {
+       "q": "{{দিয়াশলাই}} is… · {{দিয়াশলাই}} হলো…",
+       "options": [
+        "une allumette",
+        "une allumeuse",
+        "un allumage",
+        "une lumière"
+       ],
+       "answer": 0,
+       "explain": "From {{allumer}}, to light · {{allumer}} অর্থাৎ জ্বালানো থেকে।"
+      },
+      {
+       "q": "{{দর্শন}} as a subject of study is… · পাঠ্যবিষয় হিসেবে {{দর্শন}} হলো…",
+       "options": [
+        "la vision",
+        "la philosophie",
+        "la perception",
+        "le spectacle"
+       ],
+       "answer": 1,
+       "explain": "Not the act of seeing · দেখার ক্রিয়া নয়।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf11",
+   "icon": "ন–প",
+   "title": "ন–প · নগণ্য → পুনরুজ্জীবন",
+   "subtitle": "Prohibition, blame and the foreign ministry · নিষেধ, নিন্দা ও পররাষ্ট্র",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Spot the নি– prefix answering French in– and im–"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "{{le pécheur}} is a sinner; {{le pêcheur}} with a circumflex is a fisherman. One accent separates the pulpit from the harbour — and both words sit in this section. · {{le pécheur}} মানে পাপী; circumflex সহ {{le pêcheur}} মানে জেলে। একটি চিহ্নই গির্জা আর ঘাটের পার্থক্য।"
+    },
+    {
+     "type": "vocab",
+     "title": "নগণ্য · নাস্তিক",
+     "items": [
+      {
+       "t": "নগণ্য → insignifiant",
+       "tr": "an-see-nyee-FYAHN · আঁসিঞিফ়ীয়ঁ",
+       "mean": "insignificant · নগণ্য"
+      },
+      {
+       "t": "নগদ → les espèces",
+       "tr": "lay zes-PESS · লেজ় এস্পেস্",
+       "mean": "cash · নগদ"
+      },
+      {
+       "t": "নবী → le prophète",
+       "tr": "luh proh-FET · ল্য প্রফ়েত্",
+       "mean": "prophet · নবী"
+      },
+      {
+       "t": "নসিব → le destin",
+       "tr": "luh des-TAN · ল্য দেস্তাঁ",
+       "mean": "destiny, fate · নসিব"
+      },
+      {
+       "t": "নসিহত → le conseil",
+       "tr": "luh kohn-SAY · ল্য কঁসেই",
+       "mean": "counsel, advice · নসিহত"
+      },
+      {
+       "t": "নাটকীয় → dramatique",
+       "tr": "drah-mah-TEEK · দ্রামাতিক্",
+       "mean": "dramatic · নাটকীয়"
+      },
+      {
+       "t": "নামঞ্জুর → rejeté",
+       "tr": "ruh-zhuh-TAY · র্যজ়্যতে",
+       "mean": "rejected, refused · নামঞ্জুর"
+      },
+      {
+       "t": "নারাজ → mécontent",
+       "tr": "may-kohn-TAHN · মেকঁতঁ",
+       "mean": "displeased, unwilling · নারাজ"
+      },
+      {
+       "t": "নালিশ → la plainte",
+       "tr": "lah PLANT · লা প্লাঁত্",
+       "mean": "complaint · নালিশ"
+      },
+      {
+       "t": "নাস্তিক → athée",
+       "tr": "ah-TAY · আতে",
+       "mean": "atheist · নাস্তিক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "নিদর্শন · নিষেধ",
+     "items": [
+      {
+       "t": "নিদর্শন → un exemple",
+       "tr": "uhn eg-ZAHMPL · আঁন্ এগ্‌জ়ঁপ্‌ল্",
+       "mean": "an example, a specimen · নিদর্শন"
+      },
+      {
+       "t": "নিন্দিত → reproché",
+       "tr": "ruh-proh-SHAY · র্যপ্রশে",
+       "mean": "reproached, blamed · নিন্দিত"
+      },
+      {
+       "t": "নিবন্ধ → la dissertation",
+       "tr": "lah dee-sair-tah-SYOHN · লা দিসের্তাসীওঁ",
+       "mean": "an essay, a dissertation · নিবন্ধ"
+      },
+      {
+       "t": "নিরপেক্ষ → impartial",
+       "tr": "an-par-SYAL · আঁপার্সীয়াল্",
+       "mean": "impartial · নিরপেক্ষ"
+      },
+      {
+       "t": "নিয়োগ → un emploi",
+       "tr": "uhn ahm-PLWAH · আঁন্ অঁপ্লোয়া",
+       "mean": "employment, appointment · নিয়োগ"
+      },
+      {
+       "t": "নিরহংকারী → modeste",
+       "tr": "moh-DEST · মদেস্ত্",
+       "mean": "modest · নিরহংকারী"
+      },
+      {
+       "t": "নিরাপদ → sauf",
+       "tr": "SOHF · সোফ়্",
+       "mean": "safe · নিরাপদ"
+      },
+      {
+       "t": "নির্ঝঞ্ঝাট → tranquille",
+       "tr": "trahn-KEEL · ত্রঁকিল্",
+       "mean": "untroubled, free of fuss · নির্ঝঞ্ঝাট"
+      },
+      {
+       "t": "নির্দোষ → impeccable",
+       "tr": "an-peh-KAHBL · আঁপেকাব্‌ল্",
+       "mean": "faultless · নির্দোষ"
+      },
+      {
+       "t": "নির্ভুল → correct",
+       "tr": "koh-REKT · করেক্ত্",
+       "mean": "correct, errorless · নির্ভুল"
+      },
+      {
+       "t": "নিষিদ্ধ → défendu",
+       "tr": "day-fahn-DEW · দেফ়ঁদ্যু",
+       "mean": "forbidden · নিষিদ্ধ"
+      },
+      {
+       "t": "নিষেধ → la prohibition",
+       "tr": "lah proh-ee-bee-SYOHN · লা প্রইবিসীওঁ",
+       "mean": "prohibition · নিষেধ"
+      },
+      {
+       "t": "নিষ্প্রয়োজন → inutile",
+       "tr": "ee-new-TEEL · ইন্যুতিল্",
+       "mean": "needless · নিষ্প্রয়োজন"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "নেশা · ন্যায়নিষ্ঠা",
+     "items": [
+      {
+       "t": "নেশা → une ivresse",
+       "tr": "ewn ee-VRESS · য়্যুন্ ইভ়্রেস্",
+       "mean": "intoxication · নেশা"
+      },
+      {
+       "t": "নেশাগ্রস্ত → ivre",
+       "tr": "EEVR · ইভ়্র্",
+       "mean": "drunk, intoxicated · নেশাগ্রস্ত"
+      },
+      {
+       "t": "নৌবাহিনী → la marine de guerre",
+       "tr": "lah mah-reen duh GAIR · লা মারিন্ দ্য গের্",
+       "mean": "navy · নৌবাহিনী"
+      },
+      {
+       "t": "নৌবিদ্যা → la navigation",
+       "tr": "lah nah-vee-gah-SYOHN · লা নাভ়িগাসীওঁ",
+       "mean": "navigation · নৌবিদ্যা"
+      },
+      {
+       "t": "ন্যায়নিষ্ঠা → la vertu",
+       "tr": "lah vair-TEW · লা ভ়ের্ত্যু",
+       "mean": "integrity, virtue · ন্যায়নিষ্ঠা"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "পকেট · পরনিন্দা",
+     "items": [
+      {
+       "t": "পকেট → la poche",
+       "tr": "lah POSH · লা পশ্",
+       "mean": "pocket · পকেট"
+      },
+      {
+       "t": "পকেট ঘড়ি → la montre de poche",
+       "tr": "lah mohntr duh POSH · লা মঁত্র্ দ্য পশ্",
+       "mean": "pocket watch · পকেট ঘড়ি"
+      },
+      {
+       "t": "পকেট মারা → voler à la tire",
+       "tr": "voh-lay ah lah TEER · ভ়লে আ লা তির্",
+       "mean": "to pick pockets · পকেট মারা"
+      },
+      {
+       "t": "পণ্ডিত → savant",
+       "tr": "sah-VAHN · সাভ়ঁ",
+       "mean": "learned, a scholar · পণ্ডিত"
+      },
+      {
+       "t": "পতাকা → le drapeau",
+       "tr": "luh drah-POH · ল্য দ্রাপো",
+       "mean": "flag · পতাকা"
+      },
+      {
+       "t": "পদ্ধতি → la méthode",
+       "tr": "lah may-TOD · লা মেতদ্",
+       "mean": "method · পদ্ধতি"
+      },
+      {
+       "t": "পয়গম্বর → le prophète",
+       "tr": "luh proh-FET · ল্য প্রফ়েত্",
+       "mean": "prophet · পয়গম্বর"
+      },
+      {
+       "t": "পরচর্চা → la médisance",
+       "tr": "lah may-dee-ZAHNSS · লা মেদিজ়ঁস্",
+       "mean": "gossip, backbiting · পরচর্চা"
+      },
+      {
+       "t": "পরনিন্দা → la diffamation",
+       "tr": "lah dee-fah-mah-SYOHN · লা দিফ়ামাসীওঁ",
+       "mean": "defamation · পরনিন্দা"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "পরভাষা · পুনরুজ্জীবন",
+     "items": [
+      {
+       "t": "পরভাষা → la langue étrangère",
+       "tr": "lah lahng ay-trahn-ZHAIR · লা লঁগ্ এত্রঁজ়ের্",
+       "mean": "a foreign language · পরভাষা"
+      },
+      {
+       "t": "পরমাত্মীয় → intime",
+       "tr": "an-TEEM · আঁতিম্",
+       "mean": "a close relative · পরমাত্মীয়"
+      },
+      {
+       "t": "পরমানন্দ → la béatitude",
+       "tr": "lah bay-ah-tee-TEWD · লা বেয়াতিত্যুদ্",
+       "mean": "bliss, beatitude · পরমানন্দ"
+      },
+      {
+       "t": "পররাষ্ট্রমন্ত্রী → le ministre des affaires étrangères",
+       "tr": "mee-neestr day zah-fair ay-trahn-ZHAIR · মিনিস্ত্র্ দেজ়াফ়ের্ এত্রঁজ়ের্",
+       "mean": "foreign minister · পররাষ্ট্রমন্ত্রী"
+      },
+      {
+       "t": "পরলোকগমন → la mort",
+       "tr": "lah MOR · লা মর্",
+       "mean": "passing away, death · পরলোকগমন"
+      },
+      {
+       "t": "পরাজয় → la défaite",
+       "tr": "lah day-FET · লা দেফ়েত্",
+       "mean": "defeat · পরাজয়"
+      },
+      {
+       "t": "পরিকল্পনা → le plan",
+       "tr": "luh PLAHN · ল্য প্লঁ",
+       "mean": "plan · পরিকল্পনা"
+      },
+      {
+       "t": "পরিচারক → le serviteur",
+       "tr": "luh sair-vee-TUHR · ল্য সের্ভ়িতোর্",
+       "mean": "servant, attendant · পরিচারক"
+      },
+      {
+       "t": "পরিচিত → connu",
+       "tr": "koh-NEW · কন্যু",
+       "mean": "known, familiar · পরিচিত"
+      },
+      {
+       "t": "পরিণতি → le résultat",
+       "tr": "luh ray-zewl-TAH · ল্য রেজ়্যুল্‌তা",
+       "mean": "outcome · পরিণতি"
+      },
+      {
+       "t": "পরিশীলিত → sophistiqué",
+       "tr": "soh-fees-tee-KAY · সফ়িস্তিকে",
+       "mean": "sophisticated, refined · পরিশীলিত"
+      },
+      {
+       "t": "পরীক্ষিত → vérifié",
+       "tr": "vay-ree-FYAY · ভ়েরিফ়িয়ে",
+       "mean": "verified, tested · পরীক্ষিত"
+      },
+      {
+       "t": "পাপ → le péché",
+       "tr": "luh pay-SHAY · ল্য পেশে",
+       "mean": "sin · পাপ"
+      },
+      {
+       "t": "পাপী → le pécheur",
+       "tr": "luh pay-SHUHR · ল্য পেশ্যর্",
+       "mean": "sinner · পাপী"
+      },
+      {
+       "t": "পুনরুজ্জীবন → la résurrection",
+       "tr": "lah ray-zew-rek-SYOHN · লা রেজ়্যুরেক্সীওঁ",
+       "mean": "resurrection, revival · পুনরুজ্জীবন"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{le pécheur}} without a circumflex is… · circumflex ছাড়া {{le pécheur}} মানে…",
+       "options": [
+        "a fisherman",
+        "a sinner",
+        "a peach seller",
+        "a shepherd"
+       ],
+       "answer": 1,
+       "explain": "{{le pêcheur}} with the hat fishes · টুপি থাকলে তিনি মাছ ধরেন।"
+      },
+      {
+       "q": "{{নগদ}} in French is… · ফরাসিতে {{নগদ}} হলো…",
+       "options": [
+        "les espèces",
+        "les espaces",
+        "les épices",
+        "les espoirs"
+       ],
+       "answer": 0,
+       "explain": "{{payer en espèces}} — to pay cash · নগদে দেওয়া।"
+      },
+      {
+       "q": "{{নিষিদ্ধ}} on a sign is… · সাইনবোর্ডে {{নিষিদ্ধ}} হলো…",
+       "options": [
+        "défendu",
+        "dépendu",
+        "défendeur",
+        "défini"
+       ],
+       "answer": 0,
+       "explain": "{{Défense de…}} is the noun form · বিশেষ্য রূপ {{Défense de…}}।"
+      },
+      {
+       "q": "{{পরাজয}} is… · {{পরাজয়}} হলো…",
+       "options": [
+        "la victoire",
+        "la défaite",
+        "la défense",
+        "la fête"
+       ],
+       "answer": 1,
+       "explain": "The opposite of {{la victoire}} · {{la victoire}}-এর বিপরীত।"
+      },
+      {
+       "q": "{{পকেট মারা}} is… · {{পকেট মারা}} হলো…",
+       "options": [
+        "voler à la tire",
+        "voler en avion",
+        "vider la poche",
+        "tirer la poche"
+       ],
+       "answer": 0,
+       "explain": "Literally *to steal by pulling* · আক্ষরিক অর্থে *টেনে চুরি করা*।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf12",
+   "icon": "প–ব",
+   "title": "প–ব · পেশা → বাস্তব",
+   "subtitle": "Protest, promise and the wedding party · প্রতিবাদ, প্রতিশ্রুতি ও বিয়েবাড়ি",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Collect the প্রতি– family and its French counterparts"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Bangla প্রতি- answers French **contre-**, **ré-** and **pro-**: {{প্রতিকূল → contraire}}, {{প্রতিক্রিয়া → la réaction}}, {{প্রতিবাদ → la protestation}}. One prefix, three French answers, chosen by meaning. · বাংলার প্রতি- এর জবাবে ফরাসি দেয় **contre-**, **ré-** বা **pro-** — অর্থ অনুযায়ী বেছে নেওয়া।"
+    },
+    {
+     "type": "vocab",
+     "title": "পেশা · প্রতিবাদী",
+     "items": [
+      {
+       "t": "পেশা → la profession",
+       "tr": "lah proh-feh-SYOHN · লা প্রফ়েসীওঁ",
+       "mean": "profession · পেশা"
+      },
+      {
+       "t": "পৌত্তলিক → idolâtre",
+       "tr": "ee-doh-LAHTR · ইদলাত্র্",
+       "mean": "idolatrous · পৌত্তলিক"
+      },
+      {
+       "t": "প্রকাশক → un éditeur",
+       "tr": "uhn ay-dee-TUHR · আঁন্ এদিতোর্",
+       "mean": "publisher · প্রকাশক"
+      },
+      {
+       "t": "প্রখর → sévère",
+       "tr": "say-VAIR · সেভ়ের্",
+       "mean": "severe, intense · প্রখর"
+      },
+      {
+       "t": "প্রতারণা → la tromperie",
+       "tr": "lah trohn-PREE · লা ত্রঁপেরি",
+       "mean": "deception · প্রতারণা"
+      },
+      {
+       "t": "প্রতিকার → le remède",
+       "tr": "luh ruh-MED · ল্য র্যমেদ্",
+       "mean": "remedy, redress · প্রতিকার"
+      },
+      {
+       "t": "প্রতিক্রিয়া → la réaction",
+       "tr": "lah ray-ak-SYOHN · লা রেয়াক্সীওঁ",
+       "mean": "reaction · প্রতিক্রিয়া"
+      },
+      {
+       "t": "প্রতিকূল → contraire",
+       "tr": "kohn-TRAIR · কঁত্রের্",
+       "mean": "adverse, contrary · প্রতিকূল"
+      },
+      {
+       "t": "প্রতিবাদ → la protestation",
+       "tr": "lah proh-tes-tah-SYOHN · লা প্রতেস্তাসীওঁ",
+       "mean": "protest · প্রতিবাদ"
+      },
+      {
+       "t": "প্রতিবাদী → le manifestant",
+       "tr": "luh mah-nee-fes-TAHN · ল্য মানিফ়েস্তঁ",
+       "mean": "protester, demonstrator · প্রতিবাদী"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "প্রতিভা · প্রত্যাশী",
+     "items": [
+      {
+       "t": "প্রতিভা → le génie",
+       "tr": "luh zhay-NEE · ল্য জ়েনি",
+       "mean": "genius, talent · প্রতিভা"
+      },
+      {
+       "t": "প্রতিযোগিতা → la concurrence",
+       "tr": "lah kohn-kew-RAHNSS · লা কঁক্যুরঁস্",
+       "mean": "competition · প্রতিযোগিতা"
+      },
+      {
+       "t": "প্রতিযোগী → le compétiteur",
+       "tr": "luh kohn-pay-tee-TUHR · ল্য কঁপেতিতোর্",
+       "mean": "competitor · প্রতিযোগী"
+      },
+      {
+       "t": "প্রতিশোধ → la vengeance",
+       "tr": "lah vahn-ZHAHNSS · লা ভ়ঁজ়ঁস্",
+       "mean": "revenge · প্রতিশোধ"
+      },
+      {
+       "t": "প্রতিশ্রুতি → la promesse",
+       "tr": "lah proh-MESS · লা প্রমেস্",
+       "mean": "promise · প্রতিশ্রুতি"
+      },
+      {
+       "t": "প্রত্যাশা → une espérance",
+       "tr": "ewn es-pay-RAHNSS · য়্যুন্ এস্পেরঁস্",
+       "mean": "expectation, hope · প্রত্যাশা"
+      },
+      {
+       "t": "প্রত্যাশী → expectant",
+       "tr": "ek-spek-TAHN · এক্স্পেক্তঁ",
+       "mean": "expectant · প্রত্যাশী"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "প্রয়োজন · প্রার্থী",
+     "items": [
+      {
+       "t": "প্রয়োজন → une exigence",
+       "tr": "ewn eg-zee-ZHAHNSS · য়্যুন্ এগ্‌জ়িজ়ঁস্",
+       "mean": "requirement · প্রয়োজন"
+      },
+      {
+       "t": "প্রয়োজনীয় → nécessaire",
+       "tr": "nay-say-SAIR · নেসেসের্",
+       "mean": "necessary · প্রয়োজনীয়"
+      },
+      {
+       "t": "প্রশংসা → un éloge",
+       "tr": "uhn ay-LOHZH · আঁন্ এলজ়্",
+       "mean": "praise · প্রশংসা"
+      },
+      {
+       "t": "প্রসব → la parturition",
+       "tr": "lah par-tew-ree-SYOHN · লা পার্ত্যুরিসীওঁ",
+       "mean": "childbirth · প্রসব"
+      },
+      {
+       "t": "প্রামাণিক → authentique",
+       "tr": "oh-tahn-TEEK · ওতঁতিক্",
+       "mean": "authentic · প্রামাণিক"
+      },
+      {
+       "t": "প্রার্থনা → la prière",
+       "tr": "lah pree-AIR · লা প্রিয়ের্",
+       "mean": "prayer · প্রার্থনা"
+      },
+      {
+       "t": "প্রার্থনা করা → prier",
+       "tr": "pree-AY · প্রিয়ে",
+       "mean": "to pray · প্রার্থনা করা"
+      },
+      {
+       "t": "প্রেষণা → la motivation",
+       "tr": "lah moh-tee-vah-SYOHN · লা মতিভ়াসীওঁ",
+       "mean": "motivation · প্রেষণা"
+      },
+      {
+       "t": "প্রার্থী → le candidat",
+       "tr": "luh kahn-dee-DAH · ল্য কঁদিদা",
+       "mean": "candidate, applicant · প্রার্থী"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ফ",
+     "items": [
+      {
+       "t": "ফকির → un indigent",
+       "tr": "uhn an-dee-ZHAHN · আঁন্ আঁদিজ়ঁ",
+       "mean": "a pauper, a mendicant · ফকির"
+      },
+      {
+       "t": "ফেরদৌস → le paradis",
+       "tr": "luh pah-rah-DEE · ল্য পারাদি",
+       "mean": "paradise · ফেরদৌস"
+      },
+      {
+       "t": "ফোয়ারা → la fontaine",
+       "tr": "lah fohn-TEN · লা ফ়ঁতেন্",
+       "mean": "fountain · ফোয়ারা"
+      },
+      {
+       "t": "ফুর্তি → la gaieté",
+       "tr": "lah geh-TAY · লা গেতে",
+       "mean": "cheerfulness, fun · ফুর্তি"
+      },
+      {
+       "t": "ফুর্তিবাজ → joyeux",
+       "tr": "zhwah-YUH · জ়োয়াঈও",
+       "mean": "merry, fun-loving · ফুর্তিবাজ"
+      },
+      {
+       "t": "ফরিয়াদ → la réclamation",
+       "tr": "lah ray-klah-mah-SYOHN · লা রেক্লামাসীওঁ",
+       "mean": "complaint, claim · ফরিয়াদ"
+      },
+      {
+       "t": "ফয়সালা → un établissement",
+       "tr": "uhn ay-tah-blees-MAHN · আঁন্ এতাব্লিস্‌মঁ",
+       "mean": "settlement, decision · ফয়সালা"
+      },
+      {
+       "t": "ফলাফল → la conséquence",
+       "tr": "lah kohn-say-KAHNSS · লা কঁসেকঁস্",
+       "mean": "result, consequence · ফলাফল"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ব · বউমা → বাস্তব",
+     "items": [
+      {
+       "t": "বউমা → la belle-fille",
+       "tr": "lah bel-FEEY · লা বেল্ ফ়িঈ",
+       "mean": "daughter-in-law · বউমা"
+      },
+      {
+       "t": "বংশানুক্রমে → héréditairement",
+       "tr": "ay-ray-dee-tair-MAHN · এরেদিতের্মঁ",
+       "mean": "hereditarily · বংশানুক্রমে"
+      },
+      {
+       "t": "বকেয়া → un arriéré",
+       "tr": "uhn ah-ryay-RAY · আঁন্ আরীয়েরে",
+       "mean": "arrears · বকেয়া"
+      },
+      {
+       "t": "বক্তৃতা → la conférence",
+       "tr": "lah kohn-fay-RAHNSS · লা কঁফ়েরঁস্",
+       "mean": "lecture, address · বক্তৃতা"
+      },
+      {
+       "t": "বকশিশ → le pourboire",
+       "tr": "luh poor-BWAHR · ল্য পুর্বোয়ার্",
+       "mean": "tip, gratuity · বকশিশ"
+      },
+      {
+       "t": "বখিল → ladre",
+       "tr": "LAHDR · লাদ্র্",
+       "mean": "stingy, miserly · বখিল"
+      },
+      {
+       "t": "বঞ্চিত → démuni",
+       "tr": "day-mew-NEE · দেম্যুনি",
+       "mean": "deprived · বঞ্চিত"
+      },
+      {
+       "t": "বধূ → la jeune mariée",
+       "tr": "lah zhuhn mah-RYAY · লা জ়্যন্ মারিয়ে",
+       "mean": "bride · বধূ"
+      },
+      {
+       "t": "বন্দোবস্ত → un arrangement",
+       "tr": "uhn ah-rahnzh-MAHN · আঁন্ আরঁজ়্‌মঁ",
+       "mean": "arrangement · বন্দোবস্ত"
+      },
+      {
+       "t": "বন্ধক → une hypothèque",
+       "tr": "ewn ee-poh-TEK · য়্যুন্ ইপতেক্",
+       "mean": "mortgage · বন্ধক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "বরদাস্ত · বাস্তব",
+     "items": [
+      {
+       "t": "বরদাস্ত → une endurance",
+       "tr": "ewn ahn-dew-RAHNSS · য়্যুন্ অঁদ্যুরঁস্",
+       "mean": "endurance, tolerance · বরদাস্ত"
+      },
+      {
+       "t": "বরাদ্দ → une allocation",
+       "tr": "ewn ah-loh-kah-SYOHN · য়্যুন্ আলকাসীওঁ",
+       "mean": "allocation, allotment · বরাদ্দ"
+      },
+      {
+       "t": "বর্ণালি → le spectre",
+       "tr": "luh SPEKTR · ল্য স্পেক্ত্র্",
+       "mean": "spectrum · বর্ণালি"
+      },
+      {
+       "t": "বলাৎকার → la violation",
+       "tr": "lah vyoh-lah-SYOHN · লা ভ়ীওলাসীওঁ",
+       "mean": "violation · বলাৎকার"
+      },
+      {
+       "t": "বহিষ্কার → une expulsion",
+       "tr": "ewn eks-pewl-SYOHN · য়্যুন্ এক্স্প্যুল্‌সীওঁ",
+       "mean": "expulsion · বহিষ্কার"
+      },
+      {
+       "t": "বাবুর্চি → le chef",
+       "tr": "luh SHEF · ল্য শেফ়্",
+       "mean": "cook, chef · বাবুর্চি"
+      },
+      {
+       "t": "বামন → le nain",
+       "tr": "luh NAN · ল্য নাঁ",
+       "mean": "dwarf · বামন"
+      },
+      {
+       "t": "বার্ষিক → annuel",
+       "tr": "ah-new-EL · আন্যুয়েল্",
+       "mean": "annual · বার্ষিক"
+      },
+      {
+       "t": "বাসরঘর → la chambre nuptiale",
+       "tr": "lah shahnbr newp-SYAL · লা শঁব্র্ ন্যুপ্‌সীয়াল্",
+       "mean": "bridal chamber · বাসরঘর"
+      },
+      {
+       "t": "বাস্তব → réel",
+       "tr": "ray-EL · রেয়েল্",
+       "mean": "real · বাস্তব"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{বকশিশ}} in French is… · ফরাসিতে {{বকশিশ}} হলো…",
+       "options": [
+        "le pot-de-vin",
+        "le pourboire",
+        "le paiement",
+        "le prix"
+       ],
+       "answer": 1,
+       "explain": "{{le pot-de-vin}} is a bribe · {{le pot-de-vin}} মানে ঘুষ।"
+      },
+      {
+       "q": "{{বউমা}} is… · {{বউমা}} হলো…",
+       "options": [
+        "la belle-mère",
+        "la belle-fille",
+        "la belle-sœur",
+        "la bonne fille"
+       ],
+       "answer": 1,
+       "explain": "{{la belle-mère}} is the mother-in-law · {{la belle-mère}} মানে শাশুড়ি।"
+      },
+      {
+       "q": "{{প্রতিযোগিতা}} is… · {{প্রতিযোগিতা}} হলো…",
+       "options": [
+        "la concurrence",
+        "la conférence",
+        "la confiance",
+        "la conséquence"
+       ],
+       "answer": 0,
+       "explain": "{{le concurrent}} is the rival · {{le concurrent}} মানে প্রতিদ্বন্দ্বী।"
+      },
+      {
+       "q": "{{প্রতিভা}} is… · {{প্রতিভা}} হলো…",
+       "options": [
+        "le génie",
+        "le génial",
+        "la génération",
+        "le genre"
+       ],
+       "answer": 0,
+       "explain": "The same word as English *genius* · ইংরেজি *genius*-এর সঙ্গে এক।"
+      },
+      {
+       "q": "{{বন্ধক}} is… · {{বন্ধক}} হলো…",
+       "options": [
+        "une hypothèse",
+        "une hypothèque",
+        "une hypocrisie",
+        "une habitude"
+       ],
+       "answer": 1,
+       "explain": "{{une hypothèse}} is a hypothesis · {{une hypothèse}} মানে প্রকল্প।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf13",
+   "icon": "ব–ম",
+   "title": "ব–ম · বাসিন্দা → মৌসুমি",
+   "subtitle": "Farewell, fear and the words of ownership · বিদায়, ভীতি ও মালিকানা",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Learn the owner family: {{মালিক}}, {{মালিকানা}}, {{মনিব}}"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Three Bangla words for *master* split three ways in French: {{মনিব → le patron}}, the boss who pays you; {{মালিক → le propriétaire}}, the owner of a thing; {{মাতব্বর → le chef}}, the one in charge. Choose by the relationship, not the word. · *মালিক* বোঝাতে বাংলার তিনটি শব্দ ফরাসিতে তিনভাগ হয়ে যায় — সম্পর্ক দেখে বেছে নিতে হয়।"
+    },
+    {
+     "type": "vocab",
+     "title": "বাসিন্দা · বিজ্ঞাপন",
+     "items": [
+      {
+       "t": "বাসিন্দা → un habitant",
+       "tr": "uhn ah-bee-TAHN · আঁন্ আবিতঁ",
+       "mean": "inhabitant, resident · বাসিন্দা"
+      },
+      {
+       "t": "বিকলাঙ্গ → estropié",
+       "tr": "es-troh-PYAY · এস্ত্রপিয়ে",
+       "mean": "crippled, maimed · বিকলাঙ্গ"
+      },
+      {
+       "t": "বিকল্প → alternatif",
+       "tr": "al-tair-nah-TEEF · আল্‌তের্নাতিফ়্",
+       "mean": "alternative · বিকল্প"
+      },
+      {
+       "t": "বিখ্যাত → renommé",
+       "tr": "ruh-noh-MAY · র্যনমে",
+       "mean": "renowned, famous · বিখ্যাত"
+      },
+      {
+       "t": "বিচক্ষণ → discret",
+       "tr": "dees-KREH · দিস্ক্রে",
+       "mean": "discreet, judicious · বিচক্ষণ"
+      },
+      {
+       "t": "বিচ্ছেদ → la séparation",
+       "tr": "lah say-pah-rah-SYOHN · লা সেপারাসীওঁ",
+       "mean": "separation · বিচ্ছেদ"
+      },
+      {
+       "t": "বিজ্ঞাপন → la publicité",
+       "tr": "lah pew-blee-see-TAY · লা প্যুব্লিসিতে",
+       "mean": "advertisement · বিজ্ঞাপন"
+      },
+      {
+       "t": "বিদায় → un adieu",
+       "tr": "uhn ah-DYUH · আঁন্ আদীও",
+       "mean": "farewell · বিদায়"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "বিপত্নীক · ব্যাপক",
+     "items": [
+      {
+       "t": "বিপত্নীক → le veuf",
+       "tr": "luh VUHF · ল্য ভ়্যফ়্",
+       "mean": "widower · বিপত্নীক"
+      },
+      {
+       "t": "বিপর্যস্ত → fracassé",
+       "tr": "frah-kah-SAY · ফ়্রাকাসে",
+       "mean": "shattered, overwhelmed · বিপর্যস্ত"
+      },
+      {
+       "t": "বিবিধ → divers",
+       "tr": "dee-VAIR · দিভ়ের্",
+       "mean": "various, miscellaneous · বিবিধ"
+      },
+      {
+       "t": "বিমর্ষ → renfrogné",
+       "tr": "rahn-froh-NYAY · রঁফ়্রঞে",
+       "mean": "sullen, glum · বিমর্ষ"
+      },
+      {
+       "t": "বিলাসী → somptueux",
+       "tr": "sohnp-tew-UH · সঁপ্ত্যুও",
+       "mean": "luxurious, sumptuous · বিলাসী"
+      },
+      {
+       "t": "বিশ্বস্ত → véridique",
+       "tr": "vay-ree-DEEK · ভ়েরিদিক্",
+       "mean": "truthful, trustworthy · বিশ্বস্ত"
+      },
+      {
+       "t": "বিষণ্ণ → triste",
+       "tr": "TREEST · ত্রিস্ত্",
+       "mean": "sad, melancholy · বিষণ্ণ"
+      },
+      {
+       "t": "ব্যাকরণবিদ → le grammairien",
+       "tr": "luh grah-meh-RYAN · ল্য গ্রামেরিয়াঁ",
+       "mean": "grammarian · ব্যাকরণবিদ"
+      },
+      {
+       "t": "বৈচিত্র্যময় → multiplié",
+       "tr": "mewl-tee-plee-AY · ম্যুল্‌তিপ্লিয়ে",
+       "mean": "varied, manifold · বৈচিত্র্যময়"
+      },
+      {
+       "t": "ব্যাপক → étendu",
+       "tr": "ay-tahn-DEW · এতঁদ্যু",
+       "mean": "extensive, widespread · ব্যাপক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ভ",
+     "items": [
+      {
+       "t": "ভণ্ড → le hypocrite",
+       "tr": "luh ee-poh-KREET · ল্য ইপক্রিত্",
+       "mean": "hypocrite · ভণ্ড"
+      },
+      {
+       "t": "ভয়ংকর → terrible",
+       "tr": "teh-REEBL · তেরিব্‌ল্",
+       "mean": "terrible, dreadful · ভয়ংকর"
+      },
+      {
+       "t": "ভরণ-পোষণ → un entretien",
+       "tr": "uhn ahn-truh-TYAN · আঁন্ অঁত্র্যতীয়াঁ",
+       "mean": "maintenance, upkeep · ভরণ-পোষণ"
+      },
+      {
+       "t": "ভরসা → la confiance",
+       "tr": "lah kohn-FYAHNSS · লা কঁফ়ীয়ঁস্",
+       "mean": "trust, reliance · ভরসা"
+      },
+      {
+       "t": "ভাষণ → le discours",
+       "tr": "luh dees-KOOR · ল্য দিস্কুর্",
+       "mean": "speech, address · ভাষণ"
+      },
+      {
+       "t": "ভ্রমণকারী → le visiteur",
+       "tr": "luh vee-zee-TUHR · ল্য ভ়িজ়িতোর্",
+       "mean": "visitor, traveller · ভ্রমণকারী"
+      },
+      {
+       "t": "ভূমিকা → la préface",
+       "tr": "lah pray-FASS · লা প্রেফ়াস্",
+       "mean": "preface, introduction · ভূমিকা"
+      },
+      {
+       "t": "ভৃত্য → la servante",
+       "tr": "lah sair-VAHNT · লা সের্ভ়ঁত্",
+       "mean": "maidservant · ভৃত্য"
+      },
+      {
+       "t": "ভীতি → la peur",
+       "tr": "lah PUHR · লা পোর্",
+       "mean": "fear · ভীতি"
+      },
+      {
+       "t": "ভীতু → timide",
+       "tr": "tee-MEED · তিমিদ্",
+       "mean": "timid · ভীতু"
+      },
+      {
+       "t": "ভ্রূণ → le fœtus",
+       "tr": "luh fay-TEWSS · ল্য ফ়েত্যুস্",
+       "mean": "foetus · ভ্রূণ"
+      },
+      {
+       "t": "ভ্রান্তিমূলক → erroné",
+       "tr": "eh-roh-NAY · এরনে",
+       "mean": "erroneous · ভ্রান্তিমূলক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ম · মনিব → মর্যাদা",
+     "items": [
+      {
+       "t": "মনিব → le patron",
+       "tr": "luh pah-TROHN · ল্য পাত্রঁ",
+       "mean": "master, employer · মনিব"
+      },
+      {
+       "t": "মনীষী → sage",
+       "tr": "SAHZH · সাজ়্",
+       "mean": "a sage, a wise person · মনীষী"
+      },
+      {
+       "t": "মন্তব্য → le commentaire",
+       "tr": "luh koh-mahn-TAIR · ল্য কমঁতের্",
+       "mean": "comment, remark · মন্তব্য"
+      },
+      {
+       "t": "মন্দির → le temple",
+       "tr": "luh TAHMPL · ল্য তঁপ্‌ল্",
+       "mean": "temple · মন্দির"
+      },
+      {
+       "t": "মরণ → la mort",
+       "tr": "lah MOR · লা মর্",
+       "mean": "death · মরণ"
+      },
+      {
+       "t": "মারহাবা! → bravo !",
+       "tr": "brah-VOH · ব্রাভ়ো",
+       "mean": "bravo! well done! · মারহাবা!"
+      },
+      {
+       "t": "মর্যাদা → la dignité",
+       "tr": "lah dee-nyee-TAY · লা দিঞিতে",
+       "mean": "dignity · মর্যাদা"
+      },
+      {
+       "t": "মুসিবত → le malheur",
+       "tr": "luh mah-LUHR · ল্য মাল্যর্",
+       "mean": "trouble, misfortune · মুসিবত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "মাঝি · মৌসুমি",
+     "items": [
+      {
+       "t": "মাঝি → le batelier",
+       "tr": "luh bah-tuh-LYAY · ল্য বাত্যলীয়ে",
+       "mean": "boatman · মাঝি"
+      },
+      {
+       "t": "মাতব্বর → le chef",
+       "tr": "luh SHEF · ল্য শেফ়্",
+       "mean": "headman, chief · মাতব্বর"
+      },
+      {
+       "t": "মারাত্মক → fatal",
+       "tr": "fah-TAL · ফ়াতাল্",
+       "mean": "fatal, deadly · মারাত্মক"
+      },
+      {
+       "t": "মালিক → le propriétaire",
+       "tr": "luh proh-pryay-TAIR · ল্য প্রপ্রীয়েতের্",
+       "mean": "owner · মালিক"
+      },
+      {
+       "t": "মালিকানা → la propriété",
+       "tr": "lah proh-pryay-TAY · লা প্রপ্রীয়েতে",
+       "mean": "ownership · মালিকানা"
+      },
+      {
+       "t": "মাসিক → mensuel",
+       "tr": "mahn-SWEL · মঁসুয়েল্",
+       "mean": "monthly · মাসিক"
+      },
+      {
+       "t": "মিথস্ক্রিয়া → une interaction",
+       "tr": "ewn an-tay-rak-SYOHN · য়্যুন্ আঁতেরাক্সীওঁ",
+       "mean": "interaction · মিথস্ক্রিয়া"
+      },
+      {
+       "t": "মোনাজাত → la prière",
+       "tr": "lah pree-AIR · লা প্রিয়ের্",
+       "mean": "supplication, prayer · মোনাজাত"
+      },
+      {
+       "t": "মুনাফা → le profit",
+       "tr": "luh proh-FEE · ল্য প্রফ়ি",
+       "mean": "profit · মুনাফা"
+      },
+      {
+       "t": "মুমূর্ষু → mourant",
+       "tr": "moo-RAHN · মুরঁ",
+       "mean": "dying · মুমূর্ষু"
+      },
+      {
+       "t": "মেদিনী → la terre",
+       "tr": "lah TAIR · লা তের্",
+       "mean": "the earth · মেদিনী"
+      },
+      {
+       "t": "মওকুফ → exempté",
+       "tr": "eg-zahn-TAY · এগ্‌জ়ঁতে",
+       "mean": "exempted, waived · মওকুফ"
+      },
+      {
+       "t": "মৌখিক → verbal",
+       "tr": "vair-BAL · ভ়ের্বাল্",
+       "mean": "verbal, oral · মৌখিক"
+      },
+      {
+       "t": "মৌসুমি → saisonnier",
+       "tr": "seh-zoh-NYAY · সেজ়নীয়ে",
+       "mean": "seasonal · মৌসুমি"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{মালিকানা}} is… · {{মালিকানা}} হলো…",
+       "options": [
+        "le propriétaire",
+        "la propriété",
+        "la propreté",
+        "le propre"
+       ],
+       "answer": 1,
+       "explain": "{{la propreté}} is cleanliness · {{la propreté}} মানে পরিচ্ছন্নতা।"
+      },
+      {
+       "q": "{{বিদায}} in French is… · ফরাসিতে {{বিদায়}} হলো…",
+       "options": [
+        "au revoir",
+        "un adieu",
+        "à bientôt",
+        "salut"
+       ],
+       "answer": 1,
+       "explain": "{{un adieu}} is the final farewell · {{un adieu}} চিরবিদায় বোঝায়।"
+      },
+      {
+       "q": "{{মারহাবা!}} corresponds to… · {{মারহাবা!}} এর সমতুল্য…",
+       "options": [
+        "bonjour !",
+        "bravo !",
+        "bonne chance !",
+        "bon appétit !"
+       ],
+       "answer": 1,
+       "explain": "A shout of approval · প্রশংসার ধ্বনি।"
+      },
+      {
+       "q": "{{ভীতু}} is… · {{ভীতু}} হলো…",
+       "options": [
+        "timide",
+        "timbre",
+        "tiède",
+        "tiers"
+       ],
+       "answer": 0,
+       "explain": "{{la peur}} is the fear itself · ভয় নিজে হলো {{la peur}}।"
+      },
+      {
+       "q": "{{বিখ্যাত}} is… · {{বিখ্যাত}} হলো…",
+       "options": [
+        "renommé",
+        "renoncé",
+        "renouvelé",
+        "rentré"
+       ],
+       "answer": 0,
+       "explain": "From {{le renom}}, renown · {{le renom}} অর্থাৎ খ্যাতি থেকে।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf14",
+   "icon": "য–শ",
+   "title": "য–শ · যন্ত্রণাদায়ক → শ্রমসাধ্য",
+   "subtitle": "War, peace, punishment and learning · যুদ্ধ, শান্তি, শাস্তি ও শিক্ষা",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Keep {{শান্তি}} and {{শাস্তি}} apart in both languages"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Two Bangla words one letter apart become two French words that look alike too: {{শান্তি → la paix}} peace, {{শাস্তি → la peine}} punishment. And {{la peine}} also means *trouble* or *sorrow* — {{Ce n'est pas la peine}} means *it is not worth the trouble*. · বাংলার এক অক্ষরের তফাত ফরাসিতেও দুটি কাছাকাছি শব্দে দাঁড়ায়। {{la peine}} আবার *কষ্ট*ও বোঝায়।"
+    },
+    {
+     "type": "vocab",
+     "title": "য",
+     "items": [
+      {
+       "t": "যন্ত্রণাদায়ক → douloureux",
+       "tr": "doo-loo-RUH · দুলুরো",
+       "mean": "painful · যন্ত্রণাদায়ক"
+      },
+      {
+       "t": "যাযাবর → bohémien",
+       "tr": "boh-ay-MYAN · বয়েমীয়াঁ",
+       "mean": "nomadic, a wanderer · যাযাবর"
+      },
+      {
+       "t": "যৌতুক → le douaire",
+       "tr": "luh doo-AIR · ল্য দুয়ের্",
+       "mean": "dowry · যৌতুক"
+      },
+      {
+       "t": "যৌক্তিক → logique",
+       "tr": "loh-ZHEEK · লজ়িক্",
+       "mean": "logical · যৌক্তিক"
+      },
+      {
+       "t": "যুদ্ধ → la guerre",
+       "tr": "lah GAIR · লা গের্",
+       "mean": "war · যুদ্ধ"
+      },
+      {
+       "t": "যোদ্ধা → le batailleur",
+       "tr": "luh bah-tah-YUHR · ল্য বাতাঈওর্",
+       "mean": "fighter, warrior · যোদ্ধা"
+      },
+      {
+       "t": "যৌবন → la jeunesse",
+       "tr": "lah zhuh-NESS · লা জ়্যনেস্",
+       "mean": "youth · যৌবন"
+      },
+      {
+       "t": "যৌনতা → la sexualité",
+       "tr": "lah sek-sew-ah-lee-TAY · লা সেক্সুয়ালিতে",
+       "mean": "sexuality · যৌনতা"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "র",
+     "items": [
+      {
+       "t": "রক্ষণশীল → le conservateur",
+       "tr": "luh kohn-sair-vah-TUHR · ল্য কঁসের্ভ়াতোর্",
+       "mean": "conservative · রক্ষণশীল"
+      },
+      {
+       "t": "রক্ষণাবেক্ষণ → la surveillance",
+       "tr": "lah sewr-veh-YAHNSS · লা স্যুর্ভ়েঈয়ঁস্",
+       "mean": "supervision, upkeep · রক্ষণাবেক্ষণ"
+      },
+      {
+       "t": "রহস্য → le mystère",
+       "tr": "luh mees-TAIR · ল্য মিস্তের্",
+       "mean": "mystery · রহস্য"
+      },
+      {
+       "t": "রহস্যময় → mystérieux",
+       "tr": "mees-tay-RYUH · মিস্তেরীও",
+       "mean": "mysterious · রহস্যময়"
+      },
+      {
+       "t": "রাখাল → le vacher",
+       "tr": "luh vah-SHAY · ল্য ভ়াশে",
+       "mean": "cowherd · রাখাল"
+      },
+      {
+       "t": "রৌদ্র → le soleil",
+       "tr": "luh soh-LAY · ল্য সলেঈ",
+       "mean": "sunshine · রৌদ্র"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "ল",
+     "items": [
+      {
+       "t": "লক্ষণ → le symptôme",
+       "tr": "luh samp-TOHM · ল্য সাঁপ্‌তোম্",
+       "mean": "symptom, sign · লক্ষণ"
+      },
+      {
+       "t": "লণ্ডভণ্ড → chaotique",
+       "tr": "kah-oh-TEEK · কাওতিক্",
+       "mean": "chaotic · লণ্ডভণ্ড"
+      },
+      {
+       "t": "লাবণ্য → la beauté",
+       "tr": "lah boh-TAY · লা বতে",
+       "mean": "grace, beauty · লাবণ্য"
+      },
+      {
+       "t": "লুণ্ঠন → le pillage",
+       "tr": "luh pee-YAHZH · ল্য পিঈয়াজ়্",
+       "mean": "looting, plunder · লুণ্ঠন"
+      },
+      {
+       "t": "লোকসান → le dommage",
+       "tr": "luh doh-MAHZH · ল্য দমাজ়্",
+       "mean": "loss, damage · লোকসান"
+      },
+      {
+       "t": "লোভ → la cupidité",
+       "tr": "lah kew-pee-dee-TAY · লা ক্যুপিদিতে",
+       "mean": "greed · লোভ"
+      },
+      {
+       "t": "লোভাতুর → cupide",
+       "tr": "kew-PEED · ক্যুপিদ্",
+       "mean": "greedy · লোভাতুর"
+      },
+      {
+       "t": "লোভী → avide",
+       "tr": "ah-VEED · আভ়িদ্",
+       "mean": "greedy, avid · লোভী"
+      },
+      {
+       "t": "লৌকিক → formel",
+       "tr": "for-MEL · ফ়র্মেল্",
+       "mean": "formal, conventional · লৌকিক"
+      },
+      {
+       "t": "লানত → la malédiction",
+       "tr": "lah mah-lay-deek-SYOHN · লা মালেদিক্সীওঁ",
+       "mean": "curse · লানত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "শ · শখ → শাস্তিমূলক",
+     "items": [
+      {
+       "t": "শখ → le dada",
+       "tr": "luh dah-DAH · ল্য দাদা",
+       "mean": "hobby, pet subject · শখ"
+      },
+      {
+       "t": "শপথ → le juron",
+       "tr": "luh zhew-ROHN · ল্য জ়্যুরঁ",
+       "mean": "an oath · শপথ"
+      },
+      {
+       "t": "শয়তান → le diable",
+       "tr": "luh DYAHBL · ল্য দীয়াব্‌ল্",
+       "mean": "devil · শয়তান"
+      },
+      {
+       "t": "শরীর → le physique",
+       "tr": "luh fee-ZEEK · ল্য ফ়িজ়িক্",
+       "mean": "the body, the physique · শরীর"
+      },
+      {
+       "t": "শশী → la lune",
+       "tr": "lah LEWN · লা ল্যুন্",
+       "mean": "the moon · শশী"
+      },
+      {
+       "t": "শান্ত → tranquille",
+       "tr": "trahn-KEEL · ত্রঁকিল্",
+       "mean": "calm · শান্ত"
+      },
+      {
+       "t": "শান্তি → la paix",
+       "tr": "lah PEH · লা পে",
+       "mean": "peace · শান্তি"
+      },
+      {
+       "t": "শাসক → le gouverneur",
+       "tr": "luh goo-vair-NUHR · ল্য গুভ়ের্নোর্",
+       "mean": "ruler, governor · শাসক"
+      },
+      {
+       "t": "শাস্তি → la peine",
+       "tr": "lah PEN · লা পেন্",
+       "mean": "punishment; trouble · শাস্তি"
+      },
+      {
+       "t": "শাস্তিমূলক → punitif",
+       "tr": "pew-nee-TEEF · প্যুনিতিফ়্",
+       "mean": "punitive · শাস্তিমূলক"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "শিক্ষণ · শ্রমসাধ্য",
+     "items": [
+      {
+       "t": "শিক্ষণ → le savoir",
+       "tr": "luh sah-VWAHR · ল্য সাভ়োয়ার্",
+       "mean": "learning, knowledge · শিক্ষণ"
+      },
+      {
+       "t": "শিক্ষার্থী → un élève",
+       "tr": "uhn ay-LEV · আঁন্ এলেভ়্",
+       "mean": "pupil, student · শিক্ষার্থী"
+      },
+      {
+       "t": "শিক্ষানবিস → un apprenti",
+       "tr": "uhn ah-prahn-TEE · আঁন্ আপ্রঁতি",
+       "mean": "apprentice · শিক্ষানবিস"
+      },
+      {
+       "t": "শিক্ষানবিসি → un apprentissage",
+       "tr": "uhn ah-prahn-tee-SAHZH · আঁন্ আপ্রঁতিসাজ়্",
+       "mean": "apprenticeship · শিক্ষানবিসি"
+      },
+      {
+       "t": "শিহরণ → une excitation",
+       "tr": "ewn ek-see-tah-SYOHN · য়্যুন্ এক্সিতাসীওঁ",
+       "mean": "thrill, excitement · শিহরণ"
+      },
+      {
+       "t": "শিল্পোন্নত → industrialisé",
+       "tr": "an-dews-tree-ah-lee-ZAY · আঁদ্যুস্ত্রিয়ালিজ়ে",
+       "mean": "industrialised · শিল্পোন্নত"
+      },
+      {
+       "t": "শেরেক → le polythéisme",
+       "tr": "luh poh-lee-tay-EEZM · ল্য পলিতেইজ়্‌ম্",
+       "mean": "polytheism · শেরেক"
+      },
+      {
+       "t": "শ্মশ্রু → la barbe",
+       "tr": "lah BARB · লা বার্ব্",
+       "mean": "beard · শ্মশ্রু"
+      },
+      {
+       "t": "শ্রম → le labeur",
+       "tr": "luh lah-BUHR · ল্য লাবোর্",
+       "mean": "labour, toil · শ্রম"
+      },
+      {
+       "t": "শ্রমজীবী → le manœuvre",
+       "tr": "luh mah-NUHVR · ল্য মান্যভ়্র্",
+       "mean": "labourer · শ্রমজীবী"
+      },
+      {
+       "t": "শ্রমসাধ্য → laborieux",
+       "tr": "lah-boh-RYUH · লাবরীও",
+       "mean": "laborious · শ্রমসাধ্য"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{শান্তি}} in French is… · ফরাসিতে {{শান্তি}} হলো…",
+       "options": [
+        "la peine",
+        "la paix",
+        "la pièce",
+        "la peur"
+       ],
+       "answer": 1,
+       "explain": "{{la peine}} is punishment or trouble · {{la peine}} মানে শাস্তি বা কষ্ট।"
+      },
+      {
+       "q": "{{Ce n'est pas la peine}} means… · {{Ce n'est pas la peine}} মানে…",
+       "options": [
+        "it is not a punishment",
+        "it is not worth the trouble",
+        "there is no peace",
+        "it is painless"
+       ],
+       "answer": 1,
+       "explain": "An everyday way to decline · প্রত্যাখ্যানের প্রচলিত উপায়।"
+      },
+      {
+       "q": "{{শিক্ষানবিস}} is… · {{শিক্ষানবিস}} হলো…",
+       "options": [
+        "un apprenti",
+        "un apprentissage",
+        "un appareil",
+        "un apport"
+       ],
+       "answer": 0,
+       "explain": "The -issage form is the apprenticeship · -issage রূপটি শিক্ষানবিসি।"
+      },
+      {
+       "q": "{{যুদ্ধ}} is… · {{যুদ্ধ}} হলো…",
+       "options": [
+        "la gare",
+        "la guerre",
+        "la guêpe",
+        "la garde"
+       ],
+       "answer": 1,
+       "explain": "Said GAIR, like {{la gare}} but with the u · উচ্চারণ গের্।"
+      },
+      {
+       "q": "{{লোভ}} is… · {{লোভ}} হলো…",
+       "options": [
+        "la cupidité",
+        "la curiosité",
+        "la capacité",
+        "la crédulité"
+       ],
+       "answer": 0,
+       "explain": "{{cupide}} and {{avide}} are the adjectives · বিশেষণ {{cupide}} ও {{avide}}।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8-bf15",
+   "icon": "স–হ",
+   "title": "স–হ · সংক্ষেপ → হাশর",
+   "subtitle": "The last letters, and the end of the dictionary · শেষ বর্ণ, আর অভিধানের সমাপ্তি",
+   "minutes": 12,
+   "goals": [
+    "Find the French for a word you know in Bangla",
+    "Read each entry in all three languages",
+    "Finish the whole trilingual dictionary"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "The dictionary closes on স and হ, and on a run of words about freedom: {{স্বাধীন → indépendant}}, {{স্বাধীনতা → une indépendance}}, {{স্বাধীনভাবে → indépendamment}}, {{স্বায়ত্তশাসিত → autonome}}. A fitting place to end. · অভিধান শেষ হচ্ছে স ও হ-তে, আর স্বাধীনতার একগুচ্ছ শব্দ দিয়ে — শেষ করার জন্য মানানসই জায়গা।"
+    },
+    {
+     "type": "vocab",
+     "title": "সংক্ষেপ · সন্ন্যাসী",
+     "items": [
+      {
+       "t": "সংক্ষেপ → le sommaire",
+       "tr": "luh soh-MAIR · ল্য সমের্",
+       "mean": "summary · সংক্ষেপ"
+      },
+      {
+       "t": "সংক্ষিপ্ত → bref",
+       "tr": "BREF · ব্রেফ়্",
+       "mean": "brief, short · সংক্ষিপ্ত"
+      },
+      {
+       "t": "সংগ্রাম → la lutte",
+       "tr": "lah LEWT · লা ল্যুত্",
+       "mean": "struggle · সংগ্রাম"
+      },
+      {
+       "t": "সংবর্ধনা → la réception",
+       "tr": "lah ray-sep-SYOHN · লা রেসেপ্‌সীওঁ",
+       "mean": "reception, welcome · সংবর্ধনা"
+      },
+      {
+       "t": "সংযত → la tempérance",
+       "tr": "lah tahn-pay-RAHNSS · লা তঁপেরঁস্",
+       "mean": "temperance, restraint · সংযত"
+      },
+      {
+       "t": "সংযমী → tempérant",
+       "tr": "tahn-pay-RAHN · তঁপেরঁ",
+       "mean": "temperate, self-restrained · সংযমী"
+      },
+      {
+       "t": "সংশোধন → la correction",
+       "tr": "lah koh-rek-SYOHN · লা করেক্সীওঁ",
+       "mean": "correction · সংশোধন"
+      },
+      {
+       "t": "সংশোধিত → modifié",
+       "tr": "moh-dee-FYAY · মদিফ়ীয়ে",
+       "mean": "amended, modified · সংশোধিত"
+      },
+      {
+       "t": "সংকল্প → la volonté",
+       "tr": "lah voh-lohn-TAY · লা ভ়লঁতে",
+       "mean": "resolve, will · সংকল্প"
+      },
+      {
+       "t": "সচেতন → conscient",
+       "tr": "kohn-SYAHN · কঁসীয়ঁ",
+       "mean": "conscious, aware · সচেতন"
+      },
+      {
+       "t": "সঞ্চয় → une épargne",
+       "tr": "ewn ay-PARN-yuh · য়্যুন্ এপার্ঞ",
+       "mean": "savings · সঞ্চয়"
+      },
+      {
+       "t": "সন্ত্রাসী → le terroriste",
+       "tr": "luh teh-roh-REEST · ল্য তেররিস্ত্",
+       "mean": "terrorist · সন্ত্রাসী"
+      },
+      {
+       "t": "সন্ন্যাসী → un ascétique",
+       "tr": "uhn ah-say-TEEK · আঁন্ আসেতিক্",
+       "mean": "ascetic, hermit · সন্ন্যাসী"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "সময়োপযোগী · স্বভাবত",
+     "items": [
+      {
+       "t": "সময়োপযোগী → opportun",
+       "tr": "oh-por-TUHN · অপর্তাঁ",
+       "mean": "timely, opportune · সময়োপযোগী"
+      },
+      {
+       "t": "সমাবর্তন → la convocation",
+       "tr": "lah kohn-voh-kah-SYOHN · লা কঁভ়কাসীওঁ",
+       "mean": "convocation · সমাবর্তন"
+      },
+      {
+       "t": "সমীচীন → raisonnable",
+       "tr": "reh-zoh-NAHBL · রেজ়নাব্‌ল্",
+       "mean": "reasonable, proper · সমীচীন"
+      },
+      {
+       "t": "সম্মানী → les honoraires",
+       "tr": "lay zoh-noh-RAIR · লেজ় অনরের্",
+       "mean": "fee, honorarium · সম্মানী"
+      },
+      {
+       "t": "সাদৃশ্য → la ressemblance",
+       "tr": "lah ruh-sahn-BLAHNSS · লা র্যসঁব্লঁস্",
+       "mean": "resemblance · সাদৃশ্য"
+      },
+      {
+       "t": "সাপ্তাহিক → hebdomadaire",
+       "tr": "eb-doh-mah-DAIR · এব্‌দমাদের্",
+       "mean": "weekly · সাপ্তাহিক"
+      },
+      {
+       "t": "সার্থকতা → la signification",
+       "tr": "lah see-nyee-fee-kah-SYOHN · লা সিঞিফ়িকাসীওঁ",
+       "mean": "significance · সার্থকতা"
+      },
+      {
+       "t": "সিংহাসন → le trône",
+       "tr": "luh TROHN · ল্য ত্রোন্",
+       "mean": "throne · সিংহাসন"
+      },
+      {
+       "t": "সুন্দর → charmant",
+       "tr": "shar-MAHN · শার্মঁ",
+       "mean": "lovely, charming · সুন্দর"
+      },
+      {
+       "t": "সুপারিশ → la recommandation",
+       "tr": "lah ruh-koh-mahn-dah-SYOHN · লা র্যকমঁদাসীওঁ",
+       "mean": "recommendation · সুপারিশ"
+      },
+      {
+       "t": "সৌভাগ্যবান → heureux",
+       "tr": "uh-RUH · অ্যরো",
+       "mean": "fortunate · সৌভাগ্যবান"
+      },
+      {
+       "t": "স্বপ্ন → le rêve",
+       "tr": "luh REV · ল্য রেভ়্",
+       "mean": "dream · স্বপ্ন"
+      },
+      {
+       "t": "স্বভাবত → naturellement",
+       "tr": "nah-tew-rel-MAHN · নাত্যুরেল্‌মঁ",
+       "mean": "naturally, by nature · স্বভাবত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "স্বর্গ · স্বায়ত্তশাসিত",
+     "items": [
+      {
+       "t": "স্বর্গ → le ciel",
+       "tr": "luh SYEL · ল্য সীয়েল্",
+       "mean": "heaven, the sky · স্বর্গ"
+      },
+      {
+       "t": "স্বল্পভাষী → réservé",
+       "tr": "ray-zair-VAY · রেজ়ার্ভ়ে",
+       "mean": "reserved, of few words · স্বল্পভাষী"
+      },
+      {
+       "t": "স্বাধীন → indépendant",
+       "tr": "an-day-pahn-DAHN · আঁদেপঁদঁ",
+       "mean": "independent · স্বাধীন"
+      },
+      {
+       "t": "স্বাধীনতা → une indépendance",
+       "tr": "ewn an-day-pahn-DAHNSS · য়্যুন্ আঁদেপঁদঁস্",
+       "mean": "independence · স্বাধীনতা"
+      },
+      {
+       "t": "স্বাধীনভাবে → indépendamment",
+       "tr": "an-day-pahn-dah-MAHN · আঁদেপঁদামঁ",
+       "mean": "independently · স্বাধীনভাবে"
+      },
+      {
+       "t": "স্বেচ্ছাকৃত → volontairement",
+       "tr": "voh-lohn-tair-MAHN · ভ়লঁতের্মঁ",
+       "mean": "voluntarily · স্বেচ্ছাকৃত"
+      },
+      {
+       "t": "স্বীকারোক্তি → la confession",
+       "tr": "lah kohn-feh-SYOHN · লা কঁফ়েসীওঁ",
+       "mean": "confession · স্বীকারোক্তি"
+      },
+      {
+       "t": "স্বায়ত্তশাসিত → autonome",
+       "tr": "oh-toh-NOM · অতনম্",
+       "mean": "autonomous, self-governing · স্বায়ত্তশাসিত"
+      }
+     ]
+    },
+    {
+     "type": "vocab",
+     "title": "হ · the last entries",
+     "items": [
+      {
+       "t": "হঠাৎ → soudainement",
+       "tr": "soo-den-MAHN · সুদেন্‌মঁ",
+       "mean": "suddenly · হঠাৎ"
+      },
+      {
+       "t": "হতভাগা → infortuné",
+       "tr": "an-for-tew-NAY · আঁফ়র্ত্যুনে",
+       "mean": "unfortunate, wretched · হতভাগা"
+      },
+      {
+       "t": "হতাশা → la frustration",
+       "tr": "lah frews-trah-SYOHN · লা ফ়্র্যুস্ত্রাসীওঁ",
+       "mean": "frustration · হতাশা"
+      },
+      {
+       "t": "হতাশ → frustré",
+       "tr": "frews-TRAY · ফ়্র্যুস্ত্রে",
+       "mean": "frustrated · হতাশ"
+      },
+      {
+       "t": "হারাম → défendu",
+       "tr": "day-fahn-DEW · দেফ়ঁদ্যু",
+       "mean": "forbidden · হারাম"
+      },
+      {
+       "t": "হাসিখুশি → joyeux",
+       "tr": "zhwah-YUH · জ়োয়াঈও",
+       "mean": "cheerful · হাসিখুশি"
+      },
+      {
+       "t": "হিংসা → la malice",
+       "tr": "lah mah-LEESS · লা মালিস্",
+       "mean": "malice, spite · হিংসা"
+      },
+      {
+       "t": "হিংসুক → rancunier",
+       "tr": "rahn-kew-NYAY · রঁক্যুনীয়ে",
+       "mean": "spiteful, resentful · হিংসুক"
+      },
+      {
+       "t": "হেফাজত → la garde",
+       "tr": "lah GARD · লা গার্দ্",
+       "mean": "custody, safekeeping · হেফাজত"
+      },
+      {
+       "t": "হ্রদ → le lac",
+       "tr": "luh LAK · ল্য লাক্",
+       "mean": "lake · হ্রদ"
+      },
+      {
+       "t": "হ্রাস → la réduction",
+       "tr": "lah ray-dewk-SYOHN · লা রেদ্যুক্সীওঁ",
+       "mean": "reduction · হ্রাস"
+      },
+      {
+       "t": "হিংস্র → féroce",
+       "tr": "fay-ROSS · ফ়েরস্",
+       "mean": "ferocious · হিংস্র"
+      },
+      {
+       "t": "হিম্মত → le courage",
+       "tr": "luh koo-RAHZH · ল্য কুরাজ়্",
+       "mean": "courage · হিম্মত"
+      },
+      {
+       "t": "হাশর → le jour du jugement dernier",
+       "tr": "zhoor dew zhewzh-mahn dair-NYAY · জ়ুর্ দ্যু জ়্যুজ়্‌মঁ দের্নীয়ে",
+       "mean": "the Day of Judgement · হাশর"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "culture",
+     "text": "That is the whole dictionary — both halves, French to Bangla and Bangla to French, every entry carrying its English too. From here, use the search box: type a word in any of the three languages and the course will find it. · এই হলো গোটা অভিধান — দুটি অংশই, প্রতিটি ভুক্তিতে ইংরেজিও আছে। এবার সার্চ বক্স ব্যবহার করুন: তিন ভাষার যেকোনোটিতে শব্দ লিখলেই কোর্স তা খুঁজে দেবে।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · নিজেকে যাচাই করুন",
+     "items": [
+      {
+       "q": "{{স্বাধীনতা}} in French is… · ফরাসিতে {{স্বাধীনতা}} হলো…",
+       "options": [
+        "une indépendance",
+        "un indépendant",
+        "indépendamment",
+        "une dépendance"
+       ],
+       "answer": 0,
+       "explain": "The noun; {{indépendant}} is the adjective · বিশেষ্য; বিশেষণ হলো {{indépendant}}।"
+      },
+      {
+       "q": "{{হ্রদ}} is… · {{হ্রদ}} হলো…",
+       "options": [
+        "le lac",
+        "le lait",
+        "la laine",
+        "le lard"
+       ],
+       "answer": 0,
+       "explain": "{{le lait}} is milk · {{le lait}} মানে দুধ।"
+      },
+      {
+       "q": "{{হঠাৎ}} is… · {{হঠাৎ}} হলো…",
+       "options": [
+        "sûrement",
+        "soudainement",
+        "sagement",
+        "simplement"
+       ],
+       "answer": 1,
+       "explain": "From {{soudain}}, sudden · {{soudain}} অর্থাৎ আকস্মিক থেকে।"
+      },
+      {
+       "q": "{{সংক্ষিপ্ত}} in French is… · ফরাসিতে {{সংক্ষিপ্ত}} হলো…",
+       "options": [
+        "brave",
+        "bref",
+        "brut",
+        "brun"
+       ],
+       "answer": 1,
+       "explain": "Feminine {{brève}} · স্ত্রীলিঙ্গে {{brève}}।"
+      },
+      {
+       "q": "{{স্বায়ত্তশাসিত}} is… · {{স্বায়ত্তশাসিত}} হলো…",
+       "options": [
+        "automatique",
+        "autonome",
+        "autoritaire",
+        "authentique"
+       ],
+       "answer": 1,
+       "explain": "Self-governing, from Greek · গ্রিক থেকে, অর্থ স্বশাসিত।"
       }
      ]
     }
