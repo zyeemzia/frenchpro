@@ -231,12 +231,12 @@ LC.units.push({
      "items": [
       {
        "t": "Quelle heure est-il ?",
-       "tr": "kel UHR eh-TEEL · কেল ্যর এতিল",
+       "tr": "kel UHR eh-TEEL · কেল অ্যর এতিল",
        "mean": "What time is it? · কয়টা বাজে?"
       },
       {
        "t": "Il est huit heures.",
-       "tr": "eel ay weet UHR · ইল এ উইত ্যর",
+       "tr": "eel ay weet UHR · ইল এ উইত অ্যর",
        "mean": "It is eight o'clock. · আটটা বাজে।"
       },
       {
@@ -327,25 +327,25 @@ LC.units.push({
       {
        "who": "Rana",
        "t": "Excusez-moi, quelle heure est-il ?",
-       "tr": "ek-skew-zay-MWAH, kel UHR eh-TEEL · এক্‌স্ক্যুজ়েমোয়া, কেল ্যর এতিল",
+       "tr": "ek-skew-zay-MWAH, kel UHR eh-TEEL · এক্স্ক্যুজ়েমোয়া, কেল অ্যর এতিল",
        "mean": "Excuse me, what time is it? · মাফ করবেন, কয়টা বাজে?"
       },
       {
        "who": "Shila",
        "t": "Il est huit heures et quart.",
-       "tr": "eel ay weet UHR ay KAR · ইল এ উইত ্যর এ কার",
+       "tr": "eel ay weet UHR ay KAR · ইল এ উইত অ্যর এ কার",
        "mean": "It is quarter past eight. · সোয়া আটটা বাজে।"
       },
       {
        "who": "Rana",
        "t": "Déjà ? À quelle heure part le train ?",
-       "tr": "day-ZHAH ? ah kel UHR par luh TRAN · দেজ়া? আ কেল ্যর পার ল্য ত্রঁ",
+       "tr": "day-ZHAH ? ah kel UHR par luh TRAN · দেজ়া? আ কেল অ্যর পার ল্য ত্রঁ",
        "mean": "Already? What time does the train leave? · এত তাড়াতাড়ি? ট্রেন কয়টায় ছাড়ে?"
       },
       {
        "who": "Shila",
        "t": "À huit heures quarante-cinq. Dépêchez-vous !",
-       "tr": "ah weet UHR kah-rahnt-SANK · আ উইত ্যর কারাঁত সঁক",
+       "tr": "ah weet UHR kah-rahnt-SANK · আ উইত অ্যর কারাঁত সঁক",
        "mean": "At 8:45. Hurry up! · ৮টা ৪৫-এ। তাড়াতাড়ি করুন!"
       }
      ]
@@ -900,7 +900,7 @@ LC.units.push({
       },
       {
        "t": "le sucre",
-       "tr": "luh SEWKR · ল্য স্যুক্‌র",
+       "tr": "luh SEWKR · ল্য স্যুক্র",
        "mean": "sugar · চিনি"
       },
       {
@@ -928,7 +928,7 @@ LC.units.push({
       {
        "who": "Serveur",
        "t": "Avec du sucre ?",
-       "tr": "ah-vek dew SEWKR · আভেক দ্যু স্যুক্‌র",
+       "tr": "ah-vek dew SEWKR · আভেক দ্যু স্যুক্র",
        "mean": "With sugar? · চিনি দিয়ে?"
       },
       {
@@ -1077,12 +1077,12 @@ LC.units.push({
      "items": [
       {
        "t": "une chambre simple",
-       "tr": "ewn SHAHNBR SANPL · ্যুন শাঁব্‌র সঁপ্ল",
+       "tr": "ewn SHAHNBR SANPL · য়্যুন্ শাঁব্র সঁপ্ল",
        "mean": "a single room · একক ঘর"
       },
       {
        "t": "une chambre double",
-       "tr": "ewn shahnbr DOOBL · ্যুন শাঁব্‌র দুব্ল",
+       "tr": "ewn shahnbr DOOBL · য়্যুন্ শাঁব্র দুব্ল",
        "mean": "a double room · দুজনের ঘর"
       },
       {
@@ -1113,7 +1113,7 @@ LC.units.push({
       {
        "who": "Shafique",
        "t": "Bonsoir. Avez-vous une chambre pour deux nuits ?",
-       "tr": "ah-vay-voo ewn SHAHNBR · আভেভু ্যুন শাঁব্‌র",
+       "tr": "ah-vay-voo ewn SHAHNBR · আভেভু য়্যুন্ শাঁব্র",
        "mean": "Good evening. Do you have a room for two nights? · শুভ সন্ধ্যা। দুই রাতের জন্য ঘর আছে?"
       },
       {
@@ -1131,7 +1131,7 @@ LC.units.push({
       {
        "who": "Réceptionniste",
        "t": "Bien sûr. Voici votre clé, chambre vingt-trois.",
-       "tr": "vwah-see vohtr KLAY · ভোয়াসি ভত্‌র ক্লে",
+       "tr": "vwah-see vohtr KLAY · ভোয়াসি ভত্র ক্লে",
        "mean": "Of course. Here is your key, room twenty-three. · অবশ্যই। এই নিন চাবি, ২৩ নম্বর ঘর।"
       }
      ]
@@ -1182,7 +1182,7 @@ LC.units.push({
       },
       {
        "t": "Suivez cette rue jusqu'au bout.",
-       "tr": "swee-vay set REW zhews-koh BOO · সুইভে সেত র‍্যু জ়্যুসকো বু",
+       "tr": "swee-vay set REW zhews-koh BOO · সুইভে সেত র‍য়্যু জ়্যুসকো বু",
        "mean": "Follow this street to the end. · এই রাস্তা ধরে একেবারে শেষ পর্যন্ত যান।"
       },
       {
@@ -1379,7 +1379,7 @@ LC.units.push({
       {
        "who": "Médecin",
        "t": "Bonjour, qu'est-ce qui ne va pas ?",
-       "tr": "kes-kee nuh vah PAH · কেস্‌কি ন্য ভা পা",
+       "tr": "kes-kee nuh vah PAH · কেস্কি ন্য ভা পা",
        "mean": "Hello, what is wrong? · বলুন, কী সমস্যা?"
       },
       {
@@ -1391,7 +1391,7 @@ LC.units.push({
       {
        "who": "Médecin",
        "t": "Avez-vous de la fièvre ?",
-       "tr": "ah-vay-voo duh lah FYEVR · আভেভু দ্য লা ফিয়েভ্‌র",
+       "tr": "ah-vay-voo duh lah FYEVR · আভেভু দ্য লা ফিয়েভ্র",
        "mean": "Do you have a fever? · আপনার কি জ্বর আছে?"
       },
       {

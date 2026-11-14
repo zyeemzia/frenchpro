@@ -123,13 +123,13 @@ LC.units.push({
       },
       {
        "t": "attendre",
-       "tr": "ah-TAHNDR · আতাঁদ্‌র",
+       "tr": "ah-TAHNDR · আতাঁদ্র",
        "mean": "to wait for · অপেক্ষা করা",
        "root": "-re"
       },
       {
        "t": "répondre",
-       "tr": "ray-POHNDR · রেপঁদ্‌র",
+       "tr": "ray-POHNDR · রেপঁদ্র",
        "mean": "to answer · উত্তর দেওয়া",
        "root": "-re"
       }

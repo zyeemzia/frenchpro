@@ -35,22 +35,22 @@ LC.units.push({
      "items": [
       {
        "t": "absolu / absolue",
-       "tr": "ab-soh-LEW · আপ্‌সল্যু",
+       "tr": "ab-soh-LEW · আপ্সল্যু",
        "mean": "(adj.) absolute · অপরিসীম"
       },
       {
        "t": "absolument",
-       "tr": "ab-soh-lew-MAHN · আপ্‌সল্যুমঁ",
+       "tr": "ab-soh-lew-MAHN · আপ্সল্যুমঁ",
        "mean": "(adv.) absolutely, utterly · সামগ্রিকভাবে; চূড়ান্তভাবে"
       },
       {
        "t": "absorber",
-       "tr": "ab-sor-BAY · আপ্‌সরবে",
+       "tr": "ab-sor-BAY · আপ্সরবে",
        "mean": "(v.) to absorb; to drink up · শোষণ করা; পান করা"
       },
       {
        "t": "absurde",
-       "tr": "ab-SEWRD · আপ্‌স্যুর্দ",
+       "tr": "ab-SEWRD · আপ্স্যুর্দ",
        "mean": "(adj.) absurd, foolish · অদ্ভুত; বোকা; অযৌক্তিক"
       },
       {
@@ -70,12 +70,12 @@ LC.units.push({
       },
       {
        "t": "abusivement",
-       "tr": "ah-bew-zeev-MAHN · আব্যুজ়িভ্‌মঁ",
+       "tr": "ah-bew-zeev-MAHN · আব্যুজ়িভ্মঁ",
        "mean": "(adv.) improperly · অনিয়মিতভাবে"
       },
       {
        "t": "une académie",
-       "tr": "ewn ah-kah-day-MEE · ্যুন আকাদেমি",
+       "tr": "ewn ah-kah-day-MEE · য়্যুন্ আকাদেমি",
        "mean": "an academy · বিশেষ উদ্দেশ্যে প্রতিষ্ঠিত বিদ্যায়তন"
       },
       {
@@ -85,7 +85,7 @@ LC.units.push({
       },
       {
        "t": "un accaparement",
-       "tr": "uhn ah-kah-par-MAHN · অঁন আকাপার্‌মঁ",
+       "tr": "uhn ah-kah-par-MAHN · অঁন আকাপার্মঁ",
        "mean": "monopolising, hoarding · একচেটিয়া"
       },
       {
@@ -100,42 +100,42 @@ LC.units.push({
       },
       {
        "t": "un accent",
-       "tr": "uhn ak-SAHN · অঁন আক্‌সঁ",
+       "tr": "uhn ak-SAHN · অঁন আক্সঁ",
        "mean": "an accent · স্বরভঙ্গী"
       },
       {
        "t": "une acceptabilité",
-       "tr": "ewn ak-sep-tah-bee-lee-TAY · ্যুন আক্‌স্যপ্‌তাবিলিতে",
+       "tr": "ewn ak-sep-tah-bee-lee-TAY · য়্যুন্ আক্স্যপ্তাবিলিতে",
        "mean": "acceptability · গ্রহণযোগ্যতা"
       },
       {
        "t": "acceptable",
-       "tr": "ak-sep-TAHBL · আক্‌স্যপ্‌তাব্‌ল্",
+       "tr": "ak-sep-TAHBL · আক্স্যপ্তাব্ল্",
        "mean": "(adj.) acceptable · গ্রহণযোগ্য"
       },
       {
        "t": "acceptant / acceptante",
-       "tr": "ak-sep-TAHN · আক্‌স্যপ্‌তঁ",
+       "tr": "ak-sep-TAHN · আক্স্যপ্তঁ",
        "mean": "(adj.) accepting · গ্রহণকারী"
       },
       {
        "t": "une acceptation",
-       "tr": "ewn ak-sep-tah-SYOHN · ্যুন আক্‌সেপ্‌তাসীওঁ",
+       "tr": "ewn ak-sep-tah-SYOHN · য়্যুন্ আক্সেপ্তাসীওঁ",
        "mean": "acceptance · গ্রহণযোগ্যতা"
       },
       {
        "t": "accepter",
-       "tr": "ak-sep-TAY · আক্‌সেপ্‌তে",
+       "tr": "ak-sep-TAY · আক্সেপ্তে",
        "mean": "(v.) to accept · গ্রহণ করা"
       },
       {
        "t": "un accident",
-       "tr": "uhn ak-see-DAHN · অঁন আক্‌সিদঁ",
+       "tr": "uhn ak-see-DAHN · অঁন আক্সিদঁ",
        "mean": "an accident · দুর্ঘটনা"
       },
       {
        "t": "accidentellement",
-       "tr": "ak-see-dahn-tel-MAHN · আক্‌সিদঁতেল্‌মঁ",
+       "tr": "ak-see-dahn-tel-MAHN · আক্সিদঁতেল্মঁ",
        "mean": "(adv.) accidentally · হঠাৎ; আকস্মিক"
       },
       {
@@ -160,7 +160,7 @@ LC.units.push({
       },
       {
        "t": "accorder",
-       "tr": "ah-kor-DAY · আকর্‌দে",
+       "tr": "ah-kor-DAY · আকর্দে",
        "mean": "(v.) to grant, to agree · একমত হওয়া"
       },
       {
@@ -196,27 +196,27 @@ LC.units.push({
       },
       {
        "t": "acheter",
-       "tr": "ash-TAY · আশ্‌তে",
+       "tr": "ash-TAY · আশ্তে",
        "mean": "(v.) to buy · ক্রয় করা"
       },
       {
        "t": "un acheteur",
-       "tr": "uhn ash-TUHR · অঁন আশ্‌তোর্",
+       "tr": "uhn ash-TUHR · অঁন আশ্তোর্",
        "mean": "a buyer (male) · ক্রেতা (পুরুষ)"
       },
       {
        "t": "une acheteuse",
-       "tr": "ewn ash-TUHZ · ্যুন আশ্‌তোজ়",
+       "tr": "ewn ash-TUHZ · য়্যুন্ আশ্তোজ়",
        "mean": "a buyer (female) · ক্রেতা (মহিলা)"
       },
       {
        "t": "un acheminement",
-       "tr": "uhn ash-meen-MAHN · অঁন আশ্‌মিন্‌মঁ",
+       "tr": "uhn ash-meen-MAHN · অঁন আশ্মিন্মঁ",
        "mean": "progress, forwarding · উন্নতি; অগ্রগতি"
       },
       {
        "t": "achever",
-       "tr": "ash-VAY · আশ্‌ভে",
+       "tr": "ash-VAY · আশ্ভে",
        "mean": "(v.) to finish, to complete · শেষ করা"
       },
       {
@@ -231,47 +231,47 @@ LC.units.push({
       },
       {
        "t": "un acte",
-       "tr": "uhn AKT · অঁন আক্‌ত্",
+       "tr": "uhn AKT · অঁন আক্ত্",
        "mean": "an act, a deed · কাজ"
       },
       {
        "t": "un acteur",
-       "tr": "uhn ak-TUHR · অঁন আক্‌তোর্",
+       "tr": "uhn ak-TUHR · অঁন আক্তোর্",
        "mean": "an actor · অভিনেতা"
       },
       {
        "t": "une actrice",
-       "tr": "ewn ak-TREES · ্যুন আক্‌ত্রিস্",
+       "tr": "ewn ak-TREES · য়্যুন্ আক্ত্রিস্",
        "mean": "an actress · অভিনেত্রী"
       },
       {
        "t": "actif / active",
-       "tr": "ak-TEEF · আক্‌তিফ্",
+       "tr": "ak-TEEF · আক্তিফ্",
        "mean": "(adj.) active, hard-working · কর্মঠ"
       },
       {
        "t": "une action",
-       "tr": "ewn ak-SYOHN · ্যুন আক্‌সীওঁ",
+       "tr": "ewn ak-SYOHN · য়্যুন্ আক্সীওঁ",
        "mean": "an action · কাজ"
       },
       {
        "t": "une activité",
-       "tr": "ewn ak-tee-vee-TAY · ্যুন আক্‌তিভিতে",
+       "tr": "ewn ak-tee-vee-TAY · য়্যুন্ আক্তিভিতে",
        "mean": "an activity · কার্যকলাপ"
       },
       {
        "t": "une actualité",
-       "tr": "ewn ak-tew-ah-lee-TAY · ্যুন আক্‌তূয়ালিতে",
+       "tr": "ewn ak-tew-ah-lee-TAY · য়্যুন্ আক্তূয়ালিতে",
        "mean": "current affairs, the news · সাম্প্রতিক"
       },
       {
        "t": "actuel / actuelle",
-       "tr": "ak-tew-EL · আক্‌তূয়েল্",
+       "tr": "ak-tew-EL · আক্তূয়েল্",
        "mean": "(adj.) current, present · সাম্প্রতিক"
       },
       {
        "t": "actuellement",
-       "tr": "ak-tew-el-MAHN · আক্‌তূয়েল্‌মঁ",
+       "tr": "ak-tew-el-MAHN · আক্তূয়েল্মঁ",
        "mean": "(adv.) currently, at present · এই সময়ে; বর্তমানে"
       }
      ]
@@ -282,12 +282,12 @@ LC.units.push({
      "items": [
       {
        "t": "adapter",
-       "tr": "ah-dap-TAY · আদাপ্‌তে",
+       "tr": "ah-dap-TAY · আদাপ্তে",
        "mean": "(v.) to adapt · মানিয়ে নেওয়া"
       },
       {
        "t": "une addition",
-       "tr": "ewn ah-dee-SYOHN · ্যুন আদিসীওঁ",
+       "tr": "ewn ah-dee-SYOHN · য়্যুন্ আদিসীওঁ",
        "mean": "the bill (restaurant); addition · হোটেল বা রেস্তোরাঁর বিল; যোগ"
       },
       {
@@ -297,47 +297,47 @@ LC.units.push({
       },
       {
        "t": "un adjectif",
-       "tr": "uhn ad-zhek-TEEF · অঁন আদ্‌জ়েক্‌তিফ্",
+       "tr": "uhn ad-zhek-TEEF · অঁন আদ্জ়েক্তিফ্",
        "mean": "an adjective · বিশেষণ"
       },
       {
        "t": "adjoint / adjointe",
-       "tr": "ad-ZHWAN · আদ্‌জ়োয়াঁ",
+       "tr": "ad-ZHWAN · আদ্জ়োয়াঁ",
        "mean": "(adj.) deputy, assistant · সহযোগী"
       },
       {
        "t": "admettre",
-       "tr": "ad-METR · আদ্‌মেত্‌র্",
+       "tr": "ad-METR · আদ্মেত্র্",
        "mean": "(v.) to admit; to allow · স্বীকার করা; অনুমতি দেওয়া"
       },
       {
        "t": "une administration",
-       "tr": "ewn ad-mee-nees-trah-SYOHN · ্যুন আদ্‌মিনিস্‌ত্রাসীওঁ",
+       "tr": "ewn ad-mee-nees-trah-SYOHN · য়্যুন্ আদ্মিনিস্ত্রাসীওঁ",
        "mean": "administration · প্রশাসন"
       },
       {
        "t": "administrer",
-       "tr": "ad-mee-nees-TRAY · আদ্‌মিনিস্‌ত্রে",
+       "tr": "ad-mee-nees-TRAY · আদ্মিনিস্ত্রে",
        "mean": "(v.) to administer · প্রশাসনিক কাজ করা"
       },
       {
        "t": "une admiration",
-       "tr": "ewn ad-mee-rah-SYOHN · ্যুন আদ্‌মিরাসীওঁ",
+       "tr": "ewn ad-mee-rah-SYOHN · য়্যুন্ আদ্মিরাসীওঁ",
        "mean": "admiration · প্রশংসা"
       },
       {
        "t": "admirer",
-       "tr": "ad-mee-RAY · আদ্‌মিরে",
+       "tr": "ad-mee-RAY · আদ্মিরে",
        "mean": "(v.) to admire · প্রশংসা করা; গুণকীর্তন করা"
       },
       {
        "t": "adopter",
-       "tr": "ah-dop-TAY · আদপ্‌তে",
+       "tr": "ah-dop-TAY · আদপ্তে",
        "mean": "(v.) to adopt · গ্রহণ করা; পোষ্য গ্রহণ করা"
       },
       {
        "t": "une adresse",
-       "tr": "ewn ah-DRES · ্যুন আদ্রেস্",
+       "tr": "ewn ah-DRES · য়্যুন্ আদ্রেস্",
        "mean": "an address · ঠিকানা"
       },
       {
@@ -352,27 +352,27 @@ LC.units.push({
       },
       {
        "t": "adulte",
-       "tr": "ah-DEWLT · আদ্যুল্‌ত্",
+       "tr": "ah-DEWLT · আদ্যুল্ত্",
        "mean": "(adj.) adult, grown-up · প্রাপ্তবয়স্ক; পূর্ণবয়স্ক"
       },
       {
        "t": "un adverbe",
-       "tr": "uhn ad-VAIRB · অঁন আদ্‌ভের্‌ব্",
+       "tr": "uhn ad-VAIRB · অঁন আদ্ভের্ব্",
        "mean": "an adverb · ক্রিয়া বিশেষণ"
       },
       {
        "t": "un / une adversaire",
-       "tr": "ad-vair-SAIR · আদ্‌ভের্‌সের্",
+       "tr": "ad-vair-SAIR · আদ্ভের্সের্",
        "mean": "an opponent · প্রতিপক্ষ"
       },
       {
        "t": "une affaire",
-       "tr": "ewn ah-FAIR · ্যুন আফের্",
+       "tr": "ewn ah-FAIR · য়্যুন্ আফের্",
        "mean": "a matter, a business, an affair · সম্পর্ক; বিষয়; ব্যাপার"
       },
       {
        "t": "affectueux / affectueuse",
-       "tr": "ah-fek-tew-UH · আফেক্‌তূও",
+       "tr": "ah-fek-tew-UH · আফেক্তূও",
        "mean": "(adj.) affectionate · স্নেহশীল"
       }
      ]
@@ -461,22 +461,22 @@ LC.units.push({
      "items": [
       {
        "t": "une affiche",
-       "tr": "ewn ah-FEESH · ্যুন আফিশ্",
+       "tr": "ewn ah-FEESH · য়্যুন্ আফিশ্",
        "mean": "a poster · পোস্টার"
       },
       {
        "t": "une affection",
-       "tr": "ewn ah-fek-SYOHN · ্যুন আফেক্‌সীওঁ",
+       "tr": "ewn ah-fek-SYOHN · য়্যুন্ আফেক্সীওঁ",
        "mean": "affection, fondness · স্নেহ; আদর; মমতা"
       },
       {
        "t": "une affirmation",
-       "tr": "ewn ah-feer-mah-SYOHN · ্যুন আফির্‌মাসীওঁ",
+       "tr": "ewn ah-feer-mah-SYOHN · য়্যুন্ আফির্মাসীওঁ",
        "mean": "an affirmation · সম্মতি-সূচক"
       },
       {
        "t": "affirmer",
-       "tr": "ah-feer-MAY · আফির্‌মে",
+       "tr": "ah-feer-MAY · আফির্মে",
        "mean": "(v.) to affirm, to assert · ঘোষণা করা; বলিষ্ঠ কণ্ঠে বলা"
       },
       {
@@ -501,7 +501,7 @@ LC.units.push({
       },
       {
        "t": "une agence",
-       "tr": "ewn ah-ZHAHNS · ্যুন আজ়াঁস্",
+       "tr": "ewn ah-ZHAHNS · য়্যুন্ আজ়াঁস্",
        "mean": "an agency, an office · অফিস; এজেন্সি"
       },
       {
@@ -521,7 +521,7 @@ LC.units.push({
       },
       {
        "t": "une agitation",
-       "tr": "ewn ah-zhee-tah-SYOHN · ্যুন আজ়িতাসীওঁ",
+       "tr": "ewn ah-zhee-tah-SYOHN · য়্যুন্ আজ়িতাসীওঁ",
        "mean": "agitation, unrest · উত্তেজনা; বিক্ষোভ; হৈচৈ"
       },
       {
@@ -531,7 +531,7 @@ LC.units.push({
       },
       {
        "t": "agréable",
-       "tr": "ah-gray-AHBL · আগ্রেআব্‌ল্",
+       "tr": "ah-gray-AHBL · আগ্রেআব্ল্",
        "mean": "(adj.) pleasant, agreeable · মনোরম; সম্মত"
       },
       {
@@ -546,17 +546,17 @@ LC.units.push({
       },
       {
        "t": "un agriculteur",
-       "tr": "uhn ah-gree-kewl-TUHR · অঁন আগ্রিক্যুল্‌ত্য",
+       "tr": "uhn ah-gree-kewl-TUHR · অঁন আগ্রিক্যুল্ত্য",
        "mean": "a farmer · কৃষক; চাষী"
       },
       {
        "t": "une agriculture",
-       "tr": "ewn ah-gree-kewl-TEWR · ্যুন আগ্রিক্যুল্‌ত্যুর্",
+       "tr": "ewn ah-gree-kewl-TEWR · য়্যুন্ আগ্রিক্যুল্ত্যুর্",
        "mean": "agriculture · কৃষি"
       },
       {
        "t": "une aide",
-       "tr": "ewn ED · ্যুন এদ্",
+       "tr": "ewn ED · য়্যুন্ এদ্",
        "mean": "help, aid · সাহায্য; সহযোগিতা"
       },
       {
@@ -566,22 +566,22 @@ LC.units.push({
       },
       {
        "t": "un aigle",
-       "tr": "uhn EGL · অঁন এগ্‌ল্",
+       "tr": "uhn EGL · অঁন এগ্ল্",
        "mean": "an eagle · ঈগল"
       },
       {
        "t": "aigre",
-       "tr": "EGR · এগ্‌র্",
+       "tr": "EGR · এগ্র্",
        "mean": "(adj.) sour · টক"
       },
       {
        "t": "une aiguille",
-       "tr": "ewn ay-GWEEY · ্যুন এগউই",
+       "tr": "ewn ay-GWEEY · য়্যুন্ এগউই",
        "mean": "a needle · সূচ; সুঁই"
       },
       {
        "t": "une aile",
-       "tr": "ewn EL · ্যুন এল্",
+       "tr": "ewn EL · য়্যুন্ এল্",
        "mean": "a wing · ডানা"
       },
       {
@@ -591,7 +591,7 @@ LC.units.push({
       },
       {
        "t": "aimable",
-       "tr": "ay-MAHBL · এমাব্‌ল্",
+       "tr": "ay-MAHBL · এমাব্ল্",
        "mean": "(adj.) kind, likeable · বন্ধুভাবাপন্ন"
       },
       {
@@ -626,7 +626,7 @@ LC.units.push({
       },
       {
        "t": "un alcool",
-       "tr": "uhn al-KUL · অঁন আল্‌কল্",
+       "tr": "uhn al-KUL · অঁন আল্কল্",
        "mean": "alcohol · এ্যালকোহল"
       }
      ]
@@ -647,7 +647,7 @@ LC.units.push({
       },
       {
        "t": "une alimentation",
-       "tr": "ewn ah-lee-mahn-tah-SYOHN · ্যুন আলিমঁতাসীওঁ",
+       "tr": "ewn ah-lee-mahn-tah-SYOHN · য়্যুন্ আলিমঁতাসীওঁ",
        "mean": "food supply, diet · খাদ্য সরবরাহ"
       },
       {
@@ -657,7 +657,7 @@ LC.units.push({
       },
       {
        "t": "une allée",
-       "tr": "ewn ah-LAY · ্যুন আলে",
+       "tr": "ewn ah-LAY · য়্যুন্ আলে",
        "mean": "a lane, an alley · সংকীর্ণ রাস্তা"
       },
       {
@@ -677,7 +677,7 @@ LC.units.push({
       },
       {
        "t": "une alliance",
-       "tr": "ewn ah-LYAHNS · ্যুন আলীয়াঁস্",
+       "tr": "ewn ah-LYAHNS · য়্যুন্ আলীয়াঁস্",
        "mean": "an alliance · মৈত্রী"
       },
       {
@@ -702,12 +702,12 @@ LC.units.push({
       },
       {
        "t": "une allumette",
-       "tr": "ewn ah-lew-MET · ্যুন আল্যুমেত্",
+       "tr": "ewn ah-lew-MET · য়্যুন্ আল্যুমেত্",
        "mean": "a match · দিয়াশলাই"
       },
       {
        "t": "une allure",
-       "tr": "ewn ah-LEWR · ্যুন আল্যুর্",
+       "tr": "ewn ah-LEWR · য়্যুন্ আল্যুর্",
        "mean": "pace, bearing · গতি; ছন্দ"
       },
       {
@@ -722,12 +722,12 @@ LC.units.push({
       },
       {
        "t": "un alphabet",
-       "tr": "uhn al-fah-BAY · অঁন আল্‌ফাবে",
+       "tr": "uhn al-fah-BAY · অঁন আল্ফাবে",
        "mean": "an alphabet · বর্ণমালা"
       },
       {
        "t": "une altitude",
-       "tr": "ewn al-tee-TEWD · ্যুন আল্‌তিত্যুদ্",
+       "tr": "ewn al-tee-TEWD · য়্যুন্ আল্তিত্যুদ্",
        "mean": "altitude · উচ্চতা; অক্ষাংশ"
       },
       {
@@ -742,7 +742,7 @@ LC.units.push({
       },
       {
        "t": "une ambassade",
-       "tr": "ewn ahn-bah-SAHD · ্যুন অঁবাসাদ্",
+       "tr": "ewn ahn-bah-SAHD · য়্যুন্ অঁবাসাদ্",
        "mean": "an embassy · দূতাবাস"
       },
       {
@@ -752,22 +752,22 @@ LC.units.push({
       },
       {
        "t": "une ambiance",
-       "tr": "ewn ahn-BYAHNS · ্যুন অঁবীয়াঁস্",
+       "tr": "ewn ahn-BYAHNS · য়্যুন্ অঁবীয়াঁস্",
        "mean": "atmosphere, surroundings · পারিপার্শ্বিক অবস্থা; পরিবেশ"
       },
       {
        "t": "une ambition",
-       "tr": "ewn ahn-bee-SYOHN · ্যুন অঁবিসীওঁ",
+       "tr": "ewn ahn-bee-SYOHN · য়্যুন্ অঁবিসীওঁ",
        "mean": "ambition · উচ্চাকাঙ্ক্ষা"
       },
       {
        "t": "une ambulance",
-       "tr": "ewn ahn-bew-LAHNS · ্যুন অঁব্যুলাঁস্",
+       "tr": "ewn ahn-bew-LAHNS · য়্যুন্ অঁব্যুলাঁস্",
        "mean": "an ambulance · রোগীবহনকারী গাড়ি"
       },
       {
        "t": "une âme",
-       "tr": "ewn AHM · ্যুন আম্",
+       "tr": "ewn AHM · য়্যুন্ আম্",
        "mean": "a soul · আত্মা"
       },
       {
@@ -777,12 +777,12 @@ LC.units.push({
       },
       {
        "t": "une amende",
-       "tr": "ewn ah-MAHND · ্যুন আমঁদ্",
+       "tr": "ewn ah-MAHND · য়্যুন্ আমঁদ্",
        "mean": "a fine, a penalty · জরিমানা; ক্ষতিপূরণ"
       },
       {
        "t": "amener",
-       "tr": "am-NAY · আম্‌নে",
+       "tr": "am-NAY · আম্নে",
        "mean": "(v.) to bring, to take along · নিয়ে যাওয়া"
       },
       {
@@ -927,7 +927,7 @@ LC.units.push({
      "items": [
       {
        "t": "ample",
-       "tr": "AHMPL · অঁপ্‌ল্",
+       "tr": "AHMPL · অঁপ্ল্",
        "mean": "(adj.) ample, roomy · প্রচুর"
       },
       {
@@ -983,12 +983,12 @@ LC.units.push({
      "items": [
       {
        "t": "l'Angleterre",
-       "tr": "lahn-gluh-TAIR · লাঅঁগ্‌ল্যাতের্",
+       "tr": "lahn-gluh-TAIR · লাঅঁগ্ল্যাতের্",
        "mean": "(nf.) England · ইংল্যান্ড"
       },
       {
        "t": "une angoisse",
-       "tr": "ewn ahn-GWAHSS · য়্যুন্ অঁগ্‌ওয়াস্",
+       "tr": "ewn ahn-GWAHSS · য়্যুন্ অঁগ্ওয়াস্",
        "mean": "anguish, dread · দুশ্চিন্তা"
       },
       {
@@ -1059,7 +1059,7 @@ LC.units.push({
       },
       {
        "t": "un arbre",
-       "tr": "uhn ARBR · আঁন্ আর্‌ব্র্",
+       "tr": "uhn ARBR · আঁন্ আর্ব্র্",
        "mean": "tree · গাছ"
       }
      ]
@@ -1121,7 +1121,7 @@ LC.units.push({
       },
       {
        "t": "un atlas",
-       "tr": "uhn at-LASS · আঁন্ আত্‌লাস্",
+       "tr": "uhn at-LASS · আঁন্ আত্লাস্",
        "mean": "atlas · মানচিত্র"
       },
       {
@@ -1166,7 +1166,7 @@ LC.units.push({
       },
       {
        "t": "un avenir",
-       "tr": "uhn ahv-NEER · আঁন্ আভ়্‌নির্",
+       "tr": "uhn ahv-NEER · আঁন্ আভ়্নির্",
        "mean": "the future · ভবিষ্যৎ"
       },
       {
@@ -1373,7 +1373,7 @@ LC.units.push({
      "items": [
       {
        "t": "la bibliothèque",
-       "tr": "lah bee-blee-oh-TEK · লা বিব্‌লিওতেক্",
+       "tr": "lah bee-blee-oh-TEK · লা বিব্লিওতেক্",
        "mean": "library · গ্রন্থাগার"
       },
       {
@@ -1393,7 +1393,7 @@ LC.units.push({
       },
       {
        "t": "bienvenu / bienvenue",
-       "tr": "byan-vuh-NEW · বীয়াঁভ়্‌ন্যু",
+       "tr": "byan-vuh-NEW · বীয়াঁভ়্ন্যু",
        "mean": "(adj.) welcome · স্বাগতম"
       },
       {
@@ -1459,7 +1459,7 @@ LC.units.push({
       },
       {
        "t": "le bonhomme",
-       "tr": "luh boh-NOM · ল্য বন্‌ম্",
+       "tr": "luh boh-NOM · ল্য বন্ম্",
        "mean": "a simple, ordinary fellow · সাধারণ সাদাসিধা লোক"
       },
       {
@@ -1500,7 +1500,7 @@ LC.units.push({
       },
       {
        "t": "le boulevard",
-       "tr": "luh bool-VAR · ল্য বুল্‌ভ়ার্",
+       "tr": "luh bool-VAR · ল্য বুল্ভ়ার্",
        "mean": "a wide tree-lined avenue · দু'পাশে বৃক্ষশোভিত চওড়া রাস্তা"
       },
       {
@@ -1720,17 +1720,17 @@ LC.units.push({
      "items": [
       {
        "t": "le calcul",
-       "tr": "luh kal-KEWL · ল্য কাল্‌ক্যুল্",
+       "tr": "luh kal-KEWL · ল্য কাল্ক্যুল্",
        "mean": "calculation, reckoning · গণনা; হিসাব"
       },
       {
        "t": "calculer",
-       "tr": "kal-kew-LAY · কাল্‌ক্যুলে",
+       "tr": "kal-kew-LAY · কাল্ক্যুলে",
        "mean": "(v.) to calculate, to work out · হিসাব করা"
       },
       {
        "t": "calme",
-       "tr": "KALM · কাল্‌ম্",
+       "tr": "KALM · কাল্ম্",
        "mean": "(adj.) calm, still · স্থির; শান্ত"
       },
       {
@@ -1771,7 +1771,7 @@ LC.units.push({
       },
       {
        "t": "capable",
-       "tr": "kah-PAHBL · কাপাব্‌ল্",
+       "tr": "kah-PAHBL · কাপাব্ল্",
        "mean": "(adj.) capable, able · সক্ষম; সমর্থ"
       },
       {
@@ -1881,7 +1881,7 @@ LC.units.push({
       },
       {
        "t": "le cercle",
-       "tr": "luh SAIRKL · ল্য সের্ক্‌ল্",
+       "tr": "luh SAIRKL · ল্য সের্ক্ল্",
        "mean": "circle · বৃত্ত"
       },
       {
@@ -1942,7 +1942,7 @@ LC.units.push({
       },
       {
        "t": "le changement",
-       "tr": "luh shahnzh-MAHN · ল্য শঁজ়্‌মঁ",
+       "tr": "luh shahnzh-MAHN · ল্য শঁজ়্মঁ",
        "mean": "change · পরিবর্তন; বদল"
       },
       {
@@ -2201,7 +2201,7 @@ LC.units.push({
       },
       {
        "t": "le cimetière",
-       "tr": "luh seem-TYAIR · ল্য সিম্‌তীয়ের্",
+       "tr": "luh seem-TYAIR · ল্য সিম্তীয়ের্",
        "mean": "cemetery, graveyard · সমাধি; কবরস্থান"
       },
       {
@@ -2376,7 +2376,7 @@ LC.units.push({
       },
       {
        "t": "le commencement",
-       "tr": "luh koh-mahns-MAHN · ল্য কমঁস্‌মঁ",
+       "tr": "luh koh-mahns-MAHN · ল্য কমঁস্মঁ",
        "mean": "beginning, start · আরম্ভ; সূচনা"
       },
       {
@@ -2402,17 +2402,17 @@ LC.units.push({
       },
       {
        "t": "complètement",
-       "tr": "kohm-plet-MAHN · কঁপ্লেত্‌মঁ",
+       "tr": "kohm-plet-MAHN · কঁপ্লেত্মঁ",
        "mean": "(adv.) completely · সম্পূর্ণভাবে"
       },
       {
        "t": "le complètement",
-       "tr": "luh kohm-plet-MAHN · ল্য কঁপ্লেত্‌মঁ",
+       "tr": "luh kohm-plet-MAHN · ল্য কঁপ্লেত্মঁ",
        "mean": "completion, the finishing · শেষ; সম্পূর্ণতা"
       },
       {
        "t": "le comptable",
-       "tr": "luh kohn-TAHBL · ল্য কঁতাব্‌ল্",
+       "tr": "luh kohn-TAHBL · ল্য কঁতাব্ল্",
        "mean": "accountant · হিসাবরক্ষক"
       },
       {
@@ -2473,7 +2473,7 @@ LC.units.push({
       },
       {
        "t": "considérable",
-       "tr": "kohn-see-day-RAHBL · কঁসিদেরাব্‌ল্",
+       "tr": "kohn-see-day-RAHBL · কঁসিদেরাব্ল্",
        "mean": "(adj.) considerable, sizeable · বিবেচনাযোগ্য; উল্লেখযোগ্য"
       },
       {
@@ -2634,7 +2634,7 @@ LC.units.push({
       },
       {
        "t": "coupable",
-       "tr": "koo-PAHBL · কুপাব্‌ল্",
+       "tr": "koo-PAHBL · কুপাব্ল্",
        "mean": "(adj.) guilty · অপরাধী; দোষী"
       },
       {
@@ -2700,7 +2700,7 @@ LC.units.push({
       },
       {
        "t": "le croisement",
-       "tr": "luh krwahz-MAHN · ল্য ক্রোয়াজ়্‌মঁ",
+       "tr": "luh krwahz-MAHN · ল্য ক্রোয়াজ়্মঁ",
        "mean": "crossroads, junction · চৌরাস্তা"
       },
       {
@@ -2710,7 +2710,7 @@ LC.units.push({
       },
       {
        "t": "la citoyenneté",
-       "tr": "lah see-twah-yen-TAY · লা সিতোয়াঈয়ন্‌তে",
+       "tr": "lah see-twah-yen-TAY · লা সিতোয়াঈয়ন্তে",
        "mean": "citizenship · নাগরিকত্ব"
       }
      ]
@@ -2746,12 +2746,12 @@ LC.units.push({
       },
       {
        "t": "le cultivateur / la cultivatrice",
-       "tr": "luh kewl-tee-vah-TUHR · ল্য ক্যুল্‌তিভ়াতোর্",
+       "tr": "luh kewl-tee-vah-TUHR · ল্য ক্যুল্তিভ়াতোর্",
        "mean": "farmer, cultivator · কৃষক"
       },
       {
        "t": "la culture",
-       "tr": "lah kewl-TEWR · লা ক্যুল্‌ত্যুর্",
+       "tr": "lah kewl-TEWR · লা ক্যুল্ত্যুর্",
        "mean": "culture; cultivation · সংস্কৃতি; কৃষ্টি"
       },
       {
@@ -2871,7 +2871,7 @@ LC.units.push({
       },
       {
        "t": "dangereux / dangereuse",
-       "tr": "dahnzh-RUH · দঁজ়্‌রো",
+       "tr": "dahnzh-RUH · দঁজ়্রো",
        "mean": "(adj.) dangerous · বিপজ্জনক"
       },
       {
@@ -3231,12 +3231,12 @@ LC.units.push({
       },
       {
        "t": "développer",
-       "tr": "day-vlo-PAY · দেভ়্‌লপে",
+       "tr": "day-vlo-PAY · দেভ়্লপে",
        "mean": "(v.) to develop · উন্নতি সাধন করা"
       },
       {
        "t": "le développement",
-       "tr": "luh day-vlop-MAHN · ল্য দেভ়্‌লপমঁ",
+       "tr": "luh day-vlop-MAHN · ল্য দেভ়্লপমঁ",
        "mean": "development · উন্নয়ন"
       },
       {
@@ -3272,7 +3272,7 @@ LC.units.push({
       },
       {
        "t": "la difficulté",
-       "tr": "lah dee-fee-kewl-TAY · লা দিফ়িক্যুল্‌তে",
+       "tr": "lah dee-fee-kewl-TAY · লা দিফ়িক্যুল্তে",
        "mean": "difficulty · কাঠিন্য"
       },
       {
@@ -3458,7 +3458,7 @@ LC.units.push({
       },
       {
        "t": "doucement",
-       "tr": "dooss-MAHN · দুস্‌মঁ",
+       "tr": "dooss-MAHN · দুস্মঁ",
        "mean": "(adv.) gently, slowly, softly · কোমলভাবে; আস্তে আস্তে"
       },
       {
@@ -3675,7 +3675,7 @@ LC.units.push({
       },
       {
        "t": "également",
-       "tr": "ay-gal-MAHN · এগাল্‌মঁ",
+       "tr": "ay-gal-MAHN · এগাল্মঁ",
        "mean": "(adv.) equally; also · সমানভাবে"
       },
       {
@@ -3797,7 +3797,7 @@ LC.units.push({
       },
       {
        "t": "une enveloppe",
-       "tr": "ewn ahn-VLOP · য়্যুন্ অঁভ়্‌লপ্",
+       "tr": "ewn ahn-VLOP · য়্যুন্ অঁভ়্লপ্",
        "mean": "envelope · খাম"
       },
       {
@@ -3907,7 +3907,7 @@ LC.units.push({
       },
       {
        "t": "un établissement",
-       "tr": "uhn ay-tah-blees-MAHN · আঁন্ এতাব্লিস্‌মঁ",
+       "tr": "uhn ay-tah-blees-MAHN · আঁন্ এতাব্লিস্মঁ",
        "mean": "establishment, institution, firm · ব্যবসায়িক প্রতিষ্ঠান"
       },
       {
@@ -3958,7 +3958,7 @@ LC.units.push({
       },
       {
        "t": "un événement",
-       "tr": "uhn ay-vayn-MAHN · আঁন্ এভ়েন্‌মঁ",
+       "tr": "uhn ay-vayn-MAHN · আঁন্ এভ়েন্মঁ",
        "mean": "event, happening · ঘটনা"
       },
       {
@@ -3974,7 +3974,7 @@ LC.units.push({
      "items": [
       {
        "t": "exactement",
-       "tr": "eg-zak-tuh-MAHN · এগ্‌জ়াক্ত্যমঁ",
+       "tr": "eg-zak-tuh-MAHN · এগ্জ়াক্ত্যমঁ",
        "mean": "(adv.) exactly · সঠিকভাবে"
       },
       {
@@ -3984,12 +3984,12 @@ LC.units.push({
       },
       {
        "t": "une exception",
-       "tr": "ewn ek-sep-SYOHN · য়্যুন্ এক্সেপ্‌সীওঁ",
+       "tr": "ewn ek-sep-SYOHN · য়্যুন্ এক্সেপ্সীওঁ",
        "mean": "exception · ব্যতিক্রম"
       },
       {
        "t": "exceptionnel / exceptionnelle",
-       "tr": "ek-sep-syoh-NEL · এক্সেপ্‌সীওঁনেল্",
+       "tr": "ek-sep-syoh-NEL · এক্সেপ্সীওঁনেল্",
        "mean": "(adj.) exceptional · ব্যতিক্রমী"
       },
       {
@@ -4005,22 +4005,22 @@ LC.units.push({
      "items": [
       {
        "t": "un exemple",
-       "tr": "uhn eg-ZAHMPL · আঁন্ এগ্‌জ়ঁপ্‌ল্",
+       "tr": "uhn eg-ZAHMPL · আঁন্ এগ্জ়ঁপ্ল্",
        "mean": "example · উদাহরণ; দৃষ্টান্ত"
       },
       {
        "t": "un examen",
-       "tr": "uhn eg-zah-MAN · আঁন্ এগ্‌জ়ামাঁ",
+       "tr": "uhn eg-zah-MAN · আঁন্ এগ্জ়ামাঁ",
        "mean": "examination, test · পরীক্ষা"
       },
       {
        "t": "examiner",
-       "tr": "eg-zah-mee-NAY · এগ্‌জ়ামিনে",
+       "tr": "eg-zah-mee-NAY · এগ্জ়ামিনে",
        "mean": "(v.) to examine · পরীক্ষা করা"
       },
       {
        "t": "un exercice",
-       "tr": "uhn eg-zair-SEESS · আঁন্ এগ্‌জ়ের্সিস্",
+       "tr": "uhn eg-zair-SEESS · আঁন্ এগ্জ়ের্সিস্",
        "mean": "exercise, practice · অভ্যাস; অনুশীলন"
       },
       {
@@ -4091,7 +4091,7 @@ LC.units.push({
       },
       {
        "t": "extrêmement",
-       "tr": "eks-trem-MAHN · এক্স্ত্রেম্‌মঁ",
+       "tr": "eks-trem-MAHN · এক্স্ত্রেম্মঁ",
        "mean": "(adv.) extremely · ভীষণভাবে; চরমভাবে"
       }
      ]
@@ -4181,7 +4181,7 @@ LC.units.push({
      "items": [
       {
        "t": "la fable",
-       "tr": "lah FAHBL · লা ফ়াব্‌ল্",
+       "tr": "lah FAHBL · লা ফ়াব্ল্",
        "mean": "fable, tale · গল্প; উপকথা"
       },
       {
@@ -4211,7 +4211,7 @@ LC.units.push({
       },
       {
        "t": "facilement",
-       "tr": "fah-seel-MAHN · ফ়াসিল্‌মঁ",
+       "tr": "fah-seel-MAHN · ফ়াসিল্মঁ",
        "mean": "(adv.) easily · সহজভাবে"
       },
       {
@@ -4227,7 +4227,7 @@ LC.units.push({
      "items": [
       {
        "t": "faible",
-       "tr": "FEBL · ফ়েব্‌ল্",
+       "tr": "FEBL · ফ়েব্ল্",
        "mean": "(adj.) weak, faint · দুর্বল; ক্ষীণ"
       },
       {
@@ -4283,7 +4283,7 @@ LC.units.push({
       },
       {
        "t": "favorable",
-       "tr": "fah-voh-RAHBL · ফ়াভ়োরাব্‌ল্",
+       "tr": "fah-voh-RAHBL · ফ়াভ়োরাব্ল্",
        "mean": "(adj.) favourable · সহায়ক; সন্তোষজনক"
       },
       {
@@ -4428,7 +4428,7 @@ LC.units.push({
       },
       {
        "t": "finalement",
-       "tr": "fee-nal-MAHN · ফ়িনাল্‌মঁ",
+       "tr": "fee-nal-MAHN · ফ়িনাল্মঁ",
        "mean": "(adv.) finally, in the end · উপসংহারে; চূড়ান্তভাবে"
       }
      ]
@@ -4500,7 +4500,7 @@ LC.units.push({
       },
       {
        "t": "formidable",
-       "tr": "for-mee-DAHBL · ফ়র্মিদাব্‌ল্",
+       "tr": "for-mee-DAHBL · ফ়র্মিদাব্ল্",
        "mean": "(adj.) wonderful, terrific · খুবই সুন্দর"
       },
       {
@@ -4681,7 +4681,7 @@ LC.units.push({
       },
       {
        "t": "la galerie",
-       "tr": "lah gal-REE · লা গাল্‌রি",
+       "tr": "lah gal-REE · লা গাল্রি",
        "mean": "gallery · গ্যালারি"
       },
       {
@@ -4768,7 +4768,7 @@ LC.units.push({
       },
       {
        "t": "généralement",
-       "tr": "zhay-nay-ral-MAHN · জ়েনেরাল্‌মঁ",
+       "tr": "zhay-nay-ral-MAHN · জ়েনেরাল্মঁ",
        "mean": "(adv.) generally · সর্বজনীনভাবে; সাধারণত"
       },
       {
@@ -4788,7 +4788,7 @@ LC.units.push({
       },
       {
        "t": "le golfe",
-       "tr": "luh GOLF · ল্য গল্‌ফ়্",
+       "tr": "luh GOLF · ল্য গল্ফ়্",
        "mean": "gulf, bay · উপসাগর"
       },
       {
@@ -5008,12 +5008,12 @@ LC.units.push({
       },
       {
        "t": "hebdomadaire",
-       "tr": "eb-doh-mah-DAIR · এব্‌দমাদের্",
+       "tr": "eb-doh-mah-DAIR · এব্দমাদের্",
        "mean": "(adj.) weekly · সাপ্তাহিক"
       },
       {
        "t": "un hélicoptère",
-       "tr": "uhn ay-lee-kop-TAIR · আঁন্ এলিকপ্‌তের্",
+       "tr": "uhn ay-lee-kop-TAIR · আঁন্ এলিকপ্তের্",
        "mean": "helicopter · হেলিকপ্টার"
       },
       {
@@ -5075,7 +5075,7 @@ LC.units.push({
       },
       {
        "t": "horrible",
-       "tr": "oh-REEBL · অরিব্‌ল্",
+       "tr": "oh-REEBL · অরিব্ল্",
        "mean": "(adj.) horrible, dreadful · ভয়ানক; ভয়ংকর"
       },
       {
@@ -5266,27 +5266,27 @@ LC.units.push({
       },
       {
        "t": "immédiat / immédiate",
-       "tr": "ee-may-DYAH · ইম্‌মেদীয়া",
+       "tr": "ee-may-DYAH · ইম্মেদীয়া",
        "mean": "(adj.) immediate · তাৎক্ষণিক"
       },
       {
        "t": "immédiatement",
-       "tr": "ee-may-dyat-MAHN · ইম্‌মেদীয়াত্‌মঁ",
+       "tr": "ee-may-dyat-MAHN · ইম্মেদীয়াত্মঁ",
        "mean": "(adv.) immediately · তাৎক্ষণিকভাবে"
       },
       {
        "t": "un immeuble",
-       "tr": "uhn ee-MUHBL · আঁন্ ইম্‌মোব্‌ল্",
+       "tr": "uhn ee-MUHBL · আঁন্ ইম্মোব্ল্",
        "mean": "a block of flats, a building · বাড়ি"
       },
       {
        "t": "immobile",
-       "tr": "ee-moh-BEEL · ইম্‌মবিল্",
+       "tr": "ee-moh-BEEL · ইম্মবিল্",
        "mean": "(adj.) motionless, still · স্থির; গতিহীন; নিশ্চল"
       },
       {
        "t": "immoral / immorale",
-       "tr": "ee-moh-RAL · ইম্‌মরাল্",
+       "tr": "ee-moh-RAL · ইম্মরাল্",
        "mean": "(adj.) immoral · অসৎ"
       }
      ]
@@ -5307,7 +5307,7 @@ LC.units.push({
       },
       {
        "t": "impossible",
-       "tr": "am-poh-SEEBL · আঁপসিব্‌ল্",
+       "tr": "am-poh-SEEBL · আঁপসিব্ল্",
        "mean": "(adj.) impossible · অসম্ভব"
       },
       {
@@ -5317,7 +5317,7 @@ LC.units.push({
       },
       {
        "t": "une imprimerie",
-       "tr": "ewn am-preem-REE · য়্যুন্ আঁপ্রিম্‌রি",
+       "tr": "ewn am-preem-REE · য়্যুন্ আঁপ্রিম্রি",
        "mean": "printing works, press · ছাপাখানা; প্রেস"
       }
      ]
@@ -5412,7 +5412,7 @@ LC.units.push({
       },
       {
        "t": "incapable",
-       "tr": "an-kah-PAHBL · আঁকাপাব্‌ল্",
+       "tr": "an-kah-PAHBL · আঁকাপাব্ল্",
        "mean": "(adj.) incapable, unable · অসমর্থ; অক্ষম"
       },
       {
@@ -5458,7 +5458,7 @@ LC.units.push({
       },
       {
        "t": "indispensable",
-       "tr": "an-dees-pahn-SAHBL · আঁদিস্পঁসাব্‌ল্",
+       "tr": "an-dees-pahn-SAHBL · আঁদিস্পঁসাব্ল্",
        "mean": "(adj.) indispensable, essential · অপরিহার্য; একান্ত প্রয়োজন"
       },
       {
@@ -5484,7 +5484,7 @@ LC.units.push({
      "items": [
       {
        "t": "une illustration",
-       "tr": "ewn ee-lews-trah-SYOHN · য়্যুন্ ইল্‌ল্যুস্ত্রাসীওঁ",
+       "tr": "ewn ee-lews-trah-SYOHN · য়্যুন্ ইল্ল্যুস্ত্রাসীওঁ",
        "mean": "illustration, a picture in a book · চিত্র"
       },
       {
@@ -5635,7 +5635,7 @@ LC.units.push({
      "items": [
       {
        "t": "une inscription",
-       "tr": "ewn ans-kreep-SYOHN · য়্যুন্ আঁস্ক্রিপ্‌সীওঁ",
+       "tr": "ewn ans-kreep-SYOHN · য়্যুন্ আঁস্ক্রিপ্সীওঁ",
        "mean": "enrolment, registration; an inscription · ভর্তি; নিবন্ধন"
       },
       {
@@ -5778,7 +5778,7 @@ LC.units.push({
       },
       {
        "t": "irresponsable",
-       "tr": "ee-res-pohn-SAHBL · ইরেস্পঁসাব্‌ল্",
+       "tr": "ee-res-pohn-SAHBL · ইরেস্পঁসাব্ল্",
        "mean": "(adj.) irresponsible · দায়িত্বহীন; বেপরোয়া"
       }
      ]
@@ -5970,7 +5970,7 @@ LC.units.push({
       },
       {
        "t": "le jugement",
-       "tr": "luh zhewzh-MAHN · ল্য জ়্যুজ়্‌মঁ",
+       "tr": "luh zhewzh-MAHN · ল্য জ়্যুজ়্মঁ",
        "mean": "judgment, verdict · বিচার; সিদ্ধান্ত; রায়"
       },
       {
@@ -6136,12 +6136,12 @@ LC.units.push({
       },
       {
        "t": "kidnapper",
-       "tr": "keed-nah-PAY · কিদ্‌নাপে",
+       "tr": "keed-nah-PAY · কিদ্নাপে",
        "mean": "(v.) to kidnap · অপহরণ করা"
       },
       {
        "t": "le kidnappeur / la kidnappeuse",
-       "tr": "luh keed-nah-PUHR · ল্য কিদ্‌নাপ্যর্",
+       "tr": "luh keed-nah-PUHR · ল্য কিদ্নাপ্যর্",
        "mean": "kidnapper · অপহরণকারী"
       }
      ]
@@ -6311,7 +6311,7 @@ LC.units.push({
       },
       {
        "t": "la laiterie",
-       "tr": "lah leh-TREE · লা লেত্‌রি",
+       "tr": "lah leh-TREE · লা লেত্রি",
        "mean": "dairy · দুগ্ধজাত পণ্যের প্রতিষ্ঠান"
       },
       {
@@ -6388,7 +6388,7 @@ LC.units.push({
       },
       {
        "t": "lentement",
-       "tr": "lahnt-MAHN · লঁত্‌মঁ",
+       "tr": "lahnt-MAHN · লঁত্মঁ",
        "mean": "(adv.) slowly · ধীরে; আস্তে আস্তে"
       },
       {
@@ -6444,7 +6444,7 @@ LC.units.push({
       },
       {
        "t": "le lieutenant",
-       "tr": "luh lyuh-tuh-NAHN · ল্য লীওত্‌নঁ",
+       "tr": "luh lyuh-tuh-NAHN · ল্য লীওত্নঁ",
        "mean": "lieutenant · সামরিক অফিসার; লেফটেন্যান্ট"
       },
       {
@@ -6580,7 +6580,7 @@ LC.units.push({
      "items": [
       {
        "t": "le logement",
-       "tr": "luh lohzh-MAHN · ল্য লজ়্‌মঁ",
+       "tr": "luh lohzh-MAHN · ল্য লজ়্মঁ",
        "mean": "housing, accommodation · থাকবার জায়গা"
       },
       {
@@ -6756,7 +6756,7 @@ LC.units.push({
      "items": [
       {
        "t": "machinalement",
-       "tr": "mah-shee-nal-MAHN · মাশিনাল্‌মঁ",
+       "tr": "mah-shee-nal-MAHN · মাশিনাল্মঁ",
        "mean": "(adv.) mechanically, without thinking · যান্ত্রিকভাবে"
       },
       {
@@ -6812,7 +6812,7 @@ LC.units.push({
       },
       {
        "t": "maintenant",
-       "tr": "mant-NAHN · মাঁত্‌নঁ",
+       "tr": "mant-NAHN · মাঁত্নঁ",
        "mean": "(adv.) now, at present · এখন; বর্তমানে"
       }
      ]
@@ -6921,7 +6921,7 @@ LC.units.push({
       },
       {
        "t": "malgré",
-       "tr": "mal-GRAY · মাল্‌গ্রে",
+       "tr": "mal-GRAY · মাল্গ্রে",
        "mean": "(prép.) in spite of, despite · সত্ত্বেও"
       }
      ]
@@ -6937,7 +6937,7 @@ LC.units.push({
       },
       {
        "t": "malheureusement",
-       "tr": "mah-luh-ruhz-MAHN · মাল্যরোজ়্‌মঁ",
+       "tr": "mah-luh-ruhz-MAHN · মাল্যরোজ়্মঁ",
        "mean": "(adv.) unfortunately · দুর্ভাগ্যক্রমে"
       },
       {
@@ -6952,7 +6952,7 @@ LC.units.push({
       },
       {
        "t": "mangeable",
-       "tr": "mahn-ZHAHBL · মঁজ়াব্‌ল্",
+       "tr": "mahn-ZHAHBL · মঁজ়াব্ল্",
        "mean": "(adj.) edible, fit to eat · খাওয়ার উপযুক্ত"
       },
       {
@@ -7034,7 +7034,7 @@ LC.units.push({
      "items": [
       {
        "t": "la méchanceté",
-       "tr": "lah may-shahns-TAY · লা মেশঁস্‌তে",
+       "tr": "lah may-shahns-TAY · লা মেশঁস্তে",
        "mean": "nastiness, spite · কদর্যতা; জঘন্যতা"
       },
       {
@@ -7149,12 +7149,12 @@ LC.units.push({
       },
       {
        "t": "le médecin",
-       "tr": "luh mayd-SAN · ল্য মেদ্‌সাঁ",
+       "tr": "luh mayd-SAN · ল্য মেদ্সাঁ",
        "mean": "doctor, physician · চিকিৎসক"
       },
       {
        "t": "la médecine",
-       "tr": "lah mayd-SEEN · লা মেদ্‌সিন্",
+       "tr": "lah mayd-SEEN · লা মেদ্সিন্",
        "mean": "medicine as a science · চিকিৎসাবিদ্যা"
       },
       {
@@ -7246,7 +7246,7 @@ LC.units.push({
       },
       {
        "t": "le meuble",
-       "tr": "luh MUHBL · ল্য ম্যব্‌ল্",
+       "tr": "luh MUHBL · ল্য ম্যব্ল্",
        "mean": "a piece of furniture · আসবাবপত্র"
       }
      ]
@@ -7387,7 +7387,7 @@ LC.units.push({
       },
       {
        "t": "misérable",
-       "tr": "mee-zay-RAHBL · মিজ়েরাব্‌ল্",
+       "tr": "mee-zay-RAHBL · মিজ়েরাব্ল্",
        "mean": "(adj.) wretched, very poor · অতি দরিদ্র"
       },
       {
@@ -7505,12 +7505,12 @@ LC.units.push({
      "items": [
       {
        "t": "la multiplication",
-       "tr": "lah mewl-tee-plee-kah-SYOHN · লা ম্যুল্‌তিপ্লিকাসীওঁ",
+       "tr": "lah mewl-tee-plee-kah-SYOHN · লা ম্যুল্তিপ্লিকাসীওঁ",
        "mean": "multiplication · গুণন"
       },
       {
        "t": "multiplier",
-       "tr": "mewl-tee-plee-AY · ম্যুল্‌তিপ্লিয়ে",
+       "tr": "mewl-tee-plee-AY · ম্যুল্তিপ্লিয়ে",
        "mean": "(v.) to multiply · গুণ করা"
       },
       {
@@ -7535,7 +7535,7 @@ LC.units.push({
       },
       {
        "t": "le musulman / la musulmane",
-       "tr": "luh mew-zewl-MAHN · ল্য ম্যুজ়্যুল্‌মঁ",
+       "tr": "luh mew-zewl-MAHN · ল্য ম্যুজ়্যুল্মঁ",
        "mean": "Muslim · মুসলিম; মুসলমান"
       },
       {
@@ -7670,7 +7670,7 @@ LC.units.push({
       },
       {
        "t": "naturellement",
-       "tr": "nah-tew-rel-MAHN · নাত্যুরেল্‌মঁ",
+       "tr": "nah-tew-rel-MAHN · নাত্যুরেল্মঁ",
        "mean": "(adv.) naturally; of course · প্রকৃতিগতভাবে; স্বাভাবিকভাবে"
       }
      ]
@@ -7706,7 +7706,7 @@ LC.units.push({
       },
       {
        "t": "nettement",
-       "tr": "net-MAHN · নেত্‌মঁ",
+       "tr": "net-MAHN · নেত্মঁ",
        "mean": "(adv.) clearly, distinctly · পরিষ্কারভাবে"
       }
      ]
@@ -7727,7 +7727,7 @@ LC.units.push({
       },
       {
        "t": "noble",
-       "tr": "NOBL · নব্‌ল্",
+       "tr": "NOBL · নব্ল্",
        "mean": "(adj.) noble · মহান; মহৎ"
       },
       {
@@ -7858,7 +7858,7 @@ LC.units.push({
      "items": [
       {
        "t": "nuisible",
-       "tr": "nwee-ZEEBL · নুইজ়িব্‌ল্",
+       "tr": "nwee-ZEEBL · নুইজ়িব্ল্",
        "mean": "(adj.) harmful · ক্ষতিকর"
       },
       {
@@ -7883,7 +7883,7 @@ LC.units.push({
       },
       {
        "t": "nullement",
-       "tr": "newl-MAHN · ন্যুল্‌মঁ",
+       "tr": "newl-MAHN · ন্যুল্মঁ",
        "mean": "(adv.) not at all, by no means · আদৌ নয়"
       },
       {
@@ -7927,32 +7927,32 @@ LC.units.push({
       },
       {
        "t": "une objection",
-       "tr": "ewn ob-zhek-SYOHN · য়্যুন্ অব্‌জ়েক্সীওঁ",
+       "tr": "ewn ob-zhek-SYOHN · য়্যুন্ অব্জ়েক্সীওঁ",
        "mean": "objection · আপত্তি"
       },
       {
        "t": "un objet",
-       "tr": "uhn ob-ZHEH · আঁন্ অব্‌জ়ে",
+       "tr": "uhn ob-ZHEH · আঁন্ অব্জ়ে",
        "mean": "object, thing; purpose · বিষয়; বস্তু; উদ্দেশ্য"
       },
       {
        "t": "obligatoire",
-       "tr": "oh-blee-gah-TWAHR · অব্‌লিগাতোয়ার্",
+       "tr": "oh-blee-gah-TWAHR · অব্লিগাতোয়ার্",
        "mean": "(adj.) compulsory, obligatory · বাধ্যতামূলক"
       },
       {
        "t": "une observation",
-       "tr": "ewn ob-sair-vah-SYOHN · য়্যুন্ অব্‌সের্ভ়াসীওঁ",
+       "tr": "ewn ob-sair-vah-SYOHN · য়্যুন্ অব্সের্ভ়াসীওঁ",
        "mean": "observation; a remark · পর্যবেক্ষণ; নিরীক্ষণ"
       },
       {
        "t": "un obstacle",
-       "tr": "uhn obs-TAHKL · আঁন্ অব্‌স্তাক্‌ল্",
+       "tr": "uhn obs-TAHKL · আঁন্ অব্স্তাক্ল্",
        "mean": "obstacle · প্রতিবন্ধক; বাধা"
       },
       {
        "t": "obtenir",
-       "tr": "ob-tuh-NEER · অব্‌ত্যনির্",
+       "tr": "ob-tuh-NEER · অব্ত্যনির্",
        "mean": "(v.) to obtain, to get · অর্জন করা; পাওয়া"
       }
      ]
@@ -8116,7 +8116,7 @@ LC.units.push({
       },
       {
        "t": "un oubli",
-       "tr": "uhn oo-BLEE · আঁন্ উব্‌লি",
+       "tr": "uhn oo-BLEE · আঁন্ উব্লি",
        "mean": "an oversight; forgetfulness · বিস্মরণ"
       },
       {
@@ -8255,7 +8255,7 @@ LC.units.push({
       },
       {
        "t": "paisible",
-       "tr": "peh-ZEEBL · পেজ়িব্‌ল্",
+       "tr": "peh-ZEEBL · পেজ়িব্ল্",
        "mean": "(adj.) peaceful, quiet · শান্তিপ্রিয়"
       }
      ]
@@ -8338,7 +8338,7 @@ LC.units.push({
       },
       {
        "t": "le palmier",
-       "tr": "luh pal-MYAY · ল্য পাল্‌মীয়ে",
+       "tr": "luh pal-MYAY · ল্য পাল্মীয়ে",
        "mean": "palm tree · তালগাছ"
       },
       {
@@ -8389,7 +8389,7 @@ LC.units.push({
       },
       {
        "t": "parfaitement",
-       "tr": "par-fet-MAHN · পার্ফ়েত্‌মঁ",
+       "tr": "par-fet-MAHN · পার্ফ়েত্মঁ",
        "mean": "(adv.) perfectly · নিখুঁতভাবে"
       },
       {
@@ -8446,7 +8446,7 @@ LC.units.push({
      "items": [
       {
        "t": "le passeport",
-       "tr": "luh pahs-POR · ল্য পাস্‌পর্",
+       "tr": "luh pahs-POR · ল্য পাস্পর্",
        "mean": "passport · পাসপোর্ট; ছাড়পত্র"
       },
       {
@@ -8586,7 +8586,7 @@ LC.units.push({
       },
       {
        "t": "pénible",
-       "tr": "pay-NEEBL · পেনিব্‌ল্",
+       "tr": "pay-NEEBL · পেনিব্ল্",
        "mean": "(adj.) painful, hard to bear · বেদনাদায়ক"
       },
       {
@@ -8622,7 +8622,7 @@ LC.units.push({
       },
       {
        "t": "le peuple",
-       "tr": "luh PUHPL · ল্য প্যপ্‌ল্",
+       "tr": "luh PUHPL · ল্য প্যপ্ল্",
        "mean": "the people, a nation · জনগণ"
       },
       {
@@ -8752,7 +8752,7 @@ LC.units.push({
         "le poisson"
        ],
        "answer": 3,
-       "explain": "Two s, hissed · দুটি s, হিস্‌ ধ্বনি।"
+       "explain": "Two s, hissed · দুটি s, হিস্ ধ্বনি।"
       },
       {
        "q": "{{la plupart des gens}} means… · {{la plupart des gens}} মানে…",
@@ -8849,7 +8849,7 @@ LC.units.push({
       },
       {
        "t": "le porte-monnaie",
-       "tr": "luh port-moh-NEH · ল্য পর্ত্‌মনে",
+       "tr": "luh port-moh-NEH · ল্য পর্ত্মনে",
        "mean": "purse, wallet · মানিব্যাগ"
       },
       {
@@ -8859,7 +8859,7 @@ LC.units.push({
       },
       {
        "t": "possible",
-       "tr": "poh-SEEBL · পসিব্‌ল্",
+       "tr": "poh-SEEBL · পসিব্ল্",
        "mean": "(adj.) possible · সম্ভব"
       }
      ]
@@ -8885,7 +8885,7 @@ LC.units.push({
       },
       {
        "t": "pratiquement",
-       "tr": "prah-teek-MAHN · প্রাতিক্‌মঁ",
+       "tr": "prah-teek-MAHN · প্রাতিক্মঁ",
        "mean": "(adv.) practically, almost · বাস্তবসম্মতভাবে; প্রায়"
       },
       {
@@ -8972,7 +8972,7 @@ LC.units.push({
      "items": [
       {
        "t": "la promenade",
-       "tr": "lah prom-NAHD · লা প্রম্‌নাদ্",
+       "tr": "lah prom-NAHD · লা প্রম্নাদ্",
        "mean": "a walk, a stroll, an outing · প্রমোদ-ভ্রমণ"
       },
       {
@@ -9143,22 +9143,22 @@ LC.units.push({
      "items": [
       {
        "t": "quelconque",
-       "tr": "kel-KOHNK · কেল্‌কঁক্",
+       "tr": "kel-KOHNK · কেল্কঁক্",
        "mean": "(adj.) any whatever; ordinary · যেকোনোটি"
       },
       {
        "t": "quelque",
-       "tr": "KELK · কেল্‌ক্",
+       "tr": "KELK · কেল্ক্",
        "mean": "some, a few · একটু; অল্প"
       },
       {
        "t": "quelque chose",
-       "tr": "kelk SHOHZ · কেল্‌ক্ শোজ়্",
+       "tr": "kelk SHOHZ · কেল্ক্ শোজ়্",
        "mean": "something · কিছু একটা"
       },
       {
        "t": "quelquefois",
-       "tr": "kel-kuh-FWAH · কেল্‌ক্যফোয়া",
+       "tr": "kel-kuh-FWAH · কেল্ক্যফোয়া",
        "mean": "(adv.) sometimes · কয়েকবার; মাঝে মাঝে"
       },
       {
@@ -9199,7 +9199,7 @@ LC.units.push({
       },
       {
        "t": "quotidiennement",
-       "tr": "koh-tee-dyen-MAHN · কতিদীয়েন্‌মঁ",
+       "tr": "koh-tee-dyen-MAHN · কতিদীয়েন্মঁ",
        "mean": "(adv.) daily, every day · নিয়মিত; প্রতিদিন"
       },
       {
@@ -9334,7 +9334,7 @@ LC.units.push({
       },
       {
        "t": "raisonnable",
-       "tr": "reh-zoh-NAHBL · রেজ়নাব্‌ল্",
+       "tr": "reh-zoh-NAHBL · রেজ়নাব্ল্",
        "mean": "(adj.) reasonable, sensible · যুক্তিসঙ্গত"
       }
      ]
@@ -9345,7 +9345,7 @@ LC.units.push({
      "items": [
       {
        "t": "ramener",
-       "tr": "ram-NAY · রাম্‌নে",
+       "tr": "ram-NAY · রাম্নে",
        "mean": "(v.) to bring back · ফিরিয়ে আনা"
       },
       {
@@ -9355,7 +9355,7 @@ LC.units.push({
       },
       {
        "t": "rapidement",
-       "tr": "rah-peed-MAHN · রাপিদ্‌মঁ",
+       "tr": "rah-peed-MAHN · রাপিদ্মঁ",
        "mean": "(adv.) quickly · তাড়াতাড়ি"
       },
       {
@@ -9416,7 +9416,7 @@ LC.units.push({
       },
       {
        "t": "la réception",
-       "tr": "lah ray-sep-SYOHN · লা রেসেপ্‌সীওঁ",
+       "tr": "lah ray-sep-SYOHN · লা রেসেপ্সীওঁ",
        "mean": "reception; the front desk · সংবর্ধনা; অভ্যর্থনা"
       },
       {
@@ -9447,7 +9447,7 @@ LC.units.push({
       },
       {
        "t": "le rectangle",
-       "tr": "luh rek-TAHNGL · ল্য রেক্তঁগ্‌ল্",
+       "tr": "luh rek-TAHNGL · ল্য রেক্তঁগ্ল্",
        "mean": "rectangle · চতুর্ভুজ"
       },
       {
@@ -9629,7 +9629,7 @@ LC.units.push({
      "items": [
       {
        "t": "remarquable",
-       "tr": "ruh-mar-KAHBL · র্যমার্কাব্‌ল্",
+       "tr": "ruh-mar-KAHBL · র্যমার্কাব্ল্",
        "mean": "(adj.) remarkable, striking · লক্ষণীয়"
       },
       {
@@ -9664,7 +9664,7 @@ LC.units.push({
       },
       {
        "t": "renouveler",
-       "tr": "ruh-noov-LAY · র্যনুভ়্‌লে",
+       "tr": "ruh-noov-LAY · র্যনুভ়্লে",
        "mean": "(v.) to renew · নবায়ন করা"
       },
       {
@@ -9835,7 +9835,7 @@ LC.units.push({
       },
       {
        "t": "le résultat",
-       "tr": "luh ray-zewl-TAH · ল্য রেজ়্যুল্‌তা",
+       "tr": "luh ray-zewl-TAH · ল্য রেজ়্যুল্তা",
        "mean": "result · ফলাফল"
       }
      ]
@@ -9871,7 +9871,7 @@ LC.units.push({
       },
       {
        "t": "le revenu",
-       "tr": "luh ruhv-NEW · ল্য র্যভ়্‌ন্যু",
+       "tr": "luh ruhv-NEW · ল্য র্যভ়্ন্যু",
        "mean": "income, revenue · বাৎসরিক আয়"
       },
       {
@@ -10053,7 +10053,7 @@ LC.units.push({
      "items": [
       {
        "t": "le sable",
-       "tr": "luh SAHBL · ল্য সাব্‌ল্",
+       "tr": "luh SAHBL · ল্য সাব্ল্",
        "mean": "sand · বালি"
       },
       {
@@ -10201,7 +10201,7 @@ LC.units.push({
       },
       {
        "t": "sensible",
-       "tr": "sahn-SEEBL · সঁসিব্‌ল্",
+       "tr": "sahn-SEEBL · সঁসিব্ল্",
        "mean": "(adj.) sensitive · সংবেদনশীল; ইন্দ্রিয়গ্রাহ্য"
       },
       {
@@ -10311,7 +10311,7 @@ LC.units.push({
       },
       {
        "t": "seulement",
-       "tr": "suhl-MAHN · সোল্‌মঁ",
+       "tr": "suhl-MAHN · সোল্মঁ",
        "mean": "(adv.) only · কেবল মাত্র"
       },
       {
@@ -10321,7 +10321,7 @@ LC.units.push({
       },
       {
        "t": "le siècle",
-       "tr": "luh SYEKL · ল্য সীয়েক্‌ল্",
+       "tr": "luh SYEKL · ল্য সীয়েক্ল্",
        "mean": "century · শতাব্দী"
       },
       {
@@ -10357,7 +10357,7 @@ LC.units.push({
       },
       {
        "t": "simple",
-       "tr": "SAMPL · সাঁপ্‌ল্",
+       "tr": "SAMPL · সাঁপ্ল্",
        "mean": "(adj.) simple, plain · সরল; সাধারণ"
       },
       {
@@ -10393,7 +10393,7 @@ LC.units.push({
       },
       {
        "t": "le socialisme",
-       "tr": "luh soh-syah-LEEZM · ল্য সসীয়ালিজ়্‌ম্",
+       "tr": "luh soh-syah-LEEZM · ল্য সসীয়ালিজ়্ম্",
        "mean": "socialism · সমাজতন্ত্র"
       },
       {
@@ -10584,7 +10584,7 @@ LC.units.push({
       },
       {
        "t": "le souvenir",
-       "tr": "luh soov-NEER · ল্য সুভ়্‌নির্",
+       "tr": "luh soov-NEER · ল্য সুভ়্নির্",
        "mean": "memory; a keepsake · স্মৃতি; স্মৃতিচিহ্ন"
       },
       {
@@ -10610,7 +10610,7 @@ LC.units.push({
       },
       {
        "t": "spécialement",
-       "tr": "spay-syal-MAHN · স্পেসীয়াল্‌মঁ",
+       "tr": "spay-syal-MAHN · স্পেসীয়াল্মঁ",
        "mean": "(adv.) especially · বিশেষভাবে"
       },
       {
@@ -10620,7 +10620,7 @@ LC.units.push({
       },
       {
        "t": "le spectacle",
-       "tr": "luh spek-TAHKL · ল্য স্পেক্তাক্‌ল্",
+       "tr": "luh spek-TAHKL · ল্য স্পেক্তাক্ল্",
        "mean": "a show, a performance; a sight · দৃশ্য; প্রদর্শনী"
       },
       {
@@ -10661,7 +10661,7 @@ LC.units.push({
       },
       {
        "t": "la substance",
-       "tr": "lah sewbs-TAHNSS · লা স্যুব্‌স্তঁস্",
+       "tr": "lah sewbs-TAHNSS · লা স্যুব্স্তঁস্",
        "mean": "substance · সারমর্ম"
       },
       {
@@ -10876,7 +10876,7 @@ LC.units.push({
       },
       {
        "t": "la table",
-       "tr": "lah TAHBL · লা তাব্‌ল্",
+       "tr": "lah TAHBL · লা তাব্ল্",
        "mean": "table · টেবিল"
       },
       {
@@ -10948,12 +10948,12 @@ LC.units.push({
      "items": [
       {
        "t": "le technicien / la technicienne",
-       "tr": "luh tek-nee-SYAN · ল্য তেক্‌নিসীয়াঁ",
+       "tr": "luh tek-nee-SYAN · ল্য তেক্নিসীয়াঁ",
        "mean": "technician · কারিগর"
       },
       {
        "t": "technique",
-       "tr": "tek-NEEK · তেক্‌নিক্",
+       "tr": "tek-NEEK · তেক্নিক্",
        "mean": "(adj./n.) technical; a technique · কারিগরি; কৌশল"
       },
       {
@@ -10973,7 +10973,7 @@ LC.units.push({
       },
       {
        "t": "tellement",
-       "tr": "tel-MAHN · তেল্‌মঁ",
+       "tr": "tel-MAHN · তেল্মঁ",
        "mean": "(adv.) so much, so · এতোবেশি"
       }
      ]
@@ -11084,7 +11084,7 @@ LC.units.push({
      "items": [
       {
        "t": "le temple",
-       "tr": "luh TAHMPL · ল্য তঁপ্‌ল্",
+       "tr": "luh TAHMPL · ল্য তঁপ্ল্",
        "mean": "temple · মন্দির"
       },
       {
@@ -11109,7 +11109,7 @@ LC.units.push({
       },
       {
        "t": "terrible",
-       "tr": "teh-REEBL · তেরিব্‌ল্",
+       "tr": "teh-REEBL · তেরিব্ল্",
        "mean": "(adj.) terrible, dreadful · ভয়ংকর; ভীষণ"
       },
       {
@@ -11232,7 +11232,7 @@ LC.units.push({
      "items": [
       {
        "t": "le tourisme",
-       "tr": "luh too-REEZM · ল্য তুরিজ়্‌ম্",
+       "tr": "luh too-REEZM · ল্য তুরিজ়্ম্",
        "mean": "tourism · পর্যটন"
       },
       {
@@ -11357,7 +11357,7 @@ LC.units.push({
       },
       {
        "t": "tranquillement",
-       "tr": "trahn-keel-MAHN · ত্রঁকিল্‌মঁ",
+       "tr": "trahn-keel-MAHN · ত্রঁকিল্মঁ",
        "mean": "(adv.) quietly, calmly · শান্তভাবে; স্থিরভাবে"
       },
       {
@@ -11367,7 +11367,7 @@ LC.units.push({
       },
       {
        "t": "le traitement",
-       "tr": "luh tret-MAHN · ল্য ত্রেত্‌মঁ",
+       "tr": "luh tret-MAHN · ল্য ত্রেত্মঁ",
        "mean": "treatment · চিকিৎসা"
       },
       {
@@ -11479,22 +11479,22 @@ LC.units.push({
       },
       {
        "t": "un ulcère",
-       "tr": "uhn ewl-SAIR · আঁন্ য়্যুল্‌সের্",
+       "tr": "uhn ewl-SAIR · আঁন্ য়্যুল্সের্",
        "mean": "ulcer · আলসার"
       },
       {
        "t": "ultime",
-       "tr": "ewl-TEEM · য়্যুল্‌তিম্",
+       "tr": "ewl-TEEM · য়্যুল্তিম্",
        "mean": "(adj.) final, ultimate · সর্বশেষ"
       },
       {
        "t": "un ultimatum",
-       "tr": "uhn ewl-tee-mah-TOM · আঁন্ য়্যুল্‌তিমাতম্",
+       "tr": "uhn ewl-tee-mah-TOM · আঁন্ য়্যুল্তিমাতম্",
        "mean": "ultimatum · শেষ নির্দেশ"
       },
       {
        "t": "ultra",
-       "tr": "ewl-TRAH · য়্যুল্‌ত্রা",
+       "tr": "ewl-TRAH · য়্যুল্ত্রা",
        "mean": "(adj.) extreme, ultra · অতিমাত্রায়"
       },
       {
@@ -11588,7 +11588,7 @@ LC.units.push({
       },
       {
        "t": "uniquement",
-       "tr": "ew-neek-MAHN · য়্যুনিক্‌মঁ",
+       "tr": "ew-neek-MAHN · য়্যুনিক্মঁ",
        "mean": "(adv.) only, solely · অদ্বিতীয়ভাবে; কেবল"
       },
       {
@@ -11743,7 +11743,7 @@ LC.units.push({
       },
       {
        "t": "le vandalisme",
-       "tr": "luh vahn-dah-LEEZM · ল্য ভ়ঁদালিজ়্‌ম্",
+       "tr": "luh vahn-dah-LEEZM · ল্য ভ়ঁদালিজ়্ম্",
        "mean": "vandalism · ধ্বংসোন্মাদনা"
       },
       {
@@ -11990,7 +11990,7 @@ LC.units.push({
       },
       {
        "t": "véritable",
-       "tr": "vay-ree-TAHBL · ভ়েরিতাব্‌ল্",
+       "tr": "vay-ree-TAHBL · ভ়েরিতাব্ল্",
        "mean": "(adj.) real, genuine · যথার্থ"
       },
       {
@@ -12010,7 +12010,7 @@ LC.units.push({
       },
       {
        "t": "le vêtement",
-       "tr": "luh vet-MAHN · ল্য ভ়েত্‌মঁ",
+       "tr": "luh vet-MAHN · ল্য ভ়েত্মঁ",
        "mean": "a garment; (pl.) clothes · পোশাক"
       }
      ]
@@ -12041,7 +12041,7 @@ LC.units.push({
       },
       {
        "t": "la victime",
-       "tr": "lah veek-TEEM · লা ভ়িক্‌তিম্",
+       "tr": "lah veek-TEEM · লা ভ়িক্তিম্",
        "mean": "victim · শিকার; বলি"
       }
      ]
@@ -12131,7 +12131,7 @@ LC.units.push({
      "items": [
       {
        "t": "la victoire",
-       "tr": "lah veek-TWAHR · লা ভ়িক্‌তোয়ার্",
+       "tr": "lah veek-TWAHR · লা ভ়িক্তোয়ার্",
        "mean": "victory · জয়; বিজয়"
       },
       {
@@ -12223,7 +12223,7 @@ LC.units.push({
       },
       {
        "t": "vivement",
-       "tr": "veev-MAHN · ভ়িভ়্‌মঁ",
+       "tr": "veev-MAHN · ভ়িভ়্মঁ",
        "mean": "(adv.) keenly, strongly · প্রাণবন্তভাবে"
       },
       {
@@ -12274,7 +12274,7 @@ LC.units.push({
       },
       {
        "t": "le volcan",
-       "tr": "luh vol-KAHN · ল্য ভ়ল্‌কঁ",
+       "tr": "luh vol-KAHN · ল্য ভ়ল্কঁ",
        "mean": "volcano · আগ্নেয়গিরি"
       },
       {
@@ -12409,7 +12409,7 @@ LC.units.push({
       },
       {
        "t": "vraisemblable",
-       "tr": "vreh-sahn-BLAHBL · ভ়্রেসঁব্লাব্‌ল্",
+       "tr": "vreh-sahn-BLAHBL · ভ়্রেসঁব্লাব্ল্",
        "mean": "(adj.) likely, plausible · বিশ্বাসযোগ্য; সম্ভাব্য"
       },
       {
@@ -12419,7 +12419,7 @@ LC.units.push({
       },
       {
        "t": "vulgaire",
-       "tr": "vewl-GAIR · ভ়্যুল্‌গের্",
+       "tr": "vewl-GAIR · ভ়্যুল্গের্",
        "mean": "(adj.) vulgar, coarse; common · ইতর; অমার্জিত"
       }
      ]
@@ -12445,7 +12445,7 @@ LC.units.push({
       },
       {
        "t": "les WC",
-       "tr": "lay doo-bluh-vay-SAY · লে দুব্‌ল্যভ়ে সে",
+       "tr": "lay doo-bluh-vay-SAY · লে দুব্ল্যভ়ে সে",
        "mean": "(m.pl.) the lavatory · পায়খানা; শৌচাগার"
       },
       {
@@ -12682,7 +12682,7 @@ LC.units.push({
       },
       {
        "t": "অকাট্য → irréfutable",
-       "tr": "ee-ray-few-TAHBL · ইরেফ়্যুতাব্‌ল্",
+       "tr": "ee-ray-few-TAHBL · ইরেফ়্যুতাব্ল্",
        "mean": "irrefutable · অকাট্য"
       },
       {
@@ -12697,17 +12697,17 @@ LC.units.push({
       },
       {
        "t": "অক্লান্ত → infatigable",
-       "tr": "an-fah-tee-GAHBL · আঁফ়াতিগাব্‌ল্",
+       "tr": "an-fah-tee-GAHBL · আঁফ়াতিগাব্ল্",
        "mean": "tireless · অক্লান্ত"
       },
       {
        "t": "অখাদ্য → immangeable",
-       "tr": "ee-mahn-ZHAHBL · ইম্‌মঁজ়াব্‌ল্",
+       "tr": "ee-mahn-ZHAHBL · ইম্মঁজ়াব্ল্",
        "mean": "inedible · অখাদ্য"
       },
       {
        "t": "অখ্যাত → obscur / obscure",
-       "tr": "ob-SKEWR · অব্‌স্ক্যুর্",
+       "tr": "ob-SKEWR · অব্স্ক্যুর্",
        "mean": "obscure, little known · অখ্যাত"
       },
       {
@@ -12717,7 +12717,7 @@ LC.units.push({
       },
       {
        "t": "অগণিত → innombrable",
-       "tr": "ee-nohn-BRAHBL · ইন্‌নঁব্রাব্‌ল্",
+       "tr": "ee-nohn-BRAHBL · ইন্নঁব্রাব্ল্",
        "mean": "countless · অগণিত"
       }
      ]
@@ -12834,7 +12834,7 @@ LC.units.push({
       },
       {
        "t": "অনস্বীকার্য → incontestable",
-       "tr": "an-kohn-tes-TAHBL · আঁকঁতেস্তাব্‌ল্",
+       "tr": "an-kohn-tes-TAHBL · আঁকঁতেস্তাব্ল্",
        "mean": "undeniable · অনস্বীকার্য"
       },
       {
@@ -12864,7 +12864,7 @@ LC.units.push({
       },
       {
        "t": "অনুমোদন → le consentement",
-       "tr": "luh kohn-sahnt-MAHN · ল্য কঁসঁত্‌মঁ",
+       "tr": "luh kohn-sahnt-MAHN · ল্য কঁসঁত্মঁ",
        "mean": "consent, approval · অনুমোদন"
       }
      ]
@@ -12885,27 +12885,27 @@ LC.units.push({
       },
       {
        "t": "অপমান করা → insulter",
-       "tr": "an-sewl-TAY · আঁস্যুল্‌তে",
+       "tr": "an-sewl-TAY · আঁস্যুল্তে",
        "mean": "to insult · অপমান করা"
       },
       {
        "t": "অপরিষ্কার → malpropre",
-       "tr": "mal-PROPR · মাল্‌প্রপ্র্",
+       "tr": "mal-PROPR · মাল্প্রপ্র্",
        "mean": "unclean, dirty · অপরিষ্কার"
       },
       {
        "t": "অপরিষ্কার (বিশেষ্য) → la saleté",
-       "tr": "lah sal-TAY · লা সাল্‌তে",
+       "tr": "lah sal-TAY · লা সাল্তে",
        "mean": "dirtiness, filth · নোংরামি"
       },
       {
        "t": "অপরিহার্য → indispensable",
-       "tr": "an-dees-pahn-SAHBL · আঁদিস্পঁসাব্‌ল্",
+       "tr": "an-dees-pahn-SAHBL · আঁদিস্পঁসাব্ল্",
        "mean": "indispensable · অপরিহার্য"
       },
       {
        "t": "অপ্রাসঙ্গিক → inapplicable",
-       "tr": "ee-nah-plee-KAHBL · ইনাপ্লিকাব্‌ল্",
+       "tr": "ee-nah-plee-KAHBL · ইনাপ্লিকাব্ল্",
        "mean": "inapplicable · অপ্রাসঙ্গিক"
       },
       {
@@ -13055,7 +13055,7 @@ LC.units.push({
       },
       {
        "t": "অসামাজিক → insociable",
-       "tr": "an-soh-SYAHBL · আঁসসীয়াব্‌ল্",
+       "tr": "an-soh-SYAHBL · আঁসসীয়াব্ল্",
        "mean": "unsociable · অসামাজিক"
       }
      ]
@@ -13127,7 +13127,7 @@ LC.units.push({
       },
       {
        "t": "আপত্তি → une objection",
-       "tr": "ewn ob-zhek-SYOHN · য়্যুন্ অব্‌জ়েক্সীওঁ",
+       "tr": "ewn ob-zhek-SYOHN · য়্যুন্ অব্জ়েক্সীওঁ",
        "mean": "objection · আপত্তি"
       },
       {
@@ -13203,12 +13203,12 @@ LC.units.push({
       },
       {
        "t": "ইত্যাদি → et cetera",
-       "tr": "et say-tay-RAH · এত্‌সেতেরা",
+       "tr": "et say-tay-RAH · এত্সেতেরা",
        "mean": "et cetera · ইত্যাদি"
       },
       {
        "t": "ঈগল → un aigle",
-       "tr": "uhn EGL · আঁন্ এগ্‌ল্",
+       "tr": "uhn EGL · আঁন্ এগ্ল্",
        "mean": "eagle · ঈগল"
       },
       {
@@ -13274,7 +13274,7 @@ LC.units.push({
       },
       {
        "t": "উৎসাহ → un enthousiasme",
-       "tr": "uhn ahn-too-ZYAHZM · আঁন্ অঁতুজ়ীয়াস্‌ম্",
+       "tr": "uhn ahn-too-ZYAHZM · আঁন্ অঁতুজ়ীয়াস্ম্",
        "mean": "enthusiasm · উৎসাহ"
       },
       {
@@ -13409,7 +13409,7 @@ LC.units.push({
       },
       {
        "t": "উপর্যুপরি → successivement",
-       "tr": "sewk-say-seev-MAHN · স্যুক্সেসীভ়্‌মঁ",
+       "tr": "sewk-say-seev-MAHN · স্যুক্সেসীভ়্মঁ",
        "mean": "successively, one after another · উপর্যুপরি"
       },
       {
@@ -13449,7 +13449,7 @@ LC.units.push({
       },
       {
        "t": "উপাসনা → le culte",
-       "tr": "luh KEWLT · ল্য ক্যুল্‌ত্",
+       "tr": "luh KEWLT · ল্য ক্যুল্ত্",
        "mean": "worship · উপাসনা"
       }
      ]
@@ -13475,7 +13475,7 @@ LC.units.push({
       },
       {
        "t": "উল্লেখযোগ্য → remarquable",
-       "tr": "ruh-mar-KAHBL · র্যমার্কাব্‌ল্",
+       "tr": "ruh-mar-KAHBL · র্যমার্কাব্ল্",
        "mean": "noteworthy · উল্লেখযোগ্য"
       },
       {
@@ -13587,12 +13587,12 @@ LC.units.push({
       },
       {
        "t": "একবাক্যে → unanimement",
-       "tr": "ew-nah-neem-MAHN · য়্যুনানিম্‌মঁ",
+       "tr": "ew-nah-neem-MAHN · য়্যুনানিম্মঁ",
        "mean": "unanimously · একবাক্যে"
       },
       {
        "t": "একেশ্বরবাদ → le monothéisme",
-       "tr": "luh moh-noh-tay-EEZM · ল্য মনতেইজ়্‌ম্",
+       "tr": "luh moh-noh-tay-EEZM · ল্য মনতেইজ়্ম্",
        "mean": "monotheism · একেশ্বরবাদ"
       },
       {
@@ -13638,7 +13638,7 @@ LC.units.push({
       },
       {
        "t": "ঐচ্ছিক → facultatif",
-       "tr": "fah-kewl-tah-TEEF · ফ়াক্যুল্‌তাতিফ়্",
+       "tr": "fah-kewl-tah-TEEF · ফ়াক্যুল্তাতিফ়্",
        "mean": "optional · ঐচ্ছিক"
       },
       {
@@ -13763,7 +13763,7 @@ LC.units.push({
       },
       {
        "t": "ওয়াজিব → obligatoire",
-       "tr": "oh-blee-gah-TWAHR · অব্‌লিগাতোয়ার্",
+       "tr": "oh-blee-gah-TWAHR · অব্লিগাতোয়ার্",
        "mean": "obligatory · ওয়াজিব"
       },
       {
@@ -13773,7 +13773,7 @@ LC.units.push({
       },
       {
        "t": "ওষুধ → la médecine",
-       "tr": "lah mayd-SEEN · লা মেদ্‌সিন্",
+       "tr": "lah mayd-SEEN · লা মেদ্সিন্",
        "mean": "medicine · ওষুধ"
       },
       {
@@ -13820,7 +13820,7 @@ LC.units.push({
      "items": [
       {
        "t": "কঠিন → inflexible",
-       "tr": "an-flek-SEEBL · আঁফ়্লেক্সিব্‌ল্",
+       "tr": "an-flek-SEEBL · আঁফ়্লেক্সিব্ল্",
        "mean": "inflexible, hard · কঠিন"
       },
       {
@@ -13947,7 +13947,7 @@ LC.units.push({
       },
       {
        "t": "কানা → aveugle",
-       "tr": "ah-VUHGL · আভ়্যগ্‌ল্",
+       "tr": "ah-VUHGL · আভ়্যগ্ল্",
        "mean": "blind · কানা; অন্ধ"
       },
       {
@@ -13982,7 +13982,7 @@ LC.units.push({
       },
       {
        "t": "কোনোকিছু → quelque chose",
-       "tr": "kelk SHOHZ · কেল্‌ক্ শোজ়্",
+       "tr": "kelk SHOHZ · কেল্ক্ শোজ়্",
        "mean": "something · কোনোকিছু"
       },
       {
@@ -14229,7 +14229,7 @@ LC.units.push({
       },
       {
        "t": "খোলাখুলি → franchement",
-       "tr": "frahnsh-MAHN · ফ়্রঁশ্‌মঁ",
+       "tr": "frahnsh-MAHN · ফ়্রঁশ্মঁ",
        "mean": "frankly, openly · খোলাখুলি"
       },
       {
@@ -14310,7 +14310,7 @@ LC.units.push({
       },
       {
        "t": "গীবত → la calomnie",
-       "tr": "lah kah-lom-NEE · লা কালম্‌নি",
+       "tr": "lah kah-lom-NEE · লা কালম্নি",
        "mean": "slander, backbiting · গীবত"
       },
       {
@@ -14330,7 +14330,7 @@ LC.units.push({
       },
       {
        "t": "গ্রাহ্য → acceptable",
-       "tr": "ak-sep-TAHBL · আক্সেপ্‌তাব্‌ল্",
+       "tr": "ak-sep-TAHBL · আক্সেপ্তাব্ল্",
        "mean": "acceptable · গ্রাহ্য"
       },
       {
@@ -14356,7 +14356,7 @@ LC.units.push({
       },
       {
        "t": "ঘটনাক্রমে → fortuitement",
-       "tr": "for-twit-MAHN · ফ়র্তুইত্‌মঁ",
+       "tr": "for-twit-MAHN · ফ়র্তুইত্মঁ",
        "mean": "by chance, fortuitously · ঘটনাক্রমে"
       },
       {
@@ -14461,7 +14461,7 @@ LC.units.push({
      "items": [
       {
        "t": "ঘুষ, ঘুস → le pot-de-vin",
-       "tr": "luh pod-VAN · ল্য পদ্‌ভ়াঁ",
+       "tr": "luh pod-VAN · ল্য পদ্ভ়াঁ",
        "mean": "bribe · ঘুষ"
       },
       {
@@ -14512,7 +14512,7 @@ LC.units.push({
       },
       {
        "t": "চাঁদা → la souscription",
-       "tr": "lah soos-kreep-SYOHN · লা সুস্ক্রিপ্‌সীওঁ",
+       "tr": "lah soos-kreep-SYOHN · লা সুস্ক্রিপ্সীওঁ",
        "mean": "subscription · চাঁদা"
       },
       {
@@ -14558,7 +14558,7 @@ LC.units.push({
       },
       {
        "t": "চিরস্মরণীয় → inoubliable",
-       "tr": "ee-noo-blee-AHBL · ইনুব্লিয়াব্‌ল্",
+       "tr": "ee-noo-blee-AHBL · ইনুব্লিয়াব্ল্",
        "mean": "unforgettable · চিরস্মরণীয়"
       },
       {
@@ -14685,7 +14685,7 @@ LC.units.push({
       },
       {
        "t": "জালিয়াতি → la falsification",
-       "tr": "lah fal-see-fee-kah-SYOHN · লা ফ়াল্‌সিফ়িকাসীওঁ",
+       "tr": "lah fal-see-fee-kah-SYOHN · লা ফ়াল্সিফ়িকাসীওঁ",
        "mean": "forgery · জালিয়াতি"
       },
       {
@@ -14842,7 +14842,7 @@ LC.units.push({
       },
       {
        "t": "ঝামেলা → le trouble",
-       "tr": "luh TROOBL · ল্য ত্রুব্‌ল্",
+       "tr": "luh TROOBL · ল্য ত্রুব্ল্",
        "mean": "trouble · ঝামেলা"
       },
       {
@@ -14918,7 +14918,7 @@ LC.units.push({
       },
       {
        "t": "ঠেকা → la difficulté",
-       "tr": "lah dee-fee-kewl-TAY · লা দিফ়িক্যুল্‌তে",
+       "tr": "lah dee-fee-kewl-TAY · লা দিফ়িক্যুল্তে",
        "mean": "difficulty, a fix · ঠেকা"
       },
       {
@@ -14933,7 +14933,7 @@ LC.units.push({
       },
       {
        "t": "ঠাঁই → un accommodement",
-       "tr": "uhn ah-koh-mod-MAHN · আঁন্ আকমদ্‌মঁ",
+       "tr": "uhn ah-koh-mod-MAHN · আঁন্ আকমদ্মঁ",
        "mean": "a place, accommodation · ঠাঁই"
       }
      ]
@@ -15038,12 +15038,12 @@ LC.units.push({
       },
       {
        "t": "বিড়ালের ডাক → le miaulement",
-       "tr": "luh myohl-MAHN · ল্য মীওল্‌মঁ",
+       "tr": "luh myohl-MAHN · ল্য মীওল্মঁ",
        "mean": "a cat's mew · বিড়ালের ডাক"
       },
       {
        "t": "গরুর ডাক → le mugissement",
-       "tr": "luh mew-zheess-MAHN · ল্য ম্যুজ়িস্‌মঁ",
+       "tr": "luh mew-zheess-MAHN · ল্য ম্যুজ়িস্মঁ",
        "mean": "a cow's low · গরুর ডাক"
       },
       {
@@ -15053,7 +15053,7 @@ LC.units.push({
       },
       {
        "t": "মেষের ডাক → le bêlement",
-       "tr": "luh bel-MAHN · ল্য বেল্‌মঁ",
+       "tr": "luh bel-MAHN · ল্য বেল্মঁ",
        "mean": "a sheep's bleat · মেষের ডাক"
       },
       {
@@ -15068,7 +15068,7 @@ LC.units.push({
       },
       {
        "t": "হাঁসের ডাক → le caquetage",
-       "tr": "luh kak-TAHZH · ল্য কাক্‌তাজ়্",
+       "tr": "luh kak-TAHZH · ল্য কাক্তাজ়্",
        "mean": "a duck's or hen's cackle · হাঁসের ডাক"
       },
       {
@@ -15084,7 +15084,7 @@ LC.units.push({
      "items": [
       {
        "t": "সিংহের ডাক → le rugissement",
-       "tr": "luh rew-zheess-MAHN · ল্য র্যুজ়িস্‌মঁ",
+       "tr": "luh rew-zheess-MAHN · ল্য র্যুজ়িস্মঁ",
        "mean": "a lion's roar · সিংহের ডাক"
       },
       {
@@ -15094,22 +15094,22 @@ LC.units.push({
       },
       {
        "t": "ভাল্লুকের ডাক → le grondement",
-       "tr": "luh grohnd-MAHN · ল্য গ্রঁদ্‌মঁ",
+       "tr": "luh grohnd-MAHN · ল্য গ্রঁদ্মঁ",
        "mean": "a bear's growl · ভাল্লুকের ডাক"
       },
       {
        "t": "শৃগালের ডাক → le glapissement",
-       "tr": "luh glah-peess-MAHN · ল্য গ্লাপিস্‌মঁ",
+       "tr": "luh glah-peess-MAHN · ল্য গ্লাপিস্মঁ",
        "mean": "a jackal's or fox's yelp · শৃগালের ডাক"
       },
       {
        "t": "হস্তীর ডাক → le barrissement",
-       "tr": "luh bah-reess-MAHN · ল্য বারিস্‌মঁ",
+       "tr": "luh bah-reess-MAHN · ল্য বারিস্মঁ",
        "mean": "an elephant's trumpeting · হস্তীর ডাক"
       },
       {
        "t": "বাঁদরের ডাক → la jaserie",
-       "tr": "lah zhahz-REE · লা জ়াজ়্‌রি",
+       "tr": "lah zhahz-REE · লা জ়াজ়্রি",
        "mean": "a monkey's chatter · বাঁদরের ডাক"
       },
       {
@@ -15135,17 +15135,17 @@ LC.units.push({
       },
       {
        "t": "ঘুঘুর ডাক → le roucoulement",
-       "tr": "luh roo-kool-MAHN · ল্য রুকুল্‌মঁ",
+       "tr": "luh roo-kool-MAHN · ল্য রুকুল্মঁ",
        "mean": "a dove's cooing · ঘুঘুর ডাক"
       },
       {
        "t": "কাকের ডাক → le croassement",
-       "tr": "luh kroh-ahss-MAHN · ল্য ক্রোয়াস্‌মঁ",
+       "tr": "luh kroh-ahss-MAHN · ল্য ক্রোয়াস্মঁ",
        "mean": "a crow's caw · কাকের ডাক"
       },
       {
        "t": "পেঁচার ডাক → le hululement",
-       "tr": "luh ew-lewl-MAHN · ল্য য়্যুল্যুল্‌মঁ",
+       "tr": "luh ew-lewl-MAHN · ল্য য়্যুল্যুল্মঁ",
        "mean": "an owl's hoot · পেঁচার ডাক"
       },
       {
@@ -15155,17 +15155,17 @@ LC.units.push({
       },
       {
        "t": "ভেকের ডাক → le coassement",
-       "tr": "luh koh-ahss-MAHN · ল্য কোয়াস্‌মঁ",
+       "tr": "luh koh-ahss-MAHN · ল্য কোয়াস্মঁ",
        "mean": "a frog's croak · ভেকের ডাক"
       },
       {
        "t": "মাছির ডাক → le bourdonnement",
-       "tr": "luh boor-don-MAHN · ল্য বুর্দন্‌মঁ",
+       "tr": "luh boor-don-MAHN · ল্য বুর্দন্মঁ",
        "mean": "a fly's buzzing · মাছির ডাক"
       },
       {
        "t": "মৌমাছির ডাক → le fredonnement",
-       "tr": "luh fruh-don-MAHN · ল্য ফ়্র্যদন্‌মঁ",
+       "tr": "luh fruh-don-MAHN · ল্য ফ়্র্যদন্মঁ",
        "mean": "a bee's humming · মৌমাছির ডাক"
       }
      ]
@@ -15260,7 +15260,7 @@ LC.units.push({
      "items": [
       {
        "t": "অশ্বের ডাক → un hennissement",
-       "tr": "uhn ay-neess-MAHN · আঁন্ এনিস্‌মঁ",
+       "tr": "uhn ay-neess-MAHN · আঁন্ এনিস্মঁ",
        "mean": "a horse's neigh · অশ্বের ডাক"
       },
       {
@@ -15362,7 +15362,7 @@ LC.units.push({
       },
       {
        "t": "তৎক্ষণাৎ → immédiatement",
-       "tr": "ee-may-dyat-MAHN · ইম্‌মেদিয়াত্‌মঁ",
+       "tr": "ee-may-dyat-MAHN · ইম্মেদিয়াত্মঁ",
        "mean": "immediately · তৎক্ষণাৎ"
       },
       {
@@ -15438,7 +15438,7 @@ LC.units.push({
       },
       {
        "t": "তাড়াতাড়ি → promptement",
-       "tr": "prohnpt-MAHN · প্রঁপ্‌ত্‌মঁ",
+       "tr": "prohnpt-MAHN · প্রঁপ্ত্মঁ",
        "mean": "promptly · তাড়াতাড়ি"
       },
       {
@@ -15494,12 +15494,12 @@ LC.units.push({
       },
       {
        "t": "তোশক → le matelas",
-       "tr": "luh mat-LAH · ল্য মাত্‌লা",
+       "tr": "luh mat-LAH · ল্য মাত্লা",
        "mean": "mattress · তোশক"
       },
       {
        "t": "ত্রাণ → le soulagement",
-       "tr": "luh soo-lahzh-MAHN · ল্য সুলাজ়্‌মঁ",
+       "tr": "luh soo-lahzh-MAHN · ল্য সুলাজ়্মঁ",
        "mean": "relief · ত্রাণ"
       },
       {
@@ -15519,7 +15519,7 @@ LC.units.push({
       },
       {
        "t": "থরথর → la palpitation",
-       "tr": "lah pal-pee-tah-SYOHN · লা পাল্‌পিতাসীওঁ",
+       "tr": "lah pal-pee-tah-SYOHN · লা পাল্পিতাসীওঁ",
        "mean": "trembling, palpitation · থরথর"
       },
       {
@@ -15644,12 +15644,12 @@ LC.units.push({
       },
       {
        "t": "দত্তক → adopté",
-       "tr": "ah-dop-TAY · আদপ্‌তে",
+       "tr": "ah-dop-TAY · আদপ্তে",
        "mean": "adopted · দত্তক"
       },
       {
        "t": "দম্পতি → le couple",
-       "tr": "luh KOOPL · ল্য কুপ্‌ল্",
+       "tr": "luh KOOPL · ল্য কুপ্ল্",
        "mean": "a married couple · দম্পতি"
       },
       {
@@ -15711,12 +15711,12 @@ LC.units.push({
       },
       {
        "t": "দুঃসহ → insupportable",
-       "tr": "an-sew-por-TAHBL · আঁস্যুপর্তাব্‌ল্",
+       "tr": "an-sew-por-TAHBL · আঁস্যুপর্তাব্ল্",
        "mean": "unbearable · দুঃসহ"
       },
       {
        "t": "দুর্জয় → invincible",
-       "tr": "an-van-SEEBL · আঁভ়াঁসিব্‌ল্",
+       "tr": "an-van-SEEBL · আঁভ়াঁসিব্ল্",
        "mean": "invincible · দুর্জয়"
       },
       {
@@ -15726,7 +15726,7 @@ LC.units.push({
       },
       {
        "t": "দুর্দান্ত → indomptable",
-       "tr": "an-dohn-TAHBL · আঁদঁতাব্‌ল্",
+       "tr": "an-dohn-TAHBL · আঁদঁতাব্ল্",
        "mean": "indomitable · দুর্দান্ত"
       },
       {
@@ -15813,7 +15813,7 @@ LC.units.push({
       },
       {
        "t": "ধনতন্ত্র → le capitalisme",
-       "tr": "luh kah-pee-tah-LEEZM · ল্য কাপিতালিজ়্‌ম্",
+       "tr": "luh kah-pee-tah-LEEZM · ল্য কাপিতালিজ়্ম্",
        "mean": "capitalism · ধনতন্ত্র"
       },
       {
@@ -15848,12 +15848,12 @@ LC.units.push({
       },
       {
        "t": "ধাত্রী → la sage-femme",
-       "tr": "lah sahzh-FAHM · লা সাজ়্‌ফ়াম্",
+       "tr": "lah sahzh-FAHM · লা সাজ়্ফ়াম্",
        "mean": "midwife · ধাত্রী"
       },
       {
        "t": "ধারণাতীত → inconcevable",
-       "tr": "an-kohns-VAHBL · আঁকঁস্‌ভ়াব্‌ল্",
+       "tr": "an-kohns-VAHBL · আঁকঁস্ভ়াব্ল্",
        "mean": "inconceivable · ধারণাতীত"
       },
       {
@@ -16060,7 +16060,7 @@ LC.units.push({
      "items": [
       {
        "t": "নিদর্শন → un exemple",
-       "tr": "uhn eg-ZAHMPL · আঁন্ এগ্‌জ়ঁপ্‌ল্",
+       "tr": "uhn eg-ZAHMPL · আঁন্ এগ্জ়ঁপ্ল্",
        "mean": "an example, a specimen · নিদর্শন"
       },
       {
@@ -16100,7 +16100,7 @@ LC.units.push({
       },
       {
        "t": "নির্দোষ → impeccable",
-       "tr": "an-peh-KAHBL · আঁপেকাব্‌ল্",
+       "tr": "an-peh-KAHBL · আঁপেকাব্ল্",
        "mean": "faultless · নির্দোষ"
       },
       {
@@ -16258,7 +16258,7 @@ LC.units.push({
       },
       {
        "t": "পরিণতি → le résultat",
-       "tr": "luh ray-zewl-TAH · ল্য রেজ়্যুল্‌তা",
+       "tr": "luh ray-zewl-TAH · ল্য রেজ়্যুল্তা",
        "mean": "outcome · পরিণতি"
       },
       {
@@ -16470,7 +16470,7 @@ LC.units.push({
      "items": [
       {
        "t": "প্রয়োজন → une exigence",
-       "tr": "ewn eg-zee-ZHAHNSS · য়্যুন্ এগ্‌জ়িজ়ঁস্",
+       "tr": "ewn eg-zee-ZHAHNSS · য়্যুন্ এগ্জ়িজ়ঁস্",
        "mean": "requirement · প্রয়োজন"
       },
       {
@@ -16551,7 +16551,7 @@ LC.units.push({
       },
       {
        "t": "ফয়সালা → un établissement",
-       "tr": "uhn ay-tah-blees-MAHN · আঁন্ এতাব্লিস্‌মঁ",
+       "tr": "uhn ay-tah-blees-MAHN · আঁন্ এতাব্লিস্মঁ",
        "mean": "settlement, decision · ফয়সালা"
       },
       {
@@ -16607,7 +16607,7 @@ LC.units.push({
       },
       {
        "t": "বন্দোবস্ত → un arrangement",
-       "tr": "uhn ah-rahnzh-MAHN · আঁন্ আরঁজ়্‌মঁ",
+       "tr": "uhn ah-rahnzh-MAHN · আঁন্ আরঁজ়্মঁ",
        "mean": "arrangement · বন্দোবস্ত"
       },
       {
@@ -16643,7 +16643,7 @@ LC.units.push({
       },
       {
        "t": "বহিষ্কার → une expulsion",
-       "tr": "ewn eks-pewl-SYOHN · য়্যুন্ এক্স্প্যুল্‌সীওঁ",
+       "tr": "ewn eks-pewl-SYOHN · য়্যুন্ এক্স্প্যুল্সীওঁ",
        "mean": "expulsion · বহিষ্কার"
       },
       {
@@ -16663,7 +16663,7 @@ LC.units.push({
       },
       {
        "t": "বাসরঘর → la chambre nuptiale",
-       "tr": "lah shahnbr newp-SYAL · লা শঁব্র্ ন্যুপ্‌সীয়াল্",
+       "tr": "lah shahnbr newp-SYAL · লা শঁব্র্ ন্যুপ্সীয়াল্",
        "mean": "bridal chamber · বাসরঘর"
       },
       {
@@ -16768,7 +16768,7 @@ LC.units.push({
       },
       {
        "t": "বিকল্প → alternatif",
-       "tr": "al-tair-nah-TEEF · আল্‌তের্নাতিফ়্",
+       "tr": "al-tair-nah-TEEF · আল্তের্নাতিফ়্",
        "mean": "alternative · বিকল্প"
       },
       {
@@ -16844,7 +16844,7 @@ LC.units.push({
       },
       {
        "t": "বৈচিত্র্যময় → multiplié",
-       "tr": "mewl-tee-plee-AY · ম্যুল্‌তিপ্লিয়ে",
+       "tr": "mewl-tee-plee-AY · ম্যুল্তিপ্লিয়ে",
        "mean": "varied, manifold · বৈচিত্র্যময়"
       },
       {
@@ -16865,7 +16865,7 @@ LC.units.push({
       },
       {
        "t": "ভয়ংকর → terrible",
-       "tr": "teh-REEBL · তেরিব্‌ল্",
+       "tr": "teh-REEBL · তেরিব্ল্",
        "mean": "terrible, dreadful · ভয়ংকর"
       },
       {
@@ -16941,7 +16941,7 @@ LC.units.push({
       },
       {
        "t": "মন্দির → le temple",
-       "tr": "luh TAHMPL · ল্য তঁপ্‌ল্",
+       "tr": "luh TAHMPL · ল্য তঁপ্ল্",
        "mean": "temple · মন্দির"
       },
       {
@@ -17027,7 +17027,7 @@ LC.units.push({
       },
       {
        "t": "মওকুফ → exempté",
-       "tr": "eg-zahn-TAY · এগ্‌জ়ঁতে",
+       "tr": "eg-zahn-TAY · এগ্জ়ঁতে",
        "mean": "exempted, waived · মওকুফ"
       },
       {
@@ -17209,7 +17209,7 @@ LC.units.push({
      "items": [
       {
        "t": "লক্ষণ → le symptôme",
-       "tr": "luh samp-TOHM · ল্য সাঁপ্‌তোম্",
+       "tr": "luh samp-TOHM · ল্য সাঁপ্তোম্",
        "mean": "symptom, sign · লক্ষণ"
       },
       {
@@ -17275,7 +17275,7 @@ LC.units.push({
       },
       {
        "t": "শয়তান → le diable",
-       "tr": "luh DYAHBL · ল্য দীয়াব্‌ল্",
+       "tr": "luh DYAHBL · ল্য দীয়াব্ল্",
        "mean": "devil · শয়তান"
       },
       {
@@ -17351,7 +17351,7 @@ LC.units.push({
       },
       {
        "t": "শেরেক → le polythéisme",
-       "tr": "luh poh-lee-tay-EEZM · ল্য পলিতেইজ়্‌ম্",
+       "tr": "luh poh-lee-tay-EEZM · ল্য পলিতেইজ়্ম্",
        "mean": "polytheism · শেরেক"
       },
       {
@@ -17476,7 +17476,7 @@ LC.units.push({
       },
       {
        "t": "সংবর্ধনা → la réception",
-       "tr": "lah ray-sep-SYOHN · লা রেসেপ্‌সীওঁ",
+       "tr": "lah ray-sep-SYOHN · লা রেসেপ্সীওঁ",
        "mean": "reception, welcome · সংবর্ধনা"
       },
       {
@@ -17542,7 +17542,7 @@ LC.units.push({
       },
       {
        "t": "সমীচীন → raisonnable",
-       "tr": "reh-zoh-NAHBL · রেজ়নাব্‌ল্",
+       "tr": "reh-zoh-NAHBL · রেজ়নাব্ল্",
        "mean": "reasonable, proper · সমীচীন"
       },
       {
@@ -17557,7 +17557,7 @@ LC.units.push({
       },
       {
        "t": "সাপ্তাহিক → hebdomadaire",
-       "tr": "eb-doh-mah-DAIR · এব্‌দমাদের্",
+       "tr": "eb-doh-mah-DAIR · এব্দমাদের্",
        "mean": "weekly · সাপ্তাহিক"
       },
       {
@@ -17592,7 +17592,7 @@ LC.units.push({
       },
       {
        "t": "স্বভাবত → naturellement",
-       "tr": "nah-tew-rel-MAHN · নাত্যুরেল্‌মঁ",
+       "tr": "nah-tew-rel-MAHN · নাত্যুরেল্মঁ",
        "mean": "naturally, by nature · স্বভাবত"
       }
      ]
@@ -17649,7 +17649,7 @@ LC.units.push({
      "items": [
       {
        "t": "হঠাৎ → soudainement",
-       "tr": "soo-den-MAHN · সুদেন্‌মঁ",
+       "tr": "soo-den-MAHN · সুদেন্মঁ",
        "mean": "suddenly · হঠাৎ"
       },
       {
@@ -17714,7 +17714,7 @@ LC.units.push({
       },
       {
        "t": "হাশর → le jour du jugement dernier",
-       "tr": "zhoor dew zhewzh-mahn dair-NYAY · জ়ুর্ দ্যু জ়্যুজ়্‌মঁ দের্নীয়ে",
+       "tr": "zhoor dew zhewzh-mahn dair-NYAY · জ়ুর্ দ্যু জ়্যুজ়্মঁ দের্নীয়ে",
        "mean": "the Day of Judgement · হাশর"
       }
      ]

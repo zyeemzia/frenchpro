@@ -180,7 +180,7 @@ LC.units.push({
       },
       {
        "t": "un → une",
-       "tr": "uhn → EWN · উঁ → ্যুন",
+       "tr": "uhn → EWN · উঁ → য়্যুন্",
        "hl": "une"
       },
       {
@@ -366,7 +366,7 @@ LC.units.push({
       },
       {
        "t": "neuf",
-       "tr": "nuhf · ন্যফ্‌",
+       "tr": "nuhf · ন্যফ্",
        "mean": "nine · নয়",
        "note": "f sounds · f শোনা যায়"
       },
@@ -444,7 +444,7 @@ LC.units.push({
       },
       {
        "t": "lentement",
-       "tr": "lahnt-MAHN · লাঁত্‌মাঁ",
+       "tr": "lahnt-MAHN · লাঁত্মাঁ",
        "hl": "ment"
       }
      ]
@@ -838,7 +838,7 @@ LC.units.push({
       },
       {
        "t": "qu'est-ce que c'est ?",
-       "tr": "kes-kuh SAY · কেস্‌ক্য সে",
+       "tr": "kes-kuh SAY · কেস্ক্য সে",
        "hl": "qu'"
       }
      ]
@@ -872,7 +872,7 @@ LC.units.push({
       },
       {
        "t": "l'un l'autre",
-       "tr": "luhn LOHTR · লুঁ লোত্‌র",
+       "tr": "luhn LOHTR · লুঁ লোত্র",
        "mean": "one another · একে অপরকে"
       }
      ]
@@ -997,7 +997,7 @@ LC.units.push({
       },
       {
        "t": "la rue",
-       "tr": "lah REW · লা র‍্যু",
+       "tr": "lah REW · লা র‍য়্যু",
        "hl": "ue"
       },
       {
@@ -1041,17 +1041,17 @@ LC.units.push({
      "examples": [
       {
        "t": "petit",
-       "tr": "p'TEE · প্‌তি",
+       "tr": "p'TEE · প্তি",
        "hl": "e"
       },
       {
        "t": "je ne sais pas",
-       "tr": "zhuh n'say PAH · জ়্যন্‌সে পা",
+       "tr": "zhuh n'say PAH · জ়্যন্সে পা",
        "hl": "e"
       },
       {
        "t": "samedi",
-       "tr": "sam'DEE · সাম্‌দি",
+       "tr": "sam'DEE · সাম্দি",
        "hl": "e"
       }
      ]
@@ -1077,7 +1077,7 @@ LC.units.push({
      "items": [
       {
        "t": "la rue",
-       "tr": "lah REW · লা র‍্যু",
+       "tr": "lah REW · লা র‍য়্যু",
        "mean": "the street · রাস্তা"
       },
       {

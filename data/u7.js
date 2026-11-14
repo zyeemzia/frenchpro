@@ -178,7 +178,7 @@ LC.units.push({
     {
      "type": "tip",
      "kind": "warn",
-     "text": "{{eu}} is pronounced simply **ew** — the first letter is silent. And {{j'ai eu}} is said *zhay EW*, not *zhay uh-EW*. · eu-এর উচ্চারণ কেবল ্যু; প্রথম অক্ষর নীরব।"
+     "text": "{{eu}} is pronounced simply **ew** — the first letter is silent. And {{j'ai eu}} is said *zhay EW*, not *zhay uh-EW*. · eu-এর উচ্চারণ কেবল য়্যু; প্রথম অক্ষর নীরব।"
     },
     {
      "type": "quiz",

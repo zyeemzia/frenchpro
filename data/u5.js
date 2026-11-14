@@ -429,7 +429,7 @@ LC.units.push({
       },
       {
        "t": "une annonce",
-       "tr": "ewn ah-NOHNS · ্যুন আনঁস",
+       "tr": "ewn ah-NOHNS · য়্যুন্ আনঁস",
        "mean": "an advertisement · বিজ্ঞাপন"
       },
       {
@@ -459,7 +459,7 @@ LC.units.push({
       },
       {
        "t": "Je reste à votre entière disposition.",
-       "tr": "zhuh rest ah vohtr ahn-tyair · জ়্য রেস্ত আ ভত্‌র আঁতিয়ের",
+       "tr": "zhuh rest ah vohtr ahn-tyair · জ়্য রেস্ত আ ভত্র আঁতিয়ের",
        "mean": "I remain entirely at your disposal. · আমি সম্পূর্ণভাবে আপনার সেবায় প্রস্তুত।"
       },
       {
@@ -897,12 +897,12 @@ LC.units.push({
       },
       {
        "t": "une entreprise",
-       "tr": "ewn ahn-truh-PREEZ · ্যুন আঁত্র্যপ্রিজ়",
+       "tr": "ewn ahn-truh-PREEZ · য়্যুন্ আঁত্র্যপ্রিজ়",
        "mean": "a company · কোম্পানি"
       },
       {
        "t": "une formation",
-       "tr": "ewn for-mah-SYOHN · ্যুন ফরমাসিয়ঁ",
+       "tr": "ewn for-mah-SYOHN · য়্যুন্ ফরমাসিয়ঁ",
        "mean": "training, education · প্রশিক্ষণ; শিক্ষা"
       },
       {
@@ -1069,7 +1069,7 @@ LC.units.push({
      "items": [
       {
        "t": "non seulement… mais aussi…",
-       "tr": "nohn suhl-mahn… may oh-SEE · নঁ স্যল্‌মাঁ… মে অসি",
+       "tr": "nohn suhl-mahn… may oh-SEE · নঁ স্যল্মাঁ… মে অসি",
        "mean": "not only… but also… · কেবল নয়… বরং আরও…"
       },
       {

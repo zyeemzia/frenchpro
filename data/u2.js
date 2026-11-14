@@ -576,7 +576,7 @@ LC.units.push({
     {
      "type": "sentence",
      "t": "Je ne prends pas de sucre dans mon café.",
-     "tr": "zhuh nuh prahn pah duh SEWKR dahn mohn kah-FAY · জ়্য ন্য প্রাঁ পা দ্য স্যুক্‌র দাঁ মঁ কাফে",
+     "tr": "zhuh nuh prahn pah duh SEWKR dahn mohn kah-FAY · জ়্য ন্য প্রাঁ পা দ্য স্যুক্র দাঁ মঁ কাফে",
      "mean": "I do not take sugar in my coffee. · আমি কফিতে চিনি নিই না।",
      "words": [
       {
