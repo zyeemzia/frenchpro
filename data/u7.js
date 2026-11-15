@@ -356,22 +356,22 @@ LC.units.push({
      "examples": [
       {
        "t": "manger → nous mangeons",
-       "tr": "an e is kept so the g stays soft",
+       "tr": "an e is kept so the g stays soft · g নরম রাখতে e থেকে যায়",
        "hl": "mangeons"
       },
       {
        "t": "commencer → nous commençons",
-       "tr": "a cédille keeps the c soft",
+       "tr": "a cédille keeps the c soft · সেদিই c-কে নরম রাখে",
        "hl": "commençons"
       },
       {
        "t": "acheter → j'achète",
-       "tr": "an accent appears on the stressed e",
+       "tr": "an accent appears on the stressed e · ঝোঁকযুক্ত e-তে চিহ্ন বসে",
        "hl": "achète"
       },
       {
        "t": "appeler → j'appelle",
-       "tr": "the l doubles instead",
+       "tr": "the l doubles instead · বদলে l দ্বিগুণ হয়",
        "hl": "appelle"
       }
      ]
@@ -1204,17 +1204,17 @@ LC.units.push({
      "examples": [
       {
        "t": "aller / venir · arriver / partir",
-       "tr": "go / come · arrive / leave",
+       "tr": "go / come · arrive / leave · যাওয়া / আসা · পৌঁছানো / রওনা দেওয়া",
        "hl": "aller"
       },
       {
        "t": "entrer / sortir · monter / descendre",
-       "tr": "enter / go out · go up / go down",
+       "tr": "enter / go out · go up / go down · ঢোকা / বেরোনো · ওঠা / নামা",
        "hl": "entrer"
       },
       {
        "t": "naître / mourir · rester, tomber, retourner",
-       "tr": "be born / die · stay, fall, return",
+       "tr": "be born / die · stay, fall, return · জন্মানো / মরা · থাকা, পড়া, ফেরা",
        "hl": "naître"
       }
      ]
@@ -1227,17 +1227,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Elle est partie.",
-       "tr": "être → agrees with the subject",
+       "tr": "être → agrees with the subject · être → কর্তার সঙ্গে মেলে",
        "hl": "partie"
       },
       {
        "t": "J'ai écrit les lettres.",
-       "tr": "avoir → no agreement, object follows",
+       "tr": "avoir → no agreement, object follows · avoir → মিল নেই, কর্ম পরে বসে",
        "hl": "écrit"
       },
       {
        "t": "Les lettres que j'ai écrites.",
-       "tr": "avoir → object comes first, so it agrees",
+       "tr": "avoir → object comes first, so it agrees · avoir → কর্ম আগে, তাই মিল ঘটে",
        "hl": "écrites"
       }
      ]

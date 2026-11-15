@@ -85,17 +85,17 @@ LC.units.push({
      "examples": [
       {
        "t": "nous finissons",
-       "tr": "we finish",
+       "tr": "we finish · আমরা শেষ করি",
        "hl": "iss"
       },
       {
        "t": "ils choisissent",
-       "tr": "they choose",
+       "tr": "they choose · তারা বেছে নেয়",
        "hl": "iss"
       },
       {
        "t": "nous partons",
-       "tr": "we leave — no -iss-, so irregular",
+       "tr": "we leave — no -iss-, so irregular · আমরা রওনা দিই — -iss- নেই, তাই অনিয়মিত",
        "hl": "partons"
       }
      ]
@@ -308,22 +308,22 @@ LC.units.push({
      "examples": [
       {
        "t": "J'ai vingt-huit ans.",
-       "tr": "I am twenty-eight.",
+       "tr": "I am twenty-eight. · আমার বয়স আটাশ।",
        "hl": "ai"
       },
       {
        "t": "J'ai faim et j'ai soif.",
-       "tr": "I am hungry and thirsty.",
+       "tr": "I am hungry and thirsty. · আমার খিদে ও তেষ্টা পেয়েছে।",
        "hl": "ai"
       },
       {
        "t": "Il a froid.",
-       "tr": "He is cold.",
+       "tr": "He is cold. · তার শীত করছে।",
        "hl": "a"
       },
       {
        "t": "Vous avez raison.",
-       "tr": "You are right.",
+       "tr": "You are right. · আপনি ঠিক বলেছেন।",
        "hl": "avez"
       }
      ]
@@ -336,22 +336,22 @@ LC.units.push({
      "examples": [
       {
        "t": "Il fait beau.",
-       "tr": "The weather is fine.",
+       "tr": "The weather is fine. · আবহাওয়া চমৎকার।",
        "hl": "fait"
       },
       {
        "t": "Il fait froid aujourd'hui.",
-       "tr": "It is cold today.",
+       "tr": "It is cold today. · আজ শীত করছে।",
        "hl": "fait"
       },
       {
        "t": "Je fais la cuisine.",
-       "tr": "I do the cooking.",
+       "tr": "I do the cooking. · আমি রান্না করি।",
        "hl": "fais"
       },
       {
        "t": "Elle fait du sport.",
-       "tr": "She does sport.",
+       "tr": "She does sport. · সে খেলাধুলা করে।",
        "hl": "fait"
       }
      ]
@@ -514,17 +514,17 @@ LC.units.push({
      "examples": [
       {
        "t": "J'ai parlé à Salim.",
-       "tr": "I spoke to Salim.",
+       "tr": "I spoke to Salim. · আমি সেলিমের সঙ্গে কথা বলেছি।",
        "hl": "ai parlé"
       },
       {
        "t": "Nous avons fini le travail.",
-       "tr": "We finished the work.",
+       "tr": "We finished the work. · আমরা কাজটি শেষ করেছি।",
        "hl": "avons fini"
       },
       {
        "t": "Elle a vendu sa voiture.",
-       "tr": "She sold her car.",
+       "tr": "She sold her car. · সে তার গাড়ি বিক্রি করেছে।",
        "hl": "a vendu"
       }
      ]
@@ -537,22 +537,22 @@ LC.units.push({
      "examples": [
       {
        "t": "Il est allé à Paris.",
-       "tr": "He went to Paris.",
+       "tr": "He went to Paris. · সে প্যারিসে গিয়েছিল।",
        "hl": "est allé"
       },
       {
        "t": "Elle est allée à Paris.",
-       "tr": "She went to Paris — extra e",
+       "tr": "She went to Paris — extra e · সে প্যারিসে গিয়েছিল — বাড়তি e",
        "hl": "allée"
       },
       {
        "t": "Ils sont arrivés hier.",
-       "tr": "They arrived yesterday — extra s",
+       "tr": "They arrived yesterday — extra s · তারা গতকাল এসেছিল — বাড়তি s",
        "hl": "arrivés"
       },
       {
        "t": "Elles sont parties tôt.",
-       "tr": "They (f.) left early — es",
+       "tr": "They (f.) left early — es · তারা স্ত্রীলিঙ্গে আগেই রওনা দিয়েছিল — es",
        "hl": "parties"
       }
      ]
@@ -570,27 +570,27 @@ LC.units.push({
      "examples": [
       {
        "t": "avoir → eu · être → été",
-       "tr": "had · been",
+       "tr": "had · been · পাওয়া · হওয়া",
        "hl": "eu"
       },
       {
        "t": "faire → fait · prendre → pris",
-       "tr": "done · taken",
+       "tr": "done · taken · করা · নেওয়া",
        "hl": "fait"
       },
       {
        "t": "voir → vu · boire → bu",
-       "tr": "seen · drunk",
+       "tr": "seen · drunk · দেখা · পান করা",
        "hl": "vu"
       },
       {
        "t": "écrire → écrit · dire → dit",
-       "tr": "written · said",
+       "tr": "written · said · লেখা · বলা",
        "hl": "écrit"
       },
       {
        "t": "venir → venu · pouvoir → pu",
-       "tr": "come · been able",
+       "tr": "come · been able · আসা · পারা",
        "hl": "venu"
       }
      ]
@@ -604,22 +604,22 @@ LC.units.push({
      "type": "steps",
      "items": [
       {
-       "title": "Choose the helper",
+       "title": "Choose the helper · সহকারী ক্রিয়া বাছুন",
        "t": "avoir or être ?",
        "mean": "Movement or reflexive → être. Everything else → avoir. · যাতায়াত বা reflexive → être। বাকি সব → avoir।"
       },
       {
-       "title": "Put it in the present",
+       "title": "Put it in the present · বর্তমান কালে বসান",
        "t": "j'ai … / je suis …",
        "mean": "Conjugate the helper for the subject. · কর্তা অনুযায়ী সহায়ক ক্রিয়ার রূপ বসান।"
       },
       {
-       "title": "Add the participle",
+       "title": "Add the participle · কৃদন্তপদ যোগ করুন",
        "t": "parlé / allé",
        "mean": "Regular ending, or a memorised irregular. · নিয়মিত শেষাংশ, কিংবা মুখস্থ করা অনিয়মিত রূপ।"
       },
       {
-       "title": "Check agreement",
+       "title": "Check agreement · মিল যাচাই করুন",
        "t": "allée, allés, allées",
        "mean": "Only with être — or with avoir when the object came first. · কেবল être-এর সঙ্গে — অথবা avoir-এর সঙ্গে যখন কর্ম আগে বসে।"
       }
@@ -722,22 +722,22 @@ LC.units.push({
      "examples": [
       {
        "t": "nous parlons → je parlais",
-       "tr": "I was speaking",
+       "tr": "I was speaking · আমি বলছিলাম",
        "hl": "parlais"
       },
       {
        "t": "nous finissons → je finissais",
-       "tr": "I was finishing",
+       "tr": "I was finishing · আমি শেষ করছিলাম",
        "hl": "finissais"
       },
       {
        "t": "nous faisons → je faisais",
-       "tr": "I was doing",
+       "tr": "I was doing · আমি করছিলাম",
        "hl": "faisais"
       },
       {
        "t": "être → j'étais",
-       "tr": "I was — the only irregular",
+       "tr": "I was — the only irregular · আমি ছিলাম — একমাত্র অনিয়মিত",
        "hl": "étais"
       }
      ]
@@ -824,17 +824,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Quand j'étais petit, j'habitais à Sylhet.",
-       "tr": "When I was small, I lived in Sylhet.",
+       "tr": "When I was small, I lived in Sylhet. · ছোটবেলায় আমি সিলেটে থাকতাম।",
        "hl": "étais"
       },
       {
        "t": "Il était huit heures.",
-       "tr": "It was eight o'clock.",
+       "tr": "It was eight o'clock. · তখন আটটা বেজেছিল।",
        "hl": "était"
       },
       {
        "t": "Elle avait l'air fatiguée.",
-       "tr": "She looked tired.",
+       "tr": "She looked tired. · তাকে ক্লান্ত দেখাচ্ছিল।",
        "hl": "avait"
       }
      ]
@@ -970,17 +970,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Je vais partir.",
-       "tr": "I am going to leave.",
+       "tr": "I am going to leave. · আমি রওনা দিতে যাচ্ছি।",
        "hl": "vais partir"
       },
       {
        "t": "Nous allons manger.",
-       "tr": "We are going to eat.",
+       "tr": "We are going to eat. · আমরা খেতে যাচ্ছি।",
        "hl": "allons manger"
       },
       {
        "t": "Il va pleuvoir.",
-       "tr": "It is going to rain.",
+       "tr": "It is going to rain. · বৃষ্টি হতে যাচ্ছে।",
        "hl": "va pleuvoir"
       }
      ]
@@ -993,17 +993,17 @@ LC.units.push({
      "examples": [
       {
        "t": "parler → je parlerai",
-       "tr": "I shall speak",
+       "tr": "I shall speak · আমি বলব",
        "hl": "parlerai"
       },
       {
        "t": "finir → tu finiras",
-       "tr": "you will finish",
+       "tr": "you will finish · তুমি শেষ করবে",
        "hl": "finiras"
       },
       {
        "t": "vendre → il vendra",
-       "tr": "he will sell — the e is dropped",
+       "tr": "he will sell — the e is dropped · সে বিক্রি করবে — e বাদ যায়",
        "hl": "vendra"
       }
      ]
@@ -1164,22 +1164,22 @@ LC.units.push({
      "examples": [
       {
        "t": "je parlerai → je parlerais",
-       "tr": "I would speak",
+       "tr": "I would speak · আমি বলতাম",
        "hl": "parlerais"
       },
       {
        "t": "j'aurai → j'aurais",
-       "tr": "I would have",
+       "tr": "I would have · আমার থাকত",
        "hl": "aurais"
       },
       {
        "t": "je serai → je serais",
-       "tr": "I would be",
+       "tr": "I would be · আমি হতাম",
        "hl": "serais"
       },
       {
        "t": "je viendrai → je viendrais",
-       "tr": "I would come",
+       "tr": "I would come · আমি আসতাম",
        "hl": "viendrais"
       }
      ]
@@ -1192,17 +1192,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Je veux un café. → Je voudrais un café.",
-       "tr": "I want → I would like",
+       "tr": "I want → I would like · আমি চাই → আমি চাইছি, নম্র রূপ",
        "hl": "voudrais"
       },
       {
        "t": "Pouvez-vous m'aider ? → Pourriez-vous m'aider ?",
-       "tr": "Can you → Could you",
+       "tr": "Can you → Could you · আপনি পারেন → আপনি কি পারবেন",
        "hl": "Pourriez"
       },
       {
        "t": "Vous devez partir. → Vous devriez partir.",
-       "tr": "You must → You should",
+       "tr": "You must → You should · আপনাকে করতেই হবে → আপনার করা উচিত",
        "hl": "devriez"
       }
      ]
@@ -1324,17 +1324,17 @@ LC.units.push({
      "examples": [
       {
        "t": "ils parlent → que je parle",
-       "tr": "that I speak",
+       "tr": "that I speak · যেন আমি বলি",
        "hl": "parle"
       },
       {
        "t": "ils finissent → que je finisse",
-       "tr": "that I finish",
+       "tr": "that I finish · যেন আমি শেষ করি",
        "hl": "finisse"
       },
       {
        "t": "ils vendent → que je vende",
-       "tr": "that I sell",
+       "tr": "that I sell · যেন আমি বিক্রি করি",
        "hl": "vende"
       }
      ]
@@ -1383,22 +1383,22 @@ LC.units.push({
      "examples": [
       {
        "t": "Il faut que tu viennes.",
-       "tr": "You must come. (necessity)",
+       "tr": "You must come. (necessity) · তোমাকে আসতেই হবে। (আবশ্যকতা)",
        "hl": "viennes"
       },
       {
        "t": "Je veux que vous partiez.",
-       "tr": "I want you to leave. (wish)",
+       "tr": "I want you to leave. (wish) · আমি চাই আপনি চলে যান। (ইচ্ছা)",
        "hl": "partiez"
       },
       {
        "t": "Je suis content que tu sois là.",
-       "tr": "I am glad you are here. (emotion)",
+       "tr": "I am glad you are here. (emotion) · তুমি এখানে আছ বলে আমি খুশি। (আবেগ)",
        "hl": "sois"
       },
       {
        "t": "Je doute qu'il ait raison.",
-       "tr": "I doubt he is right. (doubt)",
+       "tr": "I doubt he is right. (doubt) · সে ঠিক কিনা আমার সন্দেহ। (সন্দেহ)",
        "hl": "ait"
       }
      ]
@@ -1474,7 +1474,7 @@ LC.units.push({
         "suis"
        ],
        "answer": 2,
-       "explain": "{{que je sois}} — এটিই subjonctif রূপ।"
+       "explain": "the subjunctive form of être · {{que je sois}} — এটিই subjonctif রূপ।"
       },
       {
        "q": "*I want to leave* should be… · *I want to leave* হওয়া উচিত…",
@@ -1604,17 +1604,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Je me suis levé.",
-       "tr": "I got up (male speaker)",
+       "tr": "I got up (male speaker) · আমি উঠলাম (পুরুষ বক্তা)",
        "hl": "suis levé"
       },
       {
        "t": "Elle s'est levée.",
-       "tr": "She got up",
+       "tr": "She got up · সে উঠল",
        "hl": "levée"
       },
       {
        "t": "Ils se sont dépêchés.",
-       "tr": "They hurried",
+       "tr": "They hurried · তারা তাড়াহুড়ো করল",
        "hl": "dépêchés"
       }
      ]
@@ -1627,22 +1627,22 @@ LC.units.push({
      "examples": [
       {
        "t": "passer → se passer",
-       "tr": "to pass → to happen",
+       "tr": "to pass → to happen · পার হওয়া → ঘটা",
        "hl": "se passer"
       },
       {
        "t": "tromper → se tromper",
-       "tr": "to deceive → to be mistaken",
+       "tr": "to deceive → to be mistaken · ঠকানো → ভুল করা",
        "hl": "se tromper"
       },
       {
        "t": "entendre → s'entendre",
-       "tr": "to hear → to get on with",
+       "tr": "to hear → to get on with · শোনা → বনিবনা হওয়া",
        "hl": "s'entendre"
       },
       {
        "t": "rendre → se rendre",
-       "tr": "to give back → to go to",
+       "tr": "to give back → to go to · ফেরত দেওয়া → যাওয়া",
        "hl": "se rendre"
       }
      ]
@@ -1821,17 +1821,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Le bangla est parlé au Bangladesh.",
-       "tr": "Bangla is spoken in Bangladesh.",
+       "tr": "Bangla is spoken in Bangladesh. · বাংলাদেশে বাংলা বলা হয়।",
        "hl": "est parlé"
       },
       {
        "t": "La lettre a été écrite par Rana.",
-       "tr": "The letter was written by Rana.",
+       "tr": "The letter was written by Rana. · চিঠিটি রানা লিখেছিল।",
        "hl": "a été écrite"
       },
       {
        "t": "Les maisons sont construites ici.",
-       "tr": "The houses are built here.",
+       "tr": "The houses are built here. · এখানে বাড়িগুলো তৈরি হয়।",
        "hl": "construites"
       }
      ]
@@ -1844,17 +1844,17 @@ LC.units.push({
      "examples": [
       {
        "t": "On parle français ici.",
-       "tr": "French is spoken here.",
+       "tr": "French is spoken here. · এখানে ফরাসি বলা হয়।",
        "hl": "On"
       },
       {
        "t": "On m'a dit que…",
-       "tr": "I was told that…",
+       "tr": "I was told that… · আমাকে বলা হয়েছিল যে…",
        "hl": "On m'a dit"
       },
       {
        "t": "On a volé ma voiture.",
-       "tr": "My car has been stolen.",
+       "tr": "My car has been stolen. · আমার গাড়ি চুরি হয়ে গেছে।",
        "hl": "On a volé"
       }
      ]

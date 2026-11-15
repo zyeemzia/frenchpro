@@ -411,7 +411,7 @@ LC.units.push({
         "acteuse"
        ],
        "answer": 2,
-       "explain": "অভিনেত্রী।"
+       "explain": "actress · অভিনেত্রী।"
       },
       {
        "q": "{{accueillir}} means… · {{accueillir}} মানে…",
@@ -422,7 +422,7 @@ LC.units.push({
         "to welcome · স্বাগত জানানো"
        ],
        "answer": 3,
-       "explain": "অভ্যর্থনা জানানো।"
+       "explain": "to welcome, to greet · অভ্যর্থনা জানানো।"
       },
       {
        "q": "{{un achat}} is… · {{un achat}} মানে…",

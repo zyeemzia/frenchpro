@@ -85,22 +85,22 @@ LC.units.push({
      "examples": [
       {
        "t": "le livre / la livre",
-       "tr": "the book / the pound",
+       "tr": "the book / the pound · বই / পাউন্ড",
        "hl": "la livre"
       },
       {
        "t": "le tour / la tour",
-       "tr": "the trip / the tower",
+       "tr": "the trip / the tower · ভ্রমণ / মিনার",
        "hl": "la tour"
       },
       {
        "t": "le poste / la poste",
-       "tr": "the job / the post office",
+       "tr": "the job / the post office · চাকরি / ডাকঘর",
        "hl": "la poste"
       },
       {
        "t": "le manche / la manche",
-       "tr": "the handle / the sleeve",
+       "tr": "the handle / the sleeve · হাতল / জামার হাতা",
        "hl": "la manche"
       }
      ]
@@ -113,22 +113,22 @@ LC.units.push({
      "examples": [
       {
        "t": "un avocat → une avocate",
-       "tr": "lawyer",
+       "tr": "lawyer · আইনজীবী",
        "hl": "avocate"
       },
       {
        "t": "un directeur → une directrice",
-       "tr": "director",
+       "tr": "director · পরিচালক",
        "hl": "directrice"
       },
       {
        "t": "un vendeur → une vendeuse",
-       "tr": "shop assistant",
+       "tr": "shop assistant · দোকানের কর্মী",
        "hl": "vendeuse"
       },
       {
        "t": "un infirmier → une infirmière",
-       "tr": "nurse",
+       "tr": "nurse · সেবিকা",
        "hl": "infirmière"
       }
      ]
@@ -306,22 +306,22 @@ LC.units.push({
      "examples": [
       {
        "t": "le bal → les bals",
-       "tr": "dance",
+       "tr": "dance · নাচের আসর",
        "hl": "bals"
       },
       {
        "t": "le festival → les festivals",
-       "tr": "festival",
+       "tr": "festival · উৎসব",
        "hl": "festivals"
       },
       {
        "t": "le carnaval → les carnavals",
-       "tr": "carnival",
+       "tr": "carnival · কার্নিভাল",
        "hl": "carnavals"
       },
       {
        "t": "le récital → les récitals",
-       "tr": "recital",
+       "tr": "recital · সংগীতানুষ্ঠান",
        "hl": "récitals"
       }
      ]
@@ -522,17 +522,17 @@ LC.units.push({
      "examples": [
       {
        "t": "J'ai du pain → Je n'ai pas de pain.",
-       "tr": "I have bread → I have no bread",
+       "tr": "I have bread → I have no bread · আমার রুটি আছে → আমার রুটি নেই",
        "hl": "de pain"
       },
       {
        "t": "Il a des amis → Il n'a pas d'amis.",
-       "tr": "He has friends → He has no friends",
+       "tr": "He has friends → He has no friends · তার বন্ধু আছে → তার বন্ধু নেই",
        "hl": "d'amis"
       },
       {
        "t": "J'aime le thé → Je n'aime pas le thé.",
-       "tr": "unchanged: it is definite",
+       "tr": "unchanged: it is definite · অপরিবর্তিত, কারণ এটি নির্দিষ্ট",
        "hl": "le thé"
       }
      ]
@@ -545,22 +545,22 @@ LC.units.push({
      "examples": [
       {
        "t": "beaucoup de monde",
-       "tr": "a lot of people",
+       "tr": "a lot of people · অনেক লোক",
        "hl": "de"
       },
       {
        "t": "un peu de sucre",
-       "tr": "a little sugar",
+       "tr": "a little sugar · একটু চিনি",
        "hl": "de"
       },
       {
        "t": "trop de travail",
-       "tr": "too much work",
+       "tr": "too much work · অতিরিক্ত কাজ",
        "hl": "de"
       },
       {
        "t": "une bouteille d'eau",
-       "tr": "a bottle of water",
+       "tr": "a bottle of water · এক বোতল জল",
        "hl": "d'"
       }
      ]
@@ -578,12 +578,12 @@ LC.units.push({
      "examples": [
       {
        "t": "des livres → de beaux livres",
-       "tr": "beautiful books",
+       "tr": "beautiful books · সুন্দর বইগুলো",
        "hl": "de beaux"
       },
       {
        "t": "des amis → de vrais amis",
-       "tr": "true friends",
+       "tr": "true friends · প্রকৃত বন্ধুরা",
        "hl": "de vrais"
       }
      ]
@@ -782,22 +782,22 @@ LC.units.push({
      "examples": [
       {
        "t": "à Dacca, à Paris",
-       "tr": "cities take à",
+       "tr": "cities take à · শহরের আগে à বসে",
        "hl": "à"
       },
       {
        "t": "en France, en Chine",
-       "tr": "feminine countries take en",
+       "tr": "feminine countries take en · স্ত্রীবাচক দেশের আগে en",
        "hl": "en"
       },
       {
        "t": "au Japon, au Bangladesh",
-       "tr": "masculine countries take au",
+       "tr": "masculine countries take au · পুংবাচক দেশের আগে au",
        "hl": "au"
       },
       {
        "t": "aux États-Unis",
-       "tr": "plural countries take aux",
+       "tr": "plural countries take aux · বহুবচন দেশের আগে aux",
        "hl": "aux"
       }
      ]
@@ -815,22 +815,22 @@ LC.units.push({
      "examples": [
       {
        "t": "Je viens de France.",
-       "tr": "from France",
+       "tr": "from France · ফ্রান্স থেকে",
        "hl": "de"
       },
       {
        "t": "Je viens du Japon.",
-       "tr": "from Japan",
+       "tr": "from Japan · জাপান থেকে",
        "hl": "du"
       },
       {
        "t": "Je viens des États-Unis.",
-       "tr": "from the United States",
+       "tr": "from the United States · যুক্তরাষ্ট্র থেকে",
        "hl": "des"
       },
       {
        "t": "Je viens de Dacca.",
-       "tr": "from Dhaka — cities take de",
+       "tr": "from Dhaka — cities take de · ঢাকা থেকে — শহরের আগে de",
        "hl": "de"
       }
      ]
@@ -1003,22 +1003,22 @@ LC.units.push({
      "examples": [
       {
        "t": "une belle maison",
-       "tr": "a beautiful house",
+       "tr": "a beautiful house · একটি সুন্দর বাড়ি",
        "hl": "belle"
       },
       {
        "t": "un jeune homme",
-       "tr": "a young man",
+       "tr": "a young man · একজন যুবক",
        "hl": "jeune"
       },
       {
        "t": "un bon livre",
-       "tr": "a good book",
+       "tr": "a good book · একটি ভালো বই",
        "hl": "bon"
       },
       {
        "t": "une grande ville",
-       "tr": "a big city",
+       "tr": "a big city · একটি বড়ো শহর",
        "hl": "grande"
       }
      ]
@@ -1036,17 +1036,17 @@ LC.units.push({
      "examples": [
       {
        "t": "un bel appartement",
-       "tr": "a beautiful flat",
+       "tr": "a beautiful flat · একটি সুন্দর ফ্ল্যাট",
        "hl": "bel"
       },
       {
        "t": "un nouvel ami",
-       "tr": "a new friend",
+       "tr": "a new friend · একজন নতুন বন্ধু",
        "hl": "nouvel"
       },
       {
        "t": "un vieil homme",
-       "tr": "an old man",
+       "tr": "an old man · একজন বৃদ্ধ",
        "hl": "vieil"
       }
      ]
@@ -1227,17 +1227,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Rana est plus grand que Bappy.",
-       "tr": "taller than",
+       "tr": "taller than · -এর চেয়ে লম্বা",
        "hl": "plus"
       },
       {
        "t": "Rana est moins grand que Bappy.",
-       "tr": "less tall than",
+       "tr": "less tall than · -এর চেয়ে কম লম্বা",
        "hl": "moins"
       },
       {
        "t": "Rana est aussi grand que Bappy.",
-       "tr": "as tall as",
+       "tr": "as tall as · -এর সমান লম্বা",
        "hl": "aussi"
       }
      ]
@@ -1250,17 +1250,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Ce café est meilleur.",
-       "tr": "This coffee is better.",
+       "tr": "This coffee is better. · এই কফিটা আরও ভালো।",
        "hl": "meilleur"
       },
       {
        "t": "Elle parle mieux que moi.",
-       "tr": "She speaks better than I do.",
+       "tr": "She speaks better than I do. · সে আমার চেয়ে ভালো বলে।",
        "hl": "mieux"
       },
       {
        "t": "C'est pire que hier.",
-       "tr": "It is worse than yesterday.",
+       "tr": "It is worse than yesterday. · এটা গতকালের চেয়ে খারাপ।",
        "hl": "pire"
       }
      ]
@@ -1278,17 +1278,17 @@ LC.units.push({
      "examples": [
       {
        "t": "le plus grand bâtiment",
-       "tr": "the tallest building",
+       "tr": "the tallest building · সবচেয়ে উঁচু ভবন",
        "hl": "le plus"
       },
       {
        "t": "la ville la plus belle du monde",
-       "tr": "the most beautiful city in the world",
+       "tr": "the most beautiful city in the world · পৃথিবীর সবচেয়ে সুন্দর শহর",
        "hl": "du monde"
       },
       {
        "t": "le meilleur étudiant de la classe",
-       "tr": "the best student in the class",
+       "tr": "the best student in the class · ক্লাসের সেরা ছাত্র",
        "hl": "de la classe"
       }
      ]
@@ -1477,17 +1477,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Tu veux du café ? — Oui, j'en veux.",
-       "tr": "Yes, I want some.",
+       "tr": "Yes, I want some. · হ্যাঁ, কিছুটা চাই।",
        "hl": "en"
       },
       {
        "t": "Il a trois frères ? — Il en a trois.",
-       "tr": "He has three of them.",
+       "tr": "He has three of them. · তার তিনটি আছে।",
        "hl": "en"
       },
       {
        "t": "Elle revient de Paris ? — Elle en revient.",
-       "tr": "She is coming back from there.",
+       "tr": "She is coming back from there. · সে সেখান থেকে ফিরছে।",
        "hl": "en"
       }
      ]
@@ -1500,17 +1500,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Tu vas à Paris ? — J'y vais demain.",
-       "tr": "I am going there tomorrow.",
+       "tr": "I am going there tomorrow. · আমি আগামীকাল সেখানে যাব।",
        "hl": "y"
       },
       {
        "t": "Il pense à son travail ? — Il y pense.",
-       "tr": "He is thinking about it.",
+       "tr": "He is thinking about it. · সে সেটি নিয়ে ভাবছে।",
        "hl": "y"
       },
       {
        "t": "Il y a du pain.",
-       "tr": "There is some bread.",
+       "tr": "There is some bread. · কিছু রুটি আছে।",
        "hl": "y a"
       }
      ]
@@ -1523,17 +1523,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Il me le donne.",
-       "tr": "He gives it to me.",
+       "tr": "He gives it to me. · সে সেটি আমাকে দেয়।",
        "hl": "me le"
       },
       {
        "t": "Je les lui envoie.",
-       "tr": "I send them to him.",
+       "tr": "I send them to him. · আমি সেগুলো তাকে পাঠাই।",
        "hl": "les lui"
       },
       {
        "t": "Il y en a beaucoup.",
-       "tr": "There are a lot of them.",
+       "tr": "There are a lot of them. · সেগুলো অনেক আছে।",
        "hl": "y en"
       }
      ]
@@ -1547,22 +1547,22 @@ LC.units.push({
      "type": "steps",
      "items": [
       {
-       "title": "Full sentence",
+       "title": "Full sentence · পূর্ণ বাক্য",
        "t": "Je donne le livre à Salim.",
        "mean": "I give the book to Salim. · আমি সেলিমকে বইটি দিই।"
       },
       {
-       "title": "Replace the thing",
+       "title": "Replace the thing · বস্তুটি বদলান",
        "t": "Je le donne à Salim.",
        "mean": "I give it to Salim. · আমি সেলিমকে এটি দিই।"
       },
       {
-       "title": "Replace the person",
+       "title": "Replace the person · ব্যক্তিটি বদলান",
        "t": "Je lui donne le livre.",
        "mean": "I give him the book. · আমি তাকে বইটি দিই।"
       },
       {
-       "title": "Replace both",
+       "title": "Replace both · দুটিই বদলান",
        "t": "Je le lui donne.",
        "mean": "I give it to him. · আমি তাকে এটি দিই।"
       }
@@ -1665,12 +1665,12 @@ LC.units.push({
      "examples": [
       {
        "t": "L'homme qui parle est mon oncle.",
-       "tr": "who is speaking — verb follows",
+       "tr": "who is speaking — verb follows · যে বলছে — পরে ক্রিয়া বসে",
        "hl": "qui parle"
       },
       {
        "t": "Le livre que je lis est intéressant.",
-       "tr": "that I am reading — subject follows",
+       "tr": "that I am reading — subject follows · যা আমি পড়ছি — পরে কর্তা বসে",
        "hl": "que je"
       }
      ]
@@ -1688,17 +1688,17 @@ LC.units.push({
      "examples": [
       {
        "t": "le livre dont je parle",
-       "tr": "the book I am talking about (parler de)",
+       "tr": "the book I am talking about (parler de) · যে বইয়ের কথা আমি বলছি",
        "hl": "dont"
       },
       {
        "t": "l'homme dont la voiture est rouge",
-       "tr": "the man whose car is red",
+       "tr": "the man whose car is red · যার গাড়ি লাল, সেই লোক",
        "hl": "dont"
       },
       {
        "t": "la chose dont j'ai besoin",
-       "tr": "the thing I need (avoir besoin de)",
+       "tr": "the thing I need (avoir besoin de) · যে জিনিসটি আমার দরকার",
        "hl": "dont"
       }
      ]
@@ -1711,12 +1711,12 @@ LC.units.push({
      "examples": [
       {
        "t": "la ville où j'habite",
-       "tr": "the town where I live",
+       "tr": "the town where I live · যে শহরে আমি থাকি",
        "hl": "où"
       },
       {
        "t": "le jour où il est arrivé",
-       "tr": "the day when he arrived",
+       "tr": "the day when he arrived · যেদিন সে এসেছিল",
        "hl": "où"
       }
      ]

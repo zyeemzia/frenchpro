@@ -317,7 +317,7 @@ LC.units.push({
         "working too hard · অতিরিক্ত পরিশ্রম"
        ],
        "answer": 0,
-       "explain": "চকচক করলেই সোনা হয় না।"
+       "explain": "a shine proves nothing · চকচক করলেই সোনা হয় না।"
       },
       {
        "q": "{{L'union fait la force}} means… · {{L'union fait la force}} মানে…",
@@ -421,22 +421,22 @@ LC.units.push({
      "examples": [
       {
        "t": "a / à",
-       "tr": "has / to",
+       "tr": "has / to · আছে / প্রতি",
        "hl": "à"
       },
       {
        "t": "ou / où",
-       "tr": "or / where",
+       "tr": "or / where · অথবা / কোথায়",
        "hl": "où"
       },
       {
        "t": "la / là",
-       "tr": "the / there",
+       "tr": "the / there · সেই / সেখানে",
        "hl": "là"
       },
       {
        "t": "du / dû",
-       "tr": "of the / owed",
+       "tr": "of the / owed · -এর / প্রাপ্য",
        "hl": "dû"
       }
      ]
@@ -629,17 +629,17 @@ LC.units.push({
      "examples": [
       {
        "t": "C'est n'est pas vrai. → Ce n'est pas vrai.",
-       "tr": "It is not true.",
+       "tr": "It is not true. · এটা সত্য নয়।",
        "hl": "Ce n'est pas vrai"
       },
       {
        "t": "Chez la police → À la police",
-       "tr": "at the police station — chez is only for people",
+       "tr": "at the police station — chez is only for people · থানায় — chez কেবল মানুষের বেলায়",
        "hl": "À la police"
       },
       {
        "t": "Je ne sais pas qu'est-ce qui se passe. → Je ne sais pas ce qui se passe.",
-       "tr": "I do not know what is happening.",
+       "tr": "I do not know what is happening. · কী ঘটছে আমি জানি না।",
        "hl": "ce qui"
       }
      ]
@@ -657,12 +657,12 @@ LC.units.push({
      "examples": [
       {
        "t": "J'ai visité le musée.",
-       "tr": "I visited the museum.",
+       "tr": "I visited the museum. · আমি জাদুঘর দেখতে গিয়েছিলাম।",
        "hl": "visité"
       },
       {
        "t": "J'ai rendu visite à mon oncle.",
-       "tr": "I visited my uncle.",
+       "tr": "I visited my uncle. · আমি কাকার সঙ্গে দেখা করতে গিয়েছিলাম।",
        "hl": "rendu visite à"
       }
      ]
@@ -836,22 +836,22 @@ LC.units.push({
      "examples": [
       {
        "t": "monsieur → M. Rahman",
-       "tr": "Mr",
+       "tr": "Mr · জনাব",
        "hl": "M."
       },
       {
        "t": "madame → Mme Shila",
-       "tr": "Mrs / Ms",
+       "tr": "Mrs / Ms · জনাবা",
        "hl": "Mme"
       },
       {
        "t": "messieurs → MM.",
-       "tr": "Messrs",
+       "tr": "Messrs · জনাবগণ",
        "hl": "MM."
       },
       {
        "t": "docteur → Dr",
-       "tr": "Dr",
+       "tr": "Dr · ডাক্তার",
        "hl": "Dr"
       }
      ]
@@ -1029,17 +1029,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Je regrette, mais ce n'est pas possible.",
-       "tr": "I am sorry, but it is not possible.",
+       "tr": "I am sorry, but it is not possible. · দুঃখিত, কিন্তু এটা সম্ভব নয়।",
        "hl": "Je regrette"
       },
       {
        "t": "Malheureusement, je ne pourrai pas.",
-       "tr": "Unfortunately, I will not be able to.",
+       "tr": "Unfortunately, I will not be able to. · দুর্ভাগ্যবশত আমি পারব না।",
        "hl": "Malheureusement"
       },
       {
        "t": "C'est très gentil, mais je ne peux pas.",
-       "tr": "That is very kind, but I cannot.",
+       "tr": "That is very kind, but I cannot. · খুব ভালো কথা, তবু পারছি না।",
        "hl": "très gentil"
       }
      ]

@@ -90,17 +90,17 @@ LC.units.push({
      "examples": [
       {
        "t": "cent, deux cents, trois cents",
-       "tr": "100, 200, 300",
+       "tr": "100, 200, 300 · ১০০, ২০০, ৩০০",
        "hl": "cents"
       },
       {
        "t": "deux cent cinquante",
-       "tr": "250 — no s before another number",
+       "tr": "250 — no s before another number · ২৫০ — পরের সংখ্যার আগে s বসে না",
        "hl": "cent"
       },
       {
        "t": "mille, deux mille, dix mille",
-       "tr": "1 000, 2 000, 10 000 — mille never takes s",
+       "tr": "1 000, 2 000, 10 000 — mille never takes s · ১০০০, ২০০০, ১০০০০ — mille-এ কখনো s বসে না",
        "hl": "mille"
       }
      ]
@@ -113,22 +113,22 @@ LC.units.push({
      "examples": [
       {
        "t": "premier / première",
-       "tr": "first",
+       "tr": "first · প্রথম",
        "hl": "premier"
       },
       {
        "t": "deuxième, troisième",
-       "tr": "second, third",
+       "tr": "second, third · দ্বিতীয়, তৃতীয়",
        "hl": "ième"
       },
       {
        "t": "neuvième",
-       "tr": "ninth — the f of neuf becomes v",
+       "tr": "ninth — the f of neuf becomes v · নবম — neuf-এর f হয় v",
        "hl": "neuvième"
       },
       {
        "t": "cinquième",
-       "tr": "fifth — a u is added after cinq",
+       "tr": "fifth — a u is added after cinq · পঞ্চম — cinq-এর পরে u যোগ হয়",
        "hl": "cinquième"
       }
      ]
@@ -318,17 +318,17 @@ LC.units.push({
      "examples": [
       {
        "t": "huit heures du matin",
-       "tr": "8 in the morning",
+       "tr": "8 in the morning · সকাল আটটা",
        "hl": "du matin"
       },
       {
        "t": "trois heures de l'après-midi",
-       "tr": "3 in the afternoon",
+       "tr": "3 in the afternoon · বিকেল তিনটা",
        "hl": "de l'après-midi"
       },
       {
        "t": "neuf heures du soir",
-       "tr": "9 in the evening",
+       "tr": "9 in the evening · রাত নয়টা",
        "hl": "du soir"
       }
      ]
@@ -502,17 +502,17 @@ LC.units.push({
      "examples": [
       {
        "t": "le 5 décembre 2004",
-       "tr": "the 5th of December 2004",
+       "tr": "the 5th of December 2004 · ৫ ডিসেম্বর ২০০৪",
        "hl": "le 5"
       },
       {
        "t": "le premier janvier",
-       "tr": "the first of January — premier, not un",
+       "tr": "the first of January — premier, not un · পয়লা জানুয়ারি — un নয়, premier",
        "hl": "premier"
       },
       {
        "t": "Dacca, le 05 décembre 2004",
-       "tr": "how a letter is dated",
+       "tr": "how a letter is dated · চিঠিতে তারিখ যেভাবে লেখা হয়",
        "hl": "Dacca, le"
       }
      ]
@@ -525,22 +525,22 @@ LC.units.push({
      "examples": [
       {
        "t": "au printemps",
-       "tr": "in spring",
+       "tr": "in spring · বসন্তে",
        "hl": "au"
       },
       {
        "t": "en été",
-       "tr": "in summer",
+       "tr": "in summer · গ্রীষ্মে",
        "hl": "en"
       },
       {
        "t": "en automne",
-       "tr": "in autumn",
+       "tr": "in autumn · শরতে",
        "hl": "en"
       },
       {
        "t": "en hiver",
-       "tr": "in winter",
+       "tr": "in winter · শীতে",
        "hl": "en"
       }
      ]
@@ -970,17 +970,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Je voudrais de l'eau.",
-       "tr": "I would like some water.",
+       "tr": "I would like some water. · আমি একটু জল চাই।",
        "hl": "de l'"
       },
       {
        "t": "Avez-vous de la crème ?",
-       "tr": "Do you have any cream?",
+       "tr": "Do you have any cream? · আপনার কাছে কি ক্রিম আছে?",
        "hl": "de la"
       },
       {
        "t": "Je ne veux pas de sucre.",
-       "tr": "I do not want any sugar.",
+       "tr": "I do not want any sugar. · আমি চিনি চাই না।",
        "hl": "de"
       }
      ]
@@ -1332,27 +1332,27 @@ LC.units.push({
      "examples": [
       {
        "t": "Il fait beau.",
-       "tr": "The weather is fine.",
+       "tr": "The weather is fine. · আবহাওয়া ভালো।",
        "hl": "fait beau"
       },
       {
        "t": "Il fait mauvais.",
-       "tr": "The weather is bad.",
+       "tr": "The weather is bad. · আবহাওয়া খারাপ।",
        "hl": "mauvais"
       },
       {
        "t": "Il pleut.",
-       "tr": "It is raining.",
+       "tr": "It is raining. · বৃষ্টি হচ্ছে।",
        "hl": "pleut"
       },
       {
        "t": "Il neige.",
-       "tr": "It is snowing.",
+       "tr": "It is snowing. · তুষার পড়ছে।",
        "hl": "neige"
       },
       {
        "t": "Il y a du vent.",
-       "tr": "It is windy.",
+       "tr": "It is windy. · বাতাস বইছে।",
        "hl": "du vent"
       }
      ]
@@ -1365,22 +1365,22 @@ LC.units.push({
      "examples": [
       {
        "t": "J'ai mal à la tête.",
-       "tr": "I have a headache.",
+       "tr": "I have a headache. · আমার মাথা ব্যথা করছে।",
        "hl": "à la tête"
       },
       {
        "t": "J'ai mal au ventre.",
-       "tr": "I have stomach ache.",
+       "tr": "I have stomach ache. · আমার পেট ব্যথা করছে।",
        "hl": "au ventre"
       },
       {
        "t": "J'ai mal aux dents.",
-       "tr": "I have toothache.",
+       "tr": "I have toothache. · আমার দাঁত ব্যথা করছে।",
        "hl": "aux dents"
       },
       {
        "t": "Je suis fatigué.",
-       "tr": "I am tired.",
+       "tr": "I am tired. · আমি ক্লান্ত।",
        "hl": "fatigué"
       }
      ]

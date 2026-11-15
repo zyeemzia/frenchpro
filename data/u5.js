@@ -79,12 +79,12 @@ LC.units.push({
      "examples": [
       {
        "t": "Il a dit : « Je viendrai demain. »",
-       "tr": "He said: \"I will come tomorrow.\"",
+       "tr": "He said: \"I will come tomorrow.\" · সে বলল, “আমি কাল আসব।”",
        "hl": "« Je viendrai demain. »"
       },
       {
        "t": "« Bonjour », a-t-elle répondu.",
-       "tr": "\"Hello,\" she replied.",
+       "tr": "\"Hello,\" she replied. · “নমস্কার,” সে উত্তর দিল।",
        "hl": "«"
       }
      ]
@@ -97,12 +97,12 @@ LC.units.push({
      "examples": [
       {
        "t": "l'ami, d'accord, qu'il",
-       "tr": "correct",
+       "tr": "correct · শুদ্ধ",
        "hl": "l'ami"
       },
       {
        "t": "l' ami",
-       "tr": "wrong — never a space after the apostrophe",
+       "tr": "wrong — never a space after the apostrophe · ভুল — ঊর্ধ্বকমার পরে ফাঁক নয়",
        "hl": "l' ami"
       }
      ]
@@ -194,47 +194,47 @@ LC.units.push({
      "type": "steps",
      "items": [
       {
-       "title": "1. Sender",
+       "title": "1. Sender · ১। প্রেরক",
        "t": "l'en-tête",
        "desc": "Your name and address, top left. · আপনার নাম ও ঠিকানা, উপরে বাঁ দিকে।"
       },
       {
-       "title": "2. Recipient",
+       "title": "2. Recipient · ২। প্রাপক",
        "t": "le destinataire",
        "desc": "Their name and address, below and to the right. · প্রাপকের নাম ও ঠিকানা, নিচে ডান দিকে।"
       },
       {
-       "title": "3. Place and date",
+       "title": "3. Place and date · ৩। স্থান ও তারিখ",
        "t": "Dacca, le 5 décembre 2026",
        "desc": "Right-hand side, above the subject. · ডান দিকে, বিষয়ের উপরে।"
       },
       {
-       "title": "4. References",
+       "title": "4. References · ৪। সূত্র",
        "t": "V/Réf. : votre demande du 23/12/2026",
        "desc": "Optional. V/Réf. is theirs, N/Réf. is yours. · ঐচ্ছিক। V/Réf. তাদের, N/Réf. আপনার।"
       },
       {
-       "title": "5. Subject",
+       "title": "5. Subject · ৫। বিষয়",
        "t": "Objet : demande d'emploi",
        "desc": "One short line saying what the letter is about. · এক লাইনে চিঠির বিষয়বস্তু।"
       },
       {
-       "title": "6. Opening",
+       "title": "6. Opening · ৬। সম্বোধন",
        "t": "Monsieur, / Madame,",
        "desc": "The formule d'appel, followed by a comma. · সম্বোধন, তারপর একটি কমা।"
       },
       {
-       "title": "7. Body",
+       "title": "7. Body · ৭। মূল বক্তব্য",
        "t": "le corps de la lettre",
        "desc": "Short paragraphs, one idea each. · ছোট অনুচ্ছেদ, প্রতিটিতে একটি করে ভাবনা।"
       },
       {
-       "title": "8. Closing formula",
+       "title": "8. Closing formula · ৮। সমাপনী বাক্য",
        "t": "la formule de politesse",
        "desc": "The long polite sentence before the signature. · স্বাক্ষরের আগে দীর্ঘ ভদ্রতাসূচক বাক্য।"
       },
       {
-       "title": "9. Signature",
+       "title": "9. Signature · ৯। সই",
        "t": "la signature",
        "desc": "Bottom right. {{PJ}} below it for enclosures. · নিচে ডান দিকে। সংযুক্তি থাকলে তার নিচে {{PJ}}।"
       }
@@ -248,22 +248,22 @@ LC.units.push({
      "examples": [
       {
        "t": "Monsieur,",
-       "tr": "to a man you do not know",
+       "tr": "to a man you do not know · অপরিচিত পুরুষকে",
        "hl": "Monsieur,"
       },
       {
        "t": "Madame, Monsieur,",
-       "tr": "when you do not know who will read it",
+       "tr": "when you do not know who will read it · পাঠক কে জানা না থাকলে",
        "hl": "Madame, Monsieur,"
       },
       {
        "t": "Monsieur le Directeur,",
-       "tr": "to someone by their title",
+       "tr": "to someone by their title · পদবি ধরে সম্বোধনে",
        "hl": "le Directeur"
       },
       {
        "t": "Cher Monsieur,",
-       "tr": "warmer, for someone you have met",
+       "tr": "warmer, for someone you have met · পরিচিত কারও জন্য, আন্তরিক",
        "hl": "Cher"
       }
      ]
@@ -281,17 +281,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Je vous prie d'agréer, Monsieur, l'expression de mes sentiments distingués.",
-       "tr": "standard and safe",
+       "tr": "standard and safe · প্রচলিত ও নিরাপদ",
        "hl": "Je vous prie d'agréer"
       },
       {
        "t": "Veuillez agréer, Madame, mes salutations distinguées.",
-       "tr": "slightly shorter",
+       "tr": "slightly shorter · একটু সংক্ষিপ্ত",
        "hl": "Veuillez agréer"
       },
       {
        "t": "Cordialement,",
-       "tr": "email, colleagues, everyday business",
+       "tr": "email, colleagues, everyday business · ইমেল, সহকর্মী, দৈনন্দিন কাজ",
        "hl": "Cordialement"
       }
      ]
@@ -449,7 +449,7 @@ LC.units.push({
      "items": [
       {
        "t": "Objet : candidature au poste de secrétaire",
-       "tr": "subject line",
+       "tr": "subject line · বিষয় শিরোনাম",
        "mean": "Subject: application for the post of secretary · বিষয়: সেক্রেটারি পদের জন্য আবেদন"
       },
       {
@@ -680,17 +680,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Comment vas-tu ?",
-       "tr": "to a friend",
+       "tr": "to a friend · বন্ধুকে",
        "hl": "tu"
       },
       {
        "t": "Comment allez-vous ?",
-       "tr": "to anyone else",
+       "tr": "to anyone else · অন্য সবাইকে",
        "hl": "vous"
       },
       {
        "t": "On peut se tutoyer ?",
-       "tr": "Shall we use tu? — the polite way to switch",
+       "tr": "Shall we use tu? — the polite way to switch · tu বলি? — ভদ্রভাবে বদলানোর উপায়",
        "hl": "tutoyer"
       }
      ]
@@ -832,22 +832,22 @@ LC.units.push({
      "examples": [
       {
        "t": "bangla : langue maternelle",
-       "tr": "mother tongue",
+       "tr": "mother tongue · মাতৃভাষা",
        "hl": "maternelle"
       },
       {
        "t": "anglais : courant",
-       "tr": "fluent",
+       "tr": "fluent · সাবলীল",
        "hl": "courant"
       },
       {
        "t": "français : niveau intermédiaire (B1)",
-       "tr": "intermediate",
+       "tr": "intermediate · মধ্যম স্তর",
        "hl": "intermédiaire"
       },
       {
        "t": "hindi : notions",
-       "tr": "basic knowledge",
+       "tr": "basic knowledge · প্রাথমিক ধারণা",
        "hl": "notions"
       }
      ]
@@ -1049,17 +1049,17 @@ LC.units.push({
      "examples": [
       {
        "t": "bien qu'il soit fatigué",
-       "tr": "although he is tired",
+       "tr": "although he is tired · যদিও সে ক্লান্ত",
        "hl": "soit"
       },
       {
        "t": "pour que vous puissiez comprendre",
-       "tr": "so that you can understand",
+       "tr": "so that you can understand · যাতে আপনি বুঝতে পারেন",
        "hl": "puissiez"
       },
       {
        "t": "avant qu'il parte",
-       "tr": "before he leaves",
+       "tr": "before he leaves · সে চলে যাওয়ার আগে",
        "hl": "parte"
       }
      ]

@@ -1271,17 +1271,17 @@ LC.units.push({
      "examples": [
       {
        "t": "Vous parlez français ?",
-       "tr": "rising voice at the end",
+       "tr": "rising voice at the end · শেষে স্বর উঁচু হয়",
        "hl": "?"
       },
       {
        "t": "Est-ce que vous parlez français ?",
-       "tr": "add est-ce que at the front",
+       "tr": "add est-ce que at the front · শুরুতে est-ce que বসে",
        "hl": "Est-ce que"
       },
       {
        "t": "Parlez-vous français ?",
-       "tr": "turn the verb and pronoun around",
+       "tr": "turn the verb and pronoun around · ক্রিয়া ও সর্বনাম উল্টে যায়",
        "hl": "Parlez-vous"
       }
      ]
@@ -1290,27 +1290,27 @@ LC.units.push({
      "type": "steps",
      "items": [
       {
-       "title": "Statement",
+       "title": "Statement · বিবৃতি",
        "t": "Vous parlez français.",
-       "tr": "voice falls at the end",
+       "tr": "voice falls at the end · শেষে স্বর নেমে আসে",
        "mean": "You speak French. · আপনি ফরাসি বলেন।"
       },
       {
-       "title": "Question by voice",
+       "title": "Question by voice · স্বর দিয়ে প্রশ্ন",
        "t": "Vous parlez français ?",
-       "tr": "voice rises at the end",
+       "tr": "voice rises at the end · শেষে স্বর উঠে যায়",
        "mean": "Do you speak French? · আপনি কি ফরাসি বলেন?"
       },
       {
-       "title": "Question by est-ce que",
+       "title": "Question by est-ce que · est-ce que দিয়ে প্রশ্ন",
        "t": "Est-ce que vous parlez français ?",
-       "tr": "neutral and safe in every register",
+       "tr": "neutral and safe in every register · সব পরিস্থিতিতেই নিরাপদ",
        "mean": "Do you speak French? · আপনি কি ফরাসি বলেন?"
       },
       {
-       "title": "Question by inversion",
+       "title": "Question by inversion · উল্টানো ক্রমে প্রশ্ন",
        "t": "Parlez-vous français ?",
-       "tr": "formal, and used in writing",
+       "tr": "formal, and used in writing · আনুষ্ঠানিক, লেখায় ব্যবহৃত",
        "mean": "Do you speak French? · আপনি কি ফরাসি বলেন?"
       }
      ]

@@ -374,7 +374,7 @@ LC.units.push({
        "explain": "**chat échaudé** — and it fears cold water after · তারপর ঠান্ডা জলকেও ভয় পায়।"
       },
       {
-       "q": "**Loin des yeux, loin du…** · **Loin des yeux, loin du…**",
+       "q": "Finish the proverb: **Loin des yeux, loin du…** · প্রবাদটি শেষ করুন: **Loin des yeux, loin du…**",
        "options": [
         "monde · জগৎ",
         "temps · সময়",
@@ -1202,7 +1202,7 @@ LC.units.push({
        "explain": "From **tiens !** — *here, take it* · **tiens !** মানে *এই নাও*।"
       },
       {
-       "q": "**Qui se ressemble…** · **Qui se ressemble…**",
+       "q": "Finish the proverb: **Qui se ressemble…** · প্রবাদটি শেষ করুন: **Qui se ressemble…**",
        "options": [
         "se remplace · স্য রঁপ্লাস্",
         "se rassure · স্য রাস্যুর্",
@@ -1638,7 +1638,7 @@ LC.units.push({
        "explain": "The borrower does not choose · ধার নিলে বাছাবাছি চলে না।"
       },
       {
-       "q": "**Nul n'est censé ignorer la loi** is… · **Nul n'est censé ignorer la loi**…",
+       "q": "**Nul n'est censé ignorer la loi** is… · **Nul n'est censé ignorer la loi** কীই বোঝায়…",
        "options": [
         "a legal principle · একটি আইনি নীতি",
         "a children's rhyme · ছড়া",
