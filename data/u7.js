@@ -218,6 +218,59 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Il y a beaucoup de monde mais il n'est pas là.",
+     "tr": "eel ee ah boh-koo duh MOHND meh eel neh pah LAH · ইল্ ই আ বোকু দ্য মঁদ্ মে ইল্ নে পা লা",
+     "mean": "There are a lot of people but he is not there. · অনেক লোক আছে, কিন্তু সে নেই।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "it (impersonal) · (ভাববাচক)"
+      },
+      {
+       "t": "y",
+       "mean": "there · সেখানে"
+      },
+      {
+       "t": "a",
+       "mean": "has — avoir · avoir"
+      },
+      {
+       "t": "beaucoup",
+       "mean": "a lot · অনেক"
+      },
+      {
+       "t": "de",
+       "mean": "of · -এর"
+      },
+      {
+       "t": "monde",
+       "mean": "people · লোক"
+      },
+      {
+       "t": "mais",
+       "mean": "but · কিন্তু"
+      },
+      {
+       "t": "il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "n'est",
+       "mean": "is not — être · être"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "là",
+       "mean": "there · সেখানে"
+      }
+     ],
+     "note": "The same two letters **il a** and **il est** carry both verbs, and **il y a** means *there is* with no *being* in it at all. · **il y a** মানে *আছে*, যদিও তাতে **être** নেই।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say the whole present tense aloud without looking. These two verbs must come automatically. · না দেখে পুরো বর্তমান কাল বলুন; এই দুটি ক্রিয়া আপনাআপনি আসা চাই।",
      "lines": [
@@ -474,6 +527,47 @@ LC.units.push({
       }
      ],
      "note": "All three regular patterns in one line, and all three end in **-ons**. The ending is shared; only the stem differs. · তিনটি দলই **-ons** নেয়, কেবল মূল অংশ আলাদা।",
+     "type": "sentence"
+    },
+    {
+     "t": "Nous mangeons et nous commençons tout de suite.",
+     "tr": "noo mahn-ZHOHN ay noo koh-mahn-SOHN too duh SWEET · নু মঁজ়ঁ এ নু কমঁসঁ তু দ্য সুইত্",
+     "mean": "We eat and we begin at once. · আমরা খাই আর এখনই শুরু করি।",
+     "words": [
+      {
+       "t": "Nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "mangeons",
+       "mean": "eat — e kept · e রেখে দেওয়া"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "commençons",
+       "mean": "begin — ç added · ç যোগ করা"
+      },
+      {
+       "t": "tout",
+       "mean": "all · সম্পূর্ণ"
+      },
+      {
+       "t": "de",
+       "mean": "of · -এর"
+      },
+      {
+       "t": "suite",
+       "mean": "following · পরেই"
+      }
+     ],
+     "note": "Both are ordinary **-er** verbs, and both change their spelling before **-ons** only to keep the sound they already had. · দুটিই সাধারণ **-er** ক্রিয়া; বানান বদলায় কেবল ধ্বনি ধরে রাখতে।",
      "type": "sentence"
     },
     {
@@ -769,6 +863,59 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Je sais qu'il vient mais je ne peux pas le voir.",
+     "tr": "zhuh seh keel VYAHN meh zhuh nuh puh pah luh VWAHR · জ়্য সে কিল্ ভীয়াঁ মে জ়্য ন্য প্য পা ল্য ভোয়ার্",
+     "mean": "I know he is coming but I cannot see him. · জানি সে আসছে, কিন্তু তার সঙ্গে দেখা করতে পারছি না।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "sais",
+       "mean": "know — savoir · savoir"
+      },
+      {
+       "t": "qu'il",
+       "mean": "that he · যে সে"
+      },
+      {
+       "t": "vient",
+       "mean": "comes — venir · venir"
+      },
+      {
+       "t": "mais",
+       "mean": "but · কিন্তু"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "peux",
+       "mean": "can — pouvoir · pouvoir"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "le",
+       "mean": "him · তাকে"
+      },
+      {
+       "t": "voir",
+       "mean": "to see — voir · voir"
+      }
+     ],
+     "note": "Four irregular verbs in eleven words, and not one of them looks like its infinitive. That is why they are learnt by ear. · এগারো শব্দে চারটি অনিয়মিত ক্রিয়া, কোনোটিই মূল রূপের মতো দেখতে নয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say each line aloud. These irregulars are too common to look up; they must be in the mouth. · এই অনিয়মিত ক্রিয়াগুলো এত চলে যে মুখস্থই থাকা চাই।",
      "lines": [
@@ -1048,6 +1195,55 @@ LC.units.push({
       }
      ],
      "note": "After a modal the next verb never changes: **venir** and **essayer** both stay in the plain form. · modal-এর পরের ক্রিয়া মূল রূপেই থাকে।",
+     "type": "sentence"
+    },
+    {
+     "t": "Tu dois savoir que je ne veux pas le faire.",
+     "tr": "tew dwah sah-VWAHR kuh zhuh nuh vuh pah luh FEHR · ত্যু দোয়া সাভোয়ার্ ক্য জ়্য ন্য ভ্য পা ল্য ফের্",
+     "mean": "You must know that I do not want to do it. · তোমার জানা দরকার যে আমি এটা করতে চাই না।",
+     "words": [
+      {
+       "t": "Tu",
+       "mean": "you · তুমি"
+      },
+      {
+       "t": "dois",
+       "mean": "must · অবশ্যই"
+      },
+      {
+       "t": "savoir",
+       "mean": "to know · জানা"
+      },
+      {
+       "t": "que",
+       "mean": "that · যে"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "veux",
+       "mean": "want · চাই"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "le",
+       "mean": "it · এটা"
+      },
+      {
+       "t": "faire",
+       "mean": "to do · করতে"
+      }
+     ],
+     "note": "Two modals, two plain verbs after them, and the negative wraps only the modal: **ne veux pas**, never *ne faire pas*. · না-বাচক কেবল modal-কে ঘিরে বসে।",
      "type": "sentence"
     },
     {
@@ -1350,6 +1546,43 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Elle met son manteau avant de sortir.",
+     "tr": "el meh sohn mahn-TOH ah-vahn duh sor-TEER · এল্ মে সঁ মঁতো আভঁ দ্য সর্তির্",
+     "mean": "She puts on her coat before going out. · বেরোনোর আগে সে কোট পরে নেয়।",
+     "words": [
+      {
+       "t": "Elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "met",
+       "mean": "puts on — mettre · mettre"
+      },
+      {
+       "t": "son",
+       "mean": "her · তার"
+      },
+      {
+       "t": "manteau",
+       "mean": "coat · কোট"
+      },
+      {
+       "t": "avant",
+       "mean": "before · আগে"
+      },
+      {
+       "t": "de",
+       "mean": "of · -র"
+      },
+      {
+       "t": "sortir",
+       "mean": "to go out · বেরোনো"
+      }
+     ],
+     "note": "**son** is *her* here. The possessive agrees with the coat, not with the owner, so a man would also say **son manteau**. · **son** মেলে কোটের সঙ্গে, মালিকের সঙ্গে নয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say each line aloud. Add one verb a day and the table becomes speech. · রোজ একটি করে ক্রিয়া যোগ করুন; তালিকাই কথা হয়ে উঠবে।",
      "lines": [
@@ -1624,6 +1857,55 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "J'ai mis la lettre que j'ai reçue dans mon sac.",
+     "tr": "zhay mee lah LETR kuh zhay ruh-SEW dahn mohn SAHK · জ়ে মি লা লেত্র্ ক্য জ়ে র্যস্যু দঁ মঁ সাক্",
+     "mean": "I put the letter I received into my bag. · যে চিঠিটা পেয়েছিলাম, সেটা ব্যাগে রেখেছি।",
+     "words": [
+      {
+       "t": "J'ai",
+       "mean": "I have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "mis",
+       "mean": "put — from mettre · mettre থেকে"
+      },
+      {
+       "t": "la",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "lettre",
+       "mean": "letter · চিঠি"
+      },
+      {
+       "t": "que",
+       "mean": "which · যা"
+      },
+      {
+       "t": "j'ai",
+       "mean": "I have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "reçue",
+       "mean": "received (agreeing) · পেয়েছিলাম"
+      },
+      {
+       "t": "dans",
+       "mean": "in · ভেতরে"
+      },
+      {
+       "t": "mon",
+       "mean": "my · আমার"
+      },
+      {
+       "t": "sac",
+       "mean": "bag · ব্যাগ"
+      }
+     ],
+     "note": "**mis** does not agree but **reçue** does, because only the second has its object standing in front of it. · **reçue**-এর কর্ম আগে বসেছে বলেই মিল ঘটেছে।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say the infinitive and its participle together, as one pair. That is how they are remembered. · ক্রিয়ামূল ও কৃদন্তপদ একসঙ্গে বলুন; জোড়া বেঁধেই মনে থাকে।",
      "lines": [
@@ -1857,6 +2139,47 @@ LC.units.push({
       }
      ],
      "note": "**collègue** is the same word for a man or a woman; only **ma** or **mon** shows which. Titles stay lower case inside a sentence. · **collègue** উভয় লিঙ্গে এক; **ma** বা **mon**-ই বলে দেয়।",
+     "type": "sentence"
+    },
+    {
+     "t": "Madame la Directrice vous attend dans son bureau.",
+     "tr": "mah-dahm lah dee-rek-TREES voo zah-TAHN dahn sohn bew-ROH · মাদাম লা দিরেক্ত্রিস্ ভুজ়্ আতঁ দঁ সঁ ব্যুরো",
+     "mean": "The Director is waiting for you in her office. · পরিচালক মহোদয়া তাঁর দপ্তরে আপনার জন্য অপেক্ষা করছেন।",
+     "words": [
+      {
+       "t": "Madame",
+       "mean": "Madam · মহোদয়া"
+      },
+      {
+       "t": "la",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "Directrice",
+       "mean": "Director (feminine) · পরিচালক"
+      },
+      {
+       "t": "vous",
+       "mean": "you · আপনাকে"
+      },
+      {
+       "t": "attend",
+       "mean": "is waiting for · অপেক্ষা করছেন"
+      },
+      {
+       "t": "dans",
+       "mean": "in · ভেতরে"
+      },
+      {
+       "t": "son",
+       "mean": "her · তাঁর"
+      },
+      {
+       "t": "bureau",
+       "mean": "office · দপ্তর"
+      }
+     ],
+     "note": "A title used as address keeps its capital and its article: **Madame la Directrice**, the full and correct form. · সম্বোধনে পদবির আগে নির্দেশক থাকে এবং বড় হাতের অক্ষর।",
      "type": "sentence"
     },
     {

@@ -207,6 +207,39 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Vous choisissez pendant que nous attendons.",
+     "tr": "voo shwah-zee-SAY pahn-dahn kuh noo zah-tahn-DOHN · ভু শোয়াজ়িসে পঁদঁ ক্য নুজ়্ আতঁদঁ",
+     "mean": "You choose while we wait. · আপনি বেছে নিন, আমরা অপেক্ষা করছি।",
+     "words": [
+      {
+       "t": "Vous",
+       "mean": "you · আপনি"
+      },
+      {
+       "t": "choisissez",
+       "mean": "choose — second group · দ্বিতীয় দল"
+      },
+      {
+       "t": "pendant",
+       "mean": "during · চলাকালে"
+      },
+      {
+       "t": "que",
+       "mean": "that · যে"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "attendons",
+       "mean": "wait — third group · তৃতীয় দল"
+      }
+     ],
+     "note": "**choisir** keeps the **-iss-** and **attendre** drops its **-re**: the second and third groups side by side. · দ্বিতীয় দল **-iss-** রাখে, তৃতীয় দল **-re** ফেলে দেয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Conjugate aloud, then listen for which endings you actually hear. · জোরে রূপ বলুন, শুনুন কোনগুলো আসলে শোনা যায়।",
      "lines": [
@@ -492,6 +525,47 @@ LC.units.push({
      "type": "tip",
      "kind": "memory",
      "text": "After {{être}}, a job takes **no article**: {{Je suis professeur}}, not *un professeur*. · être-এর পরে পেশার আগে article বসে না।"
+    },
+    {
+     "t": "Nous allons faire ce que vous avez dit.",
+     "tr": "noo zah-LOHN FEHR suh kuh voo zah-vay DEE · নুজ়্ আলঁ ফের্ স্য ক্য ভুজ়্ আভে দি",
+     "mean": "We are going to do what you said. · আপনি যা বলেছেন, আমরা তাই করব।",
+     "words": [
+      {
+       "t": "Nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "allons",
+       "mean": "are going · যাচ্ছি"
+      },
+      {
+       "t": "faire",
+       "mean": "to do · করতে"
+      },
+      {
+       "t": "ce",
+       "mean": "that · তা"
+      },
+      {
+       "t": "que",
+       "mean": "which · যা"
+      },
+      {
+       "t": "vous",
+       "mean": "you · আপনি"
+      },
+      {
+       "t": "avez",
+       "mean": "have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "dit",
+       "mean": "said · বলেছেন"
+      }
+     ],
+     "note": "All four of the big verbs are here or implied: **aller** carries the future, **faire** the action, **avoir** the past, and **être** waits in the wings. · চারটি প্রধান ক্রিয়ার তিনটিই এক বাক্যে।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -821,6 +895,51 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Les lettres que j'ai écrites sont parties ce matin.",
+     "tr": "lay LETR kuh zhay ay-KREET sohn pahr-TEE suh mah-TAHN · লে লেত্র্ ক্য জ়ে একিত্ সঁ পার্তি স্য মাতাঁ",
+     "mean": "The letters I wrote went off this morning. · যে চিঠিগুলো লিখেছিলাম, সেগুলো আজ সকালে চলে গেছে।",
+     "words": [
+      {
+       "t": "Les",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "lettres",
+       "mean": "letters · চিঠিগুলো"
+      },
+      {
+       "t": "que",
+       "mean": "which · যা"
+      },
+      {
+       "t": "j'ai",
+       "mean": "I have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "écrites",
+       "mean": "written (agreeing) · লিখেছিলাম"
+      },
+      {
+       "t": "sont",
+       "mean": "are (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "parties",
+       "mean": "gone (agreeing) · চলে গেছে"
+      },
+      {
+       "t": "ce",
+       "mean": "this · এই"
+      },
+      {
+       "t": "matin",
+       "mean": "morning · সকাল"
+      }
+     ],
+     "note": "Both participles agree, for different reasons: **écrites** because its object came first, **parties** because **partir** takes **être**. · দুটিতেই মিল ঘটেছে, তবে কারণ দুটি আলাদা।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. Hear the helper first, then the participle: two beats, one tense. · জোরে পড়ুন; আগে সহকারী, পরে কৃদন্তপদ — দুই মাত্রা, এক কাল।",
      "lines": [
@@ -1135,6 +1254,43 @@ LC.units.push({
      ]
     },
     {
+     "t": "Je lisais quand le téléphone a sonné.",
+     "tr": "zhuh lee-ZEH kahn luh tay-lay-FON ah soh-NAY · জ়্য লিজ়ে কঁ ল্য তেলেফন্ আ সনে",
+     "mean": "I was reading when the telephone rang. · ফোন বাজার সময় আমি পড়ছিলাম।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "lisais",
+       "mean": "was reading · পড়ছিলাম"
+      },
+      {
+       "t": "quand",
+       "mean": "when · যখন"
+      },
+      {
+       "t": "le",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "téléphone",
+       "mean": "telephone · ফোন"
+      },
+      {
+       "t": "a",
+       "mean": "has (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "sonné",
+       "mean": "rang · বাজল"
+      }
+     ],
+     "note": "The clearest test of the two past tenses: the imparfait is the room you were in, the passé composé is what walked through the door. · imparfait হলো পটভূমি, passé composé হলো ঘটনা।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud, slowly. The imparfait has no edges: it describes, it does not report. · ধীরে পড়ুন; imparfait বর্ণনা করে, ঘটনা জানায় না।",
      "lines": [
@@ -1425,6 +1581,43 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Quand tu arriveras, nous serons déjà partis.",
+     "tr": "kahn tew ah-ree-vuh-RAH noo suh-ROHN day-zhah pahr-TEE · কঁ ত্যু আরিভ্যরা, নু স্যরঁ দেজ়া পার্তি",
+     "mean": "When you arrive, we shall already have left. · তুমি যখন পৌঁছবে, আমরা তখন রওনা দিয়ে ফেলেছি।",
+     "words": [
+      {
+       "t": "Quand",
+       "mean": "when · যখন"
+      },
+      {
+       "t": "tu",
+       "mean": "you · তুমি"
+      },
+      {
+       "t": "arriveras",
+       "mean": "will arrive · পৌঁছবে"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "serons",
+       "mean": "shall be · থাকব"
+      },
+      {
+       "t": "déjà",
+       "mean": "already · ইতিমধ্যেই"
+      },
+      {
+       "t": "partis",
+       "mean": "gone · রওনা দিয়ে"
+      }
+     ],
+     "note": "After **quand** French uses the future where English uses the present. *When you arrive* is **quand tu arriveras**, never **quand tu arrives**. · **quand**-এর পরে ফরাসি ভবিষ্যৎ কাল নেয়, ইংরেজি বর্তমান।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each pair aloud. The near future is going to happen; the simple future simply will. · প্রতিটি জোড়া পড়ুন; একটি এখনই ঘটতে যাচ্ছে, অন্যটি ভবিষ্যতে ঘটবে।",
      "lines": [
@@ -1670,6 +1863,59 @@ LC.units.push({
       }
      ],
      "note": "**je veux** would be blunt to the point of rudeness. One letter of tense turns a demand into a request. · **je veux** বললে রূঢ় শোনাত; কালের বদলেই দাবি হয়ে যায় অনুরোধ।",
+     "type": "sentence"
+    },
+    {
+     "t": "Si j'étais riche, j'achèterais une maison au bord de la mer.",
+     "tr": "see zhay-teh REESH zhah-sheh-tuh-REH ewn meh-ZOHN oh bor duh lah MEHR · সি জ়েতে রিশ্, জ়াশেত্যরে ্যুন্ মেজ়ঁ ও বর্ দ্য লা মের্",
+     "mean": "If I were rich, I would buy a house by the sea. · ধনী হলে সমুদ্রের ধারে একটা বাড়ি কিনতাম।",
+     "words": [
+      {
+       "t": "Si",
+       "mean": "if · যদি"
+      },
+      {
+       "t": "j'étais",
+       "mean": "I were · আমি হতাম"
+      },
+      {
+       "t": "riche",
+       "mean": "rich · ধনী"
+      },
+      {
+       "t": "j'achèterais",
+       "mean": "I would buy · কিনতাম"
+      },
+      {
+       "t": "une",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "maison",
+       "mean": "house · বাড়ি"
+      },
+      {
+       "t": "au",
+       "mean": "at the · -এ"
+      },
+      {
+       "t": "bord",
+       "mean": "edge · ধার"
+      },
+      {
+       "t": "de",
+       "mean": "of · -এর"
+      },
+      {
+       "t": "la",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "mer",
+       "mean": "sea · সমুদ্র"
+      }
+     ],
+     "note": "The **si** half takes the imparfait and the other half the conditional. Never two conditionals; that is the commonest mistake of all. · **si**-অংশে imparfait, অন্য অংশে conditionnel।",
      "type": "sentence"
     },
     {
@@ -1961,6 +2207,51 @@ LC.units.push({
       }
      ],
      "note": "**sois**, not **es**. Necessity bends the verb out of its ordinary shape; that bent form is the subjunctive. · **es** নয়, **sois** — আবশ্যকতা ক্রিয়াকে বাঁকিয়ে দেয়।",
+     "type": "sentence"
+    },
+    {
+     "t": "Je ne pense pas qu'il puisse venir avant samedi.",
+     "tr": "zhuh nuh pahns pah keel pwees vuh-NEER ah-vahn sahm-DEE · জ়্য ন্য পঁস্ পা কিল্ পুইস্ ভ্যনির্ আভঁ সাম্দি",
+     "mean": "I do not think he can come before Saturday. · আমার মনে হয় না সে শনিবারের আগে আসতে পারবে।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "pense",
+       "mean": "think · মনে করি"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "qu'il",
+       "mean": "that he · যে সে"
+      },
+      {
+       "t": "puisse",
+       "mean": "can (subjunctive) · পারবে"
+      },
+      {
+       "t": "venir",
+       "mean": "to come · আসতে"
+      },
+      {
+       "t": "avant",
+       "mean": "before · আগে"
+      },
+      {
+       "t": "samedi",
+       "mean": "Saturday · শনিবার"
+      }
+     ],
+     "note": "**je pense qu'il peut** is ordinary, but **je ne pense pas qu'il puisse** takes the subjunctive: doubt bends the verb. · হ্যাঁ-বাচকে **peut**, না-বাচকে **puisse** — সন্দেহই ক্রিয়া বাঁকায়।",
      "type": "sentence"
     },
     {
@@ -2290,6 +2581,55 @@ LC.units.push({
      ]
     },
     {
+     "t": "Ils se sont rencontrés et ils se sont parlé longtemps.",
+     "tr": "eel suh sohn rahn-kohn-TRAY ay eel suh sohn pahr-LAY lohn-TAHN · ইল্ স্য সঁ রঁকঁত্রে এ ইল্ স্য সঁ পার্লে লঁতঁ",
+     "mean": "They met and they talked to each other for a long time. · তারা দেখা করল এবং অনেকক্ষণ কথা বলল।",
+     "words": [
+      {
+       "t": "Ils",
+       "mean": "they · তারা"
+      },
+      {
+       "t": "se",
+       "mean": "each other · পরস্পর"
+      },
+      {
+       "t": "sont",
+       "mean": "are (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "rencontrés",
+       "mean": "met (agreeing) · দেখা করল"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "ils",
+       "mean": "they · তারা"
+      },
+      {
+       "t": "se",
+       "mean": "to each other · পরস্পরকে"
+      },
+      {
+       "t": "sont",
+       "mean": "are (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "parlé",
+       "mean": "talked (no agreement) · কথা বলল"
+      },
+      {
+       "t": "longtemps",
+       "mean": "a long time · অনেকক্ষণ"
+      }
+     ],
+     "note": "**rencontrés** agrees but **parlé** does not, because you say **parler à** — the pronoun is an indirect object there. · **parler à** বলে বলেই **parlé**-তে মিল ঘটে না।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. The little pronoun belongs to the verb; never leave it behind. · জোরে পড়ুন; ছোট সর্বনামটি ক্রিয়ারই অংশ, বাদ দেবেন না।",
      "lines": [
@@ -2543,6 +2883,47 @@ LC.units.push({
        "mean": "told · বলা"
       }
      ]
+    },
+    {
+     "t": "Si vous aviez demandé, on vous aurait aidé.",
+     "tr": "see voo zah-vyay duh-mahn-DAY ohn voo zoh-reh ay-DAY · সি ভুজ়্ আভীয়ে দ্যমঁদে, ঁ ভুজ়্ ওরেত্ এদে",
+     "mean": "If you had asked, you would have been helped. · আপনি চাইলে আপনাকে সাহায্য করা হতো।",
+     "words": [
+      {
+       "t": "Si",
+       "mean": "if · যদি"
+      },
+      {
+       "t": "vous",
+       "mean": "you · আপনি"
+      },
+      {
+       "t": "aviez",
+       "mean": "had (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "demandé",
+       "mean": "asked · চাইতেন"
+      },
+      {
+       "t": "on",
+       "mean": "one, people · কেউ"
+      },
+      {
+       "t": "vous",
+       "mean": "you · আপনাকে"
+      },
+      {
+       "t": "aurait",
+       "mean": "would have · করত"
+      },
+      {
+       "t": "aidé",
+       "mean": "helped · সাহায্য"
+      }
+     ],
+     "note": "The third kind of **si** sentence, about what did not happen, and **on** doing the work of an English passive. · এটি তৃতীয় ধরনের **si** বাক্য; **on** এখানে কর্মবাচ্যের কাজ করছে।",
+     "type": "sentence"
     },
     {
      "type": "practice",

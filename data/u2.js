@@ -244,6 +244,51 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Le silence de la nuit est un vrai bonheur.",
+     "tr": "luh see-LAHNS duh lah NWEE eh tuhn vreh boh-NUHR · ল্য সিলঁস্ দ্য লা নুই এত্ আঁ ভ্রে বন্যর্",
+     "mean": "The silence of the night is a real joy. · রাতের নীরবতা সত্যিকারের আনন্দ।",
+     "words": [
+      {
+       "t": "Le",
+       "mean": "the (masculine) · (পুংবাচক নির্দেশক)"
+      },
+      {
+       "t": "silence",
+       "mean": "silence · নীরবতা"
+      },
+      {
+       "t": "de",
+       "mean": "of · -এর"
+      },
+      {
+       "t": "la",
+       "mean": "the (feminine) · (স্ত্রীবাচক নির্দেশক)"
+      },
+      {
+       "t": "nuit",
+       "mean": "night · রাত"
+      },
+      {
+       "t": "est",
+       "mean": "is · হলো"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "vrai",
+       "mean": "real · সত্যিকারের"
+      },
+      {
+       "t": "bonheur",
+       "mean": "happiness · আনন্দ"
+      }
+     ],
+     "note": "**-ence** is feminine but **silence** is masculine, and **-eur** is usually feminine but **bonheur** is not. The rules hold about eight times in ten. · নিয়ম মোটামুটি দশে আটবার খাটে, এখানে দুটিই ব্যতিক্রম।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud and listen to the article. The ending tells you which one to say. · জোরে পড়ুন ও নির্দেশক পদ শুনুন; শেষাংশই বলে দেয় কোনটি হবে।",
      "lines": [
@@ -520,6 +565,43 @@ LC.units.push({
       }
      ],
      "note": "Words in **-al** turn into **-aux**, so the plural is heard but the s is not written. · **-al** হয়ে যায় **-aux**, তাই বহুবচনে s নেই।",
+     "type": "sentence"
+    },
+    {
+     "t": "Les yeux des chevaux sont très doux.",
+     "tr": "lay ZYUH day shuh-VOH sohn treh DOO · লেজ়্ য্য দে শ্যভো সঁ ত্রে দু",
+     "mean": "The eyes of the horses are very gentle. · ঘোড়াদের চোখ খুব কোমল।",
+     "words": [
+      {
+       "t": "Les",
+       "mean": "the · (বহুবচনের নির্দেশক)"
+      },
+      {
+       "t": "yeux",
+       "mean": "eyes · চোখ"
+      },
+      {
+       "t": "des",
+       "mean": "of the · -দের"
+      },
+      {
+       "t": "chevaux",
+       "mean": "horses · ঘোড়া"
+      },
+      {
+       "t": "sont",
+       "mean": "are · আছে"
+      },
+      {
+       "t": "très",
+       "mean": "very · খুব"
+      },
+      {
+       "t": "doux",
+       "mean": "gentle · কোমল"
+      }
+     ],
+     "note": "Two plurals that keep nothing of their singular: **œil** becomes **yeux**, **cheval** becomes **chevaux**. · **œil** থেকে **yeux**, **cheval** থেকে **chevaux** — একবচনের চিহ্নই থাকে না।",
      "type": "sentence"
     },
     {
@@ -833,6 +915,59 @@ LC.units.push({
      "note": "{{du sucre}} became {{de sucre}} because the verb is negative. · ক্রিয়াটি না-বাচক বলে {{du sucre}} হয়ে গেছে {{de sucre}}।"
     },
     {
+     "t": "Il boit de l'eau mais il ne boit jamais de lait.",
+     "tr": "eel bwah duh LOH meh eel nuh bwah zhah-meh duh LEH · ইল্ বোয়া দ্য লো মে ইল্ ন্য বোয়া জ়ামে দ্য লে",
+     "mean": "He drinks water but he never drinks milk. · সে জল খায়, কিন্তু দুধ কখনো খায় না।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "boit",
+       "mean": "drinks · খায়"
+      },
+      {
+       "t": "de",
+       "mean": "some · কিছু"
+      },
+      {
+       "t": "l'eau",
+       "mean": "the water · জল"
+      },
+      {
+       "t": "mais",
+       "mean": "but · কিন্তু"
+      },
+      {
+       "t": "il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "boit",
+       "mean": "drinks · খায়"
+      },
+      {
+       "t": "jamais",
+       "mean": "never · কখনো"
+      },
+      {
+       "t": "de",
+       "mean": "any · কোনো"
+      },
+      {
+       "t": "lait",
+       "mean": "milk · দুধ"
+      }
+     ],
+     "note": "**de l'eau** in the positive half, plain **de lait** in the negative. **jamais** empties the partitive exactly as **pas** does. · না-বাচক অংশে partitive মিলিয়ে যায়; **jamais**-ও **pas**-এর মতোই কাজ করে।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each pair aloud. Hear how the partitive disappears after a negative. · প্রতিটি জোড়া পড়ুন; না-বাচক বাক্যে partitive কীভাবে মিলিয়ে যায় শুনুন।",
      "lines": [
@@ -1128,6 +1263,47 @@ LC.units.push({
        "mean": "Dhaka · ঢাকা"
       }
      ]
+    },
+    {
+     "t": "Il parle du travail des étudiants aux professeurs.",
+     "tr": "eel pahrl dew trah-VYE day zay-tew-DYAHN oh proh-feh-SUHR · ইল্ পার্ল্ দ্যু ত্রাভাই দেজ়্ এত্যুদীয়ঁ ও প্রফেস্যর্",
+     "mean": "He speaks about the students' work to the teachers. · সে শিক্ষকদের কাছে ছাত্রদের কাজ নিয়ে বলে।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "parle",
+       "mean": "speaks · বলে"
+      },
+      {
+       "t": "du",
+       "mean": "of the — de + le · de + le"
+      },
+      {
+       "t": "travail",
+       "mean": "work · কাজ"
+      },
+      {
+       "t": "des",
+       "mean": "of the — de + les · de + les"
+      },
+      {
+       "t": "étudiants",
+       "mean": "students · ছাত্ররা"
+      },
+      {
+       "t": "aux",
+       "mean": "to the — à + les · à + les"
+      },
+      {
+       "t": "professeurs",
+       "mean": "teachers · শিক্ষকরা"
+      }
+     ],
+     "note": "Three contractions in eight words, and none of them can be written out in full. **de le** and **à les** simply do not exist. · আট শব্দে তিনটি সংকোচন; **de le** বা **à les** বলে কিছু নেই।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1447,6 +1623,43 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Un ancien ministre et un ministre ancien.",
+     "tr": "uhn nahn-SYAHN mee-NEESTR ay uhn mee-neestr ahn-SYAHN · আঁন্ অঁসীয়াঁ মিনিস্ত্র্ এ আঁ মিনিস্ত্র্ অঁসীয়াঁ",
+     "mean": "A former minister and an elderly minister. · একজন প্রাক্তন মন্ত্রী এবং একজন প্রবীণ মন্ত্রী।",
+     "words": [
+      {
+       "t": "Un",
+       "mean": "a · একজন"
+      },
+      {
+       "t": "ancien",
+       "mean": "former — before the noun · বিশেষ্যের আগে: প্রাক্তন"
+      },
+      {
+       "t": "ministre",
+       "mean": "minister · মন্ত্রী"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "un",
+       "mean": "a · একজন"
+      },
+      {
+       "t": "ministre",
+       "mean": "minister · মন্ত্রী"
+      },
+      {
+       "t": "ancien",
+       "mean": "elderly — after the noun · বিশেষ্যের পরে: প্রবীণ"
+      }
+     ],
+     "note": "The same adjective, the same noun, two different meanings decided only by position. **ancien**, **propre**, **cher** and **grand** all do this. · একই বিশেষণ, কেবল অবস্থান বদলালেই অর্থ বদলে যায়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each pair and feel the change in meaning. · প্রতিটি জোড়া পড়ুন এবং অর্থের পরিবর্তন অনুভব করুন।",
      "lines": [
@@ -1704,6 +1917,55 @@ LC.units.push({
        "mean": "all · সব"
       }
      ]
+    },
+    {
+     "t": "Elle travaille mieux que moi mais elle est moins rapide.",
+     "tr": "el trah-VYE myuh kuh MWAH meh el eh mwahn rah-PEED · এল্ ত্রাভাই মীয়ো ক্য মোয়া মে এল্ এ মোয়াঁ রাপিদ্",
+     "mean": "She works better than I do but she is less quick. · সে আমার চেয়ে ভালো কাজ করে, তবে কম দ্রুত।",
+     "words": [
+      {
+       "t": "Elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "travaille",
+       "mean": "works · কাজ করে"
+      },
+      {
+       "t": "mieux",
+       "mean": "better (adverb) · ভালোভাবে"
+      },
+      {
+       "t": "que",
+       "mean": "than · চেয়ে"
+      },
+      {
+       "t": "moi",
+       "mean": "me · আমার"
+      },
+      {
+       "t": "mais",
+       "mean": "but · তবে"
+      },
+      {
+       "t": "elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "est",
+       "mean": "is · হলো"
+      },
+      {
+       "t": "moins",
+       "mean": "less · কম"
+      },
+      {
+       "t": "rapide",
+       "mean": "quick · দ্রুত"
+      }
+     ],
+     "note": "**mieux** describes the verb, **meilleur** would describe a noun. English uses *better* for both and so the two are easily confused. · ক্রিয়ার সঙ্গে **mieux**, বিশেষ্যের সঙ্গে **meilleur**।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -2024,6 +2286,47 @@ LC.units.push({
      "type": "sentence"
     },
     {
+     "t": "Ce livre, je le lui ai donné hier.",
+     "tr": "suh LEEVR zhuh luh lwee ay doh-NAY yehr · স্য লিভ্র্, জ়্য ল্য লুই এ দনে ইয়ের্",
+     "mean": "That book, I gave it to him yesterday. · ওই বইটা, কাল আমি তাকে দিয়েছি।",
+     "words": [
+      {
+       "t": "Ce",
+       "mean": "that · ওই"
+      },
+      {
+       "t": "livre",
+       "mean": "book · বই"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "le",
+       "mean": "it · সেটি"
+      },
+      {
+       "t": "lui",
+       "mean": "to him · তাকে"
+      },
+      {
+       "t": "ai",
+       "mean": "have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "donné",
+       "mean": "given · দিয়েছি"
+      },
+      {
+       "t": "hier",
+       "mean": "yesterday · গতকাল"
+      }
+     ],
+     "note": "Thing before person here: **le lui**, not *lui le*. The order changes with the persons involved, which is why it has to be heard often. · এখানে বস্তু আগে, ব্যক্তি পরে — **le lui**।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. The pronouns come before the verb and are said in one breath with it. · জোরে পড়ুন; সর্বনাম ক্রিয়ার আগে বসে, একসঙ্গেই উচ্চারিত হয়।",
      "lines": [
@@ -2324,6 +2627,63 @@ LC.units.push({
        "mean": "a teacher · একজন শিক্ষক"
       }
      ]
+    },
+    {
+     "t": "La ville où je suis né est celle dont je parle toujours.",
+     "tr": "lah veel oo zhuh swee NAY eh sel dohn zhuh pahrl too-ZHOOR · লা ভিল্ উ জ়্য সুই নে এ সেল্ দঁ জ়্য পার্ল্ তুজ়ুর্",
+     "mean": "The town where I was born is the one I always talk about. · যে শহরে আমার জন্ম, সেটির কথাই আমি সবসময় বলি।",
+     "words": [
+      {
+       "t": "La",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "ville",
+       "mean": "town · শহর"
+      },
+      {
+       "t": "où",
+       "mean": "where · যেখানে"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "suis",
+       "mean": "was (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "né",
+       "mean": "born · জন্মেছি"
+      },
+      {
+       "t": "est",
+       "mean": "is · হলো"
+      },
+      {
+       "t": "celle",
+       "mean": "the one (feminine) · সেটি"
+      },
+      {
+       "t": "dont",
+       "mean": "about which · যার কথা"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "parle",
+       "mean": "speak · বলি"
+      },
+      {
+       "t": "toujours",
+       "mean": "always · সবসময়"
+      }
+     ],
+     "note": "Two relatives in one sentence. **où** points at a place, **dont** replaces **de** plus a noun, because you say **parler de**. · **où** স্থান বোঝায়, **dont** আসে **parler de** থেকে।",
+     "type": "sentence"
     },
     {
      "type": "practice",
