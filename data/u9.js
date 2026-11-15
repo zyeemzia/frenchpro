@@ -3732,6 +3732,420 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u9-o2",
+   "icon": "O",
+   "title": "O · on time → over and over again · ট-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Out of date, out of order, out of the question · সেকেলে, বিকল আর অসম্ভব",
+   "minutes": 10,
+   "goals": [
+    "Collect the out of- family and its French forms · out of- পরিবার ও তার ফরাসি রূপ সংগ্রহ করুন",
+    "Learn épuisé for a book that is out of print · নিঃশেষিত বই বোঝাতে épuisé শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "English builds a whole family on *out of*; French gives each one its own word: **passé de mode**, **ne pas marcher**, **épuisé**, **hors de question**, **manquer**. · ইংরেজি *out of* দিয়ে পুরো পরিবার গড়ে; ফরাসি প্রতিটির জন্য আলাদা শব্দ দেয়।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Essayez de venir ici à l'heure.",
+       "tr": "eh-seh-YAY duh vuh-NEER ee-SEE ah LUHR · এসেইয়ে দ্য ভ্যনির্ ইসি আ ল্যর্",
+       "mean": "Try to come here on time · যথাসময়ে এখানে আসার চেষ্টা কোরো",
+       "note": "**on time** — punctually · যথাসময়ে"
+      },
+      {
+       "t": "Une fois pour toutes, je vous dis de ficher le camp.",
+       "tr": "ewn fwah poor TOOT zhuh voo dee duh feesh luh KAHN · য়ুন্ ফোয়া পুর্ তুত্, জ়্য ভু দি দ্য ফিশে ল্য কঁ",
+       "mean": "Once and for all, I'm telling you to get out · শেষবারের মতো বলছি, বেরিয়ে যাও",
+       "note": "**once and for all** — finally · শেষবারের মতো"
+      },
+      {
+       "t": "Cette robe est de nouveau passée de mode.",
+       "tr": "set ROB eh duh noo-VOH pah-SAY duh MOD · সেত্ রব্ এ দ্য নুভো পাসে দ্য মদ্",
+       "mean": "This dress is out of date again · এই পোশাকটি আবার সেকেলে হয়ে গেছে",
+       "note": "**out of date** — no longer in fashion · সেকেলে"
+      },
+      {
+       "t": "Mon portable ne marchait pas, donc je n'ai pas téléphoné à Razu.",
+       "tr": "mohn por-TAHBL nuh mahr-SHEH PAH dohnk zhuh nay pah tay-lay-foh-NAY ah rah-ZOO · মঁ পর্তাব্ল্ ন্য মার্শে পা, দঁক্ জ়্য নে পা তেলেফনে আ রাজ়ু",
+       "mean": "My mobile was out of order, so I didn't phone Razu · আমার মোবাইলটি বিকল ছিল, তাই রাজুকে ফোন করিনি",
+       "note": "**out of order** — not working · বিকল"
+      },
+      {
+       "t": "Ce livre est épuisé depuis des années.",
+       "tr": "suh LEEVR eh tay-pwee-ZAY duh-pwee day zah-NAY · স্য লিভ্র্ এত্ এপুইজ়ে দ্যপুই দেজ়্ আনে",
+       "mean": "This book has been out of print for years · বইটি বহু বছর ধরে নিঃশেষিত",
+       "note": "**out of print** — no longer printed · নিঃশেষিত"
+      },
+      {
+       "t": "Une entrevue avec le président est hors de question.",
+       "tr": "ewn ahn-truh-VEW ah-vek luh pray-zee-DAHN eh or duh kes-TYOHN · য়ুন্ অঁত্র্যভ্যু আভেক্ ল্য প্রেজ়িদঁ এ অর্ দ্য কেস্তীয়ঁ",
+       "mean": "An interview with the president is out of the question · রাষ্ট্রপতির সঙ্গে সাক্ষাৎ অসম্ভব",
+       "note": "**out of the question** — impossible · অসম্ভব"
+      },
+      {
+       "t": "Ce parfum nous manque actuellement.",
+       "tr": "suh pahr-FAHN noo MAHNK ahk-tew-el-MAHN · স্য পার্ফাঁ নু মঁক্ আক্তুয়েলমঁ",
+       "mean": "This perfume is out of stock · এই সুগন্ধিটি এখন ফুরিয়ে গেছে",
+       "note": "**out of stock** — none left · ফুরিয়ে যাওয়া"
+      },
+      {
+       "t": "Mamun lit la lettre maintes et maintes fois.",
+       "tr": "mah-MOON lee lah LETR mahnt ay mahnt FWAH · মামুন লি লা লেত্র্ মাঁত্ এ মাঁত্ ফোয়া",
+       "mean": "Mamun reads the letter over and over again · মামুন বারবার চিঠিটি পড়ে",
+       "note": "**over and over again** — repeatedly · বারবার"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**actuellement** means *at present*, not *actually*. For *actually* use **en fait** or **en réalité**. · **actuellement** মানে *এখন*, *আসলে* নয়; *আসলে* বোঝাতে **en fait**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**actuellement** means… · **actuellement** মানে…",
+       "options": [
+        "actually · আসলে",
+        "accurately · নিখুঁতভাবে",
+        "eventually · শেষ পর্যন্ত",
+        "at present · এখন"
+       ],
+       "answer": 3,
+       "explain": "A classic false friend · চিরচেনা ছদ্মবন্ধু।"
+      },
+      {
+       "q": "A book that is **épuisé** is… · **épuisé** বই মানে…",
+       "options": [
+        "out of print · নিঃশেষিত",
+        "very long · খুব বড়",
+        "newly published · সদ্য প্রকাশিত",
+        "badly written · খারাপ লেখা"
+       ],
+       "answer": 0,
+       "explain": "The stock is exhausted · মজুত ফুরিয়ে গেছে।"
+      },
+      {
+       "q": "**hors de question** means… · **hors de question** মানে…",
+       "options": [
+        "already asked · আগেই জিজ্ঞেস করা",
+        "out of the question · অসম্ভব",
+        "beside the point · অপ্রাসঙ্গিক",
+        "worth asking · জিজ্ঞাসার যোগ্য"
+       ],
+       "answer": 1,
+       "explain": "Outside what can even be discussed · আলোচনারও বাইরে।"
+      },
+      {
+       "q": "For a phone that does not work, say… · অকেজো ফোনের জন্য বলবেন…",
+       "options": [
+        "il est passé de mode",
+        "il nous manque",
+        "il ne marche pas",
+        "il est épuisé"
+       ],
+       "answer": 2,
+       "explain": "**ne pas marcher** is the everyday form · **ne pas marcher** চলতি রূপ।"
+      },
+      {
+       "q": "**maintes et maintes fois** means… · **maintes et maintes fois** মানে…",
+       "options": [
+        "once only · কেবল একবার",
+        "twice over · দুবার",
+        "now and then · মাঝে মাঝে",
+        "many times over · বারবার"
+       ],
+       "answer": 3,
+       "explain": "*Maint* is an old word for *many* · *maint* পুরোনো শব্দ, মানে বহু।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-p1",
+   "icon": "P",
+   "title": "O–P · of course → pick up · ঠ-বর্গ প্রথম অংশ",
+   "subtitle": "Passing away, paying up and picking things up · মারা যাওয়া, পাওনা মেটানো আর আয়ত্ত করা",
+   "minutes": 10,
+   "goals": [
+    "Say that someone has died, respectfully · সম্মানের সঙ্গে মৃত্যুর কথা বলুন",
+    "Separate the two senses of pick up · pick up-এর দুই অর্থ আলাদা করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "For a death, French says **est décédé** in writing and **s'est éteint** more gently. Both are safe. The slang **tourner de l'œil** is not a synonym — see the warning below. · মৃত্যুর কথা লিখতে **est décédé**, কোমলভাবে **s'est éteint**।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Bien entendu, elle m'aime beaucoup.",
+       "tr": "byahn nahn-tahn-DEW el mem boh-KOO · বীয়াঁ অঁতঁদ্যু, এল্ মেম্ বকু",
+       "mean": "Of course, she loves me much · অবশ্যই, সে আমাকে খুব ভালোবাসে",
+       "note": "**of course** — naturally · অবশ্যই"
+      },
+      {
+       "t": "Happy arrive toujours à l'heure.",
+       "tr": "ah-PEE ah-REEV too-ZHOOR ah LUHR · হ্যাপী আরিভ্ তুজ়ুর্ আ ল্যর্",
+       "mean": "Happy always arrives on time · হ্যাপী সবসময় সময়মতো পৌঁছায়",
+       "note": "**on time** — never late · সঠিক সময়ে"
+      },
+      {
+       "t": "Je vous le donne, mais je vous tiens quitte pour un baiser.",
+       "tr": "zhuh voo luh DON meh zhuh voo tyahn KEET poor uhn beh-ZAY · জ়্য ভু ল্য দন্, মে জ়্য ভু তীয়াঁ কিত্ পুর্ আঁ বেজ়ে",
+       "mean": "I am giving it to you, on condition that you give me a kiss · তুমি একটি চুমু দেবে, এই শর্তে এটি তোমাকে দিচ্ছি",
+       "note": "**on condition that** — provided that · শর্ত সাপেক্ষে"
+      },
+      {
+       "t": "Sheikh Mujib est décédé en 1975.",
+       "tr": "shaykh moo-ZHEEB eh day-say-DAY ahn meel nuhf sahn swah-sahnt-KAHNZ · শেখ মুজিব এ দেসেদে অঁ মিল ন্যফ্ সঁ সোয়াসঁত্ কাঁজ়্",
+       "mean": "Sheikh Mujib passed away in 1975 · শেখ মুজিব ১৯৭৫ সালে মারা যান",
+       "note": "**pass away** — die · মারা যাওয়া"
+      },
+      {
+       "t": "Je te serai reconnaissant si tu me paies maintenant ce que tu me dois.",
+       "tr": "zhuh tuh suh-RAY ruh-koh-neh-SAHN see tew muh PEH mahnt-NAHN suh kuh tew muh DWAH · জ়্য ত্য স্যরে র্যকনেসঁ সি ত্যু ম্য পে মাঁত্নঁ স্য ক্য ত্যু ম্য দোয়া",
+       "mean": "I'll be grateful if you pay up now · এখনই পাওনা মিটিয়ে দিলে কৃতজ্ঞ থাকব",
+       "note": "**pay up** — settle a debt · পাওনা মিটিয়ে দেওয়া"
+      },
+      {
+       "t": "Nilu a facilement acquis l'intonation du français.",
+       "tr": "nee-loo ah fah-seel-MAHN ah-KEE lahn-toh-nah-SYOHN dew frahn-SEH · নিলু আ ফাসিলমঁ আকি লাঁতনাসীয়ঁ দ্যু ফ্রঁসে",
+       "mean": "Nilu picked up the French intonation with ease · নিলু সহজেই ফরাসি স্বরভঙ্গি আয়ত্ত করেছিল",
+       "note": "**pick up** — acquire a skill · আয়ত্ত করা"
+      },
+      {
+       "t": "Après cette dernière maladie, il s'est vite remis.",
+       "tr": "ah-preh set dehr-NYEHR mah-lah-DEE eel seh veet ruh-MEE · আপ্রে সেত্ দের্নীয়ের্ মালাদি, ইল্ সে ভিত্ র্যমি",
+       "mean": "After that last illness he picked up quickly · শেষ অসুস্থতার পর সে দ্রুত সেরে উঠেছিল",
+       "note": "**pick up** — recover health · আরোগ্য লাভ করা"
+      },
+      {
+       "t": "Elle s'est éteinte paisiblement.",
+       "tr": "el seh tay-TAHNT peh-zee-bluh-MAHN · এল্ সে এতাঁত্ পেজ়িব্ল্যমঁ",
+       "mean": "She passed away peacefully · তিনি শান্তিতে শেষ নিঃশ্বাস ত্যাগ করেছেন",
+       "note": "**pass away** — the gentler form · কোমলভাবে মৃত্যুর কথা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**tourner de l'œil** means to faint, not to die. Saying it of someone's death is both wrong and flippant; use **décéder** or **s'éteindre**. · **tourner de l'œil** মানে অজ্ঞান হওয়া, মারা যাওয়া নয়।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**tourner de l'œil** means to… · **tourner de l'œil** মানে…",
+       "options": [
+        "faint · অজ্ঞান হওয়া",
+        "look around · চারদিকে তাকানো",
+        "change one's mind · মত বদলানো",
+        "pass away · মারা যাওয়া"
+       ],
+       "answer": 0,
+       "explain": "A trap: it is not a word for death · ফাঁদ — এটি মৃত্যুর শব্দ নয়।"
+      },
+      {
+       "q": "Which is right for a death notice? · মৃত্যুসংবাদে কোনটি ঠিক?",
+       "options": [
+        "il a acquis",
+        "il est décédé",
+        "il s'est remis",
+        "il a tourné de l'œil"
+       ],
+       "answer": 1,
+       "explain": "**décéder** is the formal verb · **décéder** আনুষ্ঠানিক ক্রিয়া।"
+      },
+      {
+       "q": "**se remettre** describes someone who… · **se remettre** মানে যে…",
+       "options": [
+        "moves house · বাসা বদলায়",
+        "pays a debt · ঋণ শোধ করে",
+        "recovers · সেরে ওঠে",
+        "falls ill · অসুস্থ হয়"
+       ],
+       "answer": 2,
+       "explain": "To put oneself back together · নিজেকে ফিরে পাওয়া।"
+      },
+      {
+       "q": "**bien entendu** means… · **bien entendu** মানে…",
+       "options": [
+        "well heard · ভালো শোনা",
+        "badly said · খারাপ বলা",
+        "hardly ever · কদাচিৎ",
+        "of course · অবশ্যই"
+       ],
+       "answer": 3,
+       "explain": "Literally *well understood* · আক্ষরিক অর্থে *ভালোভাবে বোঝা*।"
+      },
+      {
+       "q": "**acquérir** suits which object here? · এখানে **acquérir** কোনটির সঙ্গে বসে?",
+       "options": [
+        "a skill · দক্ষতা",
+        "a quarrel · ঝগড়া",
+        "an illness · অসুখ",
+        "a debt · ঋণ"
+       ],
+       "answer": 0,
+       "explain": "To pick up an ability · দক্ষতা আয়ত্ত করা।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-p2",
+   "icon": "P",
+   "title": "P · pop in → put away · ঠ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "The pull- family, from tents to illnesses · pull- পরিবার, তাঁবু থেকে অসুখ",
+   "minutes": 10,
+   "goals": [
+    "Collect the pull- family and its French verbs · pull- পরিবার ও তার ফরাসি ক্রিয়া সংগ্রহ করুন",
+    "Remember that entrer takes être in the past · অতীতে entrer যে être নেয় তা মনে রাখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "*Pull* scatters as widely as *get*: **démonter** a tent, **entrer en gare** for a train, **ranger** a car, **se tirer de** an illness, **arracher** weeds. Nothing is pulled in any of them. · *Pull*-ও *get*-এর মতো ছড়িয়ে যায়; কোনোটিতেই টানার ভাব নেই।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Je suis entré en passant pour te dire bonjour.",
+       "tr": "zhuh swee zahn-TRAY ahn pah-SAHN poor tuh deer bohn-ZHOOR · জ়্য সুইজ়্ অঁত্রে অঁ পাসঁ পুর্ ত্য দির্ বঁজ়ুর্",
+       "mean": "I just popped in to say hello · কুশল জানতে একটুখানি ঢুঁ মেরে গেলাম",
+       "note": "**pop in** — call briefly · হঠাৎ করে আসা"
+      },
+      {
+       "t": "Ne démonte pas la tente avant que la pluie ne cesse.",
+       "tr": "nuh day-MOHNT pah lah TAHNT ah-vahn kuh lah plwee nuh SES · ন্য দেমঁত্ পা লা তঁত্ আভঁ ক্য লা প্লুই ন্য সেস্",
+       "mean": "Don't pull down the tent till the rain stops · বৃষ্টি না থামা পর্যন্ত তাঁবুটি গুটিয়ো না",
+       "note": "**pull down** — take apart · গুটিয়ে ফেলা"
+      },
+      {
+       "t": "Le train est entré en gare à l'heure.",
+       "tr": "luh TRAHN eh tahn-TRAY ahn GAHR ah LUHR · ল্য ত্রাঁ এত্ অঁত্রে অঁ গার্ আ ল্যর্",
+       "mean": "The train pulled in on time · ট্রেনটি যথাসময়ে স্টেশনে ঢুকেছিল",
+       "note": "**pull in** — arrive at a station · স্টেশনে এসে দাঁড়ানো"
+      },
+      {
+       "t": "Rangez votre voiture de notre côté de la route.",
+       "tr": "rahn-ZHAY votr vwah-TEWR duh notr koh-TAY duh lah ROOT · রঁজ়ে ভত্র্ ভোয়াত্যুর্ দ্য নত্র্ কতে দ্য লা রুত্",
+       "mean": "Pull your car over to our side of the road · গাড়িটি রাস্তার আমাদের দিকে সরিয়ে নাও",
+       "note": "**pull over** — move to the side · পাশে সরিয়ে নেওয়া"
+      },
+      {
+       "t": "Vous vous en êtes tiré de cette maladie en un temps record.",
+       "tr": "voo voo zahn net tee-RAY duh set mah-lah-DEE ahn nuhn tahn ruh-KOR · ভু ভুজ়্ অঁন্ এত্ তিরে দ্য সেত্ মালাদি অঁন্ আঁ তঁ র্যকর্",
+       "mean": "You pulled through that illness in record time · তুমি রেকর্ড সময়ে ওই অসুখ কাটিয়ে উঠেছিলে",
+       "note": "**pull through** — recover · আরোগ্য লাভ করা"
+      },
+      {
+       "t": "Il a arraché les mauvaises herbes à la racine.",
+       "tr": "eel ah ah-rah-SHAY lay moh-vez EHRB ah lah rah-SEEN · ইল্ আ আরাশে লে মভেজ়্ এর্ব্ আ লা রাসিন্",
+       "mean": "He pulled up the weeds by the roots · সে আগাছাগুলো শিকড়সুদ্ধ উপড়ে ফেলেছিল",
+       "note": "**pull up** — uproot · টেনে উৎপাটন করা"
+      },
+      {
+       "t": "Retirez votre manteau et restez un moment.",
+       "tr": "ruh-tee-RAY votr mahn-TOH ay res-TAY uhn moh-MAHN · র্যতিরে ভত্র্ মঁতো এ রেস্তে আঁ মমঁ",
+       "mean": "Put away your coat and stay a while · কোটটি রেখে একটু বসে যাও",
+       "note": "**put away** — set aside, store · যথাস্থানে রাখা"
+      },
+      {
+       "t": "Les mauvaises herbes reviennent chaque année.",
+       "tr": "lay moh-vez EHRB ruh-VYEN shahk ah-NAY · লে মভেজ়্ এর্ব্ র্যভীয়েন্ শাক্ আনে",
+       "mean": "The weeds come back every year · আগাছা প্রতি বছর ফিরে আসে",
+       "note": "**les mauvaises herbes** — weeds, literally bad grasses · আগাছা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**entrer** is a movement verb, so its past takes **être**: *le train est entré*, never *a entré*. The same goes for **rentrer** and **sortir**. · **entrer** গমনের ক্রিয়া, তাই অতীতে **être** নেয়।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "Which is correct for a train arriving? · ট্রেন পৌঁছানো বোঝাতে কোনটি ঠিক?",
+       "options": [
+        "le train a entré",
+        "le train est entré",
+        "le train avait entrer",
+        "le train entrer est"
+       ],
+       "answer": 1,
+       "explain": "**entrer** takes être · **entrer** être নেয়।"
+      },
+      {
+       "q": "**ranger** a car means to… · গাড়ির ক্ষেত্রে **ranger** মানে…",
+       "options": [
+        "repair it · মেরামত করা",
+        "sell it · বিক্রি করা",
+        "park or pull it over · পাশে সরিয়ে রাখা",
+        "drive it fast · দ্রুত চালানো"
+       ],
+       "answer": 2,
+       "explain": "To put it in its place · জায়গামতো রাখা।"
+      },
+      {
+       "q": "**s'en tirer de** an illness means to… · অসুখের ক্ষেত্রে **s'en tirer de** মানে…",
+       "options": [
+        "catch it · ধরা পড়া",
+        "ignore it · উপেক্ষা করা",
+        "spread it · ছড়ানো",
+        "come through it · কাটিয়ে ওঠা"
+       ],
+       "answer": 3,
+       "explain": "To pull oneself out of it · নিজেকে টেনে বের করা।"
+      },
+      {
+       "q": "**les mauvaises herbes** are literally… · **les mauvaises herbes** আক্ষরিক অর্থে…",
+       "options": [
+        "bad grasses · খারাপ ঘাস",
+        "wild flowers · বুনো ফুল",
+        "dry leaves · শুকনো পাতা",
+        "tall trees · উঁচু গাছ"
+       ],
+       "answer": 0,
+       "explain": "French blames the plant's character · ফরাসি গাছের স্বভাবকে দোষ দেয়।"
+      },
+      {
+       "q": "**démonter** a tent means to… · তাঁবুর ক্ষেত্রে **démonter** মানে…",
+       "options": [
+        "put it up · খাটানো",
+        "take it down · গুটিয়ে ফেলা",
+        "move it along · সরিয়ে নেওয়া",
+        "repair it · মেরামত করা"
+       ],
+       "answer": 1,
+       "explain": "The opposite of **monter** · **monter**-এর উল্টো।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
