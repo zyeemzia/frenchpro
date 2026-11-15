@@ -1055,56 +1055,56 @@ LC.units.push({
       {
        "q": "**un coup de fil** is literally… · **un coup de fil**-এর আক্ষরিক অর্থ…",
        "options": [
-        "a stroke of wire · তারের টান",
         "a cut of thread · সুতোর কাটা",
         "a turn of talk · কথার মোড়",
-        "a sound of bell · ঘণ্টার শব্দ"
+        "a sound of bell · ঘণ্টার শব্দ",
+        "a stroke of wire · তারের টান"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "The wire is the old telephone line · তার মানে পুরোনো টেলিফোন লাইন।"
       },
       {
        "q": "Which verb means to obey an order? · আদেশ পালন বোঝাতে কোন ক্রিয়া?",
        "options": [
-        "continuer son chemin",
         "exécuter les ordres",
         "attraper un retard",
-        "piger une idée"
+        "piger une idée",
+        "continuer son chemin"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "**exécuter** is to carry out · **exécuter** মানে পালন করা।"
       },
       {
        "q": "**piger** belongs to which register? · **piger** কোন স্তরের ভাষা?",
        "options": [
-        "formal writing · আনুষ্ঠানিক লেখা",
         "legal language · আইনি ভাষা",
         "casual speech · চলতি কথা",
-        "poetic style · কাব্যিক রীতি"
+        "poetic style · কাব্যিক রীতি",
+        "formal writing · আনুষ্ঠানিক লেখা"
        ],
-       "answer": 2,
+       "answer": 1,
        "explain": "It is everyday slang for *to get it* · এটি চলতি কথায় *বুঝে ফেলা*।"
       },
       {
        "q": "**un fumeur invétéré** is someone who… · **un fumeur invétéré** মানে যে…",
        "options": [
-        "smokes now and then · মাঝে মাঝে ধূমপান করে",
         "has given it up · ছেড়ে দিয়েছে",
         "dislikes smoke · ধোঁয়া পছন্দ করে না",
-        "cannot stop smoking · থামতে পারে না"
+        "cannot stop smoking · থামতে পারে না",
+        "smokes now and then · মাঝে মাঝে ধূমপান করে"
        ],
-       "answer": 3,
+       "answer": 2,
        "explain": "*Invétéré* is deep-rooted · *invétéré* মানে গভীরভাবে বদ্ধমূল।"
       },
       {
        "q": "**se présenter au travail** means to… · **se présenter au travail** মানে…",
        "options": [
-        "report for work · কাজে হাজির হওয়া",
         "resign the post · পদত্যাগ করা",
         "ask for leave · ছুটি চাওয়া",
-        "finish the shift · পালা শেষ করা"
+        "finish the shift · পালা শেষ করা",
+        "report for work · কাজে হাজির হওয়া"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "Literally *to present oneself* · আক্ষরিক অর্থে *নিজেকে হাজির করা*।"
       }
      ]
@@ -1193,56 +1193,56 @@ LC.units.push({
       {
        "q": "**une poule mouillée** is literally… · **une poule mouillée**-এর আক্ষরিক অর্থ…",
        "options": [
-        "a small chicken · ছোট মুরগি",
         "a wet hen · ভেজা মুরগি",
         "a lost bird · হারানো পাখি",
-        "a weak lamb · দুর্বল ভেড়া"
+        "a weak lamb · দুর্বল ভেড়া",
+        "a small chicken · ছোট মুরগি"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "A hen caught in the rain looks miserable · বৃষ্টিতে ভেজা মুরগি দেখতে কাহিল।"
       },
       {
        "q": "**régler son compte** at a hotel means to… · হোটেলে **régler son compte** মানে…",
        "options": [
-        "book the room · ঘর বুক করা",
         "complain loudly · নালিশ করা",
         "settle the bill · হিসাব চুকানো",
-        "extend the stay · থাকা বাড়ানো"
+        "extend the stay · থাকা বাড়ানো",
+        "book the room · ঘর বুক করা"
        ],
-       "answer": 2,
+       "answer": 1,
        "explain": "*Régler* is to settle · *régler* মানে মিটিয়ে দেওয়া।"
       },
       {
        "q": "**sortir** used of a book means… · বইয়ের ক্ষেত্রে **sortir** মানে…",
        "options": [
-        "to go outside · বাইরে যাওয়া",
         "to sell out · বিক্রি শেষ",
         "to be lost · হারিয়ে যাওয়া",
-        "to be published · প্রকাশিত হওয়া"
+        "to be published · প্রকাশিত হওয়া",
+        "to go outside · বাইরে যাওয়া"
        ],
-       "answer": 3,
+       "answer": 2,
        "explain": "The book *comes out* in both languages · দুই ভাষাতেই বই *বেরোয়*।"
       },
       {
        "q": "**venir à point** describes something that… · **venir à point** বোঝায় এমন কিছু যা…",
        "options": [
-        "arrives just right · ঠিক সময়ে আসে",
         "arrives far too late · অনেক দেরিতে আসে",
         "never arrives · কখনো আসে না",
-        "arrives by mistake · ভুল করে আসে"
+        "arrives by mistake · ভুল করে আসে",
+        "arrives just right · ঠিক সময়ে আসে"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "*At the point* — at the right moment · ঠিক মুহূর্তে।"
       },
       {
        "q": "**rentrer en scène** happens where? · **rentrer en scène** কোথায় ঘটে?",
        "options": [
-        "in a courtroom · আদালতে",
         "on a stage · মঞ্চে",
         "in a shop · দোকানে",
-        "at a station · স্টেশনে"
+        "at a station · স্টেশনে",
+        "in a courtroom · আদালতে"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "*La scène* is the stage · *la scène* মানে মঞ্চ।"
       }
      ]
@@ -1342,12 +1342,12 @@ LC.units.push({
       {
        "q": "To remove sweets from a diet you would use… · মিষ্টি বাদ দিতে ব্যবহার করবেন…",
        "options": [
+        "venir au fait",
         "couper la ligne",
         "supprimer les sucreries",
-        "garder son sang-froid",
-        "venir au fait"
+        "garder son sang-froid"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "**supprimer** removes entirely · **supprimer** মানে একেবারে বাদ দেওয়া।"
       },
       {
@@ -1375,12 +1375,12 @@ LC.units.push({
       {
        "q": "Which verb suits a dropped phone call? · ফোন কেটে গেলে কোন ক্রিয়া?",
        "options": [
-        "supprimer",
         "manger",
         "couper",
-        "peser"
+        "peser",
+        "supprimer"
        ],
-       "answer": 2,
+       "answer": 1,
        "explain": "**couper la communication** · সংযোগ কেটে যাওয়া।"
       }
      ]
@@ -1469,56 +1469,56 @@ LC.units.push({
       {
        "q": "**il pleut à seaux** compares rain to… · **il pleut à seaux** বৃষ্টিকে তুলনা করে…",
        "options": [
+        "running rivers · বহতা নদী",
         "cats and dogs · বিড়াল-কুকুর",
         "buckets of water · বালতিভরা জল",
-        "falling stones · পড়ন্ত পাথর",
-        "running rivers · বহতা নদী"
+        "falling stones · পড়ন্ত পাথর"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "*Un seau* is a bucket · *un seau* মানে বালতি।"
       },
       {
        "q": "**se passer de** means to… · **se passer de** মানে…",
        "options": [
-        "do without · ছাড়া চলা",
         "happen often · প্রায়ই ঘটা",
         "pass by quickly · দ্রুত পেরোনো",
-        "hand something over · হাতে তুলে দেওয়া"
+        "hand something over · হাতে তুলে দেওয়া",
+        "do without · ছাড়া চলা"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "The **de** turns *happen* into *do without* · **de** অর্থ বদলে দেয়।"
       },
       {
        "q": "**qu'il pleuve ou qu'il vente** is literally… · এর আক্ষরিক অর্থ…",
        "options": [
-        "morning and evening · সকাল-সন্ধ্যা",
-        "winter and summer · শীত-গ্রীষ্ম",
         "whether it rains or blows · বৃষ্টি হোক বা ঝড়",
-        "early and late · আগে-পরে"
+        "early and late · আগে-পরে",
+        "morning and evening · সকাল-সন্ধ্যা",
+        "winter and summer · শীত-গ্রীষ্ম"
        ],
-       "answer": 2,
+       "answer": 0,
        "explain": "Two subjunctives, meaning *whatever the weather* · আবহাওয়া যাই হোক।"
       },
       {
        "q": "**s'éteindre** used of noise means it… · শব্দের ক্ষেত্রে **s'éteindre** মানে…",
        "options": [
-        "grows louder · বেড়ে যায়",
-        "returns again · ফিরে আসে",
         "changes pitch · সুর বদলায়",
-        "dies down · থেমে যায়"
+        "dies down · থেমে যায়",
+        "grows louder · বেড়ে যায়",
+        "returns again · ফিরে আসে"
        ],
-       "answer": 3,
+       "answer": 1,
        "explain": "The same verb puts out a fire · একই ক্রিয়া আগুন নেভায়।"
       },
       {
        "q": "**rédiger** is what a lawyer does to… · **rédiger** দিয়ে আইনজীবী কী করেন…",
        "options": [
-        "a document · একটি দলিল",
-        "a courtroom · একটি আদালত",
         "a witness · একজন সাক্ষী",
-        "a payment · একটি পরিশোধ"
+        "a payment · একটি পরিশোধ",
+        "a document · একটি দলিল",
+        "a courtroom · একটি আদালত"
        ],
-       "answer": 0,
+       "answer": 2,
        "explain": "**rédiger** is to draft in writing · **rédiger** মানে লিখে খসড়া করা।"
       }
      ]
@@ -1607,34 +1607,34 @@ LC.units.push({
       {
        "q": "**se brouiller avec** means to… · **se brouiller avec** মানে…",
        "options": [
-        "make friends · বন্ধুত্ব করা",
-        "fall out · বিবাদ করা",
         "travel with · সঙ্গে যাওয়া",
-        "agree fully · পুরো একমত হওয়া"
+        "agree fully · পুরো একমত হওয়া",
+        "make friends · বন্ধুত্ব করা",
+        "fall out · বিবাদ করা"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "The same verb blurs an image · একই ক্রিয়া ছবি ঘোলাটে করে।"
       },
       {
        "q": "A plan that **avorte**… · যে পরিকল্পনা **avorte**…",
        "options": [
+        "comes to nothing · ভেস্তে যায়",
         "succeeds fully · পুরো সফল হয়",
         "is postponed · পিছিয়ে যায়",
-        "is written down · লিখে রাখা হয়",
-        "comes to nothing · ভেস্তে যায়"
+        "is written down · লিখে রাখা হয়"
        ],
-       "answer": 3,
+       "answer": 0,
        "explain": "The verb is about something never born · যা জন্মায়ই না।"
       },
       {
        "q": "**s'endormir** describes… · **s'endormir** বোঝায়…",
        "options": [
+        "dreaming aloud · ঘুমের ঘোরে বলা",
         "falling asleep · ঘুমিয়ে পড়া",
         "waking early · ভোরে ওঠা",
-        "staying awake · জেগে থাকা",
-        "dreaming aloud · ঘুমের ঘোরে বলা"
+        "staying awake · জেগে থাকা"
        ],
-       "answer": 0,
+       "answer": 1,
        "explain": "*Dormir* with the reflexive is to drop off · *dormir* আত্মবাচক হলে ঘুমিয়ে পড়া।"
       },
       {
@@ -1905,34 +1905,34 @@ LC.units.push({
       {
        "q": "**tout de bon** means… · **tout de bon** মানে…",
        "options": [
-        "for good · চিরতরে",
         "for now · আপাতত",
         "for free · বিনামূল্যে",
-        "for once · একবারের জন্য"
+        "for once · একবারের জন্য",
+        "for good · চিরতরে"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "Not *all the good*, but *once and for all* · একেবারের জন্য।"
       },
       {
        "q": "**lambiner** describes someone who… · **lambiner** মানে যে…",
        "options": [
-        "works quickly · দ্রুত কাজ করে",
         "dawdles about · গড়িমসি করে",
         "complains loudly · জোরে নালিশ করে",
-        "finishes early · আগে শেষ করে"
+        "finishes early · আগে শেষ করে",
+        "works quickly · দ্রুত কাজ করে"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "To dawdle and waste time · গড়িমসি করে সময় নষ্ট করা।"
       },
       {
        "q": "**pour le moment** marks something… · **pour le moment** বোঝায়…",
        "options": [
-        "final · চূড়ান্ত",
-        "forgotten · ভুলে যাওয়া",
         "forbidden · নিষিদ্ধ",
-        "temporary · সাময়িক"
+        "temporary · সাময়িক",
+        "final · চূড়ান্ত",
+        "forgotten · ভুলে যাওয়া"
        ],
-       "answer": 3,
+       "answer": 1,
        "explain": "Only for now · কেবল আপাতত।"
       }
      ]
@@ -2021,56 +2021,56 @@ LC.units.push({
       {
        "q": "To board a bus you use… · বাসে উঠতে ব্যবহার করবেন…",
        "options": [
+        "atteindre l'autobus",
         "descendre dans l'autobus",
         "monter dans l'autobus",
-        "arriver dans l'autobus",
-        "atteindre l'autobus"
+        "arriver dans l'autobus"
        ],
-       "answer": 1,
+       "answer": 2,
        "explain": "**monter dans** is to get on · **monter dans** মানে ওঠা।"
       },
       {
        "q": "**se venger de** means to… · **se venger de** মানে…",
        "options": [
-        "get back at · প্রতিশোধ নেওয়া",
         "get away from · দূরে সরে যাওয়া",
         "get on with · মিলেমিশে থাকা",
-        "get in touch · যোগাযোগ করা"
+        "get in touch · যোগাযোগ করা",
+        "get back at · প্রতিশোধ নেওয়া"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "*La vengeance* is revenge · *la vengeance* মানে প্রতিশোধ।"
       },
       {
        "q": "Why do **monter** and **descendre** take être here? · এখানে কেন **être** বসে?",
        "options": [
-        "they are reflexive · এরা আত্মবাচক",
-        "they are irregular · এরা অনিয়মিত",
         "they describe movement · এরা গমন বোঝায়",
-        "they are in the plural · এরা বহুবচনে"
+        "they are in the plural · এরা বহুবচনে",
+        "they are reflexive · এরা আত্মবাচক",
+        "they are irregular · এরা অনিয়মিত"
        ],
-       "answer": 2,
+       "answer": 0,
        "explain": "Movement verbs take être with no object · কর্ম না থাকলে গমনের ক্রিয়া être নেয়।"
       },
       {
        "q": "**s'enfuir** describes someone who… · **s'enfuir** মানে যে…",
        "options": [
-        "arrives early · আগে পৌঁছায়",
-        "waits quietly · চুপচাপ অপেক্ষা করে",
         "returns home · বাড়ি ফেরে",
-        "runs away · পালিয়ে যায়"
+        "runs away · পালিয়ে যায়",
+        "arrives early · আগে পৌঁছায়",
+        "waits quietly · চুপচাপ অপেক্ষা করে"
        ],
-       "answer": 3,
+       "answer": 1,
        "explain": "*Fuir* is to flee · *fuir* মানে পালানো।"
       },
       {
        "q": "**atteindre** means to… · **atteindre** মানে…",
        "options": [
-        "reach something · নাগাল পাওয়া",
-        "attend a class · ক্লাসে যাওয়া",
         "attach a thing · জুড়ে দেওয়া",
-        "attempt a task · চেষ্টা করা"
+        "attempt a task · চেষ্টা করা",
+        "reach something · নাগাল পাওয়া",
+        "attend a class · ক্লাসে যাওয়া"
        ],
-       "answer": 0,
+       "answer": 2,
        "explain": "A false friend: it is not *attend* · ছদ্মবন্ধু — এর মানে *attend* নয়।"
       }
      ]
@@ -2159,56 +2159,56 @@ LC.units.push({
       {
        "q": "**en venir à bout de** suggests the task was… · **en venir à bout de** বোঝায় কাজটি ছিল…",
        "options": [
-        "hard to finish · শেষ করা কঠিন",
         "quickly done · দ্রুত শেষ",
         "left undone · অসমাপ্ত",
-        "given to others · অন্যকে দেওয়া"
+        "given to others · অন্যকে দেওয়া",
+        "hard to finish · শেষ করা কঠিন"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "*Le bout* is the far end, reached with effort · *le bout* মানে শেষ প্রান্ত।"
       },
       {
        "q": "**manquer** used of supplies means they… · সরবরাহের ক্ষেত্রে **manquer** মানে…",
        "options": [
-        "arrive late · দেরিতে আসে",
         "run short · ফুরিয়ে যায়",
         "are shared out · ভাগ করা হয়",
-        "are stored away · তুলে রাখা হয়"
+        "are stored away · তুলে রাখা হয়",
+        "arrive late · দেরিতে আসে"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "To be lacking · ঘাটতি পড়া।"
       },
       {
        "q": "**le bagout** is a gift for… · **le bagout** কিসের দক্ষতা…",
        "options": [
-        "writing well · ভালো লেখা",
         "keeping secrets · গোপন রাখা",
         "smooth talking · চটপটে কথা",
-        "making money · টাকা কামানো"
+        "making money · টাকা কামানো",
+        "writing well · ভালো লেখা"
        ],
-       "answer": 2,
+       "answer": 1,
        "explain": "The persuasive patter · রাজি করানোর মতো বাক্পটুতা।"
       },
       {
        "q": "**se défaire de** means to… · **se défaire de** মানে…",
        "options": [
-        "hold on to · ধরে রাখা",
         "look for · খুঁজে বেড়ানো",
         "repair again · মেরামত করা",
-        "get rid of · বিদায় করা"
+        "get rid of · বিদায় করা",
+        "hold on to · ধরে রাখা"
        ],
-       "answer": 3,
+       "answer": 2,
        "explain": "To undo oneself of a thing · নিজেকে কোনো কিছু থেকে মুক্ত করা।"
       },
       {
        "q": "**ficher le camp** belongs in… · **ficher le camp** কোথায় মানায়…",
        "options": [
-        "casual speech · চলতি কথায়",
         "a formal letter · আনুষ্ঠানিক চিঠিতে",
         "a legal notice · আইনি নোটিশে",
-        "a job interview · চাকরির সাক্ষাৎকারে"
+        "a job interview · চাকরির সাক্ষাৎকারে",
+        "casual speech · চলতি কথায়"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "It is slang, and blunt · এটি কড়া চলতি কথা।"
       }
      ]
@@ -2297,23 +2297,23 @@ LC.units.push({
       {
        "q": "**avoir lieu** means an event… · **avoir lieu** মানে অনুষ্ঠানটি…",
        "options": [
-        "is cancelled · বাতিল হয়",
         "takes place · অনুষ্ঠিত হয়",
         "is delayed · পিছিয়ে যায়",
-        "is repeated · আবার হয়"
+        "is repeated · আবার হয়",
+        "is cancelled · বাতিল হয়"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "Literally *to have a place* · আক্ষরিক অর্থে *স্থান পাওয়া*।"
       },
       {
        "q": "**renoncer à** is followed by… · **renoncer à**-এর পরে বসে…",
        "options": [
+        "the place reached · যেখানে পৌঁছানো হয়",
         "the thing given up · যা ছাড়া হচ্ছে",
         "the person blamed · যাকে দোষ দেওয়া হয়",
-        "the time taken · যত সময় লাগে",
-        "the place reached · যেখানে পৌঁছানো হয়"
+        "the time taken · যত সময় লাগে"
        ],
-       "answer": 0,
+       "answer": 1,
        "explain": "*Renoncer à l'espoir* — give up hope · *renoncer à l'espoir* মানে আশা ছাড়া।"
       },
       {
@@ -2479,12 +2479,12 @@ LC.units.push({
       {
        "q": "To submit homework you would use… · বাড়ির কাজ জমা দিতে ব্যবহার করবেন…",
        "options": [
+        "accrocher",
         "remettre",
         "disparaître",
-        "examiner",
-        "accrocher"
+        "examiner"
        ],
-       "answer": 0,
+       "answer": 1,
        "explain": "**remettre un devoir** · কাজ জমা দেওয়া।"
       }
      ]
@@ -2573,56 +2573,56 @@ LC.units.push({
       {
        "q": "**décrocher** does the opposite of… · **décrocher**-এর উল্টো কাজ…",
        "options": [
-        "raccrocher",
-        "accrocher",
         "travailler",
-        "porter"
+        "porter",
+        "raccrocher",
+        "accrocher"
        ],
-       "answer": 0,
+       "answer": 2,
        "explain": "One picks up, the other hangs up · একটি তোলে, অন্যটি রাখে।"
       },
       {
        "q": "**ni queue ni tête** puts which first? · **ni queue ni tête**-এ আগে বসে…",
        "options": [
-        "the head · মাথা",
-        "the tail · লেজ",
         "the body · শরীর",
-        "the foot · পা"
+        "the foot · পা",
+        "the head · মাথা",
+        "the tail · লেজ"
        ],
-       "answer": 1,
+       "answer": 3,
        "explain": "French reverses the English order · ফরাসি ইংরেজির ক্রম উল্টে দেয়।"
       },
       {
        "q": "**un jour de congé** is a… · **un jour de congé** মানে…",
        "options": [
-        "working day · কাজের দিন",
-        "market day · হাটের দিন",
         "day off · ছুটির দিন",
-        "pay day · বেতনের দিন"
+        "pay day · বেতনের দিন",
+        "working day · কাজের দিন",
+        "market day · হাটের দিন"
        ],
-       "answer": 2,
+       "answer": 0,
        "explain": "*Le congé* is leave · *le congé* মানে ছুটি।"
       },
       {
        "q": "**porter** used of clothes means to… · পোশাকের ক্ষেত্রে **porter** মানে…",
        "options": [
-        "carry them · বয়ে নেওয়া",
-        "buy them · কেনা",
         "wash them · ধোয়া",
-        "wear them · পরা"
+        "wear them · পরা",
+        "carry them · বয়ে নেওয়া",
+        "buy them · কেনা"
        ],
-       "answer": 3,
+       "answer": 1,
        "explain": "The same verb carries and wears · একই ক্রিয়া বহন ও পরিধান বোঝায়।"
       },
       {
        "q": "**s'accrocher à** means to… · **s'accrocher à** মানে…",
        "options": [
-        "cling to something · কিছু আঁকড়ে ধরা",
-        "walk away from it · সরে যাওয়া",
         "give it away · দিয়ে দেওয়া",
-        "break it apart · ভেঙে ফেলা"
+        "break it apart · ভেঙে ফেলা",
+        "cling to something · কিছু আঁকড়ে ধরা",
+        "walk away from it · সরে যাওয়া"
        ],
-       "answer": 0,
+       "answer": 2,
        "explain": "*Un crochet* is a hook · *un crochet* মানে হুক।"
       }
      ]
@@ -2711,56 +2711,56 @@ LC.units.push({
       {
        "q": "**cousu de fil blanc** describes an excuse that is… · **cousu de fil blanc** মানে এমন অজুহাত যা…",
        "options": [
-        "obvious · সহজেই ধরা পড়ে",
         "convincing · বিশ্বাসযোগ্য",
         "complicated · জটিল",
-        "forgotten · ভুলে যাওয়া"
+        "forgotten · ভুলে যাওয়া",
+        "obvious · সহজেই ধরা পড়ে"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "The white stitching shows on dark cloth · সাদা সুতোর সেলাই চোখে পড়ে।"
       },
       {
        "q": "**à main armée** means the robbery involved… · **à main armée** মানে ছিনতাইয়ে ছিল…",
        "options": [
-        "many people · বহু লোক",
         "a weapon · অস্ত্র",
         "a vehicle · গাড়ি",
-        "a disguise · ছদ্মবেশ"
+        "a disguise · ছদ্মবেশ",
+        "many people · বহু লোক"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "*Armed hand* · *সশস্ত্র হাত*।"
       },
       {
        "q": "**dissimuler** means to… · **dissimuler** মানে…",
        "options": [
-        "explain fully · পুরো ব্যাখ্যা করা",
         "repeat loudly · জোরে বলা",
         "conceal · গোপন রাখা",
-        "write down · লিখে রাখা"
+        "write down · লিখে রাখা",
+        "explain fully · পুরো ব্যাখ্যা করা"
        ],
-       "answer": 2,
+       "answer": 1,
        "explain": "To hide away deliberately · ইচ্ছে করে লুকিয়ে রাখা।"
       },
       {
        "q": "**tomber sur** a solution means you… · সমাধানের বেলায় **tomber sur** মানে…",
        "options": [
-        "searched for years · বহু বছর খুঁজেছেন",
         "asked for help · সাহায্য চেয়েছেন",
         "gave up on it · হাল ছেড়েছেন",
-        "came upon it · হঠাৎ পেয়ে গেছেন"
+        "came upon it · হঠাৎ পেয়ে গেছেন",
+        "searched for years · বহু বছর খুঁজেছেন"
        ],
-       "answer": 3,
+       "answer": 2,
        "explain": "To fall upon it by chance · হঠাৎ এসে পড়া।"
       },
       {
        "q": "**la standardiste** works… · **la standardiste** কাজ করেন…",
        "options": [
-        "on a switchboard · টেলিফোন বোর্ডে",
         "in a laboratory · গবেষণাগারে",
         "at a counter · কাউন্টারে",
-        "on a farm · খামারে"
+        "on a farm · খামারে",
+        "on a switchboard · টেলিফোন বোর্ডে"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "*Le standard* is the switchboard · *le standard* মানে টেলিফোন বোর্ড।"
       }
      ]
@@ -2849,57 +2849,471 @@ LC.units.push({
       {
        "q": "**en un mot** means… · **en un mot** মানে…",
        "options": [
-        "word for word · শব্দে শব্দে",
         "in a word · এক কথায়",
         "without a word · কথা না বলে",
-        "in other words · অন্য কথায়"
+        "in other words · অন্য কথায়",
+        "word for word · শব্দে শব্দে"
        ],
-       "answer": 1,
+       "answer": 0,
        "explain": "The French summary is *in one word* · ফরাসিতে *এক কথায়*।"
       },
       {
        "q": "A steak **à point** is cooked… · **à point** স্টেক কতটা সেদ্ধ…",
        "options": [
-        "very rare · প্রায় কাঁচা",
         "well done · ভালোভাবে সেদ্ধ",
         "medium · মাঝারি",
-        "not at all · একেবারেই নয়"
+        "not at all · একেবারেই নয়",
+        "very rare · প্রায় কাঁচা"
        ],
-       "answer": 2,
+       "answer": 1,
        "explain": "Just at the right point · ঠিক মাঝামাঝি।"
       },
       {
        "q": "**dans l'ignorance** describes someone who… · **dans l'ignorance** মানে যে…",
        "options": [
-        "knows everything · সব জানে",
         "has been warned · সতর্ক হয়েছে",
         "refuses to listen · শুনতে চায় না",
-        "knows nothing · কিছুই জানে না"
+        "knows nothing · কিছুই জানে না",
+        "knows everything · সব জানে"
        ],
-       "answer": 3,
+       "answer": 2,
        "explain": "In the dark about it · বিষয়টি সম্পর্কে অজ্ঞ।"
       },
       {
        "q": "**de toute façon** means… · **de toute façon** মানে…",
        "options": [
-        "in any case · যাই হোক",
         "in one way · এক উপায়ে",
         "in a hurry · তাড়াহুড়োয়",
-        "in secret · গোপনে"
+        "in secret · গোপনে",
+        "in any case · যাই হোক"
        ],
-       "answer": 0,
+       "answer": 3,
        "explain": "Literally *in every fashion* · আক্ষরিক অর্থে *যেভাবেই হোক*।"
       },
       {
        "q": "**fonctionner** used of a lift means it… · লিফটের ক্ষেত্রে **fonctionner** মানে…",
        "options": [
-        "is being repaired · মেরামত হচ্ছে",
         "works properly · ঠিকভাবে চলে",
         "is out of order · বিকল",
-        "is very old · অনেক পুরোনো"
+        "is very old · অনেক পুরোনো",
+        "is being repaired · মেরামত হচ্ছে"
+       ],
+       "answer": 0,
+       "explain": "It is in working order · এটি সচল আছে।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-k1",
+   "icon": "K",
+   "title": "I–K · ins and outs → keep in touch · ঝ-বর্গ প্রথম অংশ",
+   "subtitle": "Knowing every corner and keeping watch · সব কোণ জানা আর নজর রাখা",
+   "minutes": 10,
+   "goals": [
+    "Learn les coins et recoins for the ins and outs · খুঁটিনাটি বোঝাতে les coins et recoins শিখুন",
+    "Use peu m'importe for it doesn't matter · কিছু যায় আসে না বোঝাতে peu m'importe ব্যবহার করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**les coins et recoins** — *the corners and the inner corners* — is how French says *the ins and outs*: every nook of a subject, not its entrance and exit. · **les coins et recoins** মানে বিষয়ের প্রতিটি কোণ, অর্থাৎ খুঁটিনাটি।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Monsieur Rahman connaît tous les coins et recoins de la psychologie.",
+       "tr": "muh-syuh rah-MAHN koh-NEH too lay kwahn ay ruh-KWAHN duh lah psee-koh-loh-ZHEE · ম্যসীয়ো রহমান কনে তু লে কোয়াঁ এ র্যকোয়াঁ দ্য লা প্সিকলজ়ি",
+       "mean": "Mr Rahman knows the ins and outs of psychology · রহমান সাহেব মনোবিজ্ঞানের খুঁটিনাটি সব জানেন",
+       "note": "**ins and outs** — every detail · খুঁটিনাটি"
+      },
+      {
+       "t": "Peu m'importe, si vous m'aimez ou vous me détestez, je vous aime.",
+       "tr": "puh mahn-PORT see voo meh-MAY oo voo muh day-tes-TAY zhuh voo ZEM · প্য মাঁপর্ত্, সি ভু মেমে উ ভু ম্য দেতেস্তে, জ়্য ভুজ়্ এম্",
+       "mean": "It doesn't matter whether you love me or hate me, I love you · তুমি ভালোবাস বা ঘৃণা কর, আমার কিছু যায় আসে না — আমি তোমাকে ভালোবাসি",
+       "note": "**it doesn't matter** — it is of little concern · কিছু যায় আসে না"
+      },
+      {
+       "t": "Reba cuisine à la hâte, aussi sa cuisine n'est-elle pas bonne.",
+       "tr": "ray-bah kwee-ZEEN ah lah AHT oh-see sah kwee-ZEEN neh tel pah BON · রেবা কুইজ়িন্ আ লা আত্, ওসি সা কুইজ়িন্ নেত্-এল্ পা বন্",
+       "mean": "Reba cooks in a hurry, so her cooking is not good · রেবা তাড়াহুড়ো করে রান্না করে, তাই রান্না ভালো হয় না",
+       "note": "**in a hurry** — hastily · তাড়াহুড়ো করে"
+      },
+      {
+       "t": "À la longue, Ripa préfère rester avec Akash.",
+       "tr": "ah lah LOHNG ree-pah pray-FEHR res-TAY ah-vek ah-KAHSH · আ লা লঁগ্, রিপা প্রেফের্ রেস্তে আভেক্ আকাশ",
+       "mean": "In the long run Ripa prefers to be with Akash · পরিণামে রিপা আকাশের সঙ্গেই থাকতে চায়",
+       "note": "**in the long run** — in the end · অবশেষে, পরিণামে"
+      },
+      {
+       "t": "Sheema doit jeter un coup d'œil sur le bébé.",
+       "tr": "shee-mah dwah zhuh-TAY uhn koo DUHY sewr luh bay-BAY · শীমা দোয়া জ়্যতে আঁ কু দ্যই স্যুর্ ল্য বেবে",
+       "mean": "Sheema has to keep an eye on the baby · শীমাকে শিশুটির দিকে নজর রাখতে হয়",
+       "note": "**keep an eye on** — watch over · লক্ষ রাখা"
+      },
+      {
+       "t": "La fille aînée tient la maison parce qu'il n'y a pas de mère.",
+       "tr": "lah feey eh-NAY tyahn lah meh-ZOHN pahrs keel nyah pah duh MEHR · লা ফিই এনে তীয়াঁ লা মেজ়ঁ পার্স্ কিল্ নি আ পা দ্য মের্",
+       "mean": "The elder girl keeps house because there is no mother · মা না থাকায় বড় মেয়েটিই সংসার সামলায়",
+       "note": "**keep house** — run the household · গৃহস্থালি সামলানো"
+      },
+      {
+       "t": "Tâchez de garder le conseil de votre mère présent à l'esprit.",
+       "tr": "tah-SHAY duh gahr-DAY luh kohn-SEY duh votr mehr pray-zahn tah les-PREE · তাশে দ্য গার্দে ল্য কঁসেই দ্য ভত্র্ মের্ প্রেজ়ঁত্ আ লেস্প্রি",
+       "mean": "Keep your mother's advice in mind · মায়ের উপদেশ মনে রেখো",
+       "note": "**keep in mind** — remember · মনে রাখা"
+      },
+      {
+       "t": "Happy garde le contact avec ses amies.",
+       "tr": "ah-PEE gahrd luh kohn-TAHKT ah-vek say zah-MEE · হ্যাপী গার্দ্ ল্য কঁতাক্ত্ আভেক্ সেজ়ামি",
+       "mean": "Happy keeps in touch with her friends · হ্যাপী বান্ধবীদের সঙ্গে যোগাযোগ রাখে",
+       "note": "**keep in touch** — stay in contact · যোগাযোগ রাখা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "fun",
+     "text": "**jeter un coup d'œil** is *to throw a stroke of the eye* — a glance. For steady watching French often prefers **surveiller**. · **jeter un coup d'œil** মানে এক নজর দেখা; নিয়মিত পাহারায় **surveiller**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**les coins et recoins** means… · **les coins et recoins** মানে…",
+       "options": [
+        "the far end · দূর প্রান্ত",
+        "every detail · খুঁটিনাটি সব",
+        "the way in · ঢোকার পথ",
+        "the two sides · দুই দিক"
        ],
        "answer": 1,
-       "explain": "It is in working order · এটি সচল আছে।"
+       "explain": "Corners and inner corners · কোণ আর ভেতরের কোণ।"
+      },
+      {
+       "q": "**à la longue** means… · **à la longue** মানে…",
+       "options": [
+        "for a long time · বহুক্ষণ",
+        "at great length · বিশদভাবে",
+        "in the long run · পরিণামে",
+        "along the way · পথে পথে"
+       ],
+       "answer": 2,
+       "explain": "Over time, in the end · সময়ের সঙ্গে, শেষমেশ।"
+      },
+      {
+       "q": "**un coup d'œil** is a… · **un coup d'œil** মানে…",
+       "options": [
+        "blind spot · অন্ধ জায়গা",
+        "long stare · একদৃষ্টে চাওয়া",
+        "closed eye · বন্ধ চোখ",
+        "glance · এক নজর"
+       ],
+       "answer": 3,
+       "explain": "A stroke of the eye · চোখের এক ঝলক।"
+      },
+      {
+       "q": "**peu m'importe** says the speaker… · **peu m'importe** মানে বক্তার…",
+       "options": [
+        "does not mind · কিছু যায় আসে না",
+        "is very worried · খুব চিন্তিত",
+        "wants an answer · উত্তর চান",
+        "disagrees firmly · কড়া আপত্তি"
+       ],
+       "answer": 0,
+       "explain": "*It matters little to me* · *আমার কাছে তা সামান্য*।"
+      },
+      {
+       "q": "**tenir la maison** means to… · **tenir la maison** মানে…",
+       "options": [
+        "build a home · বাড়ি গড়া",
+        "run the household · সংসার সামলানো",
+        "own the house · বাড়ির মালিক হওয়া",
+        "rent out rooms · ঘর ভাড়া দেওয়া"
+       ],
+       "answer": 1,
+       "explain": "To hold the house together · ঘর ধরে রাখা।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-l1",
+   "icon": "L",
+   "title": "K–L · keep on → let alone · ঝ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Carrying on, laying off and leaving word · চালিয়ে যাওয়া, ছাঁটাই আর খবর রেখে যাওয়া",
+   "minutes": 10,
+   "goals": [
+    "Separate keep on from keep up · keep on ও keep up আলাদা করুন",
+    "Learn transpirer for news that leaks out · খবর ফাঁস হওয়া বোঝাতে transpirer শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**transpirer** means to perspire, and also for news to seep out — the same slow passage through a barrier. English leaks; French sweats. · **transpirer** মানে ঘামা, আবার খবর চুইয়ে বেরোনো।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Elle continue son devoir.",
+       "tr": "el kohn-tee-NEW sohn duh-VWAHR · এল্ কঁতিন্যু সঁ দ্যভোয়ার্",
+       "mean": "She keeps on with her duty · সে তার দায়িত্ব পালন করে যাচ্ছে",
+       "note": "**keep on** — continue · চালিয়ে যাওয়া"
+      },
+      {
+       "t": "Si vous continuez le bon travail, vous réussirez.",
+       "tr": "see voo kohn-tee-NWAY luh bohn trah-VYE voo ray-ew-see-RAY · সি ভু কঁতিন্যুয়ে ল্য বঁ ত্রাভাই, ভু রেউসিরে",
+       "mean": "If you keep up the good work you'll succeed · ভালো কাজটি বজায় রাখলে তুমি সফল হবে",
+       "note": "**keep up** — maintain · বজায় রাখা"
+      },
+      {
+       "t": "Elle a été congédiée pour paresse.",
+       "tr": "el ah ay-TAY kohn-zhay-DYAY poor pah-RES · এল্ আ এতে কঁজ়েদীয়ে পুর্ পারেস্",
+       "mean": "She was laid off because of laziness · অলসতার কারণে তাকে অব্যাহতি দেওয়া হয়েছিল",
+       "note": "**lay off** — dismiss from work · সাময়িক অব্যাহতি"
+      },
+      {
+       "t": "Laissez donc ce sujet ; il prête trop à polémique.",
+       "tr": "leh-SAY DOHNK suh sew-ZHEH eel pret troh ah poh-lay-MEEK · লেসে দঁক্ স্য স্যুজ়ে; ইল্ প্রেত্ ত্র আ পলেমিক্",
+       "mean": "Leave off this subject; it is too controversial · বিষয়টি বাদ দাও, এটি বড্ড বিতর্কিত",
+       "note": "**leave off** — drop a topic · বাদ দেওয়া"
+      },
+      {
+       "t": "Le bruit de sa nomination transpirait malgré tout le secret.",
+       "tr": "luh brwee duh sah noh-mee-nah-SYOHN trahn-spee-REH mahl-GRAY too luh suh-KREH · ল্য ব্রুই দ্য সা নমিনাসীয়ঁ ত্রঁস্পিরে মালগ্রে তু ল্য স্যক্রে",
+       "mean": "Word about his nomination leaked out in spite of all the secrecy · এত গোপনীয়তা সত্ত্বেও তার মনোনয়নের কথা ফাঁস হয়ে গেল",
+       "note": "**leak out** — become known · ফাঁস হয়ে পড়া"
+      },
+      {
+       "t": "J'ai laissé un message à sa femme pour qu'il me rappelle.",
+       "tr": "zhay leh-SAY uhn meh-SAHZH ah sah FAHM poor keel muh rah-PEL · জ়ে লেসে আঁ মেসাজ়্ আ সা ফাম্ পুর্ কিল্ ম্য রাপেল্",
+       "mean": "I left word with his wife for him to call me back · তার স্ত্রীর কাছে বলে এসেছিলাম যেন সে আমাকে ফোন করে",
+       "note": "**leave word** — leave a message · খবর রেখে যাওয়া"
+      },
+      {
+       "t": "Fiche-moi la paix et va-t'en.",
+       "tr": "feesh mwah lah PEH ay vah TAHN · ফিশ্ মোয়া লা পে এ ভা-ত-অঁ",
+       "mean": "Let me alone and go away · আমাকে আমার মতো থাকতে দাও আর চলে যাও",
+       "note": "**let alone** — leave someone in peace · রেহাই দেওয়া"
+      },
+      {
+       "t": "Ce sujet prête à polémique.",
+       "tr": "suh sew-ZHEH pret ah poh-lay-MEEK · স্য স্যুজ়ে প্রেত্ আ পলেমিক্",
+       "mean": "This subject invites controversy · এই বিষয়টি বিতর্ক ডেকে আনে",
+       "note": "**prêter à** — lend itself to · ডেকে আনা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**fiche-moi la paix** is rude — *give me peace*, said sharply. Among strangers use **laissez-moi tranquille**. · **fiche-moi la paix** রূঢ়; অপরিচিতের সঙ্গে বলুন **laissez-moi tranquille**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**transpirer** used of news means it… · খবরের ক্ষেত্রে **transpirer** মানে…",
+       "options": [
+        "is delayed · পিছিয়ে যায়",
+        "is announced · ঘোষণা করা হয়",
+        "leaks out · ফাঁস হয়ে যায়",
+        "is denied · অস্বীকার করা হয়"
+       ],
+       "answer": 2,
+       "explain": "It seeps through like sweat · ঘামের মতো চুইয়ে বেরোয়।"
+      },
+      {
+       "q": "**congédier** means to… · **congédier** মানে…",
+       "options": [
+        "train someone · প্রশিক্ষণ দেওয়া",
+        "hire someone · নিয়োগ দেওয়া",
+        "promote someone · পদোন্নতি দেওয়া",
+        "dismiss someone · ছাঁটাই করা"
+       ],
+       "answer": 3,
+       "explain": "Linked to *congé*, leave · *congé* অর্থাৎ ছুটির সঙ্গে সম্পর্কিত।"
+      },
+      {
+       "q": "**prêter à polémique** describes a subject that is… · **prêter à polémique** মানে বিষয়টি…",
+       "options": [
+        "controversial · বিতর্কিত",
+        "settled · মীমাংসিত",
+        "forgotten · ভুলে যাওয়া",
+        "private · ব্যক্তিগত"
+       ],
+       "answer": 0,
+       "explain": "It lends itself to argument · এটি তর্ক ডেকে আনে।"
+      },
+      {
+       "q": "Which is the polite way to ask for peace? · ভদ্রভাবে রেহাই চাইতে কোনটি?",
+       "options": [
+        "laissez donc",
+        "laissez-moi tranquille",
+        "fiche-moi la paix",
+        "va-t'en donc"
+       ],
+       "answer": 1,
+       "explain": "The others are blunt or mean something else · বাকিগুলো রূঢ় বা অন্য অর্থ।"
+      },
+      {
+       "q": "**continuer** covers which two English verbs here? · এখানে **continuer** কোন দুটি ইংরেজি ক্রিয়া বোঝায়?",
+       "options": [
+        "lay off and leave off · ছাঁটাই ও বাদ দেওয়া",
+        "leak out and let alone · ফাঁস হওয়া ও রেহাই দেওয়া",
+        "keep on and keep up · চালিয়ে যাওয়া ও বজায় রাখা",
+        "keep in and keep out · ভেতরে ও বাইরে রাখা"
+       ],
+       "answer": 2,
+       "explain": "One French verb serves both · এক ফরাসি ক্রিয়াই দুটোর কাজ করে।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-l2",
+   "icon": "L",
+   "title": "L · let down → look forward to · ঝ-বর্গ তৃতীয় অংশ",
+   "subtitle": "Letting people down, off and go · নিরাশ করা, ছেড়ে দেওয়া আর রেহাই",
+   "minutes": 10,
+   "goals": [
+    "Collect the let- family, which French scatters widely · let- পরিবার সংগ্রহ করুন, ফরাসি যা ছড়িয়ে দেয়",
+    "Learn laisser en panne for letting someone down · নিরাশ করা বোঝাতে laisser en panne শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**laisser en panne** reuses the breakdown image from earlier: to leave someone stranded, the way a car is left at the roadside. · **laisser en panne** মানে কাউকে অসহায় অবস্থায় ফেলে যাওয়া, বিকল গাড়ির মতো।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Ne me laissez pas en panne à présent que j'ai besoin de votre aide.",
+       "tr": "nuh muh leh-SAY pah zahn PAHN ah pray-ZAHN kuh zhay buh-ZWAHN duh votr ED · ন্য ম্য লেসে পাজ়্ অঁ পান্ আ প্রেজ়ঁ ক্য জ়ে ব্যজ়োয়াঁ দ্য ভত্র্ এদ্",
+       "mean": "Don't let me down when I need your help · যখন তোমার সাহায্য দরকার তখন আমাকে নিরাশ কোরো না",
+       "note": "**let down** — fail someone · নিরাশ করা"
+      },
+      {
+       "t": "Ne me punissez pas cette fois, et je ne le ferai plus.",
+       "tr": "nuh muh pew-nee-SAY pah set FWAH ay zhuh nuh luh fuh-ray PLEW · ন্য ম্য প্যুনিসে পা সেত্ ফোয়া, এ জ়্য ন্য ল্য ফ্যরে প্ল্যু",
+       "mean": "Let me go this time, and I won't do it again · এবার আমাকে ছেড়ে দিন, আর কখনো করব না",
+       "note": "**let go** — release, spare · মুক্তি দেওয়া"
+      },
+      {
+       "t": "L'agent s'est contenté de lui donner un avertissement.",
+       "tr": "lah-ZHAHN seh kohn-tahn-TAY duh lwee doh-NAY uhn nah-vehr-tees-MAHN · লাজ়ঁ সে কঁতঁতে দ্য লুই দনে আঁন্ আভের্তিসমঁ",
+       "mean": "The policeman let her off with a warning · পুলিশ শুধু সতর্কবাণী দিয়ে তাকে ছেড়ে দিলেন",
+       "note": "**let off** — release without punishment · জরিমানা ছাড়াই ছাড়া"
+      },
+      {
+       "t": "N'allez pas dire ce que vous savez sur moi.",
+       "tr": "nah-lay pah DEER suh kuh voo sah-VAY sewr MWAH · নালে পা দির্ স্য ক্য ভু সাভে স্যুর্ মোয়া",
+       "mean": "Don't let on what you know about me · আমার সম্পর্কে যা জান তা ফাঁস কোরো না",
+       "note": "**let on** — give a secret away · ফাঁস করে দেওয়া"
+      },
+      {
+       "t": "Pourquoi ne cessez-vous pas de me tourmenter ?",
+       "tr": "poor-KWAH nuh seh-say VOO pah duh muh toor-mahn-TAY · পুর্কোয়া ন্য সেসে-ভু পা দ্য ম্য তুর্মঁতে",
+       "mean": "Why don't you let up on me? · আমার উপর থেকে চাপ কমাচ্ছেন না কেন?",
+       "note": "**let up on** — ease off someone · সদয় হওয়া"
+      },
+      {
+       "t": "À la longue, l'honnêteté rend toujours.",
+       "tr": "ah lah LOHNG loh-net-TAY rahn too-ZHOOR · আ লা লঁগ্, লনেততে রঁ তুজ়ুর্",
+       "mean": "In the long run, honesty always pays · পরিণামে সততাই ফল দেয়",
+       "note": "**the long run** — over time · পরিণামে"
+      },
+      {
+       "t": "La gouvernante a surveillé l'enfant.",
+       "tr": "lah goo-vehr-NAHNT ah sewr-veh-YAY lahn-FAHN · লা গুভের্নঁত্ আ স্যুর্ভেইয়ে লঁফঁ",
+       "mean": "The governess looked after the child · গৃহশিক্ষিকা শিশুটির দেখাশোনা করেছিলেন",
+       "note": "**look after** — take care of · যত্ন নেওয়া"
+      },
+      {
+       "t": "J'attends le plaisir de vous revoir.",
+       "tr": "zhah-TAHN luh pleh-ZEER duh voo ruh-VWAHR · জ়াতঁ ল্য প্লেজ়ির্ দ্য ভু র্যভোয়ার্",
+       "mean": "I am looking forward to seeing you again · আবার আপনার সঙ্গে দেখা হওয়ার অপেক্ষায় আছি",
+       "note": "**look forward to** — await with pleasure · সাগ্রহে প্রতীক্ষা করা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "culture",
+     "text": "**J'attends le plaisir de vous revoir** is warm but formal, good at the end of a letter. Among friends say simply **à bientôt**. · চিঠির শেষে **J'attends le plaisir de vous revoir**; বন্ধুদের বলুন **à bientôt**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**laisser en panne** pictures someone left… · **laisser en panne** মানে কাউকে ফেলে যাওয়া…",
+       "options": [
+        "well fed · ভালোভাবে খাইয়ে",
+        "far ahead · অনেক এগিয়ে",
+        "safely home · নিরাপদে বাড়িতে",
+        "stranded · অসহায় অবস্থায়"
+       ],
+       "answer": 3,
+       "explain": "Like a broken-down car · বিকল গাড়ির মতো।"
+      },
+      {
+       "q": "**se contenter de** means to… · **se contenter de** মানে…",
+       "options": [
+        "do no more than · এটুকুতেই থামা",
+        "refuse entirely · পুরো অস্বীকার",
+        "repeat twice · দুবার করা",
+        "demand more · আরও দাবি করা"
+       ],
+       "answer": 0,
+       "explain": "To be satisfied with just that · এটুকুতেই সন্তুষ্ট থাকা।"
+      },
+      {
+       "q": "**surveiller** is what a governess does to a… · গৃহশিক্ষিকা কী **surveiller** করেন…",
+       "options": [
+        "house · বাড়ি",
+        "child · শিশু",
+        "lesson · পাঠ",
+        "letter · চিঠি"
+       ],
+       "answer": 1,
+       "explain": "To watch over and care for · দেখাশোনা করা।"
+      },
+      {
+       "q": "**tourmenter** means to… · **tourmenter** মানে…",
+       "options": [
+        "teach patiently · ধৈর্য ধরে শেখানো",
+        "travel far · বহু দূর যাওয়া",
+        "torment · উত্ত্যক্ত করা",
+        "turn around · ঘুরিয়ে দেওয়া"
+       ],
+       "answer": 2,
+       "explain": "Not related to *tourner* · *tourner*-এর সঙ্গে সম্পর্ক নেই।"
+      },
+      {
+       "q": "Which phrase closes a formal letter warmly? · আনুষ্ঠানিক চিঠি আন্তরিকভাবে শেষ করতে কোনটি?",
+       "options": [
+        "Fiche-moi la paix",
+        "Ne me punissez pas",
+        "Pourquoi ne cessez-vous pas",
+        "J'attends le plaisir de vous revoir"
+       ],
+       "answer": 3,
+       "explain": "The others are blunt or pleading · বাকিগুলো রূঢ় বা অনুনয়।"
       }
      ]
     }
