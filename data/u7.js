@@ -181,6 +181,32 @@ LC.units.push({
      "text": "{{eu}} is pronounced simply **ew** — the first letter is silent. And {{j'ai eu}} is said *zhay EW*, not *zhay uh-EW*. · eu-এর উচ্চারণ কেবল য়্যু; প্রথম অক্ষর নীরব।"
     },
     {
+     "type": "practice",
+     "text": "Say the whole present tense aloud without looking. These two verbs must come automatically. · না দেখে পুরো বর্তমান কাল বলুন; এই দুটি ক্রিয়া আপনাআপনি আসা চাই।",
+     "lines": [
+      {
+       "t": "je suis, tu es, il est",
+       "mean": "I am, you are, he is · আমি আছি, তুমি আছ, সে আছে"
+      },
+      {
+       "t": "nous sommes, vous êtes, ils sont",
+       "mean": "we are, you are, they are · আমরা, আপনারা, তারা আছে"
+      },
+      {
+       "t": "j'ai, tu as, il a",
+       "mean": "I have, you have, he has · আমার, তোমার, তার আছে"
+      },
+      {
+       "t": "nous avons, vous avez, ils ont",
+       "mean": "we have, you have, they have · আমাদের, আপনাদের, তাদের আছে"
+      },
+      {
+       "t": "J'ai vingt ans et je suis étudiant.",
+       "mean": "I am twenty and I am a student · আমার বয়স বিশ, আমি ছাত্র"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -373,6 +399,32 @@ LC.units.push({
        "t": "appeler → j'appelle",
        "tr": "the l doubles instead · বদলে l দ্বিগুণ হয়",
        "hl": "appelle"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Say each set aloud. Three endings cover most verbs in the language. · প্রতিটি সেট বলুন; তিনটি শেষাংশেই অধিকাংশ ক্রিয়া চলে।",
+     "lines": [
+      {
+       "t": "je parle, tu parles, il parle",
+       "mean": "-er: to speak · -er দল: বলা"
+      },
+      {
+       "t": "nous parlons, vous parlez, ils parlent",
+       "mean": "the plural of -er · -er-এর বহুবচন"
+      },
+      {
+       "t": "je finis, nous finissons, ils finissent",
+       "mean": "-ir: to finish, with -iss- · -ir দল, -iss- সহ"
+      },
+      {
+       "t": "je vends, nous vendons, ils vendent",
+       "mean": "-re: to sell · -re দল: বিক্রি করা"
+      },
+      {
+       "t": "Nous parlons, nous finissons, nous vendons.",
+       "mean": "the three patterns in a row · তিনটি ছাঁদ পরপর"
       }
      ]
     },
@@ -598,6 +650,32 @@ LC.units.push({
      "text": "{{vous dites}} and {{vous faites}} are irregular; but {{vous disez}} and *vous faisez* do not exist. Compare the regular {{vous lisez}}. · dites ও faites অনিয়মিত।"
     },
     {
+     "type": "practice",
+     "text": "Say each line aloud. These irregulars are too common to look up; they must be in the mouth. · এই অনিয়মিত ক্রিয়াগুলো এত চলে যে মুখস্থই থাকা চাই।",
+     "lines": [
+      {
+       "t": "je vais, tu vas, il va, nous allons",
+       "mean": "aller: to go · aller: যাওয়া"
+      },
+      {
+       "t": "je fais, nous faisons, ils font",
+       "mean": "faire: to do, to make · faire: করা"
+      },
+      {
+       "t": "je viens, nous venons, ils viennent",
+       "mean": "venir: to come · venir: আসা"
+      },
+      {
+       "t": "je prends, nous prenons, ils prennent",
+       "mean": "prendre: to take · prendre: নেওয়া"
+      },
+      {
+       "t": "je vois, nous voyons, ils voient",
+       "mean": "voir: to see · voir: দেখা"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -807,6 +885,32 @@ LC.units.push({
       }
      ],
      "title": "The polite conditional at work · ভদ্র শর্তবাচক কাজে"
+    },
+    {
+     "type": "practice",
+     "text": "Say each line aloud. After a modal the next verb never changes: it stays in the plain form. · বলুন; modal-এর পরের ক্রিয়া বদলায় না, মূল রূপেই থাকে।",
+     "lines": [
+      {
+       "t": "Je peux venir demain.",
+       "mean": "I can come tomorrow · কাল আসতে পারি"
+      },
+      {
+       "t": "Je dois partir maintenant.",
+       "mean": "I must leave now · এখনই যেতে হবে"
+      },
+      {
+       "t": "Je veux apprendre le français.",
+       "mean": "I want to learn French · ফরাসি শিখতে চাই"
+      },
+      {
+       "t": "Je sais nager, mais je ne peux pas aujourd'hui.",
+       "mean": "I can swim, but not today · সাঁতার জানি, তবে আজ পারব না"
+      },
+      {
+       "t": "Il faut travailler pour réussir.",
+       "mean": "One must work to succeed · সফল হতে খাটতে হয়"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -1041,6 +1145,32 @@ LC.units.push({
      "text": "{{connaître}} keeps its circumflex only before a **t**: {{il connaît}} but {{nous connaissons}}. The 1990 spelling reform allows {{connaitre}} without it, and both are accepted. · চিহ্নটি কেবল t-এর আগে থাকে।"
     },
     {
+     "type": "practice",
+     "text": "Say each line aloud. Add one verb a day and the table becomes speech. · রোজ একটি করে ক্রিয়া যোগ করুন; তালিকাই কথা হয়ে উঠবে।",
+     "lines": [
+      {
+       "t": "je mets, nous mettons, ils mettent",
+       "mean": "mettre: to put · mettre: রাখা"
+      },
+      {
+       "t": "je sors, nous sortons, ils sortent",
+       "mean": "sortir: to go out · sortir: বেরোনো"
+      },
+      {
+       "t": "j'écris, nous écrivons, ils écrivent",
+       "mean": "écrire: to write · écrire: লেখা"
+      },
+      {
+       "t": "je lis, nous lisons, ils lisent",
+       "mean": "lire: to read · lire: পড়া"
+      },
+      {
+       "t": "je bois, nous buvons, ils boivent",
+       "mean": "boire: to drink · boire: পান করা"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1252,6 +1382,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Say the infinitive and its participle together, as one pair. That is how they are remembered. · ক্রিয়ামূল ও কৃদন্তপদ একসঙ্গে বলুন; জোড়া বেঁধেই মনে থাকে।",
+     "lines": [
+      {
+       "t": "avoir → eu ; être → été",
+       "mean": "had; been · পাওয়া; হওয়া"
+      },
+      {
+       "t": "faire → fait ; prendre → pris",
+       "mean": "done; taken · করা; নেওয়া"
+      },
+      {
+       "t": "voir → vu ; boire → bu",
+       "mean": "seen; drunk · দেখা; পান করা"
+      },
+      {
+       "t": "écrire → écrit ; dire → dit",
+       "mean": "written; said · লেখা; বলা"
+      },
+      {
+       "t": "venir → venu ; pouvoir → pu",
+       "mean": "come; been able · আসা; পারা"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1421,6 +1577,32 @@ LC.units.push({
        "tr": "mah-dam lah dee-rek-TREES · মাদাম লা দিরেক্ত্রিস",
        "mean": "Madam Director · ম্যাডাম ডিরেক্টর",
        "note": "title by office, in a letter · চিঠিতে পদ অনুযায়ী সম্বোধন"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. Use the title alone, never the family name after Monsieur in speech. · জোরে পড়ুন; মুখে Monsieur-এর পরে পদবি সাধারণত বলা হয় না।",
+     "lines": [
+      {
+       "t": "Bonjour, monsieur.",
+       "mean": "Good morning, sir · নমস্কার, জনাব"
+      },
+      {
+       "t": "Bonsoir, madame Dubois.",
+       "mean": "Good evening, Mrs Dubois · শুভ সন্ধ্যা, মাদাম দ্যুবোয়া"
+      },
+      {
+       "t": "Monsieur le Directeur, bonjour.",
+       "mean": "Good morning, Director · পরিচালক মহোদয়, নমস্কার"
+      },
+      {
+       "t": "Je vous présente ma collègue, Rima.",
+       "mean": "May I introduce my colleague, Rima · আমার সহকর্মী রিমার সঙ্গে পরিচয় করিয়ে দিই"
+      },
+      {
+       "t": "Enchanté de faire votre connaissance.",
+       "mean": "Pleased to meet you · আপনার সঙ্গে পরিচিত হয়ে ভালো লাগল"
       }
      ]
     },

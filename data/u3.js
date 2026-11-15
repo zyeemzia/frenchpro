@@ -399,6 +399,32 @@ LC.units.push({
      "text": "After {{être}}, a job takes **no article**: {{Je suis professeur}}, not *un professeur*. · être-এর পরে পেশার আগে article বসে না।"
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud twice. These four verbs carry half of everyday French. · দুবার করে পড়ুন; দৈনন্দিন ফরাসির অর্ধেকই এই চারটি ক্রিয়া।",
+     "lines": [
+      {
+       "t": "Je suis fatigué, mais j'ai le temps.",
+       "mean": "I am tired, but I have time · ক্লান্ত, তবু সময় আছে"
+      },
+      {
+       "t": "Nous allons au marché et nous faisons les courses.",
+       "mean": "We go to the market and do the shopping · বাজারে গিয়ে কেনাকাটা করি"
+      },
+      {
+       "t": "Vous êtes en retard ce matin.",
+       "mean": "You are late this morning · আজ সকালে আপনি দেরি করেছেন"
+      },
+      {
+       "t": "Elle fait du thé pour ses amis.",
+       "mean": "She is making tea for her friends · সে বন্ধুদের জন্য চা বানাচ্ছে"
+      },
+      {
+       "t": "Ils ont faim et ils vont manger.",
+       "mean": "They are hungry and are going to eat · তাদের খিদে পেয়েছে, খেতে যাচ্ছে"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -622,6 +648,32 @@ LC.units.push({
        "title": "Check agreement · মিল যাচাই করুন",
        "t": "allée, allés, allées",
        "mean": "Only with être — or with avoir when the object came first. · কেবল être-এর সঙ্গে — অথবা avoir-এর সঙ্গে যখন কর্ম আগে বসে।"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. Hear the helper first, then the participle: two beats, one tense. · জোরে পড়ুন; আগে সহকারী, পরে কৃদন্তপদ — দুই মাত্রা, এক কাল।",
+     "lines": [
+      {
+       "t": "J'ai parlé à Salim hier soir.",
+       "mean": "I spoke to Salim last night · গতরাতে সেলিমের সঙ্গে কথা বলেছি"
+      },
+      {
+       "t": "Nous avons fini le travail à temps.",
+       "mean": "We finished the work on time · সময়মতো কাজ শেষ করেছি"
+      },
+      {
+       "t": "Il est allé à Paris en train.",
+       "mean": "He went to Paris by train · সে ট্রেনে প্যারিস গিয়েছিল"
+      },
+      {
+       "t": "Elle est arrivée très tôt ce matin.",
+       "mean": "She arrived very early this morning · সে আজ খুব সকালে এসেছে"
+      },
+      {
+       "t": "Ils sont partis sans rien dire.",
+       "mean": "They left without saying anything · তারা কিছু না বলেই চলে গেল"
       }
      ]
     },
@@ -885,6 +937,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud, slowly. The imparfait has no edges: it describes, it does not report. · ধীরে পড়ুন; imparfait বর্ণনা করে, ঘটনা জানায় না।",
+     "lines": [
+      {
+       "t": "Quand j'étais petit, j'habitais à Sylhet.",
+       "mean": "When I was small, I lived in Sylhet · ছোটবেলায় সিলেটে থাকতাম"
+      },
+      {
+       "t": "Il faisait beau et les oiseaux chantaient.",
+       "mean": "The weather was fine and the birds were singing · আবহাওয়া ভালো ছিল, পাখি গাইছিল"
+      },
+      {
+       "t": "Nous allions à l'école ensemble.",
+       "mean": "We used to go to school together · আমরা একসঙ্গে স্কুলে যেতাম"
+      },
+      {
+       "t": "Elle avait l'air fatiguée ce jour-là.",
+       "mean": "She looked tired that day · সেদিন তাকে ক্লান্ত দেখাচ্ছিল"
+      },
+      {
+       "t": "Il était huit heures du soir.",
+       "mean": "It was eight in the evening · তখন রাত আটটা"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1079,6 +1157,32 @@ LC.units.push({
      "text": "After {{quand}}, {{lorsque}} and {{dès que}}, French uses the **future** where English uses the present: {{Quand il arrivera, nous mangerons}} — *When he arrives, we will eat*. · quand-এর পরে ফরাসি ভবিষ্যৎ ব্যবহার করে।"
     },
     {
+     "type": "practice",
+     "text": "Read each pair aloud. The near future is going to happen; the simple future simply will. · প্রতিটি জোড়া পড়ুন; একটি এখনই ঘটতে যাচ্ছে, অন্যটি ভবিষ্যতে ঘটবে।",
+     "lines": [
+      {
+       "t": "Je vais partir dans cinq minutes.",
+       "mean": "I am going to leave in five minutes · পাঁচ মিনিটে রওনা দিচ্ছি"
+      },
+      {
+       "t": "Je partirai la semaine prochaine.",
+       "mean": "I shall leave next week · আগামী সপ্তাহে রওনা দেব"
+      },
+      {
+       "t": "Il va pleuvoir, prends ton parapluie.",
+       "mean": "It is going to rain, take your umbrella · বৃষ্টি আসছে, ছাতা নাও"
+      },
+      {
+       "t": "Nous finirons ce travail demain.",
+       "mean": "We shall finish this work tomorrow · কালই কাজটা শেষ করব"
+      },
+      {
+       "t": "Tu verras, tout ira bien.",
+       "mean": "You will see, all will be well · দেখো, সব ঠিক হয়ে যাবে"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1237,6 +1341,32 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "The only difference between {{je parlerai}} (future) and {{je parlerais}} (conditional) is a silent s. In speech they are near-identical; in writing the s matters. · পার্থক্য কেবল একটি নীরব s।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. This is the tense of good manners: it softens everything it touches. · জোরে পড়ুন; এটি ভদ্রতার কাল, যা ছোঁয় তাকেই নরম করে।",
+     "lines": [
+      {
+       "t": "Je voudrais un café, s'il vous plaît.",
+       "mean": "I would like a coffee, please · একটি কফি দিন, দয়া করে"
+      },
+      {
+       "t": "Pourriez-vous m'aider un instant ?",
+       "mean": "Could you help me a moment? · একটু সাহায্য করবেন?"
+      },
+      {
+       "t": "Vous devriez partir plus tôt.",
+       "mean": "You should leave earlier · আপনার আগেই রওনা দেওয়া উচিত"
+      },
+      {
+       "t": "J'aimerais vous poser une question.",
+       "mean": "I would like to ask you a question · একটি প্রশ্ন করতে চাই"
+      },
+      {
+       "t": "Ce serait avec grand plaisir.",
+       "mean": "That would be a great pleasure · খুব আনন্দের সঙ্গেই"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -1428,6 +1558,32 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "Two subjects are needed. If the subject is the same in both halves, use an infinitive instead: {{Je veux partir}}, not *que je parte*. · দুই অংশে কর্তা এক হলে infinitive বসে।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. Everything after que is wished for, not reported. · জোরে পড়ুন; que-এর পরে যা আসে তা কামনা, খবর নয়।",
+     "lines": [
+      {
+       "t": "Il faut que tu viennes avec nous.",
+       "mean": "You must come with us · তোমাকে আমাদের সঙ্গে আসতে হবে"
+      },
+      {
+       "t": "Je veux que vous partiez maintenant.",
+       "mean": "I want you to leave now · চাই আপনি এখনই যান"
+      },
+      {
+       "t": "Je suis content que tu sois là.",
+       "mean": "I am glad you are here · তুমি আছ বলে খুশি"
+      },
+      {
+       "t": "Je doute qu'il ait raison.",
+       "mean": "I doubt he is right · সে ঠিক কিনা সন্দেহ"
+      },
+      {
+       "t": "Bien qu'il soit fatigué, il travaille.",
+       "mean": "Although he is tired, he works · ক্লান্ত হলেও সে কাজ করে"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -1701,6 +1857,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud. The little pronoun belongs to the verb; never leave it behind. · জোরে পড়ুন; ছোট সর্বনামটি ক্রিয়ারই অংশ, বাদ দেবেন না।",
+     "lines": [
+      {
+       "t": "Je me lève à six heures.",
+       "mean": "I get up at six · আমি ছটায় উঠি"
+      },
+      {
+       "t": "Elle s'est levée très tôt.",
+       "mean": "She got up very early · সে খুব সকালে উঠেছিল"
+      },
+      {
+       "t": "Nous nous dépêchons toujours le matin.",
+       "mean": "We always hurry in the morning · সকালে আমরা সবসময় তাড়াহুড়ো করি"
+      },
+      {
+       "t": "Comment vous appelez-vous ?",
+       "mean": "What is your name? · আপনার নাম কী?"
+      },
+      {
+       "t": "Ne te trompe pas de rue.",
+       "mean": "Don't take the wrong street · ভুল রাস্তায় যেও না"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1897,6 +2079,32 @@ LC.units.push({
       {
        "t": "dit",
        "mean": "told · বলা"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. Never put a conditional straight after si; the si clause stays plain. · জোরে পড়ুন; si-এর ঠিক পরে conditionnel বসে না।",
+     "lines": [
+      {
+       "t": "Si j'ai le temps, je viendrai.",
+       "mean": "If I have time, I will come · সময় পেলে আসব"
+      },
+      {
+       "t": "Si j'avais le temps, je viendrais.",
+       "mean": "If I had time, I would come · সময় থাকলে আসতাম"
+      },
+      {
+       "t": "Le bangla est parlé au Bangladesh.",
+       "mean": "Bangla is spoken in Bangladesh · বাংলাদেশে বাংলা বলা হয়"
+      },
+      {
+       "t": "On m'a dit que le bureau était fermé.",
+       "mean": "I was told the office was closed · শুনলাম অফিস বন্ধ ছিল"
+      },
+      {
+       "t": "Cette lettre a été écrite par Rana.",
+       "mean": "This letter was written by Rana · চিঠিটি রানা লিখেছিল"
       }
      ]
     },

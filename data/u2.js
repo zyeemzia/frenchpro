@@ -174,6 +174,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud and listen to the article. The ending tells you which one to say. · জোরে পড়ুন ও নির্দেশক পদ শুনুন; শেষাংশই বলে দেয় কোনটি হবে।",
+     "lines": [
+      {
+       "t": "le gouvernement et la décision",
+       "mean": "the government and the decision · সরকার ও সিদ্ধান্ত"
+      },
+      {
+       "t": "le voyage et la liberté",
+       "mean": "the journey and the freedom · ভ্রমণ ও স্বাধীনতা"
+      },
+      {
+       "t": "le bureau et la recette",
+       "mean": "the office and the recipe · দপ্তর ও রন্ধনপ্রণালী"
+      },
+      {
+       "t": "la page, la plage, la cage",
+       "mean": "the page, the beach, the cage · পাতা, সৈকত, খাঁচা"
+      },
+      {
+       "t": "l'eau est froide ce matin",
+       "mean": "the water is cold this morning · আজ সকালে জল ঠান্ডা"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -634,6 +660,32 @@ LC.units.push({
      "note": "{{du sucre}} became {{de sucre}} because the verb is negative. · ক্রিয়াটি না-বাচক বলে {{du sucre}} হয়ে গেছে {{de sucre}}।"
     },
     {
+     "type": "practice",
+     "text": "Read each pair aloud. Hear how the partitive disappears after a negative. · প্রতিটি জোড়া পড়ুন; না-বাচক বাক্যে partitive কীভাবে মিলিয়ে যায় শুনুন।",
+     "lines": [
+      {
+       "t": "Je prends du café le matin.",
+       "mean": "I have coffee in the morning · আমি সকালে কফি খাই"
+      },
+      {
+       "t": "Je ne prends pas de café le soir.",
+       "mean": "I don't have coffee at night · আমি রাতে কফি খাই না"
+      },
+      {
+       "t": "Elle achète de la viande et des légumes.",
+       "mean": "She buys meat and vegetables · সে মাংস ও সবজি কেনে"
+      },
+      {
+       "t": "Il n'y a plus de pain à la maison.",
+       "mean": "There is no bread left at home · বাড়িতে আর রুটি নেই"
+      },
+      {
+       "t": "J'aime le thé, mais je bois de l'eau.",
+       "mean": "I like tea, but I drink water · চা পছন্দ করি, তবে জল খাই"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -872,6 +924,32 @@ LC.units.push({
       {
        "t": "Dacca",
        "mean": "Dhaka · ঢাকা"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. The two little words have already joined before you say them. · জোরে পড়ুন; দুটি ছোট শব্দ বলার আগেই জুড়ে গেছে।",
+     "lines": [
+      {
+       "t": "Je vais au marché et à la banque.",
+       "mean": "I am going to the market and the bank · আমি বাজার ও ব্যাংকে যাচ্ছি"
+      },
+      {
+       "t": "Elle revient du bureau à six heures.",
+       "mean": "She comes back from the office at six · সে ছটায় অফিস থেকে ফেরে"
+      },
+      {
+       "t": "Les clés sont aux enfants.",
+       "mean": "The keys belong to the children · চাবিগুলো বাচ্চাদের"
+      },
+      {
+       "t": "C'est le livre du professeur.",
+       "mean": "It is the teacher's book · এটি শিক্ষকের বই"
+      },
+      {
+       "t": "Nous parlons des vacances.",
+       "mean": "We are talking about the holidays · আমরা ছুটির কথা বলছি"
       }
      ]
     },
@@ -1339,6 +1417,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud. Keep que short and unstressed; the weight falls on the adjective. · জোরে পড়ুন; que-কে হালকা রাখুন, ঝোঁক পড়বে বিশেষণে।",
+     "lines": [
+      {
+       "t": "Dhaka est plus grande que Sylhet.",
+       "mean": "Dhaka is bigger than Sylhet · ঢাকা সিলেটের চেয়ে বড়"
+      },
+      {
+       "t": "Ce train est moins rapide que l'avion.",
+       "mean": "This train is slower than the plane · এই ট্রেন বিমানের চেয়ে ধীর"
+      },
+      {
+       "t": "Elle est aussi patiente que sa mère.",
+       "mean": "She is as patient as her mother · সে তার মায়ের মতোই ধৈর্যশীল"
+      },
+      {
+       "t": "C'est le meilleur restaurant du quartier.",
+       "mean": "It is the best restaurant in the area · এটি এলাকার সেরা রেস্তোরাঁ"
+      },
+      {
+       "t": "Aujourd'hui je vais mieux qu'hier.",
+       "mean": "Today I am better than yesterday · আজ আমি গতকালের চেয়ে ভালো আছি"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1565,6 +1669,32 @@ LC.units.push({
        "title": "Replace both · দুটিই বদলান",
        "t": "Je le lui donne.",
        "mean": "I give it to him. · আমি তাকে এটি দিই।"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. The pronouns come before the verb and are said in one breath with it. · জোরে পড়ুন; সর্বনাম ক্রিয়ার আগে বসে, একসঙ্গেই উচ্চারিত হয়।",
+     "lines": [
+      {
+       "t": "Je le vois chaque jour.",
+       "mean": "I see him every day · আমি তাকে রোজ দেখি"
+      },
+      {
+       "t": "Elle me les donne demain.",
+       "mean": "She gives them to me tomorrow · সে কাল সেগুলো আমাকে দেবে"
+      },
+      {
+       "t": "Du riz ? J'en veux un peu.",
+       "mean": "Rice? I want a little · ভাত? একটু চাই"
+      },
+      {
+       "t": "À Paris ? J'y vais en mai.",
+       "mean": "To Paris? I'm going in May · প্যারিসে? মে মাসে যাচ্ছি"
+      },
+      {
+       "t": "Il y en a encore beaucoup.",
+       "mean": "There are still plenty of them · এখনো অনেক আছে"
       }
      ]
     },
@@ -1812,6 +1942,32 @@ LC.units.push({
       {
        "t": "professeur",
        "mean": "a teacher · একজন শিক্ষক"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each long line in one go. The relative word is the hinge; do not pause before it. · লম্বা লাইনটি এক টানে পড়ুন; সম্বন্ধসূচক শব্দের আগে থামবেন না।",
+     "lines": [
+      {
+       "t": "L'homme qui parle est mon oncle.",
+       "mean": "The man who is speaking is my uncle · যে লোকটি কথা বলছে সে আমার কাকা"
+      },
+      {
+       "t": "Le livre que je lis est passionnant.",
+       "mean": "The book I am reading is gripping · যে বইটি পড়ছি তা দারুণ"
+      },
+      {
+       "t": "La ville où j'habite est très calme.",
+       "mean": "The town where I live is very quiet · যে শহরে থাকি তা খুব শান্ত"
+      },
+      {
+       "t": "Voici la chose dont j'ai besoin.",
+       "mean": "Here is the thing I need · এই তো যা আমার দরকার"
+      },
+      {
+       "t": "C'est le jour où il est arrivé.",
+       "mean": "That is the day he arrived · এটাই সেই দিন যেদিন সে এসেছিল"
       }
      ]
     },

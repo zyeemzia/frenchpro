@@ -140,6 +140,32 @@ LC.units.push({
      "text": "{{supporter}} means **to tolerate**, not to support. {{Je ne le supporte pas}} is *I cannot stand him*, not *I do not support him*. For support, use {{soutenir}}. · supporter মানে সহ্য করা, সমর্থন নয়।"
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud. Do not translate word by word; say the whole phrase as one unit. · জোরে পড়ুন; শব্দে শব্দে নয়, গোটা বাগধারাটি একসঙ্গে বলুন।",
+     "lines": [
+      {
+       "t": "Ça ne vaut pas la peine.",
+       "mean": "It is not worth the trouble · এর জন্য কষ্ট করা বৃথা"
+      },
+      {
+       "t": "Je n'en peux plus, j'ai trop travaillé.",
+       "mean": "I can't take any more, I have worked too much · আর পারছি না, বড্ড খেটেছি"
+      },
+      {
+       "t": "Il m'a posé un lapin hier.",
+       "mean": "He stood me up yesterday · কাল সে আমাকে দাঁড় করিয়ে রাখল"
+      },
+      {
+       "t": "Ce n'est pas la mer à boire.",
+       "mean": "It is not that hard · এমন কঠিন কিছু নয়"
+      },
+      {
+       "t": "On verra bien, petit à petit.",
+       "mean": "We shall see, little by little · দেখা যাক, ধীরে ধীরে"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -293,6 +319,32 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "One proverb, used at the right moment, does more for your credibility than a hundred memorised words. Pick two you like and keep them ready. · সঠিক সময়ে একটি প্রবাদ শতেক শব্দের চেয়ে বেশি কাজ করে।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each proverb aloud twice. A proverb is remembered by its rhythm before its meaning. · দুবার পড়ুন; অর্থের আগে ছন্দেই প্রবাদ মনে থাকে।",
+     "lines": [
+      {
+       "t": "Petit à petit, l'oiseau fait son nid.",
+       "mean": "Little by little, the bird builds its nest · ধীরে ধীরেই কাজ এগোয়"
+      },
+      {
+       "t": "Qui se ressemble s'assemble.",
+       "mean": "Birds of a feather flock together · চোরে চোরে মাসতুতো ভাই"
+      },
+      {
+       "t": "Mieux vaut tard que jamais.",
+       "mean": "Better late than never · না হওয়ার চেয়ে দেরিতে ভালো"
+      },
+      {
+       "t": "Il n'y a pas de fumée sans feu.",
+       "mean": "No smoke without fire · কারণ ছাড়া কিছু ঘটে না"
+      },
+      {
+       "t": "Tout est bien qui finit bien.",
+       "mean": "All's well that ends well · শেষ ভালো যার, সব ভালো তার"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -498,6 +550,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each pair aloud. They sound identical; only the spelling tells them apart. · প্রতিটি জোড়া পড়ুন; উচ্চারণ এক, কেবল বানানেই তফাত।",
+     "lines": [
+      {
+       "t": "Il a mal à la main.",
+       "mean": "He has a sore hand — a, the verb · a এখানে ক্রিয়া"
+      },
+      {
+       "t": "Il va à la maison.",
+       "mean": "He is going home — à, the preposition · à এখানে সম্বন্ধপদ"
+      },
+      {
+       "t": "Où est le livre ou le cahier ?",
+       "mean": "Where is the book or the notebook? · বই নাকি খাতা, কোথায়?"
+      },
+      {
+       "t": "La voilà, elle est là.",
+       "mean": "There she is, she is there · ওই তো সে, ওখানেই আছে"
+      },
+      {
+       "t": "C'est le prix du livre qu'il a dû payer.",
+       "mean": "It is the price of the book he had to pay · যে বইয়ের দাম তাকে দিতে হয়েছিল"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -687,6 +765,32 @@ LC.units.push({
       }
      ],
      "title": "The -ée pairs · -ée জোড়াগুলো"
+    },
+    {
+     "type": "practice",
+     "text": "Read only the right-hand version aloud. Say the correct form until it is the one that comes first. · কেবল শুদ্ধ রূপটি পড়ুন; যতক্ষণ না সেটিই আগে মুখে আসে।",
+     "lines": [
+      {
+       "t": "Ce n'est pas vrai.",
+       "mean": "not C'est n'est pas vrai · C'est n'est pas vrai নয়"
+      },
+      {
+       "t": "Je vais à la police.",
+       "mean": "not chez la police — chez is only for people · chez কেবল মানুষের বেলায়"
+      },
+      {
+       "t": "Je ne sais pas ce qui se passe.",
+       "mean": "not qu'est-ce qui inside a statement · বিবৃতির ভেতরে qu'est-ce qui নয়"
+      },
+      {
+       "t": "J'ai rendu visite à mon oncle.",
+       "mean": "visiting a person, not a museum · মানুষের সঙ্গে দেখা করা"
+      },
+      {
+       "t": "Le train est entré en gare.",
+       "mean": "entrer takes être · entrer être নেয়"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -908,6 +1012,32 @@ LC.units.push({
      "text": "Ask for an {{entrée}} in Paris and you will be served a starter, not a main course. The American sense travelled, the French one stayed home. · প্যারিসে entrée মানে প্রথম পদ।"
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud, saying the full words first and then the short form. · পূর্ণ রূপ বলে তারপর সংক্ষিপ্ত রূপটি পড়ুন।",
+     "lines": [
+      {
+       "t": "Monsieur Rahman — M. Rahman",
+       "mean": "Mr Rahman · জনাব রহমান"
+      },
+      {
+       "t": "Madame Shila — Mme Shila",
+       "mean": "Mrs Shila · জনাবা শিলা"
+      },
+      {
+       "t": "s'il vous plaît — SVP",
+       "mean": "please · দয়া করে"
+      },
+      {
+       "t": "c'est-à-dire — c.-à-d.",
+       "mean": "that is to say · অর্থাৎ"
+      },
+      {
+       "t": "par exemple — p. ex.",
+       "mean": "for example · উদাহরণস্বরূপ"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1092,6 +1222,32 @@ LC.units.push({
       "I never mix {{tu}} and {{vous}} with the same person · একই ব্যক্তির সঙ্গে {{tu}} ও {{vous}} কখনো মেশাই না",
       "I soften a refusal instead of saying {{non}} alone · শুধু {{non}} না বলে প্রত্যাখ্যান নরম করি",
       "I can move a sentence up or down a register at will · ইচ্ছেমতো বাক্যের স্তর ওঠাতে-নামাতে পারি"
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each pair aloud: first the familiar, then the polite. Hear how the second slows down. · আগে ঘরোয়া, পরে ভদ্র রূপটি পড়ুন; দ্বিতীয়টি ধীর শোনায়।",
+     "lines": [
+      {
+       "t": "Comment vas-tu ? — Comment allez-vous ?",
+       "mean": "to a friend — to anyone else · বন্ধুকে — অন্য সবাইকে"
+      },
+      {
+       "t": "Tu peux m'aider ? — Pourriez-vous m'aider ?",
+       "mean": "Can you help me? — Could you help me? · সাহায্য করবে? — করবেন কি?"
+      },
+      {
+       "t": "Salut ! — Bonjour, madame.",
+       "mean": "Hi! — Good morning, madam · হাই! — নমস্কার, ম্যাডাম"
+      },
+      {
+       "t": "On peut se tutoyer ?",
+       "mean": "Shall we use tu? — the polite way to switch · ভদ্রভাবে বদলানোর উপায়"
+      },
+      {
+       "t": "Je vous en prie, après vous.",
+       "mean": "Please, after you · আপনি আগে যান"
+      }
      ]
     },
     {

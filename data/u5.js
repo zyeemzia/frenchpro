@@ -113,6 +113,32 @@ LC.units.push({
      "text": "In a French letter, the date is written {{Dacca, le 5 décembre 2026}} — place, comma, {{le}}, then the date, with the month in lower case. · ফরাসি চিঠিতে তারিখ এভাবে লেখা হয়।"
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud and watch the spacing. French puts a space before the tall marks. · পড়ুন ও ফাঁক লক্ষ করুন; উঁচু চিহ্নের আগে ফরাসিতে ফাঁক থাকে।",
+     "lines": [
+      {
+       "t": "Comment allez-vous ?",
+       "mean": "How are you? — a space before the question mark · প্রশ্নচিহ্নের আগে ফাঁক"
+      },
+      {
+       "t": "Quelle bonne surprise !",
+       "mean": "What a nice surprise! · কী চমৎকার চমক!"
+      },
+      {
+       "t": "Il a dit : « Je viendrai demain. »",
+       "mean": "He said: \"I will come tomorrow.\" · সে বলল, “কাল আসব”"
+      },
+      {
+       "t": "l'ami, d'accord, qu'il",
+       "mean": "no space after an apostrophe · ঊর্ধ্বকমার পরে ফাঁক নেই"
+      },
+      {
+       "t": "Oui, bien sûr ; merci beaucoup.",
+       "mean": "Yes, of course; thank you · হ্যাঁ, নিশ্চয়ই; ধন্যবাদ"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -300,6 +326,32 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "Whatever you wrote at the top must reappear inside the closing. Open with {{Monsieur le Directeur,}} and you must close with {{…, Monsieur le Directeur, …}}. · শুরুর সম্বোধন শেষেও হুবহু বসাতে হবে।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud in the order a letter is built. Nine small parts, always the same. · চিঠির ক্রম অনুযায়ী পড়ুন; নয়টি অংশ, সবসময় একই।",
+     "lines": [
+      {
+       "t": "Dacca, le 15 novembre 2026",
+       "mean": "place and date · স্থান ও তারিখ"
+      },
+      {
+       "t": "Objet : demande de renseignements",
+       "mean": "subject: request for information · বিষয়: তথ্যের অনুরোধ"
+      },
+      {
+       "t": "Madame, Monsieur,",
+       "mean": "when you do not know who will read it · পাঠক কে জানা না থাকলে"
+      },
+      {
+       "t": "Je vous prie d'agréer mes salutations distinguées.",
+       "mean": "a standard closing formula · প্রচলিত সমাপনী বাক্য"
+      },
+      {
+       "t": "Cordialement,",
+       "mean": "for email and colleagues · ইমেল ও সহকর্মীর জন্য"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -528,6 +580,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud. A formal request is built of ready-made phrases; learn them whole. · জোরে পড়ুন; আনুষ্ঠানিক অনুরোধ তৈরি বাক্যেই গড়া, গোটাটাই শিখুন।",
+     "lines": [
+      {
+       "t": "Je me permets de vous écrire au sujet de votre annonce.",
+       "mean": "I am writing to you about your advertisement · আপনার বিজ্ঞাপনের বিষয়ে লিখছি"
+      },
+      {
+       "t": "Je vous serais reconnaissant de bien vouloir me répondre.",
+       "mean": "I would be grateful if you would reply · উত্তর দিলে কৃতজ্ঞ থাকব"
+      },
+      {
+       "t": "Veuillez trouver ci-joint mon curriculum vitae.",
+       "mean": "Please find my CV attached · সঙ্গে আমার জীবনবৃত্তান্ত"
+      },
+      {
+       "t": "Je reste à votre entière disposition.",
+       "mean": "I remain entirely at your disposal · আমি আপনার সেবায় প্রস্তুত"
+      },
+      {
+       "t": "Dans l'attente de votre réponse, je vous remercie.",
+       "mean": "Awaiting your reply, thank you · উত্তরের অপেক্ষায়, ধন্যবাদ"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -699,6 +777,32 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "Never mix the two in one letter. Starting with {{vous}} and slipping into {{tu}} reads as carelessness. · একই চিঠিতে দুটো মেশাবেন না।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. To a friend, French drops its collar and tie. · জোরে পড়ুন; বন্ধুর কাছে ফরাসি আটপৌরে হয়ে যায়।",
+     "lines": [
+      {
+       "t": "Cher Salim, comment vas-tu ?",
+       "mean": "Dear Salim, how are you? · প্রিয় সেলিম, কেমন আছ?"
+      },
+      {
+       "t": "J'espère que tout va bien chez toi.",
+       "mean": "I hope all is well with you · আশা করি তোমার সব ভালো"
+      },
+      {
+       "t": "Merci pour ta longue lettre.",
+       "mean": "Thank you for your long letter · তোমার লম্বা চিঠির জন্য ধন্যবাদ"
+      },
+      {
+       "t": "Écris-moi vite, tu me manques.",
+       "mean": "Write soon, I miss you · তাড়াতাড়ি লিখো, তোমাকে মনে পড়ে"
+      },
+      {
+       "t": "Amitiés, à bientôt !",
+       "mean": "Best wishes, see you soon! · শুভেচ্ছা, শিগগির দেখা হবে"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -923,6 +1027,32 @@ LC.units.push({
      "text": "{{une formation}} means **training or education**, not the forming of something. And {{un poste}} is a job; {{la poste}} is the post office. · formation মানে শিক্ষা বা প্রশিক্ষণ।"
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud as if answering across a desk. Short, calm, specific. · টেবিলের ওপারে উত্তর দিচ্ছেন ভেবে পড়ুন — সংক্ষিপ্ত, শান্ত, সুনির্দিষ্ট।",
+     "lines": [
+      {
+       "t": "J'ai cinq ans d'expérience dans ce domaine.",
+       "mean": "I have five years' experience in this field · এ বিষয়ে আমার পাঁচ বছরের অভিজ্ঞতা"
+      },
+      {
+       "t": "bangla : langue maternelle ; français : niveau intermédiaire",
+       "mean": "Bangla: mother tongue; French: intermediate · বাংলা: মাতৃভাষা; ফরাসি: মধ্যম স্তর"
+      },
+      {
+       "t": "Je suis disponible à partir du mois prochain.",
+       "mean": "I am available from next month · আগামী মাস থেকে আমি প্রস্তুত"
+      },
+      {
+       "t": "Pourquoi souhaitez-vous ce poste ?",
+       "mean": "Why do you want this position? · এই পদটি কেন চান?"
+      },
+      {
+       "t": "Je vous remercie de m'avoir reçu.",
+       "mean": "Thank you for seeing me · সাক্ষাতের জন্য ধন্যবাদ"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1099,6 +1229,32 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "{{car}} and {{parce que}} both mean *because*, but {{car}} never starts a sentence — it joins two clauses inside one. · car দিয়ে বাক্য শুরু করা যায় না।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. These small words carry the argument; stress them a little. · জোরে পড়ুন; ছোট শব্দগুলোই যুক্তি বহন করে, একটু ঝোঁক দিন।",
+     "lines": [
+      {
+       "t": "D'abord, nous allons étudier le problème.",
+       "mean": "First, we shall study the problem · প্রথমে সমস্যাটি দেখব"
+      },
+      {
+       "t": "Cependant, il reste une difficulté.",
+       "mean": "However, one difficulty remains · তবে একটি অসুবিধা থেকে যায়"
+      },
+      {
+       "t": "C'est pourquoi j'ai changé d'avis.",
+       "mean": "That is why I changed my mind · সেজন্যই মত বদলেছি"
+      },
+      {
+       "t": "En revanche, le prix est raisonnable.",
+       "mean": "On the other hand, the price is reasonable · অন্যদিকে দাম যুক্তিসংগত"
+      },
+      {
+       "t": "Enfin, je voudrais vous remercier.",
+       "mean": "Finally, I would like to thank you · শেষে আপনাকে ধন্যবাদ জানাতে চাই"
+      }
+     ]
     },
     {
      "type": "quiz",

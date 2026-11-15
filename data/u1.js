@@ -923,6 +923,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud. Let the vowel swallow the one before it, so the two words sound like one. · প্রতিটি লাইন জোরে পড়ুন; দুই শব্দ যেন এক শব্দ শোনায়।",
+     "lines": [
+      {
+       "t": "J'habite à l'hôtel.",
+       "mean": "I live at the hotel · আমি হোটেলে থাকি"
+      },
+      {
+       "t": "L'homme d'affaires arrive.",
+       "mean": "The businessman is arriving · ব্যবসায়ীটি আসছেন"
+      },
+      {
+       "t": "C'est l'heure de l'examen.",
+       "mean": "It is time for the exam · পরীক্ষার সময় হয়েছে"
+      },
+      {
+       "t": "Je n'ai pas d'argent.",
+       "mean": "I have no money · আমার কাছে টাকা নেই"
+      },
+      {
+       "t": "L'amie d'Ahmed s'appelle Rima.",
+       "mean": "Ahmed's friend is called Rima · আহমেদের বন্ধুর নাম রিমা"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {

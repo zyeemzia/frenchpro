@@ -363,6 +363,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each time aloud. French counts the hours first and hangs everything else off heures. · সময়গুলো জোরে পড়ুন; ফরাসি আগে ঘণ্টা বলে, বাকি সব heures-এর সঙ্গে জোড়ে।",
+     "lines": [
+      {
+       "t": "Il est huit heures du matin.",
+       "mean": "It is eight in the morning · সকাল আটটা বাজে"
+      },
+      {
+       "t": "Il est trois heures et quart.",
+       "mean": "It is a quarter past three · সোয়া তিনটা"
+      },
+      {
+       "t": "Il est midi moins dix.",
+       "mean": "It is ten to twelve · বারোটা বাজতে দশ"
+      },
+      {
+       "t": "Le train part à dix-neuf heures trente.",
+       "mean": "The train leaves at 19:30 · ট্রেন ছাড়বে ১৯:৩০-এ"
+      },
+      {
+       "t": "À quelle heure est le rendez-vous ?",
+       "mean": "What time is the appointment? · সাক্ষাৎ কখন?"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -582,6 +608,32 @@ LC.units.push({
        "t": "le mois dernier",
        "tr": "luh mwah dair-NYAY · ল্য মোয়া দেরনিয়ে",
        "mean": "last month · গত মাস"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each date aloud. Only the first of the month is an ordinal; the rest are plain numbers. · তারিখগুলো পড়ুন; কেবল পয়লা তারিখই ক্রমবাচক।",
+     "lines": [
+      {
+       "t": "Nous sommes le premier janvier.",
+       "mean": "It is the first of January · আজ পয়লা জানুয়ারি"
+      },
+      {
+       "t": "Elle arrive le cinq décembre.",
+       "mean": "She arrives on the fifth of December · সে ৫ ডিসেম্বর আসছে"
+      },
+      {
+       "t": "Mon anniversaire est le vingt-deux mars.",
+       "mean": "My birthday is the 22nd of March · আমার জন্মদিন ২২ মার্চ"
+      },
+      {
+       "t": "Dacca, le 05 décembre 2004",
+       "mean": "Dhaka, 5 December 2004 — how a letter is dated · চিঠির তারিখ যেভাবে লেখা হয়"
+      },
+      {
+       "t": "On se voit lundi prochain.",
+       "mean": "See you next Monday · আগামী সোমবারে দেখা হবে"
       }
      ]
     },
@@ -810,6 +862,32 @@ LC.units.push({
      ]
     },
     {
+     "type": "practice",
+     "text": "Read each line aloud as if you were at the counter. Keep it short and polite. · কাউন্টারে দাঁড়িয়ে আছেন ভেবে পড়ুন; সংক্ষিপ্ত ও ভদ্র রাখুন।",
+     "lines": [
+      {
+       "t": "Combien ça coûte, s'il vous plaît ?",
+       "mean": "How much does it cost, please? · এর দাম কত?"
+      },
+      {
+       "t": "Ça fait quinze euros cinquante.",
+       "mean": "That comes to fifteen fifty · হলো সাড়ে পনেরো ইউরো"
+      },
+      {
+       "t": "Je peux payer par carte ?",
+       "mean": "Can I pay by card? · কার্ডে দিতে পারি?"
+      },
+      {
+       "t": "Vous avez la monnaie ?",
+       "mean": "Do you have change? · খুচরা আছে?"
+      },
+      {
+       "t": "Gardez la monnaie, merci.",
+       "mean": "Keep the change, thank you · খুচরা রেখে দিন, ধন্যবাদ"
+      }
+     ]
+    },
+    {
      "type": "quiz",
      "items": [
       {
@@ -1005,6 +1083,32 @@ LC.units.push({
       }
      ],
      "title": "Three more you will use · আরও তিনটি যা কাজে লাগবে"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. In a French café the order is short; the politeness is in the ending. · জোরে পড়ুন; ক্যাফেতে অর্ডার ছোট হয়, ভদ্রতা থাকে শেষে।",
+     "lines": [
+      {
+       "t": "Un café et un croissant, s'il vous plaît.",
+       "mean": "A coffee and a croissant, please · একটি কফি ও একটি ক্রোয়াসঁ, দয়া করে"
+      },
+      {
+       "t": "Je voudrais la carte, s'il vous plaît.",
+       "mean": "I would like the menu, please · মেনুটা দিন"
+      },
+      {
+       "t": "Qu'est-ce que vous me conseillez ?",
+       "mean": "What do you recommend? · আপনি কী বলবেন?"
+      },
+      {
+       "t": "C'était très bon, merci beaucoup.",
+       "mean": "That was very good, thank you · খুব ভালো ছিল, অনেক ধন্যবাদ"
+      },
+      {
+       "t": "L'addition, s'il vous plaît.",
+       "mean": "The bill, please · বিলটা দিন"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -1209,6 +1313,32 @@ LC.units.push({
       }
      ],
      "title": "Real exchanges · সত্যিকারের কথোপকথন"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. Ask the way, then listen for the verb: it tells you what to do. · জোরে পড়ুন; পথ জিজ্ঞেস করে ক্রিয়াটি শুনুন, সেটিই কাজ বলে দেয়।",
+     "lines": [
+      {
+       "t": "J'ai réservé une chambre pour deux nuits.",
+       "mean": "I have booked a room for two nights · দুই রাতের জন্য ঘর বুক করেছি"
+      },
+      {
+       "t": "Où est la gare, s'il vous plaît ?",
+       "mean": "Where is the station, please? · স্টেশন কোথায়?"
+      },
+      {
+       "t": "Allez tout droit, puis tournez à gauche.",
+       "mean": "Go straight on, then turn left · সোজা যান, তারপর বাঁয়ে ঘুরুন"
+      },
+      {
+       "t": "C'est loin d'ici à pied ?",
+       "mean": "Is it far from here on foot? · হেঁটে কি দূর?"
+      },
+      {
+       "t": "Le petit déjeuner est à quelle heure ?",
+       "mean": "What time is breakfast? · সকালের নাশতা কখন?"
+      }
+     ]
     },
     {
      "type": "quiz",
@@ -1418,6 +1548,32 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "{{depuis}} plus the **present** tense means *for* or *since* an action still going on: {{J'habite ici depuis cinq ans}} — *I have lived here for five years*. English uses a past tense here; French does not. · depuis-এর সঙ্গে বর্তমান কাল বসে।"
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. On the telephone French is formal; say who you are at once. · জোরে পড়ুন; ফোনে ফরাসি আনুষ্ঠানিক, শুরুতেই নিজের পরিচয় দিন।",
+     "lines": [
+      {
+       "t": "Allô, bonjour, je suis Rana Ahmed.",
+       "mean": "Hello, good morning, this is Rana Ahmed · হ্যালো, আমি রানা আহমেদ"
+      },
+      {
+       "t": "Puis-je parler à Monsieur Dubois ?",
+       "mean": "May I speak to Mr Dubois? · মঁসিয়ে দ্যুবোয়ার সঙ্গে কথা বলা যাবে?"
+      },
+      {
+       "t": "Ne quittez pas, je vous le passe.",
+       "mean": "Hold on, I'll put you through · ধরুন, দিচ্ছি"
+      },
+      {
+       "t": "Il fait très froid et il pleut.",
+       "mean": "It is very cold and raining · খুব শীত আর বৃষ্টি হচ্ছে"
+      },
+      {
+       "t": "J'ai mal à la tête depuis hier.",
+       "mean": "I have had a headache since yesterday · গতকাল থেকে মাথা ব্যথা"
+      }
+     ]
     },
     {
      "type": "quiz",
