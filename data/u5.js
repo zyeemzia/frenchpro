@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u5-punctuation",
    "icon": ":",
-   "title": "Punctuation & Typography",
+   "title": "Punctuation & Typography · যতিচিহ্ন ও মুদ্রণরীতি",
    "subtitle": "The small marks that mark out a careful writer · ছোট চিহ্নগুলোই যত্নবান লেখককে চিনিয়ে দেয়",
    "minutes": 10,
    "goals": [
-    "Space French punctuation correctly",
-    "Use French quotation marks",
-    "Name each mark in French"
+    "Space French punctuation correctly · ফরাসি যতিচিহ্নে সঠিক ফাঁক রাখুন",
+    "Use French quotation marks · ফরাসি উদ্ধৃতিচিহ্ন ব্যবহার করুন",
+    "Name each mark in French · প্রতিটি চিহ্নের ফরাসি নাম বলুন"
    ],
    "blocks": [
     {
@@ -64,7 +64,7 @@ LC.units.push({
        "{{Je ne sais pas…}}"
       ]
      ],
-     "title": "Spacing, mark by mark"
+     "title": "Spacing, mark by mark · ফাঁক, চিহ্ন ধরে ধরে"
     },
     {
      "type": "tip",
@@ -177,13 +177,13 @@ LC.units.push({
   {
    "id": "u5-letter-parts",
    "icon": "✉",
-   "title": "The Parts of a Letter",
+   "title": "The Parts of a Letter · চিঠির অংশ",
    "subtitle": "The skeleton every French letter shares · প্রতিটি ফরাসি চিঠির অভিন্ন কাঠামো",
    "minutes": 12,
    "goals": [
-    "Name and order the parts of a letter",
-    "Choose the right opening for your reader",
-    "Use the reference and subject lines"
+    "Name and order the parts of a letter · চিঠির অংশগুলোর নাম ও ক্রম বলুন",
+    "Choose the right opening for your reader · পাঠক বুঝে সঠিক সূচনা বাছুন",
+    "Use the reference and subject lines · সূত্র ও বিষয়ের লাইন ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -366,13 +366,13 @@ LC.units.push({
   {
    "id": "u5-formal",
    "icon": "📄",
-   "title": "Applications & Requests",
+   "title": "Applications & Requests · আবেদন ও অনুরোধ",
    "subtitle": "Asking for a job, a booking or information · চাকরি, বুকিং বা তথ্য চেয়ে লেখা",
    "minutes": 13,
    "goals": [
-    "Write a job application",
-    "Request a booking or information",
-    "Use the fixed opening sentences"
+    "Write a job application · চাকরির আবেদন লিখুন",
+    "Request a booking or information · বুকিং বা তথ্যের জন্য অনুরোধ করুন",
+    "Use the fixed opening sentences · বাঁধা সূচনা বাক্যগুলো ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -407,7 +407,7 @@ LC.units.push({
        "{{Je vous confirme par la présente que…}}"
       ]
      ],
-     "title": "Five openings that cover most letters"
+     "title": "Five openings that cover most letters · বেশির ভাগ চিঠিতে চলে এমন পাঁচটি সূচনা"
     },
     {
      "type": "vocab",
@@ -468,7 +468,7 @@ LC.units.push({
        "mean": "Looking forward to your reply… · আপনার উত্তরের অপেক্ষায়…"
       }
      ],
-     "title": "Sentences to reuse"
+     "title": "Sentences to reuse · বারবার কাজে লাগবে এমন বাক্য"
     },
     {
      "type": "tip",
@@ -592,13 +592,13 @@ LC.units.push({
   {
    "id": "u5-personal",
    "icon": "💌",
-   "title": "Personal Letters",
+   "title": "Personal Letters · ব্যক্তিগত চিঠি",
    "subtitle": "Writing to a friend, and replying to an invitation · বন্ধুকে চিঠি লেখা আর নিমন্ত্রণের উত্তর দেওয়া",
    "minutes": 11,
    "goals": [
-    "Open and close a friendly letter",
-    "Accept or decline an invitation",
-    "Switch comfortably between tu and vous"
+    "Open and close a friendly letter · ঘরোয়া চিঠি শুরু ও শেষ করুন",
+    "Accept or decline an invitation · নিমন্ত্রণ গ্রহণ বা প্রত্যাখ্যান করুন",
+    "Switch comfortably between tu and vous · tu ও vous-এর মধ্যে স্বচ্ছন্দে বদল করুন"
    ],
    "blocks": [
     {
@@ -639,7 +639,7 @@ LC.units.push({
        "very informal"
       ]
      ],
-     "title": "Openings and closings that match"
+     "title": "Openings and closings that match · মানানসই সূচনা ও সমাপ্তি"
     },
     {
      "type": "tip",
@@ -670,7 +670,7 @@ LC.units.push({
        "mean": "Let me hear from you. · আপনার খবর জানাবেন।"
       }
      ],
-     "title": "Accepting and declining"
+     "title": "Accepting and declining · গ্রহণ ও প্রত্যাখ্যান"
     },
     {
      "type": "rule",
@@ -765,13 +765,13 @@ LC.units.push({
   {
    "id": "u5-cv",
    "icon": "CV",
-   "title": "CV & Job Interview",
+   "title": "CV & Job Interview · জীবনবৃত্তান্ত ও চাকরির সাক্ষাৎকার",
    "subtitle": "Presenting yourself in French · ফরাসিতে নিজের পরিচয় দেওয়া",
    "minutes": 13,
    "goals": [
-    "Lay out a French CV",
-    "Answer the standard interview questions",
-    "Describe your strengths without boasting"
+    "Lay out a French CV · ফরাসি জীবনবৃত্তান্ত সাজান",
+    "Answer the standard interview questions · প্রচলিত সাক্ষাৎকারের প্রশ্নের উত্তর দিন",
+    "Describe your strengths without boasting · বড়াই না করে নিজের শক্তি বলুন"
    ],
    "blocks": [
     {
@@ -822,7 +822,7 @@ LC.units.push({
        "two or three lines only"
       ]
      ],
-     "title": "The standard sections"
+     "title": "The standard sections · প্রচলিত অংশগুলো"
     },
     {
      "type": "rule",
@@ -987,13 +987,13 @@ LC.units.push({
   {
    "id": "u5-connectives",
    "icon": "&",
-   "title": "Connective Words",
+   "title": "Connective Words · সংযোজক শব্দ",
    "subtitle": "The joints that turn sentences into argument · যে জোড়াগুলো বাক্যকে যুক্তিতে পরিণত করে",
    "minutes": 12,
    "goals": [
-    "Sequence ideas clearly",
-    "Add, contrast and conclude",
-    "Use bien que with the subjunctive"
+    "Sequence ideas clearly · ভাবগুলো পরিষ্কার ক্রমে সাজান",
+    "Add, contrast and conclude · যোগ করুন, বৈপরীত্য দেখান, উপসংহার টানুন",
+    "Use bien que with the subjunctive · bien que-এর সঙ্গে সম্ভাবনাসূচক ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -1039,7 +1039,7 @@ LC.units.push({
        "that is to say, in other words"
       ]
      ],
-     "title": "The working set"
+     "title": "The working set · কাজের সেটটি"
     },
     {
      "type": "rule",
@@ -1088,7 +1088,7 @@ LC.units.push({
        "mean": "as regards… · প্রসঙ্গে…"
       }
      ],
-     "title": "Phrases worth owning"
+     "title": "Phrases worth owning · আয়ত্তে রাখার মতো বাক্যাংশ"
     },
     {
      "type": "tip",

@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u4-numbers",
    "icon": "70",
-   "title": "Numbers, Including the Strange Ones",
+   "title": "Numbers, Including the Strange Ones · সংখ্যা, অদ্ভুতগুলো সহ",
    "subtitle": "Why 97 is four-twenty-seventeen · ৯৭ কেন চার-বিশ-সতেরো",
    "minutes": 13,
    "goals": [
-    "Count confidently to a thousand",
-    "Handle 70, 80 and 90 without hesitating",
-    "Use ordinal numbers"
+    "Count confidently to a thousand · নির্ভয়ে এক হাজার পর্যন্ত গুনুন",
+    "Handle 70, 80 and 90 without hesitating · ৭০, ৮০ ও ৯০ নিয়ে দ্বিধা করবেন না",
+    "Use ordinal numbers · পূরণবাচক সংখ্যা ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -70,7 +70,7 @@ LC.units.push({
        "kah-truh-van-dees-SET"
       ]
      ],
-     "title": "The famous awkward stretch"
+     "title": "The famous awkward stretch · কুখ্যাত কঠিন অংশটি"
     },
     {
      "type": "tip",
@@ -213,13 +213,13 @@ LC.units.push({
   {
    "id": "u4-time",
    "icon": "h",
-   "title": "Telling the Time",
+   "title": "Telling the Time · সময় বলা",
    "subtitle": "Quarter past, half past, and the 24-hour clock · সোয়া, সাড়ে, আর ২৪ ঘণ্টার ঘড়ি",
    "minutes": 11,
    "goals": [
-    "Ask and give the time",
-    "Use et quart, et demie and moins le quart",
-    "Read official 24-hour times"
+    "Ask and give the time · সময় জিজ্ঞেস করুন ও বলুন",
+    "Use et quart, et demie and moins le quart · et quart, et demie ও moins le quart ব্যবহার করুন",
+    "Read official 24-hour times · সরকারি ২৪-ঘণ্টার সময় পড়ুন"
    ],
    "blocks": [
     {
@@ -255,7 +255,7 @@ LC.units.push({
        "mean": "It is quarter to nine. · পৌনে নয়টা বাজে।"
       }
      ],
-     "title": "The core phrases"
+     "title": "The core phrases · মূল বাক্যাংশ"
     },
     {
      "type": "tip",
@@ -291,7 +291,7 @@ LC.units.push({
        "noon"
       ]
      ],
-     "title": "The official clock"
+     "title": "The official clock · সরকারি ঘড়ি"
     },
     {
      "type": "tip",
@@ -415,13 +415,13 @@ LC.units.push({
   {
    "id": "u4-dates",
    "icon": "📅",
-   "title": "Days, Months & Dates",
+   "title": "Days, Months & Dates · বার, মাস ও তারিখ",
    "subtitle": "Writing the date the French way · ফরাসি রীতিতে তারিখ লেখা",
    "minutes": 10,
    "goals": [
-    "Name the days, months and seasons",
-    "Write and say a full date",
-    "Use the right preposition for each season"
+    "Name the days, months and seasons · বার, মাস ও ঋতুর নাম বলুন",
+    "Write and say a full date · পূর্ণ তারিখ লিখুন ও বলুন",
+    "Use the right preposition for each season · প্রতিটি ঋতুর জন্য সঠিক অনুসর্গ ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -480,7 +480,7 @@ LC.units.push({
        ""
       ]
      ],
-     "title": "The whole calendar"
+     "title": "The whole calendar · পুরো বর্ষপঞ্জি"
     },
     {
      "type": "rule",
@@ -638,13 +638,13 @@ LC.units.push({
   {
    "id": "u4-money",
    "icon": "€",
-   "title": "Money & Paying",
+   "title": "Money & Paying · টাকা ও পরিশোধ",
    "subtitle": "Prices, banks and settling the bill · দাম, ব্যাংক আর বিল মেটানো",
    "minutes": 12,
    "goals": [
-    "Ask how much something costs",
-    "Name the ways of paying",
-    "Handle a simple bank conversation"
+    "Ask how much something costs · দাম কত জিজ্ঞেস করুন",
+    "Name the ways of paying · পরিশোধের উপায়গুলোর নাম বলুন",
+    "Handle a simple bank conversation · ব্যাংকের সাধারণ কথাবার্তা সামলান"
    ],
    "blocks": [
     {
@@ -677,7 +677,7 @@ LC.units.push({
        "mean": "How much is that altogether? · সব মিলিয়ে কত হলো?"
       }
      ],
-     "title": "Asking the price"
+     "title": "Asking the price · দাম জিজ্ঞেস করা"
     },
     {
      "type": "table",
@@ -713,7 +713,7 @@ LC.units.push({
        "{{le taux de change}}"
       ]
      ],
-     "title": "The words you need"
+     "title": "The words you need · যে শব্দগুলো দরকার"
     },
     {
      "type": "tip",
@@ -862,13 +862,13 @@ LC.units.push({
   {
    "id": "u4-cafe",
    "icon": "☕",
-   "title": "Café & Restaurant",
+   "title": "Café & Restaurant · ক্যাফে ও রেস্তোরাঁ",
    "subtitle": "Ordering, and asking for the bill · অর্ডার দেওয়া আর বিল চাওয়া",
    "minutes": 12,
    "goals": [
-    "Order food and drink naturally",
-    "Use the partitive correctly at the table",
-    "Ask for the bill the polite way"
+    "Order food and drink naturally · স্বাভাবিকভাবে খাবার ও পানীয় অর্ডার করুন",
+    "Use the partitive correctly at the table · খাবার টেবিলে আংশিক পদাশ্রয় ঠিকভাবে ব্যবহার করুন",
+    "Ask for the bill the polite way · ভদ্রভাবে বিল চান"
    ],
    "blocks": [
     {
@@ -992,7 +992,7 @@ LC.units.push({
        "mean": "I have had enough, thank you. · আমার যথেষ্ট হয়েছে, ধন্যবাদ।"
       }
      ],
-     "title": "Three more you will use"
+     "title": "Three more you will use · আরও তিনটি যা কাজে লাগবে"
     },
     {
      "type": "quiz",
@@ -1059,13 +1059,13 @@ LC.units.push({
   {
    "id": "u4-travel",
    "icon": "🏨",
-   "title": "Hotel & Directions",
+   "title": "Hotel & Directions · হোটেল ও পথনির্দেশ",
    "subtitle": "Booking a room and finding your way · ঘর বুক করা আর পথ খুঁজে নেওয়া",
    "minutes": 13,
    "goals": [
-    "Book and describe a hotel room",
-    "Ask for and understand directions",
-    "Use floor numbers the French way"
+    "Book and describe a hotel room · হোটেলের ঘর বুক করুন ও বর্ণনা দিন",
+    "Ask for and understand directions · পথ জিজ্ঞেস করুন ও বুঝুন",
+    "Use floor numbers the French way · ফরাসি রীতিতে তলার সংখ্যা বলুন"
    ],
    "blocks": [
     {
@@ -1170,7 +1170,7 @@ LC.units.push({
        "{{en face de}}"
       ]
      ],
-     "title": "Directions, both halves"
+     "title": "Directions, both halves · পথনির্দেশ, দুই দিকই"
     },
     {
      "type": "examples",
@@ -1196,7 +1196,7 @@ LC.units.push({
        "mean": "It is five minutes on foot. · হেঁটে পাঁচ মিনিটের পথ।"
       }
      ],
-     "title": "Real exchanges"
+     "title": "Real exchanges · সত্যিকারের কথোপকথন"
     },
     {
      "type": "quiz",
@@ -1263,13 +1263,13 @@ LC.units.push({
   {
    "id": "u4-phone",
    "icon": "☎",
-   "title": "Telephone, Weather & Health",
+   "title": "Telephone, Weather & Health · টেলিফোন, আবহাওয়া ও স্বাস্থ্য",
    "subtitle": "Three everyday situations with fixed phrases · নির্দিষ্ট বাক্যাংশ দিয়ে চলা তিনটি দৈনন্দিন পরিস্থিতি",
    "minutes": 12,
    "goals": [
-    "Handle a phone call in French",
-    "Describe the weather",
-    "Say what hurts at the doctor's"
+    "Handle a phone call in French · ফরাসিতে ফোনের কথা সামলান",
+    "Describe the weather · আবহাওয়ার বর্ণনা দিন",
+    "Say what hurts at the doctor's · ডাক্তারের কাছে কোথায় ব্যথা তা বলুন"
    ],
    "blocks": [
     {
@@ -1305,7 +1305,7 @@ LC.units.push({
        "mean": "You have the wrong number. · আপনি ভুল নম্বরে ফোন করেছেন।"
       }
      ],
-     "title": "On the telephone"
+     "title": "On the telephone · টেলিফোনে"
     },
     {
      "type": "tip",

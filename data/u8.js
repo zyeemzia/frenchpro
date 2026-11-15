@@ -15,9 +15,9 @@ LC.units.push({
    "subtitle": "The first stretch of the dictionary · অভিধানের প্রথম অংশ",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Use the search box to find a word from any language",
-    "Note the feminine form where one is given"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Use the search box to find a word from any language · যেকোনো ভাষা থেকে শব্দ খুঁজতে অনুসন্ধান বাক্স ব্যবহার করুন",
+    "Note the feminine form where one is given · যেখানে স্ত্রীবাচক রূপ দেওয়া আছে তা লক্ষ করুন"
    ],
    "blocks": [
     {
@@ -446,9 +446,9 @@ LC.units.push({
    "subtitle": "The rest of the letter A · A বর্ণের বাকি অংশ",
    "minutes": 10,
    "goals": [
-    "Read 65 more entries in all three languages",
-    "Spot the false friends in this stretch",
-    "Use the search box to test yourself"
+    "Read 65 more entries in all three languages · আরও ৬৫টি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Spot the false friends in this stretch · এই অংশের ছদ্মবন্ধু শব্দ চিনুন",
+    "Use the search box to test yourself · নিজেকে যাচাই করতে অনুসন্ধান বাক্স ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -861,9 +861,9 @@ LC.units.push({
    "subtitle": "The last stretch of the letter A · A বর্ণের শেষ অংশ",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Watch for the feminine form given after the semicolon",
-    "Spot the false friends: {{appliquer}}, {{un appareil}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Watch for the feminine form given after the semicolon · সেমিকোলনের পরে দেওয়া স্ত্রীবাচক রূপ লক্ষ করুন",
+    "Spot the false friends: {{appliquer}}, {{un appareil}} · ছদ্মবন্ধু চিনুন: {{appliquer}}, {{un appareil}}"
    ],
    "blocks": [
     {
@@ -1261,9 +1261,9 @@ LC.units.push({
    "subtitle": "The letter B, from a ring to a bunch of flowers · B বর্ণ, আংটি থেকে ফুলের তোড়া",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Notice the shop names built on -erie: {{la boulangerie}}",
-    "Keep {{la bibliothèque}} and {{la librairie}} apart"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Notice the shop names built on -erie: {{la boulangerie}} · -erie দিয়ে গড়া দোকানের নাম: {{la boulangerie}}",
+    "Keep {{la bibliothèque}} and {{la librairie}} apart · {{la bibliothèque}} ও {{la librairie}} আলাদা রাখুন"
    ],
    "blocks": [
     {
@@ -1585,9 +1585,9 @@ LC.units.push({
    "subtitle": "The close of the letter B · B বর্ণের শেষ",
    "minutes": 6,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the adjective-to-adverb step: {{brusque → brusquement}}",
-    "Keep {{le but}} and {{le bruit}} apart by sound"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the adjective-to-adverb step: {{brusque → brusquement}} · বিশেষণ থেকে ক্রিয়াবিশেষণের ধাপ: {{brusque → brusquement}}",
+    "Keep {{le but}} and {{le bruit}} apart by sound · ধ্বনি শুনে {{le but}} ও {{le bruit}} আলাদা করুন"
    ],
    "blocks": [
     {
@@ -1664,9 +1664,9 @@ LC.units.push({
    "subtitle": "The letter C opens · C বর্ণের শুরু",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Watch the two false friends: {{le canard}}, {{le camarade}}",
-    "Notice that {{le café}} is both the drink and the place"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Watch the two false friends: {{le canard}}, {{le camarade}} · দুটি ছদ্মবন্ধু লক্ষ করুন: {{le canard}}, {{le camarade}}",
+    "Notice that {{le café}} is both the drink and the place · {{le café}} পানীয়ও, জায়গাও"
    ],
    "blocks": [
     {
@@ -1790,9 +1790,9 @@ LC.units.push({
    "subtitle": "C continues, through character and change · C চলছে — চরিত্র ও পরিবর্তনের শব্দ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn {{car}} as the conjunction *for, because*, not a vehicle",
-    "Collect the {{ch-}} family: {{chanter, chanson, chant}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn {{car}} as the conjunction *for, because*, not a vehicle · {{car}} মানে *কারণ*, গাড়ি নয়",
+    "Collect the {{ch-}} family: {{chanter, chanson, chant}} · {{ch-}} পরিবার: {{chanter, chanson, chant}}"
    ],
    "blocks": [
     {
@@ -2058,9 +2058,9 @@ LC.units.push({
    "subtitle": "Animals, clothes and the words of daily life · পশু, পোশাক ও দৈনন্দিন জীবনের শব্দ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Collect the masculine–feminine animal pairs: {{le chat / la chatte}}",
-    "Remember that {{cher}} means both *dear* and *expensive*"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the masculine–feminine animal pairs: {{le chat / la chatte}} · প্রাণীর পুং-স্ত্রী জোড়া: {{le chat / la chatte}}",
+    "Remember that {{cher}} means both *dear* and *expensive* · {{cher}} মানে *প্রিয়* আবার *দামি*"
    ],
    "blocks": [
     {
@@ -2326,9 +2326,9 @@ LC.units.push({
    "subtitle": "The con– family, where French and English almost agree · con– পরিবার, যেখানে ফরাসি ও ইংরেজি প্রায় মেলে",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Use the con– prefix to guess meanings",
-    "Separate {{la connaissance}} from {{la conscience}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Use the con– prefix to guess meanings · অর্থ অনুমান করতে con– উপসর্গ কাজে লাগান",
+    "Separate {{la connaissance}} from {{la conscience}} · {{la connaissance}} ও {{la conscience}} আলাদা করুন"
    ],
    "blocks": [
     {
@@ -2594,9 +2594,9 @@ LC.units.push({
    "subtitle": "The letter C closes · C বর্ণের সমাপ্তি",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Collect the -eux / -euse adjective pairs",
-    "Separate {{critique}} the adjective from {{la critique}} the noun"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the -eux / -euse adjective pairs · -eux / -euse বিশেষণ জোড়াগুলো সংগ্রহ করুন",
+    "Separate {{critique}} the adjective from {{la critique}} the noun · বিশেষণ {{critique}} ও বিশেষ্য {{la critique}} আলাদা করুন"
    ],
    "blocks": [
     {
@@ -2846,9 +2846,9 @@ LC.units.push({
    "subtitle": "The letter D, and the French day · D বর্ণ আর ফরাসি দিনের শব্দ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the three meals: {{le petit-déjeuner, le déjeuner, le dîner}}",
-    "Use {{dé-}} as the prefix that undoes a verb"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the three meals: {{le petit-déjeuner, le déjeuner, le dîner}} · তিন বেলার খাবার: {{le petit-déjeuner, le déjeuner, le dîner}}",
+    "Use {{dé-}} as the prefix that undoes a verb · ক্রিয়ার কাজ উল্টে দিতে উপসর্গ {{dé-}} ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -3104,9 +3104,9 @@ LC.units.push({
    "subtitle": "Spending, descending and the evening meal · খরচ, নামা আর রাতের খাবার",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{dessous}} and {{dessus}} apart — below and above",
-    "Notice how {{la difficulté}} and {{difficile}} share one root"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{dessous}} and {{dessus}} apart — below and above · {{dessous}} ও {{dessus}} আলাদা রাখুন — নিচে আর উপরে",
+    "Notice how {{la difficulté}} and {{difficile}} share one root · {{la difficulté}} ও {{difficile}} একই মূল থেকে এসেছে"
    ],
    "blocks": [
     {
@@ -3362,9 +3362,9 @@ LC.units.push({
    "subtitle": "The close of D · D বর্ণের শেষ",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the -aine suffix: *about ten*, *a dozen*",
-    "Keep {{droit}} and {{droite}} apart"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the -aine suffix: *about ten*, *a dozen* · -aine প্রত্যয় শিখুন: *দশেক*, *ডজনখানেক*",
+    "Keep {{droit}} and {{droite}} apart · {{droit}} ও {{droite}} আলাদা রাখুন"
    ],
    "blocks": [
     {
@@ -3594,9 +3594,9 @@ LC.units.push({
    "subtitle": "The letter E, where school and work live · E বর্ণ — শিক্ষা ও কাজের শব্দ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Collect the school family: {{école, élève, éducation, enseignement}}",
-    "Learn the employer / employee pair in all four forms"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the school family: {{école, élève, éducation, enseignement}} · বিদ্যালয়ের শব্দপরিবার: {{école, élève, éducation, enseignement}}",
+    "Learn the employer / employee pair in all four forms · নিয়োগকর্তা / কর্মচারী জোড়া চারটি রূপেই শিখুন"
    ],
    "blocks": [
     {
@@ -3877,9 +3877,9 @@ LC.units.push({
    "subtitle": "Study, examination and everything exceptional · অধ্যয়ন, পরীক্ষা আর ব্যতিক্রমী সবকিছু",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the ex– family that English shares almost exactly",
-    "Keep {{un examen}} and {{une expérience}} apart from their English twins"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the ex– family that English shares almost exactly · ইংরেজির সঙ্গে প্রায় হুবহু মেলা ex– পরিবার শিখুন",
+    "Keep {{un examen}} and {{une expérience}} apart from their English twins · {{un examen}} ও {{une expérience}}-কে ইংরেজি যমজ শব্দ থেকে আলাদা রাখুন"
    ],
    "blocks": [
     {
@@ -4166,9 +4166,9 @@ LC.units.push({
    "subtitle": "The letter F opens, with family and the factory · F বর্ণের শুরু — পরিবার ও কারখানা",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Spot the two words said FO: {{la faux}} and {{faux}}",
-    "Build adverbs: {{facile → facilement}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Spot the two words said FO: {{la faux}} and {{faux}} · FO উচ্চারণের দুই শব্দ: {{la faux}} ও {{faux}}",
+    "Build adverbs: {{facile → facilement}} · ক্রিয়াবিশেষণ গড়ুন: {{facile → facilement}}"
    ],
    "blocks": [
     {
@@ -4378,9 +4378,9 @@ LC.units.push({
    "subtitle": "Fire, fever, forests and strength · আগুন, জ্বর, বন আর শক্তি",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the two words for river: {{le fleuve}} and {{la rivière}}",
-    "Remember that {{formidable}} is a compliment in French"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the two words for river: {{le fleuve}} and {{la rivière}} · নদীর দুই শব্দ: {{le fleuve}} ও {{la rivière}}",
+    "Remember that {{formidable}} is a compliment in French · ফরাসিতে {{formidable}} একটি প্রশংসা"
    ],
    "blocks": [
     {
@@ -4661,9 +4661,9 @@ LC.units.push({
    "subtitle": "The letter G, and the hard-soft rule · G বর্ণ আর কঠিন-কোমল নিয়ম",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Hear the two sounds of G: hard before a, o, u; soft before e, i",
-    "Learn {{gagner}}, which covers both earning and winning"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Hear the two sounds of G: hard before a, o, u; soft before e, i · G-এর দুই ধ্বনি: a, o, u-এর আগে কঠিন; e, i-এর আগে কোমল",
+    "Learn {{gagner}}, which covers both earning and winning · {{gagner}} শিখুন — রোজগার আর জেতা দুই-ই"
    ],
    "blocks": [
     {
@@ -4883,9 +4883,9 @@ LC.units.push({
    "subtitle": "The close of G · G বর্ণের শেষ",
    "minutes": 6,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{la grève}} away from its English look-alike",
-    "Note that {{le guide}} can be a person or a book"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{la grève}} away from its English look-alike · {{la grève}}-কে তার ইংরেজি সদৃশ শব্দ থেকে দূরে রাখুন",
+    "Note that {{le guide}} can be a person or a book · {{le guide}} মানুষও হতে পারে, বইও"
    ],
    "blocks": [
     {
@@ -4942,9 +4942,9 @@ LC.units.push({
    "subtitle": "The letter that is never heard · যে বর্ণ কখনও শোনা যায় না",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the difference between mute H and aspirate H",
-    "Collect the honour family: {{honnête, honneur, honte}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the difference between mute H and aspirate H · নীরব H ও সাশ্বাস H-এর পার্থক্য শিখুন",
+    "Collect the honour family: {{honnête, honneur, honte}} · সম্মানের শব্দপরিবার: {{honnête, honneur, honte}}"
    ],
    "blocks": [
     {
@@ -5200,9 +5200,9 @@ LC.units.push({
    "subtitle": "The letter I, and the im– that means *not* · I বর্ণ আর না-বাচক im–",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Use im– / in– as the negative prefix",
-    "Learn {{un impôt}}, the word on every French form"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Use im– / in– as the negative prefix · নঞর্থক উপসর্গ হিসেবে im– / in– ব্যবহার করুন",
+    "Learn {{un impôt}}, the word on every French form · {{un impôt}}, প্রতিটি ফরাসি ফর্মে থাকা শব্দ"
    ],
    "blocks": [
     {
@@ -5392,9 +5392,9 @@ LC.units.push({
    "subtitle": "The in– prefix at full strength · পুরোদমে in– উপসর্গ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Strip the in– to find the positive word underneath",
-    "Learn the nurse pair {{infirmier / infirmière}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Strip the in– to find the positive word underneath · in– সরিয়ে ভেতরের ইতিবাচক শব্দটি বের করুন",
+    "Learn the nurse pair {{infirmier / infirmière}} · নার্সের জোড়া {{infirmier / infirmière}} শিখুন"
    ],
    "blocks": [
     {
@@ -5620,9 +5620,9 @@ LC.units.push({
    "subtitle": "Teaching, inspecting and inventing · শিক্ষা, পরিদর্শন ও উদ্ভাবন",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Collect the -teur / -trice professional pairs",
-    "Read {{interdit}} on every French sign"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the -teur / -trice professional pairs · -teur / -trice পেশার জোড়াগুলো সংগ্রহ করুন",
+    "Read {{interdit}} on every French sign · প্রতিটি ফরাসি সাইনবোর্ডে {{interdit}} পড়ুন"
    ],
    "blocks": [
     {
@@ -5853,9 +5853,9 @@ LC.units.push({
    "subtitle": "The letter J, from the garden to the courtroom · J বর্ণ — বাগান থেকে আদালত",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the justice family: {{juge, jugement, juger, justice}}",
-    "Note the irregular plural {{journal → journaux}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the justice family: {{juge, jugement, juger, justice}} · বিচারের শব্দপরিবার: {{juge, jugement, juger, justice}}",
+    "Note the irregular plural {{journal → journaux}} · অনিয়মিত বহুবচন {{journal → journaux}} লক্ষ করুন"
    ],
    "blocks": [
     {
@@ -6106,9 +6106,9 @@ LC.units.push({
    "subtitle": "The borrowed letter · ধার করা বর্ণ",
    "minutes": 8,
    "goals": [
-    "Read each entry in all three languages",
-    "Recognise that K words are nearly all loanwords",
-    "Learn the kilo- family of measures"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Recognise that K words are nearly all loanwords · K-এর শব্দ প্রায় সবই ধার করা",
+    "Learn the kilo- family of measures · পরিমাপের kilo- পরিবার শিখুন"
    ],
    "blocks": [
     {
@@ -6266,9 +6266,9 @@ LC.units.push({
    "subtitle": "Language, liberty and the bookshop · ভাষা, স্বাধীনতা ও বইয়ের দোকান",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Say your own language in French: {{la langue bengali}}",
-    "Keep {{le libraire}}, {{la librairie}} and {{la bibliothèque}} straight"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Say your own language in French: {{la langue bengali}} · নিজের ভাষার ফরাসি নাম: {{la langue bengali}}",
+    "Keep {{le libraire}}, {{la librairie}} and {{la bibliothèque}} straight · {{le libraire}}, {{la librairie}} ও {{la bibliothèque}} গুলিয়ে ফেলবেন না"
    ],
    "blocks": [
     {
@@ -6565,9 +6565,9 @@ LC.units.push({
    "subtitle": "The close of L · L বর্ণের শেষ",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn {{louer}}, which both rents and praises",
-    "Place {{le lycée}} in the French school ladder"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn {{louer}}, which both rents and praises · {{louer}} — ভাড়া দেওয়া আর প্রশংসা করা দুই-ই",
+    "Place {{le lycée}} in the French school ladder · ফরাসি শিক্ষাস্তরে {{le lycée}}-র জায়গা চিনুন"
    ],
    "blocks": [
     {
@@ -6741,9 +6741,9 @@ LC.units.push({
    "subtitle": "The letter M opens · M বর্ণের শুরু",
    "minutes": 8,
    "goals": [
-    "Read each entry in all three languages",
-    "Note that {{magnifique}} is stronger than *magnificent* sounds",
-    "Learn {{le magasin}}, the everyday word for shop"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Note that {{magnifique}} is stronger than *magnificent* sounds · {{magnifique}} ইংরেজি *magnificent*-এর চেয়েও জোরালো",
+    "Learn {{le magasin}}, the everyday word for shop · {{le magasin}}, দোকানের চলতি শব্দ"
    ],
    "blocks": [
     {
@@ -6876,9 +6876,9 @@ LC.units.push({
    "subtitle": "Marriage, markets and misfortune · বিয়ে, বাজার ও দুর্ভাগ্য",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Separate {{le maire}}, {{la mère}} and {{la mer}} by sound",
-    "Build the {{malheur}} family"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Separate {{le maire}}, {{la mère}} and {{la mer}} by sound · ধ্বনি দিয়ে {{le maire}}, {{la mère}} ও {{la mer}} আলাদা করুন",
+    "Build the {{malheur}} family · {{malheur}} শব্দপরিবার গড়ুন"
    ],
    "blocks": [
     {
@@ -7119,9 +7119,9 @@ LC.units.push({
    "subtitle": "Medicine, memory and the better of two · চিকিৎসা, স্মৃতি আর দুইয়ের মধ্যে ভালোটি",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{le médecin}} and {{la médecine}} apart",
-    "Learn {{meilleur}} for adjectives and {{mieux}} for adverbs"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{le médecin}} and {{la médecine}} apart · {{le médecin}} ও {{la médecine}} আলাদা রাখুন",
+    "Learn {{meilleur}} for adjectives and {{mieux}} for adverbs · বিশেষণে {{meilleur}}, ক্রিয়াবিশেষণে {{mieux}}"
    ],
    "blocks": [
     {
@@ -7367,9 +7367,9 @@ LC.units.push({
    "subtitle": "The close of M · M বর্ণের শেষ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn {{la monnaie}} — change, not money in general",
-    "Collect the mou– cluster: fly, handkerchief, moustache, mosquito, sheep"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn {{la monnaie}} — change, not money in general · {{la monnaie}} — খুচরো, সাধারণ অর্থে টাকা নয়",
+    "Collect the mou– cluster: fly, handkerchief, moustache, mosquito, sheep · mou– গুচ্ছ: মাছি, রুমাল, গোঁফ, মশা, ভেড়া"
    ],
    "blocks": [
     {
@@ -7620,9 +7620,9 @@ LC.units.push({
    "subtitle": "Swimming, nature and the news · সাঁতার, প্রকৃতি ও খবর",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Build the swimming family from {{nager}}",
-    "Keep {{nouveau}} and {{la nouvelle}} apart"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Build the swimming family from {{nager}} · {{nager}} থেকে সাঁতারের শব্দপরিবার গড়ুন",
+    "Keep {{nouveau}} and {{la nouvelle}} apart · {{nouveau}} ও {{la nouvelle}} আলাদা রাখুন"
    ],
    "blocks": [
     {
@@ -7848,8 +7848,8 @@ LC.units.push({
    "subtitle": "The close of N · N বর্ণের শেষ",
    "minutes": 5,
    "goals": [
-    "Read each entry in all three languages",
-    "Note {{nul}} as both *worthless* and *nil*"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Note {{nul}} as both *worthless* and *nil* · {{nul}} মানে *অকেজো* আবার *শূন্য*"
    ],
    "blocks": [
     {
@@ -7907,9 +7907,9 @@ LC.units.push({
    "subtitle": "The whole letter O in one lesson · এক পাঠে গোটা O বর্ণ",
    "minutes": 14,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the œ ligature: {{œil, œuf, œuvre}}",
-    "Know the irregular plural {{un œil → les yeux}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the œ ligature: {{œil, œuf, œuvre}} · œ যুক্তাক্ষর শিখুন: {{œil, œuf, œuvre}}",
+    "Know the irregular plural {{un œil → les yeux}} · অনিয়মিত বহুবচন {{un œil → les yeux}} জানুন"
    ],
    "blocks": [
     {
@@ -7990,7 +7990,7 @@ LC.units.push({
     },
     {
      "type": "vocab",
-     "title": "œil · œuf · œuvre",
+     "title": "œil · œuf · œuvre · চোখ · ডিম · কাজ",
      "items": [
       {
        "t": "un œil",
@@ -8211,8 +8211,8 @@ LC.units.push({
    "subtitle": "The letter P opens, in peace · P বর্ণের শুরু, শান্তিতে",
    "minutes": 6,
    "goals": [
-    "Read each entry in all three languages",
-    "Collect the peace family built on {{la paix}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the peace family built on {{la paix}} · {{la paix}} ঘিরে গড়া শান্তির শব্দপরিবার"
    ],
    "blocks": [
     {
@@ -8308,9 +8308,9 @@ LC.units.push({
    "subtitle": "Parliament, patience and the passport · সংসদ, ধৈর্য ও পাসপোর্ট",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Collect the par– words that open a sentence",
-    "Learn {{le patron}}, the everyday word for boss"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the par– words that open a sentence · বাক্য শুরু করা par– শব্দগুলো সংগ্রহ করুন",
+    "Learn {{le patron}}, the everyday word for boss · {{le patron}}, মালিক বোঝানোর চলতি শব্দ"
    ],
    "blocks": [
     {
@@ -8556,9 +8556,9 @@ LC.units.push({
    "subtitle": "One letter apart: poison and fish · এক অক্ষরের তফাত: বিষ আর মাছ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Hear the difference between {{le poison}} and {{le poisson}}",
-    "Learn {{pire}}, the irregular *worse*"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Hear the difference between {{le poison}} and {{le poisson}} · {{le poison}} ও {{le poisson}}-এর পার্থক্য শুনুন",
+    "Learn {{pire}}, the irregular *worse* · {{pire}}, অনিয়মিত *আরও খারাপ*"
    ],
    "blocks": [
     {
@@ -8809,9 +8809,9 @@ LC.units.push({
    "subtitle": "The close of P · P বর্ণের শেষ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn {{le pourboire}}, the word for a tip",
-    "Collect the pro– family of progress and projects"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn {{le pourboire}}, the word for a tip · {{le pourboire}}, বকশিশের শব্দ",
+    "Collect the pro– family of progress and projects · অগ্রগতি ও প্রকল্পের pro– পরিবার"
    ],
    "blocks": [
     {
@@ -9092,9 +9092,9 @@ LC.units.push({
    "subtitle": "The letter Q, where every word begins qu– · Q বর্ণ, যেখানে সব শব্দই qu– দিয়ে শুরু",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Remember that French {{qu}} is said as a plain K",
-    "Learn the {{quelque}} family"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Remember that French {{qu}} is said as a plain K · ফরাসি {{qu}} সাধারণ K-এর মতো উচ্চারিত হয়",
+    "Learn the {{quelque}} family · {{quelque}} শব্দপরিবার শিখুন"
    ],
    "blocks": [
     {
@@ -9289,9 +9289,9 @@ LC.units.push({
    "subtitle": "The letter R, and the prefix that means *again* · R বর্ণ আর *পুনরায়* বোঝানো উপসর্গ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Use ré– as the prefix for doing something again",
-    "Keep {{le raisin}} away from its English look-alike"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Use ré– as the prefix for doing something again · আবার করা বোঝাতে উপসর্গ ré– ব্যবহার করুন",
+    "Keep {{le raisin}} away from its English look-alike · {{le raisin}}-কে তার ইংরেজি সদৃশ শব্দ থেকে দূরে রাখুন"
    ],
    "blocks": [
     {
@@ -9532,9 +9532,9 @@ LC.units.push({
    "subtitle": "Meeting, answering and the kidney that is not a queen · সাক্ষাৎ, উত্তর — আর যে কিডনি রানি নয়",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Hear the difference between {{le rein}} and {{la reine}}",
-    "Learn {{le rendez-vous}} in its real French sense"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Hear the difference between {{le rein}} and {{la reine}} · {{le rein}} ও {{la reine}}-এর পার্থক্য শুনুন",
+    "Learn {{le rendez-vous}} in its real French sense · {{le rendez-vous}}-এর আসল ফরাসি অর্থ শিখুন"
    ],
    "blocks": [
     {
@@ -9780,9 +9780,9 @@ LC.units.push({
    "subtitle": "The close of R · R বর্ণের শেষ",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Separate {{la route}} and {{la rue}}",
-    "Learn the two French words for *river*, now complete"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Separate {{la route}} and {{la rue}} · {{la route}} ও {{la rue}} আলাদা করুন",
+    "Learn the two French words for *river*, now complete · *নদী*-র দুই ফরাসি শব্দ, এবার পুরোটাই"
    ],
    "blocks": [
     {
@@ -10038,9 +10038,9 @@ LC.units.push({
    "subtitle": "The letter S opens · S বর্ণের শুরু",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{sale}} and {{la salle}} apart — one letter, opposite worlds",
-    "Learn {{sain}}, {{le sein}} and {{le sang}} by their nasal sounds"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{sale}} and {{la salle}} apart — one letter, opposite worlds · {{sale}} ও {{la salle}} আলাদা রাখুন — এক অক্ষরের ফারাক, দুই জগৎ",
+    "Learn {{sain}}, {{le sein}} and {{le sang}} by their nasal sounds · নাসিক্য ধ্বনি দিয়ে {{sain}}, {{le sein}} ও {{le sang}} চিনুন"
    ],
    "blocks": [
     {
@@ -10291,9 +10291,9 @@ LC.units.push({
    "subtitle": "Silence, silk and the sun · নীরবতা, রেশম ও সূর্য",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Separate the three soi– words: {{la soie}}, {{la soif}}, {{le soin}}",
-    "Learn {{seulement}}, the everyday *only*"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Separate the three soi– words: {{la soie}}, {{la soif}}, {{le soin}} · তিনটি soi– শব্দ আলাদা করুন: {{la soie}}, {{la soif}}, {{le soin}}",
+    "Learn {{seulement}}, the everyday *only* · {{seulement}}, চলতি *কেবল*"
    ],
    "blocks": [
     {
@@ -10549,9 +10549,9 @@ LC.units.push({
    "subtitle": "The sur– prefix: over and above · sur– উপসর্গ: উপরে ও অতিরিক্ত",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Use **sur-** as the prefix meaning *over*",
-    "Collect the spect– family of watchers and shows"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Use **sur-** as the prefix meaning *over* · *উপর* বোঝাতে উপসর্গ **sur-** ব্যবহার করুন",
+    "Collect the spect– family of watchers and shows · দর্শক ও প্রদর্শনীর spect– পরিবার"
    ],
    "blocks": [
     {
@@ -10802,8 +10802,8 @@ LC.units.push({
    "subtitle": "The close of S · S বর্ণের শেষ",
    "minutes": 6,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn {{sympathique}}, the compliment you will hear most"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn {{sympathique}}, the compliment you will hear most · {{sympathique}}, সবচেয়ে বেশি শোনা প্রশংসা"
    ],
    "blocks": [
     {
@@ -10856,9 +10856,9 @@ LC.units.push({
    "subtitle": "The letter T opens · T বর্ণের শুরু",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{la tache}} and {{la tâche}} apart by the circumflex",
-    "Learn the télé– family"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{la tache}} and {{la tâche}} apart by the circumflex · সারকমফ্লেক্স দেখে {{la tache}} ও {{la tâche}} আলাদা করুন",
+    "Learn the télé– family · télé– শব্দপরিবার শিখুন"
    ],
    "blocks": [
     {
@@ -11069,9 +11069,9 @@ LC.units.push({
    "subtitle": "Time, earth and the thunder · সময়, মাটি ও বজ্র",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn the three senses of {{le temps}}",
-    "Collect the thé– and th– words shared with English"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the three senses of {{le temps}} · {{le temps}}-এর তিন অর্থ শিখুন",
+    "Collect the thé– and th– words shared with English · ইংরেজির সঙ্গে ভাগ করা thé– ও th– শব্দ"
    ],
    "blocks": [
     {
@@ -11332,9 +11332,9 @@ LC.units.push({
    "subtitle": "The close of T · T বর্ণের শেষ",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Learn {{le travail}} and its irregular plural",
-    "Separate {{très}} and {{trop}}"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn {{le travail}} and its irregular plural · {{le travail}} ও তার অনিয়মিত বহুবচন শিখুন",
+    "Separate {{très}} and {{trop}} · {{très}} ও {{trop}} আলাদা করুন"
    ],
    "blocks": [
     {
@@ -11563,9 +11563,9 @@ LC.units.push({
    "subtitle": "The letter U, where French sounds least like English · U বর্ণ, যেখানে ফরাসি ইংরেজির থেকে সবচেয়ে দূরে",
    "minutes": 10,
    "goals": [
-    "Read each entry in all three languages",
-    "Master the French U sound",
-    "Collect the util– family"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Master the French U sound · ফরাসি U ধ্বনি আয়ত্ত করুন",
+    "Collect the util– family · util– শব্দপরিবার সংগ্রহ করুন"
    ],
    "blocks": [
     {
@@ -11723,9 +11723,9 @@ LC.units.push({
    "subtitle": "The letter V opens · V বর্ণের শুরু",
    "minutes": 8,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{le vaisseau}} and {{la vaisselle}} apart",
-    "Learn why {{les vacances}} is always plural"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{le vaisseau}} and {{la vaisselle}} apart · {{le vaisseau}} ও {{la vaisselle}} আলাদা রাখুন",
+    "Learn why {{les vacances}} is always plural · {{les vacances}} কেন সবসময় বহুবচন তা শিখুন"
    ],
    "blocks": [
     {
@@ -11868,9 +11868,9 @@ LC.units.push({
    "subtitle": "Selling, wind and the belly · বিক্রয়, বাতাস ও পেট",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Hear the four ven– words apart",
-    "Learn the {{vendre}} family"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Hear the four ven– words apart · চারটি ven– শব্দ আলাদা করে শুনুন",
+    "Learn the {{vendre}} family · {{vendre}} শব্দপরিবার শিখুন"
    ],
    "blocks": [
     {
@@ -12116,9 +12116,9 @@ LC.units.push({
    "subtitle": "The end of the French–Bangla dictionary · ফরাসি–বাংলা অভিধানের সমাপ্তি",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Keep {{le village}} and {{la ville}} apart",
-    "Learn {{voici}} and {{voilà}}, the two French pointing words"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Keep {{le village}} and {{la ville}} apart · {{le village}} ও {{la ville}} আলাদা রাখুন",
+    "Learn {{voici}} and {{voilà}}, the two French pointing words · {{voici}} ও {{voilà}}, দেখানোর দুই ফরাসি শব্দ"
    ],
    "blocks": [
     {
@@ -12359,9 +12359,9 @@ LC.units.push({
    "subtitle": "The last letters, and the end of the French–Bangla half · শেষ বর্ণগুলি, আর ফরাসি–বাংলা অংশের সমাপ্তি",
    "minutes": 12,
    "goals": [
-    "Read each entry in all three languages",
-    "Note that W and X words are nearly all borrowed",
-    "Finish the French–Bangla half of the dictionary"
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Note that W and X words are nearly all borrowed · W ও X-এর শব্দ প্রায় সবই ধার করা",
+    "Finish the French–Bangla half of the dictionary · অভিধানের ফরাসি–বাংলা অংশ শেষ করুন"
    ],
    "blocks": [
     {
@@ -12647,9 +12647,9 @@ LC.units.push({
    "subtitle": "Now look the other way: from Bangla to French · এবার উল্টো দিক — বাংলা থেকে ফরাসি",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Notice how many Bangla negatives map to French in– and im–"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Notice how many Bangla negatives map to French in– and im– · কত বাংলা নঞর্থক রূপ ফরাসি in– ও im–-এ মেলে লক্ষ করুন"
    ],
    "blocks": [
     {
@@ -13025,9 +13025,9 @@ LC.units.push({
    "subtitle": "The close of অ, and the whole of আ · অ-এর শেষ আর গোটা আ",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Learn the French words for feelings and conduct"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the French words for feelings and conduct · অনুভূতি ও আচরণের ফরাসি শব্দ শিখুন"
    ],
    "blocks": [
     {
@@ -13384,9 +13384,9 @@ LC.units.push({
    "subtitle": "Debt, dawn and the one-ruler words · ঋণ, ঊষা আর একনায়কের শব্দ",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Learn the borrowing pair {{emprunter}} and {{prêter}}"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the borrowing pair {{emprunter}} and {{prêter}} · ধার নেওয়া-দেওয়ার জোড়া {{emprunter}} ও {{prêter}} শিখুন"
    ],
    "blocks": [
     {
@@ -13723,8 +13723,8 @@ LC.units.push({
    "subtitle": "Work, duty and the words of character · কাজ, কর্তব্য ও চরিত্রের শব্দ",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Collect the কর্ম– family of work words"
    ],
    "blocks": [
@@ -14087,9 +14087,9 @@ LC.units.push({
    "subtitle": "News, food and fame · খবর, খাবার ও খ্যাতি",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Note how many Bangla abstract nouns become French -ance and -ité"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Note how many Bangla abstract nouns become French -ance and -ité · কত বাংলা ভাববাচক বিশেষ্য ফরাসিতে -ance ও -ité হয় লক্ষ করুন"
    ],
    "blocks": [
     {
@@ -14446,9 +14446,9 @@ LC.units.push({
    "subtitle": "Character, thought and the crowd · চরিত্র, চিন্তা ও জনতা",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Learn the two kisses: {{le baiser}} and {{embrasser}}"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Learn the two kisses: {{le baiser}} and {{embrasser}} · দুই রকম চুম্বন: {{le baiser}} ও {{embrasser}}"
    ],
    "blocks": [
     {
@@ -14811,8 +14811,8 @@ LC.units.push({
    "subtitle": "Quarrels, risk and the right address · ঝগড়া, ঝুঁকি আর সঠিক ঠিকানা",
    "minutes": 10,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Learn {{ঠিক → vrai}} and {{ঠিকানা → une adresse}}"
    ],
    "blocks": [
@@ -14997,9 +14997,9 @@ LC.units.push({
    "subtitle": "Every creature has its own French verb · প্রতিটি প্রাণীর নিজস্ব ফরাসি শব্দ",
    "minutes": 12,
    "goals": [
-    "Name the cry of any animal in French",
-    "Read each entry in all three languages",
-    "Notice the **-ement** ending that turns a cry into a noun"
+    "Name the cry of any animal in French · যেকোনো প্রাণীর ডাকের ফরাসি নাম বলুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Notice the **-ement** ending that turns a cry into a noun · **-ement** শেষাংশ ডাককে বিশেষ্যে বদলায়"
    ],
    "blocks": [
     {
@@ -15245,9 +15245,9 @@ LC.units.push({
    "subtitle": "Family, speed and the words of law · পরিবার, গতি ও আইনের শব্দ",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Collect the three ways to say *quickly* in French"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Collect the three ways to say *quickly* in French · ফরাসিতে *দ্রুত* বলার তিনটি উপায়"
    ],
    "blocks": [
     {
@@ -15609,8 +15609,8 @@ LC.units.push({
    "subtitle": "Hardship, faith and patience · দুর্দশা, ধর্ম ও ধৈর্য",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Use দুর্– and in- together: both mean *hard* or *un-*"
    ],
    "blocks": [
@@ -15989,8 +15989,8 @@ LC.units.push({
    "subtitle": "Prohibition, blame and the foreign ministry · নিষেধ, নিন্দা ও পররাষ্ট্র",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Spot the নি– prefix answering French in– and im–"
    ],
    "blocks": [
@@ -16358,8 +16358,8 @@ LC.units.push({
    "subtitle": "Protest, promise and the wedding party · প্রতিবাদ, প্রতিশ্রুতি ও বিয়েবাড়ি",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Collect the প্রতি– family and its French counterparts"
    ],
    "blocks": [
@@ -16743,8 +16743,8 @@ LC.units.push({
    "subtitle": "Farewell, fear and the words of ownership · বিদায়, ভীতি ও মালিকানা",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Learn the owner family: {{মালিক}}, {{মালিকানা}}, {{মনিব}}"
    ],
    "blocks": [
@@ -17112,8 +17112,8 @@ LC.units.push({
    "subtitle": "War, peace, punishment and learning · যুদ্ধ, শান্তি, শাস্তি ও শিক্ষা",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
     "Keep {{শান্তি}} and {{শাস্তি}} apart in both languages"
    ],
    "blocks": [
@@ -17446,9 +17446,9 @@ LC.units.push({
    "subtitle": "The last letters, and the end of the dictionary · শেষ বর্ণ, আর অভিধানের সমাপ্তি",
    "minutes": 12,
    "goals": [
-    "Find the French for a word you know in Bangla",
-    "Read each entry in all three languages",
-    "Finish the whole trilingual dictionary"
+    "Find the French for a word you know in Bangla · বাংলায় জানা শব্দের ফরাসি রূপ খুঁজুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন",
+    "Finish the whole trilingual dictionary · পুরো ত্রিভাষিক অভিধান শেষ করুন"
    ],
    "blocks": [
     {

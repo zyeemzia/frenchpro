@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u6-idioms",
    "icon": "💬",
-   "title": "Everyday Idioms",
+   "title": "Everyday Idioms · দৈনন্দিন বাগধারা",
    "subtitle": "What French says instead of translating · অনুবাদ না করে ফরাসি যা বলে",
    "minutes": 13,
    "goals": [
-    "Use twenty high-frequency idioms",
-    "Stop translating English idioms word for word",
-    "Recognise idioms when you hear them"
+    "Use twenty high-frequency idioms · কুড়িটি অতি-প্রচলিত বাগধারা ব্যবহার করুন",
+    "Stop translating English idioms word for word · ইংরেজি বাগধারা শব্দে শব্দে অনুবাদ করবেন না",
+    "Recognise idioms when you hear them · বাগধারা শুনলেই চিনুন"
    ],
    "blocks": [
     {
@@ -63,7 +63,7 @@ LC.units.push({
        "to keep the contact"
       ]
      ],
-     "title": "Six to start with"
+     "title": "Six to start with · শুরুর ছয়টি"
     },
     {
      "type": "vocab",
@@ -132,7 +132,7 @@ LC.units.push({
        "mean": "He knows the ins and outs. · সে সব খুঁটিনাটি জানে।"
       }
      ],
-     "title": "In full sentences"
+     "title": "In full sentences · পূর্ণ বাক্যে"
     },
     {
      "type": "tip",
@@ -204,13 +204,13 @@ LC.units.push({
   {
    "id": "u6-proverbs",
    "icon": "❝",
-   "title": "Proverbs",
+   "title": "Proverbs · প্রবাদ",
    "subtitle": "The same wisdom, in three languages · একই প্রজ্ঞা, তিন ভাষায়",
    "minutes": 10,
    "goals": [
-    "Know ten common French proverbs",
-    "Match them to their Bangla and English equivalents",
-    "Use one naturally in conversation"
+    "Know ten common French proverbs · দশটি প্রচলিত ফরাসি প্রবাদ জানুন",
+    "Match them to their Bangla and English equivalents · এদের বাংলা ও ইংরেজি প্রতিশব্দের সঙ্গে মেলান",
+    "Use one naturally in conversation · কথাবার্তায় স্বাভাবিকভাবে একটি ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -256,7 +256,7 @@ LC.units.push({
        "আপন ঘর আগে"
       ]
      ],
-     "title": "Six with close cousins"
+     "title": "Six with close cousins · কাছাকাছি সঙ্গী আছে এমন ছয়টি"
     },
     {
      "type": "examples",
@@ -282,7 +282,7 @@ LC.units.push({
        "mean": "Little by little, the bird builds its nest. · একটু একটু করেই পাখি তার বাসা বাঁধে।"
       }
      ],
-     "title": "Four more worth knowing"
+     "title": "Four more worth knowing · জানার মতো আরও চারটি"
     },
     {
      "type": "tip",
@@ -359,13 +359,13 @@ LC.units.push({
   {
    "id": "u6-homonyms",
    "icon": "≠",
-   "title": "Homonyms & Spelling Traps",
+   "title": "Homonyms & Spelling Traps · সমোচ্চারিত শব্দ ও বানানের ফাঁদ",
    "subtitle": "Same sound, different word · একই উচ্চারণ, ভিন্ন শব্দ",
    "minutes": 12,
    "goals": [
-    "Separate words that sound alike",
-    "Choose the right spelling in writing",
-    "Use the accent to tell words apart"
+    "Separate words that sound alike · একইরকম শোনায় এমন শব্দ আলাদা করুন",
+    "Choose the right spelling in writing · লেখায় সঠিক বানান বাছুন",
+    "Use the accent to tell words apart · শব্দ আলাদা করতে উচ্চারণচিহ্ন কাজে লাগান"
    ],
    "blocks": [
     {
@@ -411,7 +411,7 @@ LC.units.push({
        "metre · to put · master"
       ]
      ],
-     "title": "The classic sets"
+     "title": "The classic sets · চিরচেনা সেটগুলো"
     },
     {
      "type": "rule",
@@ -465,7 +465,7 @@ LC.units.push({
        "desc": "Said dooz-AHN. One letter apart in sound. · উচ্চারণ dooz-AHN। ধ্বনিতে এক অক্ষরের তফাত।"
       }
      ],
-     "title": "Dangerous near-pairs"
+     "title": "Dangerous near-pairs · বিপজ্জনক কাছাকাছি জোড়া"
     },
     {
      "type": "tip",
@@ -562,13 +562,13 @@ LC.units.push({
   {
    "id": "u6-errors",
    "icon": "✗",
-   "title": "Errors Worth Unlearning",
+   "title": "Errors Worth Unlearning · যে ভুলগুলো ছাড়তে হবে",
    "subtitle": "False friends and the mistakes everyone makes · ছদ্মবন্ধু আর সবাই যে ভুলগুলো করে",
    "minutes": 13,
    "goals": [
-    "Spot the commonest false friends",
-    "Fix the structural errors learners repeat",
-    "Use ce qui and ce que in indirect questions"
+    "Spot the commonest false friends · সবচেয়ে প্রচলিত ছদ্মবন্ধু শব্দ চিনুন",
+    "Fix the structural errors learners repeat · শিক্ষার্থীরা যে গঠনগত ভুল বারবার করে তা শোধরান",
+    "Use ce qui and ce que in indirect questions · পরোক্ষ প্রশ্নে ce qui ও ce que ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -619,7 +619,7 @@ LC.units.push({
        "to stay, to remain"
       ]
      ],
-     "title": "False friends that change your meaning"
+     "title": "False friends that change your meaning · অর্থ বদলে দেওয়া ছদ্মবন্ধু শব্দ"
     },
     {
      "type": "rule",
@@ -686,7 +686,7 @@ LC.units.push({
        "desc": "{{ce soir}} tonight; {{une belle soirée}} a lovely evening. · {{ce soir}} মানে আজ রাতে; {{une belle soirée}} মানে সুন্দর একটি সন্ধ্যা।"
       }
      ],
-     "title": "The -ée pairs"
+     "title": "The -ée pairs · -ée জোড়াগুলো"
     },
     {
      "type": "quiz",
@@ -764,13 +764,13 @@ LC.units.push({
   {
    "id": "u6-abbrev",
    "icon": "SVP",
-   "title": "Abbreviations & French in English",
+   "title": "Abbreviations & French in English · সংক্ষেপ ও ইংরেজিতে ঢোকা ফরাসি",
    "subtitle": "Reading signs, and the words you already know · সাইনবোর্ড পড়া, আর যে শব্দগুলো আপনি আগে থেকেই জানেন",
    "minutes": 11,
    "goals": [
-    "Read common French abbreviations",
-    "Recognise French words used in English",
-    "Use the right title before a name"
+    "Read common French abbreviations · প্রচলিত ফরাসি সংক্ষেপ পড়ুন",
+    "Recognise French words used in English · ইংরেজিতে ব্যবহৃত ফরাসি শব্দ চিনুন",
+    "Use the right title before a name · নামের আগে সঠিক সম্বোধন ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -826,7 +826,7 @@ LC.units.push({
        "enclosures"
       ]
      ],
-     "title": "The ones you will actually meet"
+     "title": "The ones you will actually meet · যেগুলো সত্যিই সামনে পড়বে"
     },
     {
      "type": "rule",
@@ -900,7 +900,7 @@ LC.units.push({
        "the photographic sense came first"
       ]
      ],
-     "title": "French words in English — and what they really mean"
+     "title": "French words in English — and what they really mean · ইংরেজিতে ফরাসি শব্দ — আর তাদের আসল অর্থ"
     },
     {
      "type": "tip",
@@ -972,13 +972,13 @@ LC.units.push({
   {
    "id": "u6-register",
    "icon": "👔",
-   "title": "Register & Politeness",
+   "title": "Register & Politeness · ভাষার স্তর ও ভদ্রতা",
    "subtitle": "Saying the same thing three ways · একই কথা তিনভাবে বলা",
    "minutes": 12,
    "goals": [
-    "Move between informal, standard and formal French",
-    "Soften a request or a refusal",
-    "Avoid sounding blunt by accident"
+    "Move between informal, standard and formal French · ঘরোয়া, প্রমিত ও আনুষ্ঠানিক ফরাসির মধ্যে চলাফেরা করুন",
+    "Soften a request or a refusal · অনুরোধ বা প্রত্যাখ্যান নরম করুন",
+    "Avoid sounding blunt by accident · অজান্তে রূঢ় শোনানো এড়ান"
    ],
    "blocks": [
     {
@@ -1019,7 +1019,7 @@ LC.units.push({
        "{{Oui, tout à fait.}}"
       ]
      ],
-     "title": "One idea, three levels"
+     "title": "One idea, three levels · এক ভাব, তিন স্তর"
     },
     {
      "type": "rule",

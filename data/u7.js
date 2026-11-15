@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u7-etre-avoir",
    "icon": "ê/a",
-   "title": "être & avoir in Full",
+   "title": "être & avoir in Full · être ও avoir-এর পূর্ণ রূপ",
    "subtitle": "The two verbs that build everything else · যে দুটি ক্রিয়া বাকি সবকিছু গড়ে তোলে",
    "minutes": 12,
    "goals": [
-    "Conjugate être and avoir in six tenses",
-    "Recognise them inside compound tenses",
-    "Use the right one as a helper"
+    "Conjugate être and avoir in six tenses · ছয়টি কালে être ও avoir-এর রূপ করুন",
+    "Recognise them inside compound tenses · যৌগিক কালের ভেতরে এদের চিনুন",
+    "Use the right one as a helper · সহায়ক হিসেবে সঠিকটি ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -28,10 +28,10 @@ LC.units.push({
      "type": "table",
      "head": [
       "",
-      "Présent",
-      "Imparfait",
+      "Présent · বর্তমান কাল",
+      "Imparfait · অসমাপিকা অতীত",
       "Futur",
-      "Conditionnel"
+      "Conditionnel · শর্তবাচক কাল"
      ],
      "rows": [
       [
@@ -77,16 +77,16 @@ LC.units.push({
        "{{seraient}}"
       ]
      ],
-     "title": "être — to be"
+     "title": "être — to be · être — হওয়া"
     },
     {
      "type": "table",
      "head": [
       "",
-      "Présent",
-      "Imparfait",
+      "Présent · বর্তমান কাল",
+      "Imparfait · অসমাপিকা অতীত",
       "Futur",
-      "Conditionnel"
+      "Conditionnel · শর্তবাচক কাল"
      ],
      "rows": [
       [
@@ -132,7 +132,7 @@ LC.units.push({
        "{{auraient}}"
       ]
      ],
-     "title": "avoir — to have"
+     "title": "avoir — to have · avoir — থাকা, অধিকারে থাকা"
     },
     {
      "type": "table",
@@ -173,7 +173,7 @@ LC.units.push({
        "{{ayant}}"
       ]
      ],
-     "title": "The rest of the system"
+     "title": "The rest of the system · বাকি ব্যবস্থাটুকু"
     },
     {
      "type": "tip",
@@ -234,13 +234,13 @@ LC.units.push({
   {
    "id": "u7-regular",
    "icon": "3",
-   "title": "The Three Regular Patterns",
+   "title": "The Three Regular Patterns · তিনটি নিয়মিত ছাঁচ",
    "subtitle": "parler, finir, vendre across every tense · parler, finir, vendre — প্রতিটি কালে",
    "minutes": 12,
    "goals": [
-    "Apply each pattern in six tenses",
-    "See how the stem stays and endings change",
-    "Conjugate any regular verb from memory"
+    "Apply each pattern in six tenses · প্রতিটি ছাঁচ ছয়টি কালে প্রয়োগ করুন",
+    "See how the stem stays and endings change · ধাতু থাকে, শেষাংশ বদলায় — দেখুন",
+    "Conjugate any regular verb from memory · যেকোনো নিয়মিত ক্রিয়া মুখস্থ রূপ করুন"
    ],
    "blocks": [
     {
@@ -293,7 +293,7 @@ LC.units.push({
        "{{vendent}}"
       ]
      ],
-     "title": "Présent"
+     "title": "Présent · বর্তমান কাল"
     },
     {
      "type": "table",
@@ -341,7 +341,7 @@ LC.units.push({
        "{{vendant}}"
       ]
      ],
-     "title": "The same three verbs, every other tense"
+     "title": "The same three verbs, every other tense · একই তিন ক্রিয়া, বাকি সব কালে"
     },
     {
      "type": "tip",
@@ -430,13 +430,13 @@ LC.units.push({
   {
    "id": "u7-core",
    "icon": "★",
-   "title": "The Core Irregulars",
+   "title": "The Core Irregulars · মূল অনিয়মিত ক্রিয়া",
    "subtitle": "aller, faire, prendre, venir, voir, dire · aller, faire, prendre, venir, voir, dire — ছয়টি অপরিহার্য অনিয়মিত ক্রিয়া",
    "minutes": 14,
    "goals": [
-    "Conjugate the six most frequent irregulars",
-    "Know their future stems and participles",
-    "Spot the families they belong to"
+    "Conjugate the six most frequent irregulars · সবচেয়ে চলতি ছয়টি অনিয়মিত ক্রিয়ার রূপ করুন",
+    "Know their future stems and participles · এদের ভবিষ্যৎ ধাতু ও কৃদন্ত রূপ জানুন",
+    "Spot the families they belong to · এরা কোন শব্দপরিবারের তা চিনুন"
    ],
    "blocks": [
     {
@@ -489,7 +489,7 @@ LC.units.push({
        "{{prennent}}"
       ]
      ],
-     "title": "Présent — first three"
+     "title": "Présent — first three · বর্তমান কাল — প্রথম তিনটি"
     },
     {
      "type": "table",
@@ -537,7 +537,7 @@ LC.units.push({
        "{{disent}}"
       ]
      ],
-     "title": "Présent — next three"
+     "title": "Présent — next three · বর্তমান কাল — পরের তিনটি"
     },
     {
      "type": "table",
@@ -585,7 +585,7 @@ LC.units.push({
        "{{dise}}"
       ]
      ],
-     "title": "The three forms you must also know"
+     "title": "The three forms you must also know · আরও যে তিনটি রূপ জানতেই হবে"
     },
     {
      "type": "tip",
@@ -662,13 +662,13 @@ LC.units.push({
   {
    "id": "u7-modals",
    "icon": "⚙",
-   "title": "The Modal Verbs",
+   "title": "The Modal Verbs · সহায়ক ক্রিয়া",
    "subtitle": "pouvoir, vouloir, devoir, savoir · pouvoir, vouloir, devoir, savoir — চারটি modal ক্রিয়া",
    "minutes": 12,
    "goals": [
-    "Conjugate the four modals",
-    "Separate savoir from connaître",
-    "Use the conditional for politeness"
+    "Conjugate the four modals · চারটি সহায়ক ক্রিয়ার রূপ করুন",
+    "Separate savoir from connaître · savoir ও connaître আলাদা করুন",
+    "Use the conditional for politeness · ভদ্রতার জন্য শর্তবাচক ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -728,7 +728,7 @@ LC.units.push({
        "{{savent}}"
       ]
      ],
-     "title": "Présent"
+     "title": "Présent · বর্তমান কাল"
     },
     {
      "type": "table",
@@ -764,7 +764,7 @@ LC.units.push({
        "{{sache}}"
       ]
      ],
-     "title": "Their other key forms"
+     "title": "Their other key forms · এদের অন্য জরুরি রূপ"
     },
     {
      "type": "compare",
@@ -780,7 +780,7 @@ LC.units.push({
        "desc": "{{Je connais Paris}} — I know Paris. {{Je connais Rana}} — I know Rana. · {{Je connais Paris}} — আমি প্যারিস চিনি। {{Je connais Rana}} — আমি রানাকে চিনি।"
       }
      ],
-     "title": "The two verbs for *to know*"
+     "title": "The two verbs for *to know* · *জানা* বোঝানোর দুই ক্রিয়া"
     },
     {
      "type": "tip",
@@ -806,7 +806,7 @@ LC.units.push({
        "mean": "You should see a doctor. · আপনার ডাক্তার দেখানো উচিত।"
       }
      ],
-     "title": "The polite conditional at work"
+     "title": "The polite conditional at work · ভদ্র শর্তবাচক কাজে"
     },
     {
      "type": "quiz",
@@ -873,13 +873,13 @@ LC.units.push({
   {
    "id": "u7-more",
    "icon": "+",
-   "title": "More Verbs in Full",
+   "title": "More Verbs in Full · আরও ক্রিয়ার পূর্ণ রূপ",
    "subtitle": "boire, croire, connaître, mettre, partir, dormir, tenir · boire, croire, connaître, mettre, partir, dormir, tenir — আরও সাতটি ক্রিয়া",
    "minutes": 13,
    "goals": [
-    "Conjugate seven more common irregulars",
-    "Use the right helper in the past",
-    "Recognise the families they head"
+    "Conjugate seven more common irregulars · আরও সাতটি প্রচলিত অনিয়মিত ক্রিয়ার রূপ করুন",
+    "Use the right helper in the past · অতীতে সঠিক সহায়ক ক্রিয়া ব্যবহার করুন",
+    "Recognise the families they head · এরা যে শব্দপরিবারের মাথা তা চিনুন"
    ],
    "blocks": [
     {
@@ -932,7 +932,7 @@ LC.units.push({
        "{{mettent}}"
       ]
      ],
-     "title": "Présent — first four"
+     "title": "Présent — first four · বর্তমান কাল — প্রথম চারটি"
     },
     {
      "type": "table",
@@ -974,7 +974,7 @@ LC.units.push({
        "{{tiennent}}"
       ]
      ],
-     "title": "Présent — the -ir irregulars"
+     "title": "Présent — the -ir irregulars · বর্তমান কাল — -ir অনিয়মিতগুলো"
     },
     {
      "type": "table",
@@ -1028,7 +1028,7 @@ LC.units.push({
        "avoir"
       ]
      ],
-     "title": "Future, participle and helper"
+     "title": "Future, participle and helper · ভবিষ্যৎ, কৃদন্ত ও সহায়ক ক্রিয়া"
     },
     {
      "type": "tip",
@@ -1105,13 +1105,13 @@ LC.units.push({
   {
    "id": "u7-participles",
    "icon": "é",
-   "title": "Past Participles A–Z",
+   "title": "Past Participles A–Z · অতীত কৃদন্ত, আদ্যোপান্ত",
    "subtitle": "The list to keep beside you · যে তালিকাটি পাশে রাখবেন",
    "minutes": 11,
    "goals": [
-    "Recall the irregular participles at speed",
-    "Know which verbs take être",
-    "Apply the agreement rules"
+    "Recall the irregular participles at speed · অনিয়মিত কৃদন্তগুলো দ্রুত মনে করুন",
+    "Know which verbs take être · কোন ক্রিয়াগুলো être নেয় তা জানুন",
+    "Apply the agreement rules · সমতার নিয়মগুলো প্রয়োগ করুন"
    ],
    "blocks": [
     {
@@ -1194,7 +1194,7 @@ LC.units.push({
        "{{voulu}}"
       ]
      ],
-     "title": "The irregulars worth memorising"
+     "title": "The irregulars worth memorising · মুখস্থ রাখার মতো অনিয়মিতগুলো"
     },
     {
      "type": "rule",
@@ -1316,13 +1316,13 @@ LC.units.push({
   {
    "id": "u7-names",
    "icon": "M.",
-   "title": "Names & Forms of Address",
+   "title": "Names & Forms of Address · নাম ও সম্বোধনের রীতি",
    "subtitle": "Who to call what, and how to write it · কাকে কী বলে ডাকবেন, আর কীভাবে লিখবেন",
    "minutes": 9,
    "goals": [
-    "Recognise common French first names",
-    "Use the right title in speech and writing",
-    "Address an envelope correctly"
+    "Recognise common French first names · প্রচলিত ফরাসি নাম চিনুন",
+    "Use the right title in speech and writing · কথায় ও লেখায় সঠিক সম্বোধন ব্যবহার করুন",
+    "Address an envelope correctly · খামের ঠিকানা সঠিকভাবে লিখুন"
    ],
    "blocks": [
     {
@@ -1353,7 +1353,7 @@ LC.units.push({
        "{{Petit}}, {{Durand}}"
       ]
      ],
-     "title": "Names you will meet"
+     "title": "Names you will meet · যে নামগুলো পাবেন"
     },
     {
      "type": "tip",
@@ -1394,7 +1394,7 @@ LC.units.push({
        "a lawyer or notary"
       ]
      ],
-     "title": "Titles"
+     "title": "Titles · সম্বোধন ও পদবি"
     },
     {
      "type": "tip",

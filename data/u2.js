@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u2-gender",
    "icon": "♂♀",
-   "title": "Gender, Properly",
+   "title": "Gender, Properly · লিঙ্গ, ঠিকভাবে",
    "subtitle": "Beyond guessing: the endings that decide · আন্দাজ নয়: যে শেষাংশগুলো লিঙ্গ ঠিক করে",
    "minutes": 13,
    "goals": [
-    "Use endings to predict gender reliably",
-    "Handle nouns that change meaning with gender",
-    "Form feminine job titles the modern way"
+    "Use endings to predict gender reliably · শেষাংশ দেখে নির্ভরযোগ্যভাবে লিঙ্গ অনুমান করুন",
+    "Handle nouns that change meaning with gender · লিঙ্গভেদে অর্থ বদলানো বিশেষ্য সামলান",
+    "Form feminine job titles the modern way · আধুনিক রীতিতে স্ত্রীবাচক পদনাম গড়ুন"
    ],
    "blocks": [
     {
@@ -70,7 +70,7 @@ LC.units.push({
        "{{la couleur}}"
       ]
      ],
-     "title": "The reliable endings"
+     "title": "The reliable endings · নির্ভরযোগ্য শেষাংশ"
     },
     {
      "type": "tip",
@@ -238,13 +238,13 @@ LC.units.push({
   {
    "id": "u2-plural",
    "icon": "-x",
-   "title": "Plurals That Misbehave",
+   "title": "Plurals That Misbehave · যে বহুবচনগুলো নিয়ম মানে না",
    "subtitle": "When s is not enough · যখন কেবল s যথেষ্ট নয়",
    "minutes": 11,
    "goals": [
-    "Apply the -eau, -al and -ail patterns",
-    "Remember the seven -ou nouns that take x",
-    "Handle the irregulars"
+    "Apply the -eau, -al and -ail patterns · -eau, -al ও -ail ছাঁচ প্রয়োগ করুন",
+    "Remember the seven -ou nouns that take x · x নেয় এমন সাতটি -ou বিশেষ্য মনে রাখুন",
+    "Handle the irregulars · অনিয়মিতগুলো সামলান"
    ],
    "blocks": [
     {
@@ -291,7 +291,7 @@ LC.units.push({
        "{{les fils}}"
       ]
      ],
-     "title": "The patterns"
+     "title": "The patterns · ছাঁচগুলো"
     },
     {
      "type": "tip",
@@ -345,7 +345,7 @@ LC.units.push({
        "desc": "Same logic: *ma + dame* becomes *mes + dames*. · একই যুক্তি: *ma + dame* হয়ে যায় *mes + dames*।"
       }
      ],
-     "title": "The true irregulars"
+     "title": "The true irregulars · সত্যিকারের অনিয়মিতগুলো"
     },
     {
      "type": "tip",
@@ -428,13 +428,13 @@ LC.units.push({
   {
    "id": "u2-articles",
    "icon": "du",
-   "title": "Articles & the Partitive",
+   "title": "Articles & the Partitive · পদাশ্রয় ও আংশিক পদাশ্রয়",
    "subtitle": "Some bread, the bread, a bread · কিছু রুটি, সেই রুটি, একটি রুটি",
    "minutes": 14,
    "goals": [
-    "Choose between definite, indefinite and partitive",
-    "Use de after a negative and after quantities",
-    "Stop dropping articles the way English does"
+    "Choose between definite, indefinite and partitive · নির্দিষ্ট, অনির্দিষ্ট ও আংশিক পদাশ্রয়ের মধ্যে বাছুন",
+    "Use de after a negative and after quantities · নঞর্থক ও পরিমাণের পরে de ব্যবহার করুন",
+    "Stop dropping articles the way English does · ইংরেজির মতো পদাশ্রয় ফেলে দেবেন না"
    ],
    "blocks": [
     {
@@ -473,7 +473,7 @@ LC.units.push({
        "an uncounted amount: some, any"
       ]
      ],
-     "title": "The three families"
+     "title": "The three families · তিনটি শব্দপরিবার"
     },
     {
      "type": "examples",
@@ -497,7 +497,7 @@ LC.units.push({
        "note": "one cup → indefinite · এক কাপ → indefinite article"
       }
      ],
-     "title": "One noun, three meanings"
+     "title": "One noun, three meanings · এক বিশেষ্য, তিন অর্থ"
     },
     {
      "type": "rule",
@@ -694,13 +694,13 @@ LC.units.push({
   {
    "id": "u2-contract",
    "icon": "au",
-   "title": "Contracted Articles",
+   "title": "Contracted Articles · সংকুচিত পদাশ্রয়",
    "subtitle": "au, aux, du, des — and how to say where · au, aux, du, des — আর কোথায় বোঝানোর উপায়",
    "minutes": 12,
    "goals": [
-    "Contract à and de with the definite article",
-    "Say in and to for countries and cities",
-    "Say from a country correctly"
+    "Contract à and de with the definite article · নির্দিষ্ট পদাশ্রয়ের সঙ্গে à ও de সংকুচিত করুন",
+    "Say in and to for countries and cities · দেশ ও শহরের জন্য *-এ* ও *-তে* বলুন",
+    "Say from a country correctly · কোন দেশ থেকে, তা ঠিকভাবে বলুন"
    ],
    "blocks": [
     {
@@ -732,7 +732,7 @@ LC.units.push({
        "{{des}}"
       ]
      ],
-     "title": "The whole system"
+     "title": "The whole system · পুরো ব্যবস্থা"
     },
     {
      "type": "examples",
@@ -925,13 +925,13 @@ LC.units.push({
   {
    "id": "u2-adjectives",
    "icon": "Adj",
-   "title": "Adjectives: Agreement & Position",
+   "title": "Adjectives: Agreement & Position · বিশেষণ: সমতা ও অবস্থান",
    "subtitle": "Where they stand changes what they mean · কোথায় বসছে, তার উপর অর্থ বদলায়",
    "minutes": 14,
    "goals": [
-    "Form irregular feminines confidently",
-    "Know which adjectives come before the noun",
-    "Use position to change meaning"
+    "Form irregular feminines confidently · অনিয়মিত স্ত্রীবাচক রূপ নির্ভয়ে গড়ুন",
+    "Know which adjectives come before the noun · কোন বিশেষণ বিশেষ্যের আগে বসে তা জানুন",
+    "Use position to change meaning · অর্থ বদলাতে অবস্থান কাজে লাগান"
    ],
    "blocks": [
     {
@@ -978,7 +978,7 @@ LC.units.push({
        "white"
       ]
      ],
-     "title": "Irregular feminines"
+     "title": "Irregular feminines · অনিয়মিত স্ত্রীবাচক রূপ"
     },
     {
      "type": "rule",
@@ -1060,7 +1060,7 @@ LC.units.push({
        "desc": "*an antique piece of furniture*. · *একটি প্রাচীন আসবাব*।"
       }
      ],
-     "title": "Position changes meaning"
+     "title": "Position changes meaning · অবস্থান বদলালে অর্থ বদলায়"
     },
     {
      "type": "table",
@@ -1091,7 +1091,7 @@ LC.units.push({
        "penniless"
       ]
      ],
-     "title": "Four more that shift"
+     "title": "Four more that shift · আরও চারটি যারা বদলায়"
     },
     {
      "type": "practice",
@@ -1179,13 +1179,13 @@ LC.units.push({
   {
    "id": "u2-compare",
    "icon": "+/-",
-   "title": "Comparing Things",
+   "title": "Comparing Things · তুলনা করা",
    "subtitle": "More, less, as — and the best of all · বেশি, কম, সমান — আর সবার সেরা",
    "minutes": 11,
    "goals": [
-    "Build comparatives with plus, moins and aussi",
-    "Use the irregular meilleur and mieux",
-    "Form superlatives with the right article"
+    "Build comparatives with plus, moins and aussi · plus, moins ও aussi দিয়ে তুলনা গড়ুন",
+    "Use the irregular meilleur and mieux · অনিয়মিত meilleur ও mieux ব্যবহার করুন",
+    "Form superlatives with the right article · সঠিক পদাশ্রয় দিয়ে অতিশয়ার্থ গড়ুন"
    ],
    "blocks": [
     {
@@ -1376,13 +1376,13 @@ LC.units.push({
   {
    "id": "u2-pronouns",
    "icon": "y/en",
-   "title": "Object Pronouns, en and y",
+   "title": "Object Pronouns, en and y · কর্ম সর্বনাম, en ও y",
    "subtitle": "The small words that make you sound French · যে ছোট শব্দগুলো আপনাকে ফরাসির মতো শোনায়",
    "minutes": 15,
    "goals": [
-    "Separate direct and indirect object pronouns",
-    "Use en and y correctly",
-    "Place two pronouns in the right order"
+    "Separate direct and indirect object pronouns · প্রত্যক্ষ ও পরোক্ষ কর্ম সর্বনাম আলাদা করুন",
+    "Use en and y correctly · en ও y ঠিকভাবে ব্যবহার করুন",
+    "Place two pronouns in the right order · দুটি সর্বনাম সঠিক ক্রমে বসান"
    ],
    "blocks": [
     {
@@ -1435,7 +1435,7 @@ LC.units.push({
        "{{Je leur écris.}}"
       ]
      ],
-     "title": "The two sets"
+     "title": "The two sets · দুটি সেট"
     },
     {
      "type": "tip",
@@ -1617,13 +1617,13 @@ LC.units.push({
   {
    "id": "u2-relative",
    "icon": "qui",
-   "title": "Joining Sentences",
+   "title": "Joining Sentences · বাক্য জোড়া লাগানো",
    "subtitle": "qui, que, dont, où — and this versus that · qui, que, dont, où — আর এই বনাম সেই",
    "minutes": 13,
    "goals": [
-    "Choose between qui and que by function",
-    "Use dont for de, and où for place and time",
-    "Point at things with ce, cet, cette, ces"
+    "Choose between qui and que by function · কাজ বুঝে qui ও que-এর মধ্যে বাছুন",
+    "Use dont for de, and où for place and time · de-র বদলে dont, আর স্থান-কালে où",
+    "Point at things with ce, cet, cette, ces · ce, cet, cette, ces দিয়ে দেখান"
    ],
    "blocks": [
     {
@@ -1733,7 +1733,7 @@ LC.units.push({
        "these children"
       ]
      ],
-     "title": "This and that"
+     "title": "This and that · এটি আর ওটি"
     },
     {
      "type": "tip",

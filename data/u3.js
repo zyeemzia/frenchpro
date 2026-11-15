@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u3-groups",
    "icon": "-er",
-   "title": "The Three Groups",
+   "title": "The Three Groups · তিনটি দল",
    "subtitle": "How every regular verb behaves in the present · বর্তমান কালে প্রতিটি নিয়মিত ক্রিয়া কেমন আচরণ করে",
    "minutes": 14,
    "goals": [
-    "Conjugate -er, -ir and -re verbs in the present",
-    "Recognise which group a verb belongs to",
-    "Hear which endings are silent"
+    "Conjugate -er, -ir and -re verbs in the present · বর্তমানে -er, -ir ও -re ক্রিয়ার রূপ করুন",
+    "Recognise which group a verb belongs to · ক্রিয়াটি কোন দলের তা চিনুন",
+    "Hear which endings are silent · কোন শেষাংশ নীরব তা শুনুন"
    ],
    "blocks": [
     {
@@ -70,7 +70,7 @@ LC.units.push({
        "{{vendent}}"
       ]
      ],
-     "title": "The three patterns side by side"
+     "title": "The three patterns side by side · তিনটি ছাঁচ পাশাপাশি"
     },
     {
      "type": "tip",
@@ -215,13 +215,13 @@ LC.units.push({
   {
    "id": "u3-irregular",
    "icon": "4",
-   "title": "The Big Four",
+   "title": "The Big Four · বড় চারটি",
    "subtitle": "être, avoir, aller, faire · চারটি অপরিহার্য ক্রিয়া",
    "minutes": 13,
    "goals": [
-    "Conjugate the four most used verbs without thinking",
-    "Use avoir for states where English uses to be",
-    "Use faire for weather and activities"
+    "Conjugate the four most used verbs without thinking · সর্বাধিক ব্যবহৃত চারটি ক্রিয়া না ভেবেই রূপ করুন",
+    "Use avoir for states where English uses to be · ইংরেজিতে যেখানে to be, ফরাসিতে সেখানে avoir",
+    "Use faire for weather and activities · আবহাওয়া ও কাজকর্মে faire ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -281,7 +281,7 @@ LC.units.push({
        "{{font}}"
       ]
      ],
-     "title": "Learn this table cold"
+     "title": "Learn this table cold · এই ছকটি নিখুঁতভাবে মুখস্থ করুন"
     },
     {
      "type": "tip",
@@ -451,13 +451,13 @@ LC.units.push({
   {
    "id": "u3-passe",
    "icon": "PC",
-   "title": "Passé Composé",
+   "title": "Passé Composé · যৌগিক অতীত",
    "subtitle": "The past you will use most · যে অতীত কালটি আপনি সবচেয়ে বেশি ব্যবহার করবেন",
    "minutes": 16,
    "goals": [
-    "Build the passé composé with avoir and être",
-    "Know which verbs take être",
-    "Make the past participle agree"
+    "Build the passé composé with avoir and être · avoir ও être দিয়ে যৌগিক অতীত গড়ুন",
+    "Know which verbs take être · কোন ক্রিয়াগুলো être নেয় তা জানুন",
+    "Make the past participle agree · অতীত কৃদন্তে সমতা আনুন"
    ],
    "blocks": [
     {
@@ -492,7 +492,7 @@ LC.units.push({
        "sold"
       ]
      ],
-     "title": "Regular participles"
+     "title": "Regular participles · নিয়মিত কৃদন্ত"
     },
     {
      "type": "rule",
@@ -689,13 +689,13 @@ LC.units.push({
   {
    "id": "u3-imparfait",
    "icon": "ait",
-   "title": "Imparfait",
+   "title": "Imparfait · অসমাপিকা অতীত",
    "subtitle": "The past that was still going on · যে অতীত তখনো চলছিল",
    "minutes": 13,
    "goals": [
-    "Build the imparfait from the nous form",
-    "Choose between imparfait and passé composé",
-    "Describe scenes and habits in the past"
+    "Build the imparfait from the nous form · nous রূপ থেকে অসমাপিকা অতীত গড়ুন",
+    "Choose between imparfait and passé composé · অসমাপিকা ও যৌগিক অতীতের মধ্যে বাছুন",
+    "Describe scenes and habits in the past · অতীতের দৃশ্য ও অভ্যাস বর্ণনা করুন"
    ],
    "blocks": [
     {
@@ -776,7 +776,7 @@ LC.units.push({
        "{{étaient}}"
       ]
      ],
-     "title": "The endings are the same for every verb"
+     "title": "The endings are the same for every verb · শেষাংশ সব ক্রিয়ার জন্য একই"
     },
     {
      "type": "tip",
@@ -802,7 +802,7 @@ LC.units.push({
        "desc": "A completed fact: it rained yesterday. · সম্পন্ন ঘটনা: গতকাল বৃষ্টি হয়েছিল।"
       }
      ],
-     "title": "Scene versus event"
+     "title": "Scene versus event · দৃশ্য বনাম ঘটনা"
     },
     {
      "type": "rule",
@@ -937,13 +937,13 @@ LC.units.push({
   {
    "id": "u3-futur",
    "icon": "rai",
-   "title": "Talking About the Future",
+   "title": "Talking About the Future · ভবিষ্যতের কথা",
    "subtitle": "Two futures, and when each one fits · দুটি ভবিষ্যৎ, আর কোনটি কখন মানানসই",
    "minutes": 12,
    "goals": [
-    "Use the futur proche for near plans",
-    "Build the futur simple from the infinitive",
-    "Learn the irregular future stems"
+    "Use the futur proche for near plans · কাছের পরিকল্পনায় futur proche ব্যবহার করুন",
+    "Build the futur simple from the infinitive · ক্রিয়ামূল থেকে সরল ভবিষ্যৎ গড়ুন",
+    "Learn the irregular future stems · অনিয়মিত ভবিষ্যৎ ধাতুগুলো শিখুন"
    ],
    "blocks": [
     {
@@ -1059,7 +1059,7 @@ LC.units.push({
        "I shall see"
       ]
      ],
-     "title": "The irregular stems — endings never change"
+     "title": "The irregular stems — endings never change · অনিয়মিত ধাতু — শেষাংশ কখনো বদলায় না"
     },
     {
      "type": "tip",
@@ -1131,13 +1131,13 @@ LC.units.push({
   {
    "id": "u3-conditionnel",
    "icon": "rais",
-   "title": "Conditionnel",
+   "title": "Conditionnel · শর্তবাচক কাল",
    "subtitle": "Would, could, should — and simple politeness · Would, could, should — আর সহজ ভদ্রতা",
    "minutes": 11,
    "goals": [
-    "Build the conditional from the future stem",
-    "Soften requests the way French speakers do",
-    "Report what someone said they would do"
+    "Build the conditional from the future stem · ভবিষ্যৎ ধাতু থেকে শর্তবাচক গড়ুন",
+    "Soften requests the way French speakers do · ফরাসিভাষীদের মতো অনুরোধ নরম করুন",
+    "Report what someone said they would do · কেউ কী করবে বলেছিল তা বর্ণনা করুন"
    ],
    "blocks": [
     {
@@ -1219,7 +1219,7 @@ LC.units.push({
        "desc": "*I was speaking* — the past. Note it has no r. · *আমি বলছিলাম* — অতীত। লক্ষ করুন, এতে r নেই।"
       }
      ],
-     "title": "One letter apart"
+     "title": "One letter apart · এক অক্ষরের ফারাক"
     },
     {
      "type": "tip",
@@ -1291,13 +1291,13 @@ LC.units.push({
   {
    "id": "u3-subjonctif",
    "icon": "que",
-   "title": "Subjonctif",
+   "title": "Subjonctif · সম্ভাবনাসূচক কাল",
    "subtitle": "The mood of doubt, wish and necessity · সন্দেহ, ইচ্ছা ও প্রয়োজনের ভাব",
    "minutes": 15,
    "goals": [
-    "Build the present subjunctive",
-    "Recognise the expressions that trigger it",
-    "Avoid using it where the indicative belongs"
+    "Build the present subjunctive · বর্তমান সম্ভাবনাসূচক গড়ুন",
+    "Recognise the expressions that trigger it · কোন অভিব্যক্তিতে এটি লাগে তা চিনুন",
+    "Avoid using it where the indicative belongs · যেখানে নির্দেশক কাল লাগে সেখানে এটি ব্যবহার করবেন না"
    ],
    "blocks": [
     {
@@ -1361,7 +1361,7 @@ LC.units.push({
        "{{que je vienne}}"
       ]
      ],
-     "title": "The irregulars that actually appear"
+     "title": "The irregulars that actually appear · যে অনিয়মিতগুলো সত্যিই আসে"
     },
     {
      "type": "rule",
@@ -1410,7 +1410,7 @@ LC.units.push({
        "desc": "Made negative, it becomes doubt. · না-বাচক করলে তা সন্দেহে পরিণত হয়।"
       }
      ],
-     "title": "The same verb, both moods"
+     "title": "The same verb, both moods · একই ক্রিয়া, দুই ভাব"
     },
     {
      "type": "tip",
@@ -1493,13 +1493,13 @@ LC.units.push({
   {
    "id": "u3-reflexive",
    "icon": "se",
-   "title": "Reflexive Verbs",
+   "title": "Reflexive Verbs · আত্মবাচক ক্রিয়া",
    "subtitle": "When the action comes back to you · ক্রিয়া যখন কর্তার দিকেই ফিরে আসে",
    "minutes": 12,
    "goals": [
-    "Conjugate a reflexive verb in the present",
-    "Form the passé composé with être",
-    "Spot verbs that change meaning when reflexive"
+    "Conjugate a reflexive verb in the present · বর্তমানে আত্মবাচক ক্রিয়ার রূপ করুন",
+    "Form the passé composé with être · être দিয়ে যৌগিক অতীত গড়ুন",
+    "Spot verbs that change meaning when reflexive · আত্মবাচক হলে যে ক্রিয়ার অর্থ বদলায় তা চিনুন"
    ],
    "blocks": [
     {
@@ -1552,7 +1552,7 @@ LC.units.push({
        "they get up"
       ]
      ],
-     "title": "The pattern"
+     "title": "The pattern · ছাঁচটি"
     },
     {
      "type": "vocab",
@@ -1753,13 +1753,13 @@ LC.units.push({
   {
    "id": "u3-si",
    "icon": "si",
-   "title": "Si Clauses & the Passive",
+   "title": "Si Clauses & the Passive · Si বাক্যাংশ ও কর্মবাচ্য",
    "subtitle": "If this, then that — and how French dodges the passive · যদি এটা, তবে ওটা — আর ফরাসি কীভাবে passive এড়ায়",
    "minutes": 14,
    "goals": [
-    "Match the right tenses in the three si patterns",
-    "Build the passive with être",
-    "Use on to avoid the passive altogether"
+    "Match the right tenses in the three si patterns · তিনটি si ছাঁচে সঠিক কাল মেলান",
+    "Build the passive with être · être দিয়ে কর্মবাচ্য গড়ুন",
+    "Use on to avoid the passive altogether · কর্মবাচ্য একেবারে এড়াতে on ব্যবহার করুন"
    ],
    "blocks": [
     {
@@ -1794,7 +1794,7 @@ LC.units.push({
        "If I had known, I would have told you."
       ]
      ],
-     "title": "The three patterns"
+     "title": "The three patterns · তিনটি ছাঁচ"
     },
     {
      "type": "tip",

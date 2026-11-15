@@ -11,13 +11,13 @@ LC.units.push({
   {
    "id": "u1-nasal",
    "icon": "ɑ̃",
-   "title": "The Four Nasal Vowels",
+   "title": "The Four Nasal Vowels · চারটি নাসিক্য স্বর",
    "subtitle": "The sound that makes French sound French · যে ধ্বনি ফরাসিকে ফরাসি করে তোলে",
    "minutes": 14,
    "goals": [
-    "Hear and make all four nasal vowels",
-    "Know which spellings produce which nasal",
-    "Stop pronouncing the n or m that follows"
+    "Hear and make all four nasal vowels · চারটি নাসিক্য স্বরই শুনুন ও বলুন",
+    "Know which spellings produce which nasal · কোন বানানে কোন নাসিক্য ধ্বনি হয় তা জানুন",
+    "Stop pronouncing the n or m that follows · পরের n বা m আর উচ্চারণ করবেন না"
    ],
    "blocks": [
     {
@@ -91,7 +91,7 @@ LC.units.push({
        "a brown perfume"
       ]
      ],
-     "title": "The whole system on one page"
+     "title": "The whole system on one page · এক পাতায় পুরো ব্যবস্থা"
     },
     {
      "type": "examples",
@@ -133,7 +133,7 @@ LC.units.push({
        "hl": "un"
       }
      ],
-     "title": "Hear them side by side"
+     "title": "Hear them side by side · পাশাপাশি রেখে শুনুন"
     },
     {
      "type": "compare",
@@ -159,7 +159,7 @@ LC.units.push({
        "desc": "Like ɛ̃ but with rounded lips, as in {{brun}}. Many French speakers now merge it with ɛ̃. · ɛ̃-এর মতো, তবে ঠোঁট গোল, {{brun}}-এর মতো। আজকাল অনেক ফরাসিভাষী একে ɛ̃-এর সঙ্গে মিলিয়ে ফেলেন।"
       }
      ],
-     "title": "The four, by mouth shape"
+     "title": "The four, by mouth shape · চারটি, মুখের আকার অনুসারে"
     },
     {
      "type": "tip",
@@ -303,13 +303,13 @@ LC.units.push({
   {
    "id": "u1-silent",
    "icon": "∅",
-   "title": "Silent Letters",
+   "title": "Silent Letters · নীরব অক্ষর",
    "subtitle": "Why French is written long and spoken short · ফরাসি কেন লেখা হয় লম্বা, বলা হয় ছোট",
    "minutes": 12,
    "goals": [
-    "Know which final consonants stay silent",
-    "Use the CaReFuL letters that usually sound",
-    "Read a written word and predict how it is said"
+    "Know which final consonants stay silent · কোন শেষ ব্যঞ্জন নীরব থাকে তা জানুন",
+    "Use the CaReFuL letters that usually sound · সাধারণত উচ্চারিত CaReFuL অক্ষরগুলো কাজে লাগান",
+    "Read a written word and predict how it is said · লেখা শব্দ দেখে উচ্চারণ অনুমান করুন"
    ],
    "blocks": [
     {
@@ -377,7 +377,7 @@ LC.units.push({
        "note": "l sounds · l শোনা যায়"
       }
      ],
-     "title": "CaReFuL in action"
+     "title": "CaReFuL in action · CaReFuL কাজে লাগিয়ে"
     },
     {
      "type": "tip",
@@ -424,7 +424,7 @@ LC.units.push({
        "whole -ent ending"
       ]
      ],
-     "title": "Common traps"
+     "title": "Common traps · সাধারণ ফাঁদ"
     },
     {
      "type": "rule",
@@ -534,13 +534,13 @@ LC.units.push({
   {
    "id": "u1-liaison",
    "icon": "‿",
-   "title": "Liaison",
+   "title": "Liaison · লিয়াজোঁ",
    "subtitle": "When a silent letter wakes up · নীরব বর্ণ যখন জেগে ওঠে",
    "minutes": 13,
    "goals": [
-    "Know when a silent final consonant must be sounded",
-    "Know the cases where liaison is forbidden",
-    "Hear words join into a single flow"
+    "Know when a silent final consonant must be sounded · কখন নীরব শেষ ব্যঞ্জন উচ্চারণ করতেই হয় তা জানুন",
+    "Know the cases where liaison is forbidden · কোন ক্ষেত্রে লিয়াজোঁ নিষিদ্ধ তা জানুন",
+    "Hear words join into a single flow · শব্দগুলো কীভাবে এক স্রোতে মেশে শুনুন"
    ],
    "blocks": [
     {
@@ -574,7 +574,7 @@ LC.units.push({
        "mean": "very important · খুব গুরুত্বপূর্ণ"
       }
      ],
-     "title": "The consonant returns"
+     "title": "The consonant returns · ব্যঞ্জন ফিরে আসে"
     },
     {
      "type": "rule",
@@ -628,7 +628,7 @@ LC.units.push({
        "{{les | onze}}"
       ]
      ],
-     "title": "Obligatory and forbidden"
+     "title": "Obligatory and forbidden · বাধ্যতামূলক ও নিষিদ্ধ"
     },
     {
      "type": "tip",
@@ -649,7 +649,7 @@ LC.units.push({
        "desc": "Said lay ay-ROH. A tiny gap is left; no z appears. · উচ্চারণ lay ay-ROH। সামান্য ফাঁক থাকে; z আসে না।"
       }
      ],
-     "title": "The two h's"
+     "title": "The two h's · দুই রকম h"
     },
     {
      "type": "tip",
@@ -733,13 +733,13 @@ LC.units.push({
   {
    "id": "u1-elision",
    "icon": "l'",
-   "title": "Elision & the Apostrophe",
+   "title": "Elision & the Apostrophe · স্বরলোপ ও ঊর্ধ্বকমা",
    "subtitle": "When a vowel gets out of the way · স্বর যখন পথ ছেড়ে দেয়",
    "minutes": 10,
    "goals": [
-    "Know which small words elide",
-    "Write the apostrophe correctly",
-    "Avoid the commonest written mistakes"
+    "Know which small words elide · কোন ছোট শব্দে স্বরলোপ হয় তা জানুন",
+    "Write the apostrophe correctly · ঊর্ধ্বকমা সঠিকভাবে লিখুন",
+    "Avoid the commonest written mistakes · লেখায় সবচেয়ে সাধারণ ভুলগুলো এড়ান"
    ],
    "blocks": [
     {
@@ -792,7 +792,7 @@ LC.units.push({
        "please"
       ]
      ],
-     "title": "The elision list"
+     "title": "The elision list · স্বরলোপের তালিকা"
     },
     {
      "type": "tip",
@@ -942,13 +942,13 @@ LC.units.push({
   {
    "id": "u1-tricky",
    "icon": "R",
-   "title": "The Three Hard Sounds",
+   "title": "The Three Hard Sounds · তিনটি কঠিন ধ্বনি",
    "subtitle": "e, r and u — where Bengali speakers are heard · e, r ও u — যেখানে বাঙালি শিক্ষার্থীকে চেনা যায়",
    "minutes": 14,
    "goals": [
-    "Make the French R at the back of the throat",
-    "Separate the u of tu from the ou of tout",
-    "Handle the disappearing e"
+    "Make the French R at the back of the throat · গলার পেছন থেকে ফরাসি R উচ্চারণ করুন",
+    "Separate the u of tu from the ou of tout · tu-এর u আর tout-এর ou আলাদা করুন",
+    "Handle the disappearing e · লুপ্ত হয়ে যাওয়া e সামলান"
    ],
    "blocks": [
     {
@@ -1031,7 +1031,7 @@ LC.units.push({
        "desc": "*below*. Ends with a round oo. One letter, opposite meaning. · *নিচে*। শেষে গোল উ। এক অক্ষরের তফাতে উল্টো অর্থ।"
       }
      ],
-     "title": "Pairs that matter"
+     "title": "Pairs that matter · যে জোড়াগুলো জরুরি"
     },
     {
      "type": "rule",
@@ -1162,13 +1162,13 @@ LC.units.push({
   {
    "id": "u1-rhythm",
    "icon": "♪",
-   "title": "Rhythm & Intonation",
+   "title": "Rhythm & Intonation · ছন্দ ও সুরভঙ্গি",
    "subtitle": "Where French puts its weight · ফরাসি কোথায় জোর দেয়",
    "minutes": 11,
    "goals": [
-    "Stress the end of a group, not the start of a word",
-    "Use rising intonation for questions",
-    "Speak in groups rather than word by word"
+    "Stress the end of a group, not the start of a word · শব্দের শুরুতে নয়, গুচ্ছের শেষে জোর দিন",
+    "Use rising intonation for questions · প্রশ্নে সুর উপরে তুলুন",
+    "Speak in groups rather than word by word · শব্দে শব্দে নয়, গুচ্ছে বলুন"
    ],
    "blocks": [
     {
@@ -1196,7 +1196,7 @@ LC.units.push({
        "mean": "It is a very good restaurant. · এটি খুব ভালো একটি রেস্তোরাঁ।"
       }
      ],
-     "title": "One group, one beat"
+     "title": "One group, one beat · এক গুচ্ছ, এক তাল"
     },
     {
      "type": "tip",

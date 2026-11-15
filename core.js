@@ -33,11 +33,14 @@ window.LC = window.LC || { course: null, alphabet: null, units: [] };
   function twoSided(s) {
     if (!GLOSSABLE) return null;
     s = String(s == null ? '' : s);
-    let i = s.indexOf(' · ');
+    /* Scanned from the right: a title like "A · absolu → affectueux · বাংলা"
+       must split at the LAST dot, not the first, or the French would be
+       swept into the Bangla side. */
+    let i = s.lastIndexOf(' · ');
     while (i >= 0) {
       const a = s.slice(0, i), b = s.slice(i + 3);
       if (!BNRE.test(a) && BNRE.test(b)) return [a, b];
-      i = s.indexOf(' · ', i + 1);
+      i = s.lastIndexOf(' · ', i - 1);
     }
     return null;
   }
