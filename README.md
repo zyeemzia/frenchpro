@@ -15,7 +15,7 @@ One set of content powers two outputs: an interactive web app and a printable bo
 
 ## What's inside
 
-9 units · 158 lessons · 763 quiz questions · 2267 vocabulary words · 10 word-by-word sentences · 7 conversations
+10 units · 172 lessons · 833 quiz questions · 2267 vocabulary words · 10 word-by-word sentences · 7 conversations
 
 1. **Sounds & Spelling**: The sounds that give you away — and how to fix them for good · যে ধ্বনিগুলো আপনাকে ধরিয়ে দেয়, আর সেগুলো একেবারে ঠিক করার উপায়
 2. **The Grammar Engine**: Nouns, articles, adjectives and pronouns — the machinery under every sentence · নাম, article, বিশেষণ ও সর্বনাম — প্রতিটি বাক্যের নিচের যন্ত্রপাতি
@@ -26,6 +26,7 @@ One set of content powers two outputs: an interactive web app and a printable bo
 7. **Conjugation Reference**: Every verb you need, in every tense, on one shelf · দরকারি প্রতিটি ক্রিয়া, প্রতিটি কালে, এক তাকে সাজানো
 8. **Glossary · অভিধান**: Every word in three languages — French, Bangla and English, side by side · প্রতিটি শব্দ তিন ভাষায় — ফরাসি, বাংলা ও ইংরেজি পাশাপাশি
 9. **English Idioms into French · ইংরেজি বাগধারার ফরাসি রূপ**: The English phrase you already think in, and what a French speaker says instead · যে ইংরেজি বাগধারায় আপনি আগেই ভাবেন, ফরাসিতে তার বদলে কী বলা হয়
+10. **French Proverbs · ফরাসি প্রবাদ**: The sayings a French speaker reaches for without thinking, each beside its English and Bangla twin · যে প্রবাদগুলো ফরাসিভাষী ভাবনা ছাড়াই বলেন, পাশে তার ইংরেজি ও বাংলা রূপ
 
 **Web app extras:** built-in natural French voices (female and male) for every word and sentence, so pronunciation works on every device with nothing to install,
 a writing studio (watch-the-pen demos and tracing pads with star scores, dictation),

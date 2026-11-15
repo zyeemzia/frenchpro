@@ -5520,6 +5520,144 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u9-w1",
+   "icon": "W",
+   "title": "W · work out → wild-goose chase · ত-বর্গ শেষ অংশ",
+   "subtitle": "The last of the idioms, and a chase after nothing · বাগধারার শেষ ভাগ, আর অসার ছোটাছুটি",
+   "minutes": 10,
+   "goals": [
+    "Close the idiom section with the work- and wrap- phrases · work- ও wrap- বাগধারা দিয়ে অধ্যায় শেষ করুন",
+    "Learn chercher midi à quatorze heures · chercher midi à quatorze heures শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "This is the last of the idioms. Four more phrases close the section, and the finest of them is **chercher midi à quatorze heures** — *to look for noon at two o'clock*, meaning to make a simple thing needlessly hard. · এটি বাগধারার শেষ পাঠ; সবচেয়ে সুন্দরটি **chercher midi à quatorze heures** — সহজ কাজকে অকারণে কঠিন করা।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Je suis sûr que les leçons de français donneront un bon résultat.",
+       "tr": "zhuh swee SEWR kuh lay luh-SOHN duh frahn-SEH doh-nuh-ROHN uhn bohn ray-zewl-TAH · জ়্য সুই স্যুর্ ক্য লে ল্যসঁ দ্য ফ্রঁসে দন্যরঁ আঁ বঁ রেজ়্যুলতা",
+       "mean": "I'm confident the French lessons will work out well · আমি নিশ্চিত ফরাসি পাঠগুলো ভালোই ফল দেবে",
+       "note": "**donner un bon résultat** — work out well · ভালো ফল দেওয়া"
+      },
+      {
+       "t": "L'infirmière était épuisée par la malade maniaque.",
+       "tr": "lahn-feer-MYEHR ay-teh ay-pwee-ZAY pahr lah mah-LAHD mah-NYAHK · লাঁফির্মীয়ের্ এতে এপুইজ়ে পার্ লা মালাদ্ মানীয়াক্",
+       "mean": "The nurse was worn out by the cranky patient · খিটখিটে রোগীর জ্বালায় সেবিকা ক্লান্ত হয়ে পড়েছিলেন",
+       "note": "**épuisé** — worn out, drained · নিঃশেষ হয়ে যাওয়া"
+      },
+      {
+       "t": "Nous conclurons l'affaire demain.",
+       "tr": "noo kohn-klew-ROHN lah-FEHR duh-MAHN · নু কঁক্ল্যুরঁ লাফের্ দ্যমাঁ",
+       "mean": "We'll wrap up the deal tomorrow · আমরা আগামীকাল চুক্তিটা চূড়ান্ত করব",
+       "note": "**conclure une affaire** — close a deal · চুক্তি সম্পন্ন করা"
+      },
+      {
+       "t": "Shiblee compte faire fortune à l'âge de vingt-cinq ans.",
+       "tr": "sheeb-LEE kohnt fehr for-TEWN ah LAHZH duh vahnt-SAHNK ahn · শিবলী কঁত্ ফের্ ফর্ত্যুন্ আ লাজ়্ দ্য ভাঁত্-সাঁক্ অঁ",
+       "mean": "Shiblee counts on getting rich by twenty-five · শিবলী পঁচিশ বছরেই বড়লোক হওয়ার আশা করছে",
+       "note": "**compter faire** — count on doing · করার আশা রাখা"
+      },
+      {
+       "t": "Mais on sait qu'il cherche midi à quatorze heures.",
+       "tr": "meh ohn seh keel SHEHRSH mee-DEE ah kah-torz UHR · মে ঁ সে কিল্ শের্শ্ মিদি আ কাতর্জ়্ ্যর্",
+       "mean": "But we know he is on a wild-goose chase · কিন্তু আমরা জানি সেটা নিছক পণ্ডশ্রম",
+       "note": "**chercher midi à quatorze heures** — complicate the simple · সহজকে কঠিন করা"
+      },
+      {
+       "t": "Ne cherche pas midi à quatorze heures : la réponse est simple.",
+       "tr": "nuh shehrsh pah mee-DEE ah kah-torz UHR lah ray-POHNS eh SAHMPL · ন্য শের্শ্ পা মিদি আ কাতর্জ়্ ্যর্ : লা রেপঁস্ এ সাঁপ্ল্",
+       "mean": "Don't make it harder than it is: the answer is simple · বিষয়টা জটিল কোরো না, উত্তরটা সহজ",
+       "note": "Said to someone overthinking · যে অতিরিক্ত ভাবছে তাকে বলা হয়"
+      },
+      {
+       "t": "Après trois nuits de garde, elle était à bout de forces.",
+       "tr": "ah-PREH trwah nwee duh GAHRD el ay-teh ah boo duh FORS · আপ্রে ত্রোয়া নুই দ্য গার্দ্, এল্ এতে আ বু দ্য ফর্স্",
+       "mean": "After three nights on duty she was completely worn out · টানা তিন রাত ডিউটির পর সে একেবারে নিঃশেষ",
+       "note": "**à bout de forces** — at the end of one's strength · শক্তি ফুরিয়ে যাওয়া"
+      },
+      {
+       "t": "Tout s'est bien terminé, finalement.",
+       "tr": "too seh byahn tehr-mee-NAY fee-nahl-MAHN · তু সে বীয়াঁ তের্মিনে, ফিনালমঁ",
+       "mean": "Everything worked out in the end · শেষ পর্যন্ত সবই ভালোয় ভালোয় মিটল",
+       "note": "**se terminer** — end, work out · শেষ হওয়া"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "culture",
+     "text": "**chercher midi à quatorze heures** dates from when clocks were read in twelve hours: looking for noon at fourteen o'clock is looking where it cannot be. French keeps the old joke in the modern twenty-four-hour wording. · বারো ঘণ্টার ঘড়ির যুগের কথা — চৌদ্দটায় দুপুর খোঁজা মানে যেখানে নেই সেখানে খোঁজা।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**chercher midi à quatorze heures** means to… · **chercher midi à quatorze heures** মানে…",
+       "options": [
+        "forget the time · সময় ভুলে যাওয়া",
+        "work past noon · দুপুরের পরও কাজ করা",
+        "arrive late · দেরিতে আসা",
+        "complicate the simple · সহজকে কঠিন করা"
+       ],
+       "answer": 3,
+       "explain": "Looking where noon cannot be · যেখানে দুপুর থাকতে পারে না সেখানে খোঁজা।"
+      },
+      {
+       "q": "**épuisé** describes someone who is… · **épuisé** মানে কেউ…",
+       "options": [
+        "worn out · একেবারে ক্লান্ত",
+        "nicely dressed · সুন্দর সাজা",
+        "newly rested · সদ্য বিশ্রাম নেওয়া",
+        "mildly annoyed · একটু বিরক্ত"
+       ],
+       "answer": 0,
+       "explain": "Drained to the last drop · শেষ বিন্দু পর্যন্ত নিঃশেষ।"
+      },
+      {
+       "q": "**conclure une affaire** means to… · **conclure une affaire** মানে…",
+       "options": [
+        "raise a price · দাম বাড়ানো",
+        "close a deal · চুক্তি চূড়ান্ত করা",
+        "open a shop · দোকান খোলা",
+        "cancel an order · অর্ডার বাতিল করা"
+       ],
+       "answer": 1,
+       "explain": "To wrap it up · চুকিয়ে ফেলা।"
+      },
+      {
+       "q": "**à bout de forces** means… · **à bout de forces** মানে…",
+       "options": [
+        "short of money · টাকার টান",
+        "out of time · সময় শেষ",
+        "out of strength · শক্তি ফুরিয়ে গেছে",
+        "full of energy · শক্তিতে ভরপুর"
+       ],
+       "answer": 2,
+       "explain": "At the very end of one's strength · শক্তির একেবারে শেষে।"
+      },
+      {
+       "q": "**compter faire** quelque chose means to… · **compter faire** কিছু মানে…",
+       "options": [
+        "refuse to do it · করতে অস্বীকার",
+        "do it twice · দুবার করা",
+        "count it up · গুনে দেখা",
+        "count on doing it · করার আশা রাখা"
+       ],
+       "answer": 3,
+       "explain": "**compter** here means to reckon on · এখানে **compter** মানে ভরসা রাখা।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
