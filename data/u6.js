@@ -140,6 +140,35 @@ LC.units.push({
      "text": "{{supporter}} means **to tolerate**, not to support. {{Je ne le supporte pas}} is *I cannot stand him*, not *I do not support him*. For support, use {{soutenir}}. · supporter মানে সহ্য করা, সমর্থন নয়।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Alors, ce rendez-vous d'hier ?",
+       "tr": "ah-LOR suh rahn-day-VOO dee-YEHR · আলর্, স্য রঁদে-ভু দিয়ের্",
+       "mean": "So, that appointment yesterday? · তা, কালকের সেই সাক্ষাৎ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Il m'a posé un lapin. J'ai attendu une heure.",
+       "tr": "eel mah poh-ZAY uhn lah-PAHN zhay ah-tahn-DEW ewn UHR · ইল্ মা পোজ়ে আঁ লাপাঁ। জ়ে আতঁদ্যু ্যুন্ ্যর্",
+       "mean": "He stood me up. I waited an hour. · সে আসেনি। এক ঘণ্টা অপেক্ষা করেছি।"
+      },
+      {
+       "who": "Rima",
+       "t": "Ça ne vaut pas la peine de t'énerver.",
+       "tr": "sah nuh voh pah lah PEN duh tay-nehr-VAY · সা ন্য ভো পা লা পেন্ দ্য তেনের্ভে",
+       "mean": "It is not worth getting upset about. · রাগ করে লাভ নেই।"
+      },
+      {
+       "who": "Salim",
+       "t": "Tu as raison. Ce n'est pas la mer à boire.",
+       "tr": "tew ah reh-ZOHN suh neh pah lah mehr ah BWAHR · ত্যু আ রেজ়ঁ। স্য নে পা লা মের্ আ বোয়ার্",
+       "mean": "You are right. It is not the end of the world. · ঠিকই বলেছ। এমন কিছু নয়।"
+      }
+     ]
+    },
+    {
      "t": "Il m'a posé un lapin hier soir.",
      "tr": "eel mah poh-ZAY uhn lah-PAHN yehr SWAHR · ইল্ মা পোজ়ে আঁ লাপাঁ ইয়ের্ সোয়ার্",
      "mean": "He stood me up last night. · গতরাতে সে আমাকে দাঁড় করিয়ে রাখল।",
@@ -356,6 +385,35 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "One proverb, used at the right moment, does more for your credibility than a hundred memorised words. Pick two you like and keep them ready. · সঠিক সময়ে একটি প্রবাদ শতেক শব্দের চেয়ে বেশি কাজ করে।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Je n'avance pas du tout dans mon français.",
+       "tr": "zhuh nah-VAHNS pah dew TOO dahn mohn frahn-SEH · জ়্য নাভঁস্ পা দ্যু তু দঁ মঁ ফ্রঁসে",
+       "mean": "I am making no progress at all in my French. · ফরাসিতে একদমই এগোচ্ছি না।"
+      },
+      {
+       "who": "Salim",
+       "t": "Petit à petit, l'oiseau fait son nid.",
+       "tr": "puh-tee tah puh-TEE lwah-ZOH feh sohn NEE · প্যতিত্ আ প্যতি, লোয়াজ়ো ফে সঁ নি",
+       "mean": "Little by little, the bird builds its nest. · ধীরে ধীরেই পাখি বাসা গড়ে।"
+      },
+      {
+       "who": "Rima",
+       "t": "Facile à dire, difficile à faire.",
+       "tr": "fah-SEEL ah DEER dee-fee-SEEL ah FEHR · ফাসিল্ আ দির্, দিফিসিল্ আ ফের্",
+       "mean": "Easy to say, hard to do. · বলা সহজ, করা কঠিন।"
+      },
+      {
+       "who": "Salim",
+       "t": "Mieux vaut tard que jamais. Continue !",
+       "tr": "myuh voh TAHR kuh zhah-MEH kohn-tee-NEW · মীয়ো ভো তার্ ক্য জ়ামে। কঁতিন্যু",
+       "mean": "Better late than never. Keep going! · না হওয়ার চেয়ে দেরিতে ভালো। চালিয়ে যাও!"
+      }
+     ]
     },
     {
      "t": "Petit à petit, l'oiseau fait son nid.",
@@ -620,6 +678,35 @@ LC.units.push({
        "t": "vert",
        "tr": "VAIR · ভের",
        "mean": "green · সবুজ"
+      }
+     ]
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "On écrit ou ou où ici ?",
+       "tr": "ohn nay-KREE oo oo OO ee-SEE · ঁন্ একি উ উ উ ইসি",
+       "mean": "Do we write ou or où here? · এখানে ou লিখব না où?"
+      },
+      {
+       "who": "Salim",
+       "t": "Où, avec l'accent. C'est le lieu, pas le choix.",
+       "tr": "OO ah-vek lahk-SAHN seh luh LYUH pah luh SHWAH · উ, আভেক্ লাক্সঁ। সে ল্য লীয়ো, পা ল্য শোয়া",
+       "mean": "Où, with the accent. It is place, not choice. · où, চিহ্নসহ — স্থান বোঝায়, বিকল্প নয়।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et a ou à dans il a mal ?",
+       "tr": "ay AH oo AH dahn eel ah MAHL · এ আ উ আ দঁ ইল্ আ মাল্",
+       "mean": "And a or à in il a mal? · আর il a mal-এ a না à?"
+      },
+      {
+       "who": "Salim",
+       "t": "A sans accent : c'est le verbe avoir.",
+       "tr": "AH sahn zahk-SAHN seh luh vehrb ah-VWAHR · আ সঁজ়্ আক্সঁ: সে ল্য ভের্ব্ আভোয়ার্",
+       "mean": "A without the accent: it is the verb avoir. · চিহ্ন ছাড়া a — এটি avoir ক্রিয়া।"
       }
      ]
     },
@@ -892,6 +979,35 @@ LC.units.push({
       }
      ],
      "title": "The -ée pairs · -ée জোড়াগুলো"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Je ne sais pas qu'est-ce qui se passe.",
+       "tr": "zhuh nuh seh pah kes kee suh PAHS · জ়্য ন্য সে পা কেস্ কি স্য পাস্",
+       "mean": "I don't know what is happening. — the wrong form · ভুল গড়ন"
+      },
+      {
+       "who": "Salim",
+       "t": "Presque. Dans une phrase, on dit ce qui.",
+       "tr": "presk dahn zewn FRAHZ ohn dee suh KEE · প্রেস্ক্। দঁজ়্ ্যুন্ ফ্রাজ়্, ঁ দি স্য কি",
+       "mean": "Almost. Inside a statement you say ce qui. · প্রায়। বিবৃতিতে বলা হয় ce qui।"
+      },
+      {
+       "who": "Rima",
+       "t": "Alors : je ne sais pas ce qui se passe.",
+       "tr": "ah-LOR zhuh nuh seh pah suh kee suh PAHS · আলর্: জ়্য ন্য সে পা স্য কি স্য পাস্",
+       "mean": "So: I don't know what is happening. · তাহলে: je ne sais pas ce qui se passe।"
+      },
+      {
+       "who": "Salim",
+       "t": "Voilà. Qu'est-ce qui reste une question.",
+       "tr": "vwah-LAH kes kee rest ewn kes-TYOHN · ভোয়ালা। কেস্ কি রেস্ত্ ্যুন্ কেস্তীয়ঁ",
+       "mean": "That's it. Qu'est-ce qui stays a question. · ঠিক তাই। qu'est-ce qui প্রশ্নেই থাকে।"
+      }
+     ]
     },
     {
      "t": "Je ne sais pas ce qui se passe ici.",
@@ -1182,6 +1298,35 @@ LC.units.push({
      "type": "tip",
      "kind": "fun",
      "text": "Ask for an {{entrée}} in Paris and you will be served a starter, not a main course. The American sense travelled, the French one stayed home. · প্যারিসে entrée মানে প্রথম পদ।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Sur l'enveloppe, j'écris M. ou Monsieur ?",
+       "tr": "sewr lahn-VLOP zhay-kree muh-SYUH oo muh-SYUH · স্যুর্ লঁভ্লপ্, জ়েকি ম্যসীয়ো উ ম্যসীয়ো",
+       "mean": "On the envelope, do I write M. or Monsieur? · খামে M. লিখব না Monsieur?"
+      },
+      {
+       "who": "Salim",
+       "t": "M. Rahman. On écrit court, on dit long.",
+       "tr": "muh-syuh rah-MAHN ohn nay-kree KOOR ohn dee LOHN · ম্যসীয়ো রহমান। ঁন্ একি কুর্, ঁ দি লঁ",
+       "mean": "M. Rahman. You write it short and say it long. · লেখা হয় সংক্ষেপে, বলা হয় পুরোটা।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et pour une femme ?",
+       "tr": "ay poor ewn FAHM · এ পুর্ ্যুন্ ফাম্",
+       "mean": "And for a woman? · আর নারীর ক্ষেত্রে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Mme, sans point, parce que le mot finit par un e.",
+       "tr": "mah-DAHM sahn PWAHN pahrs kuh luh moh fee-nee pahr uhn UH · মাদাম, সঁ পোয়াঁ, পার্স্ ক্য ল্য মো ফিনি পার্ আঁন্ য",
+       "mean": "Mme, with no full stop, because the word ends in e. · Mme-এ বিন্দু বসে না, কারণ শব্দটি e-তে শেষ।"
+      }
+     ]
     },
     {
      "t": "M. Rahman est arrivé vers vingt heures.",

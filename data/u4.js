@@ -139,6 +139,35 @@ LC.units.push({
      "text": "French writes large numbers with a space or a full stop, and uses a **comma** for decimals: **1 000,50 €**. Reading an English price aloud with a decimal point is a giveaway. · ফরাসিতে দশমিকে কমা বসে।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Client",
+       "t": "Ça fait combien en tout ?",
+       "tr": "sah feh kohn-BYAHN ahn TOO · সা ফে কঁবীয়াঁ অঁ তু",
+       "mean": "How much is it altogether? · সব মিলিয়ে কত?"
+      },
+      {
+       "who": "Vendeuse",
+       "t": "Quatre-vingt-quinze euros, monsieur.",
+       "tr": "kah-truh-vahn-KAHNZ uh-ROH muh-SYUH · কাত্র্-ভাঁ-কাঁজ়্ ্যরো, ম্যসীয়ো",
+       "mean": "Ninety-five euros, sir. · পঁচানব্বই ইউরো, স্যার।"
+      },
+      {
+       "who": "Client",
+       "t": "Quatre-vingt-quinze ? J'avais compris soixante-quinze.",
+       "tr": "kah-truh-vahn-KAHNZ zhah-veh kohn-PREE swah-sahnt-KAHNZ · কাত্র্-ভাঁ-কাঁজ়্? জ়াভে কঁপ্রি সোয়াসঁত্-কাঁজ়্",
+       "mean": "Ninety-five? I had understood seventy-five. · পঁচানব্বই? আমি শুনেছিলাম পঁচাত্তর।"
+      },
+      {
+       "who": "Vendeuse",
+       "t": "Non, quatre-vingts et quinze. Je vous le note.",
+       "tr": "nohn kah-truh-VAHN ay KAHNZ zhuh voo luh NOT · নঁ, কাত্র্-ভাঁ এ কাঁজ়্। জ়্য ভু ল্য নত্",
+       "mean": "No, eighty and fifteen. I'll write it down for you. · না, আশি আর পনেরো। লিখে দিচ্ছি।"
+      }
+     ]
+    },
+    {
      "t": "Il y a quatre-vingt-dix-neuf pages dans ce livre.",
      "tr": "eel ee ah kah-truh-vahn-deez-NUHF pahzh dahn suh LEEVR · ইল্ ই আ কাত্র্-ভাঁ-দিজ়্-ন্যফ্ পাজ়্ দঁ স্য লিভ্র্",
      "mean": "There are ninety-nine pages in this book. · এই বইয়ে নিরানব্বই পাতা আছে।",
@@ -686,6 +715,35 @@ LC.units.push({
        "t": "le mois dernier",
        "tr": "luh mwah dair-NYAY · ল্য মোয়া দেরনিয়ে",
        "mean": "last month · গত মাস"
+      }
+     ]
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Secrétaire",
+       "t": "Quelle est votre date de naissance ?",
+       "tr": "kel eh votr daht duh neh-SAHNS · কেল্ এ ভত্র্ দাত্ দ্য নেসঁস্",
+       "mean": "What is your date of birth? · আপনার জন্মতারিখ কী?"
+      },
+      {
+       "who": "Rima",
+       "t": "Le premier mars mille neuf cent quatre-vingt-dix.",
+       "tr": "luh pruh-MYAY mahrs meel nuhf sahn kah-truh-vahn-DEES · ল্য প্র্যমীয়ে মার্স্ মিল্ ন্যফ্ সঁ কাত্র্-ভাঁ-দিস্",
+       "mean": "The first of March 1990. · পয়লা মার্চ উনিশশো নব্বই।"
+      },
+      {
+       "who": "Secrétaire",
+       "t": "Et vous commencez quand ?",
+       "tr": "ay voo koh-mahn-SAY KAHN · এ ভু কমঁসে কঁ",
+       "mean": "And when do you start? · আর কাজ শুরু করছেন কবে?"
+      },
+      {
+       "who": "Rima",
+       "t": "Lundi prochain, le cinq décembre.",
+       "tr": "luhn-DEE proh-SHAHN luh sahnk day-SAHMBR · লাঁদি প্রশাঁ, ল্য সাঁক্ দেসঁব্র্",
+       "mean": "Next Monday, the fifth of December. · আগামী সোমবার, ৫ ডিসেম্বর।"
       }
      ]
     },

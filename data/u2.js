@@ -174,6 +174,35 @@ LC.units.push({
      ]
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "C'est un problème ou une problème ?",
+       "tr": "seh tuhn proh-BLEM oo ewn proh-BLEM · সেত্ আঁ প্রব্লেম্ উ ্যুন্ প্রব্লেম্",
+       "mean": "Is it un problème or une problème? · এটা un নাকি une problème?"
+      },
+      {
+       "who": "Salim",
+       "t": "Un problème. Les mots en -ème sont masculins.",
+       "tr": "uhn proh-BLEM lay moh ahn EM sohn mahs-kew-LAHN · আঁ প্রব্লেম্। লে মো অঁন্ এম্ সঁ মাস্ক্যুলাঁ",
+       "mean": "Un problème. Words in -ème are masculine. · un problème; -ème শেষে পুংলিঙ্গ।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et la page ? Elle finit en -age.",
+       "tr": "ay lah PAHZH el fee-nee ahn NAHZH · এ লা পাজ়্? এল্ ফিনি অঁন্ আজ়্",
+       "mean": "And la page? It ends in -age. · আর la page? এটা তো -age-এ শেষ।"
+      },
+      {
+       "who": "Salim",
+       "t": "C'est une des quatre exceptions. Il faut les apprendre.",
+       "tr": "seh tewn day kah-truh zek-sep-SYOHN eel foh lay zah-PRAHNDR · সেত্ ্যুন্ দে কাত্র্ এক্সেপ্সীয়ঁ। ইল্ ফো লেজ়্ আপ্রঁদ্র্",
+       "mean": "It is one of the four exceptions. You have to learn them. · চারটি ব্যতিক্রমের একটি; মুখস্থ করতে হয়।"
+      }
+     ]
+    },
+    {
      "t": "La décision du gouvernement est une bonne nouvelle.",
      "tr": "lah day-see-ZYOHN dew goo-vehr-nuh-MAHN eh tewn bon noo-VEL · লা দেসিজ়ীয়ঁ দ্যু গুভের্ন্যমঁ এত্ ্যুন্ বন্ নুভেল্",
      "mean": "The government's decision is good news. · সরকারের সিদ্ধান্তটি সুখবর।",
@@ -418,6 +447,35 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "A family name never takes s: {{les Rahman}}, {{les Dupont}}. · পারিবারিক নামে বহুবচনের s বসে না।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Client",
+       "t": "Je voudrais deux journaux, s'il vous plaît.",
+       "tr": "zhuh voo-DREH duh zhoor-NOH seel voo PLEH · জ়্য ভুদ্রে দ্য জ়ুর্নো, সিল্ ভু প্লে",
+       "mean": "I would like two newspapers, please. · দুটি খবরের কাগজ দিন।"
+      },
+      {
+       "who": "Vendeur",
+       "t": "Voilà. Et avec les yeux, ça va mieux ?",
+       "tr": "vwah-LAH ay ah-vek lay ZYUH sah vah MYUH · ভোয়ালা। এ আভেক্ লেজ়্ য্য, সা ভা মীয়ো",
+       "mean": "Here you are. And how are your eyes now? · এই নিন। চোখ এখন কেমন?"
+      },
+      {
+       "who": "Client",
+       "t": "Mieux, merci. Les docteurs étaient très gentils.",
+       "tr": "MYUH mehr-SEE lay dok-TUHR ay-teh treh zhahn-TEE · মীয়ো, মের্সি। লে দক্ত্যর্ এতে ত্রে জ়ঁতি",
+       "mean": "Better, thank you. The doctors were very kind. · ভালো, ধন্যবাদ। ডাক্তাররা খুব ভালো ছিলেন।"
+      },
+      {
+       "who": "Vendeur",
+       "t": "Tant mieux. Bonne journée !",
+       "tr": "tahn MYUH bon zhoor-NAY · তঁ মীয়ো। বন্ জ়ুর্নে",
+       "mean": "So much the better. Have a good day! · বেশ ভালো। দিনটি ভালো কাটুক!"
+      }
+     ]
     },
     {
      "t": "Les journaux et les travaux sont sur la table.",
@@ -701,6 +759,35 @@ LC.units.push({
      ]
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Serveur",
+       "t": "Vous prenez du thé ou du café ?",
+       "tr": "voo pruh-NAY dew TAY oo dew kah-FAY · ভু প্র্যনে দ্যু তে উ দ্যু কাফে",
+       "mean": "Will you have tea or coffee? · চা নেবেন না কফি?"
+      },
+      {
+       "who": "Rima",
+       "t": "Du thé, mais sans sucre.",
+       "tr": "dew TAY meh sahn SEWKR · দ্যু তে, মে সঁ স্যুক্র্",
+       "mean": "Tea, but without sugar. · চা, তবে চিনি ছাড়া।"
+      },
+      {
+       "who": "Serveur",
+       "t": "Et vous, monsieur ?",
+       "tr": "ay VOO muh-SYUH · এ ভু, ম্যসীয়ো",
+       "mean": "And you, sir? · আর আপনি?"
+      },
+      {
+       "who": "Salim",
+       "t": "Je ne prends pas de café le soir, merci.",
+       "tr": "zhuh nuh prahn pah duh kah-FAY luh SWAHR mehr-SEE · জ়্য ন্য প্রঁ পা দ্য কাফে ল্য সোয়ার্, মের্সি",
+       "mean": "I don't drink coffee at night, thank you. · রাতে কফি খাই না, ধন্যবাদ।"
+      }
+     ]
+    },
+    {
      "type": "sentence",
      "t": "Je ne prends pas de sucre dans mon café.",
      "tr": "zhuh nuh prahn pah duh SEWKR dahn mohn kah-FAY · জ়্য ন্য প্রাঁ পা দ্য স্যুক্র দাঁ মঁ কাফে",
@@ -970,6 +1057,35 @@ LC.units.push({
        "t": "Je viens de Dacca.",
        "tr": "from Dhaka — cities take de · ঢাকা থেকে — শহরের আগে de",
        "hl": "de"
+      }
+     ]
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Tu vas au marché ce matin ?",
+       "tr": "tew vah oh mahr-SHAY suh mah-TAHN · ত্যু ভা ও মার্শে স্য মাতাঁ",
+       "mean": "Are you going to the market this morning? · আজ সকালে বাজারে যাচ্ছ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Oui, et après à la banque.",
+       "tr": "WEE ay ah-PREH ah lah BAHNK · উই, এ আপ্রে আ লা বঁক্",
+       "mean": "Yes, and afterwards to the bank. · হ্যাঁ, তারপর ব্যাংকে।"
+      },
+      {
+       "who": "Rima",
+       "t": "Tu reviens du bureau à quelle heure ?",
+       "tr": "tew ruh-VYAHN dew bew-ROH ah kel UHR · ত্যু র্যভীয়াঁ দ্যু ব্যুরো আ কেল্ ্যর্",
+       "mean": "What time do you come back from the office? · অফিস থেকে কখন ফের?"
+      },
+      {
+       "who": "Salim",
+       "t": "Vers six heures, après la réunion des professeurs.",
+       "tr": "vehr see ZUHR ah-PREH lah ray-ew-NYOHN day proh-feh-SUHR · ভের্ সিজ়্ ্যর্, আপ্রে লা রেয়্যুনীয়ঁ দে প্রফেস্যর্",
+       "mean": "About six, after the teachers' meeting. · ছটা নাগাদ, শিক্ষকদের সভার পরে।"
       }
      ]
     },
@@ -1273,6 +1389,35 @@ LC.units.push({
      "title": "Four more that shift · আরও চারটি যারা বদলায়"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Tu as vu leur nouvelle maison ?",
+       "tr": "tew ah VEW luhr noo-vel meh-ZOHN · ত্যু আ ভ্যু ল্যর্ নুভেল্ মেজ়ঁ",
+       "mean": "Have you seen their new house? · তাদের নতুন বাড়িটা দেখেছ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Oui, une grande maison blanche, très belle.",
+       "tr": "WEE ewn grahnd meh-ZOHN BLAHNSH treh BEL · উই, ্যুন্ গ্রঁদ্ মেজ়ঁ ব্লঁশ্, ত্রে বেল্",
+       "mean": "Yes, a big white house, very beautiful. · হ্যাঁ, বড় সাদা বাড়ি, খুব সুন্দর।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et le vieux jardin derrière ?",
+       "tr": "ay luh vyuh zhahr-DAHN deh-RYEHR · এ ল্য ভীয়ো জ়ার্দাঁ দেরীয়ের্",
+       "mean": "And the old garden behind it? · আর পিছনের পুরোনো বাগানটা?"
+      },
+      {
+       "who": "Salim",
+       "t": "Magnifique. Un bel endroit pour les enfants.",
+       "tr": "mah-nyee-FEEK uhn bel ahn-DRWAH poor lay zahn-FAHN · মান্যিফিক্। আঁ বেল্ অঁদ্রোয়া পুর্ লেজ়্ অঁফঁ",
+       "mean": "Magnificent. A lovely spot for the children. · চমৎকার। বাচ্চাদের জন্য দারুণ জায়গা।"
+      }
+     ]
+    },
+    {
      "t": "C'est une vieille maison blanche.",
      "tr": "seh tewn vyey meh-ZOHN BLAHNSH · সেত্ ্যুন্ ভীয়েই মেজ়ঁ ব্লঁশ্",
      "mean": "It is an old white house. · এটি একটি পুরোনো সাদা বাড়ি।",
@@ -1490,6 +1635,35 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "English says *the best in the world*; French says *of the world* — {{du monde}}. Using {{dans}} here is a classic slip. · ইংরেজির in-এর জায়গায় ফরাসি de ব্যবহার করে।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Dhaka est plus grande que Sylhet, non ?",
+       "tr": "dah-KAH eh plew GRAHND kuh seel-HET nohn · ঢাকা এ প্ল্যু গ্রঁদ্ ক্য সিলেট, নঁ",
+       "mean": "Dhaka is bigger than Sylhet, isn't it? · ঢাকা সিলেটের চেয়ে বড়, না?"
+      },
+      {
+       "who": "Salim",
+       "t": "Beaucoup plus grande. Mais Sylhet est plus calme.",
+       "tr": "boh-KOO plew GRAHND meh seel-HET eh plew KAHLM · বোকু প্ল্যু গ্রঁদ্। মে সিলেট এ প্ল্যু কাল্ম্",
+       "mean": "Much bigger. But Sylhet is quieter. · অনেক বড়। তবে সিলেট বেশি শান্ত।"
+      },
+      {
+       "who": "Rima",
+       "t": "Alors, quelle ville préfères-tu ?",
+       "tr": "ah-LOR kel VEEL pray-fehr TEW · আলর্, কেল্ ভিল্ প্রেফের্-ত্যু",
+       "mean": "So which city do you prefer? · তাহলে কোন শহর বেশি পছন্দ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Sylhet. On y vit mieux et ça coûte moins cher.",
+       "tr": "seel-HET ohn nee vee MYUH ay sah koot mwahn SHEHR · সিলেট। ঁন্ ই ভি মীয়ো এ সা কুত্ মোয়াঁ শের্",
+       "mean": "Sylhet. Life is better there and it costs less. · সিলেট। সেখানে জীবন ভালো আর খরচ কম।"
+      }
+     ]
     },
     {
      "type": "sentence",
@@ -1788,6 +1962,35 @@ LC.units.push({
      ]
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Tu as acheté les billets ?",
+       "tr": "tew ah ahsh-TAY lay bee-YEH · ত্যু আ আশ্তে লে বিয়ে",
+       "mean": "Have you bought the tickets? · টিকিট কিনেছ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Oui, je les ai pris ce matin.",
+       "tr": "WEE zhuh lay zay PREE suh mah-TAHN · উই, জ়্য লেজ়্ এ প্রি স্য মাতাঁ",
+       "mean": "Yes, I bought them this morning. · হ্যাঁ, আজ সকালেই নিয়েছি।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et du pain, il y en a encore ?",
+       "tr": "ay dew PAHN eel ee ahn nah ahn-KOR · এ দ্যু পাঁ, ইল্ ই অঁন্ আ অঁকর্",
+       "mean": "And is there any bread left? · আর রুটি কি আছে এখনো?"
+      },
+      {
+       "who": "Salim",
+       "t": "Il y en a beaucoup. N'y pense plus.",
+       "tr": "eel ee ahn nah boh-KOO nee pahns PLEW · ইল্ ই অঁন্ আ বোকু। নি পঁস্ প্ল্যু",
+       "mean": "There is plenty. Stop thinking about it. · অনেক আছে। আর ভেবো না।"
+      }
+     ]
+    },
+    {
      "t": "Il y en a encore beaucoup.",
      "tr": "eel ee ahn nah ahn-KOR boh-KOO · ইল্ ই অঁন্ আ অঁকর্ বোকু",
      "mean": "There are still plenty of them. · এখনো অনেক আছে।",
@@ -2044,6 +2247,35 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "French does not separate *this* from *that* unless it needs to. When it does, it adds **-ci** for near and **-là** for far: {{ce livre-ci}} and {{ce livre-là}}. · প্রয়োজনে -ci (কাছে) ও -là (দূরে) যোগ হয়।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Qui est l'homme qui parle à la porte ?",
+       "tr": "kee eh lom kee pahrl ah lah PORT · কি এ লম্ কি পার্ল্ আ লা পর্ত্",
+       "mean": "Who is the man speaking at the door? · দরজায় যে লোকটি কথা বলছে, সে কে?"
+      },
+      {
+       "who": "Salim",
+       "t": "C'est l'oncle dont je t'ai parlé hier.",
+       "tr": "seh LOHNKL dohn zhuh tay pahr-LAY yehr · সে লঁক্ল্ দঁ জ়্য তে পার্লে ইয়ের্",
+       "mean": "He is the uncle I told you about yesterday. · গতকাল যাঁর কথা বলেছিলাম, সেই কাকা।"
+      },
+      {
+       "who": "Rima",
+       "t": "Celui dont la voiture est rouge ?",
+       "tr": "suh-LWEE dohn lah vwah-TEWR eh ROOZH · স্যলুই দঁ লা ভোয়াত্যুর্ এ রুজ়্",
+       "mean": "The one whose car is red? · যাঁর গাড়ি লাল, তিনি?"
+      },
+      {
+       "who": "Salim",
+       "t": "Exactement. C'est le jour où il est arrivé.",
+       "tr": "eg-zak-tuh-MAHN seh luh zhoor oo eel eh tah-ree-VAY · এগজ়াক্ত্যমঁ। সে ল্য জ়ুর্ উ ইল্ এত্ আরিভে",
+       "mean": "Exactly. That is the day he arrived. · ঠিক তাই। সেদিনই তিনি এসেছিলেন।"
+      }
+     ]
     },
     {
      "type": "sentence",

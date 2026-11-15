@@ -113,6 +113,35 @@ LC.units.push({
      "text": "In a French letter, the date is written {{Dacca, le 5 décembre 2026}} — place, comma, {{le}}, then the date, with the month in lower case. · ফরাসি চিঠিতে তারিখ এভাবে লেখা হয়।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Pourquoi tu laisses un espace avant le point d'interrogation ?",
+       "tr": "poor-KWAH tew les uhn nes-PAHS ah-vahn luh pwahn dahn-teh-roh-gah-SYOHN · পুর্কোয়া ত্যু লেস্ আঁন্ এস্পাস্ আভঁ ল্য পোয়াঁ দাঁতেরগাসীয়ঁ",
+       "mean": "Why do you leave a space before the question mark? · প্রশ্নচিহ্নের আগে ফাঁক রাখো কেন?"
+      },
+      {
+       "who": "Salim",
+       "t": "C'est la règle en français. Pas en anglais.",
+       "tr": "seh lah REGL ahn frahn-SEH pah ahn nahn-GLEH · সে লা রেগ্ল্ অঁ ফ্রঁসে। পা অঁন্ আঁগ্লে",
+       "mean": "It is the rule in French. Not in English. · ফরাসিতে এটাই নিয়ম, ইংরেজিতে নয়।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et après l'apostrophe ?",
+       "tr": "ay ah-PREH lah-pos-TROF · এ আপ্রে লাপস্ত্রফ্",
+       "mean": "And after the apostrophe? · আর ঊর্ধ্বকমার পরে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Jamais d'espace. On écrit l'ami, jamais l' ami.",
+       "tr": "zhah-MEH des-PAHS ohn nay-kree lah-MEE zhah-meh lah-MEE · জ়ামে দেস্পাস্। ঁন্ একি লামি, জ়ামে ল্ আমি",
+       "mean": "Never a space. You write l'ami, never l' ami. · কখনো ফাঁক নয়; লেখা হয় l'ami।"
+      }
+     ]
+    },
+    {
      "t": "Comment allez-vous, chère madame ?",
      "tr": "koh-mahn tah-lay VOO shehr mah-DAHM · কমঁ তালে-ভু, শের্ মাদাম ?",
      "mean": "How are you, dear madam? · আপনি কেমন আছেন, প্রিয় ম্যাডাম?",
@@ -353,6 +382,35 @@ LC.units.push({
      "text": "Whatever you wrote at the top must reappear inside the closing. Open with {{Monsieur le Directeur,}} and you must close with {{…, Monsieur le Directeur, …}}. · শুরুর সম্বোধন শেষেও হুবহু বসাতে হবে।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Je commence la lettre par quoi ?",
+       "tr": "zhuh koh-MAHNS lah LETR pahr KWAH · জ়্য কমঁস্ লা লেত্র্ পার্ কোয়া",
+       "mean": "What do I begin the letter with? · চিঠিটা কী দিয়ে শুরু করব?"
+      },
+      {
+       "who": "Salim",
+       "t": "Ton adresse en haut à gauche, la sienne à droite.",
+       "tr": "tohn nah-DRES ahn OH ah GOHSH lah SYEN ah DRWAHT · তঁন্ আদ্রেস্ অঁ ও আ গোশ্, লা সীয়েন্ আ দ্রোয়াত্",
+       "mean": "Your address top left, hers on the right. · তোমার ঠিকানা বাঁয়ে উপরে, তাঁরটা ডানে।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et si je ne sais pas qui va la lire ?",
+       "tr": "ay see zhuh nuh seh pah kee vah lah LEER · এ সি জ়্য ন্য সে পা কি ভা লা লির্",
+       "mean": "And if I don't know who will read it? · কে পড়বে জানা না থাকলে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Alors tu écris : Madame, Monsieur. C'est l'usage.",
+       "tr": "ah-LOR tew ay-KREE mah-DAHM muh-SYUH seh lew-ZAHZH · আলর্ ত্যু একি: মাদাম, ম্যসীয়ো। সে ল্যুজ়াজ়্",
+       "mean": "Then you write: Madame, Monsieur. That is the custom. · তখন লেখো Madame, Monsieur — এটাই রীতি।"
+      }
+     ]
+    },
+    {
      "t": "Veuillez agréer, Madame, mes salutations distinguées.",
      "tr": "vuh-yay ah-gray-AY mah-DAHM may sah-lew-tah-SYOHN dees-tahn-GAY · ভ্যইয়ে আগ্রেয়ে, মাদাম, মে সাল্যুতাসীয়ঁ দিস্তাঁগে",
      "mean": "Yours faithfully. · আপনার বিশ্বস্ত।",
@@ -584,6 +642,35 @@ LC.units.push({
      "type": "tip",
      "kind": "memory",
      "text": "A complete application is only four sentences: why you are writing, what you offer, that the CV is enclosed, and the polite close. Everything else is padding. · চারটি বাক্যেই সম্পূর্ণ আবেদন হয়।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Comment finir une lettre de candidature ?",
+       "tr": "koh-mahn fee-NEER ewn LETR duh kahn-dee-dah-TEWR · কমঁ ফিনির্ ্যুন্ লেত্র্ দ্য কঁদিদাত্যুর্",
+       "mean": "How should I end a job application? · চাকরির আবেদন শেষ করব কীভাবে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Je vous prie d'agréer, Madame, mes salutations distinguées.",
+       "tr": "zhuh voo PREE dah-gray-AY mah-DAHM may sah-lew-tah-SYOHN dees-tahn-GAY · জ়্য ভু প্রি দাগ্রেয়ে, মাদাম, মে সাল্যুতাসীয়ঁ দিস্তাঁগে",
+       "mean": "Yours faithfully, in the full formula. · পূর্ণ আনুষ্ঠানিক সমাপনী বাক্য।"
+      },
+      {
+       "who": "Rima",
+       "t": "C'est très long pour dire si peu.",
+       "tr": "seh treh LOHN poor deer see PUH · সে ত্রে লঁ পুর্ দির্ সি প্য",
+       "mean": "That is very long to say so little. · এত অল্প কথা বলতে এত লম্বা বাক্য!"
+      },
+      {
+       "who": "Salim",
+       "t": "Pour un collègue, écris simplement : Cordialement.",
+       "tr": "poor uhn koh-LEG ay-kree sahn-pluh-MAHN kor-dyahl-MAHN · পুর্ আঁ কলেগ্, একি সাঁপ্ল্যমঁ: কর্দীয়াল্মঁ",
+       "mean": "For a colleague, just write: Cordialement. · সহকর্মীর জন্য কেবল Cordialement লেখো।"
+      }
+     ]
     },
     {
      "type": "sentence",
@@ -835,6 +922,35 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "Never mix the two in one letter. Starting with {{vous}} and slipping into {{tu}} reads as carelessness. · একই চিঠিতে দুটো মেশাবেন না।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Cher Salim, comment vas-tu ? Tu me manques.",
+       "tr": "shehr sah-LEEM koh-mahn vah TEW tew muh MAHNK · শের্ সেলিম, কমঁ ভা-ত্যু? ত্যু ম্য মঁক্",
+       "mean": "Dear Salim, how are you? I miss you. · প্রিয় সেলিম, কেমন আছ? তোমাকে মনে পড়ে।"
+      },
+      {
+       "who": "Salim",
+       "t": "Tu me manques ? C'est moi qui manque à toi ?",
+       "tr": "tew muh MAHNK seh mwah kee mahnk ah TWAH · ত্যু ম্য মঁক্? সে মোয়া কি মঁক্ আ তোয়া",
+       "mean": "Tu me manques? Is it I who am missing from you? · tu me manques মানে কি আমাকেই মনে পড়ছে?"
+      },
+      {
+       "who": "Rima",
+       "t": "Oui. En français, la personne absente est le sujet.",
+       "tr": "WEE ahn frahn-SEH lah pehr-son ahb-SAHNT eh luh sew-ZHEH · উই। অঁ ফ্রঁসে, লা পের্সন্ আব্সঁত্ এ ল্য স্যুজ়ে",
+       "mean": "Yes. In French the absent person is the subject. · হ্যাঁ, ফরাসিতে যে অনুপস্থিত সেই কর্তা।"
+      },
+      {
+       "who": "Salim",
+       "t": "C'est l'envers de l'anglais. Écris-moi vite !",
+       "tr": "seh lahn-VEHR duh lahn-GLEH ay-kree MWAH VEET · সে লঁভের্ দ্য লঁগ্লে। একি-মোয়া ভিত্",
+       "mean": "It is the reverse of English. Write to me soon! · ইংরেজির ঠিক উল্টো। তাড়াতাড়ি লিখো!"
+      }
+     ]
     },
     {
      "t": "Écris-moi vite, tu me manques beaucoup.",
@@ -1361,6 +1477,35 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "{{car}} and {{parce que}} both mean *because*, but {{car}} never starts a sentence — it joins two clauses inside one. · car দিয়ে বাক্য শুরু করা যায় না।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Prof",
+       "t": "D'abord, dites-moi ce que vous pensez du texte.",
+       "tr": "dah-BOR deet MWAH suh kuh voo pahn-SAY dew TEKST · দাবর্, দিত্-মোয়া স্য ক্য ভু পঁসে দ্যু তেক্স্ত্",
+       "mean": "First, tell me what you think of the text. · প্রথমে বলুন, লেখাটি নিয়ে আপনার কী মত।"
+      },
+      {
+       "who": "Rima",
+       "t": "Il est clair. Cependant, la fin est trop rapide.",
+       "tr": "eel eh KLEHR suh-pahn-DAHN lah fahn eh troh rah-PEED · ইল্ এ ক্লের্। স্যপঁদঁ, লা ফাঁ এ ত্রো রাপিদ্",
+       "mean": "It is clear. However, the ending is too quick. · স্পষ্ট। তবে শেষটা বড্ড দ্রুত।"
+      },
+      {
+       "who": "Prof",
+       "t": "En revanche, le début est excellent, n'est-ce pas ?",
+       "tr": "ahn ruh-VAHNSH luh day-BEW eh tek-seh-LAHN nes PAH · অঁ র্যভঁশ্, ল্য দেব্যু এত্ এক্সেলঁ, নেস্ পা",
+       "mean": "On the other hand, the beginning is excellent, isn't it? · অন্যদিকে শুরুটা চমৎকার, তাই না?"
+      },
+      {
+       "who": "Rima",
+       "t": "Enfin, c'est pourquoi je voudrais le relire.",
+       "tr": "ahn-FAHN seh poor-KWAH zhuh voo-dreh luh ruh-LEER · অঁফাঁ, সে পুর্কোয়া জ়্য ভুদ্রে ল্য র্যলির্",
+       "mean": "Finally, that is why I would like to read it again. · শেষে, সেজন্যই আবার পড়তে চাই।"
+      }
+     ]
     },
     {
      "t": "Cependant, le prix reste très élevé.",

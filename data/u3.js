@@ -141,6 +141,35 @@ LC.units.push({
      "text": "{{attendre}} means *to wait for* — the *for* is already inside it. Say {{J'attends le bus}}, never *j'attends pour le bus*. · attendre-এর ভেতরেই for আছে।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Prof",
+       "t": "Vous finissez l'exercice ?",
+       "tr": "voo fee-nee-SAY lek-sehr-SEES · ভু ফিনিসে লেক্সের্সিস্",
+       "mean": "Are you finishing the exercise? · অনুশীলনটা শেষ করছেন?"
+      },
+      {
+       "who": "Rima",
+       "t": "Nous finissons maintenant, monsieur.",
+       "tr": "noo fee-nee-SOHN mahnt-NAHN muh-SYUH · নু ফিনিসঁ মাঁত্নঁ, ম্যসীয়ো",
+       "mean": "We are finishing now, sir. · এখনই শেষ করছি, স্যার।"
+      },
+      {
+       "who": "Prof",
+       "t": "Et après, vous partez ?",
+       "tr": "ay ah-PREH voo pahr-TAY · এ আপ্রে, ভু পার্তে",
+       "mean": "And afterwards, are you leaving? · তারপর কি চলে যাবেন?"
+      },
+      {
+       "who": "Rima",
+       "t": "Non, nous attendons les autres.",
+       "tr": "nohn noo zah-tahn-DOHN lay ZOHTR · নঁ, নুজ়্ আতঁদঁ লেজ়োত্র্",
+       "mean": "No, we are waiting for the others. · না, আমরা বাকিদের জন্য অপেক্ষা করছি।"
+      }
+     ]
+    },
+    {
      "t": "Nous finissons le travail et nous partons.",
      "tr": "noo fee-nee-SOHN luh trah-VYE ay noo pahr-TOHN · নু ফিনিসঁ ল্য ত্রাভাই এ নু পার্তঁ",
      "mean": "We finish the work and we leave. · আমরা কাজ শেষ করে রওনা দিই।",
@@ -390,6 +419,35 @@ LC.units.push({
        "t": "Elle fait du sport.",
        "tr": "She does sport. · সে খেলাধুলা করে।",
        "hl": "fait"
+      }
+     ]
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Salim",
+       "t": "Où vas-tu si vite ?",
+       "tr": "oo vah TEW see VEET · উ ভা-ত্যু সি ভিত্",
+       "mean": "Where are you going in such a hurry? · এত তাড়াহুড়ো করে কোথায় যাচ্ছ?"
+      },
+      {
+       "who": "Rima",
+       "t": "Je vais au bureau. J'ai une réunion.",
+       "tr": "zhuh veh oh bew-ROH zhay ewn ray-ew-NYOHN · জ়্য ভে ও ব্যুরো। জ়ে ্যুন্ রেয়্যুনীয়ঁ",
+       "mean": "I am going to the office. I have a meeting. · অফিসে যাচ্ছি। একটা সভা আছে।"
+      },
+      {
+       "who": "Salim",
+       "t": "Tu fais quoi, exactement ?",
+       "tr": "tew feh KWAH eg-zak-tuh-MAHN · ত্যু ফে কোয়া, এগজ়াক্ত্যমঁ",
+       "mean": "What do you do, exactly? · ঠিক কী কাজ কর?"
+      },
+      {
+       "who": "Rima",
+       "t": "Je suis traductrice. Nous sommes quatre au bureau.",
+       "tr": "zhuh swee trah-dewk-TREES noo som KAHTR oh bew-ROH · জ়্য সুই ত্রাদ্যুক্ত্রিস্। নু সম্ কাত্র্ ও ব্যুরো",
+       "mean": "I am a translator. There are four of us in the office. · আমি অনুবাদক। অফিসে আমরা চারজন।"
       }
      ]
     },
@@ -689,6 +747,35 @@ LC.units.push({
      ]
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Tu as bien dormi cette nuit ?",
+       "tr": "tew ah byahn dor-MEE set NWEE · ত্যু আ বীয়াঁ দর্মি সেত্ নুই",
+       "mean": "Did you sleep well last night? · কাল রাতে ভালো ঘুম হয়েছে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Pas très bien. Je me suis couché à minuit.",
+       "tr": "pah treh BYAHN zhuh muh swee koo-SHAY ah mee-NWEE · পা ত্রে বীয়াঁ। জ়্য ম্য সুই কুশে আ মিনুই",
+       "mean": "Not very well. I went to bed at midnight. · তেমন না। মাঝরাতে শুয়েছি।"
+      },
+      {
+       "who": "Rima",
+       "t": "Pourquoi ? Tu as travaillé tard ?",
+       "tr": "poor-KWAH tew ah trah-vah-YAY TAHR · পুর্কোয়া? ত্যু আ ত্রাভাইয়ে তার্",
+       "mean": "Why? Did you work late? · কেন? দেরি পর্যন্ত কাজ করেছ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Oui, et ma sœur est arrivée à onze heures.",
+       "tr": "WEE ay mah SUHR eh tah-ree-VAY ah ohn ZUHR · উই, এ মা স্যর্ এত্ আরিভে আ অঁজ়্ ্যর্",
+       "mean": "Yes, and my sister arrived at eleven. · হ্যাঁ, আর আমার বোন এগারোটায় এসেছিল।"
+      }
+     ]
+    },
+    {
      "t": "Elle est arrivée et elle a pris le train.",
      "tr": "el eh tah-ree-VAY ay el ah pree luh TRAHN · এল্ এত্ আরিভে এ এল্ আ প্রি ল্য ত্রাঁ",
      "mean": "She arrived and she took the train. · সে এসে ট্রেন ধরেছিল।",
@@ -979,6 +1066,35 @@ LC.units.push({
      "text": "A simple test: could you say *used to* or *was —ing* in English? Then use the imparfait. · ইংরেজিতে used to বা was —ing বলা গেলে imparfait।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Grand-père",
+       "t": "Quand j'étais jeune, il n'y avait pas de voitures ici.",
+       "tr": "kahn zhay-teh ZHUHN eel nee ah-veh pah duh vwah-TEWR ee-SEE · কঁ জ়েতে জ়্যন্, ইল্ নি আভে পা দ্য ভোয়াত্যুর্ ইসি",
+       "mean": "When I was young, there were no cars here. · আমার যৌবনে এখানে গাড়ি ছিল না।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et comment alliez-vous à l'école ?",
+       "tr": "ay koh-mahn tah-lyay VOO ah lay-KOL · এ কমঁ তালীয়ে-ভু আ লেকল্",
+       "mean": "And how did you get to school? · তাহলে স্কুলে যেতেন কীভাবে?"
+      },
+      {
+       "who": "Grand-père",
+       "t": "Nous marchions, tous les jours, par tous les temps.",
+       "tr": "noo mahr-SHYOHN too lay ZHOOR pahr too lay TAHN · নু মার্শীয়ঁ, তু লে জ়ুর্, পার্ তু লে তঁ",
+       "mean": "We walked, every day, in all weathers. · রোজ হেঁটে যেতাম, যে আবহাওয়াই হোক।"
+      },
+      {
+       "who": "Rima",
+       "t": "C'était difficile, mais c'était une belle époque.",
+       "tr": "say-teh dee-fee-SEEL meh say-teh tewn bel ay-POK · সেতে দিফিসিল্, মে সেতেত্ ্যুন্ বেল্ এপক্",
+       "mean": "It was hard, but it was a fine time. · কঠিন ছিল, তবু সুন্দর সময় ছিল।"
+      }
+     ]
+    },
+    {
      "type": "sentence",
      "t": "Quand j'étais petit, nous allions souvent au village.",
      "tr": "kahn zhay-tay puh-TEE, noo-zah-lyohn soo-VAHN oh vee-LAHZH · কাঁ জ়েতে প্যতি, নু জ়ালিয়ঁ সুভাঁ ও ভিলাজ়",
@@ -1239,6 +1355,35 @@ LC.units.push({
      "text": "After {{quand}}, {{lorsque}} and {{dès que}}, French uses the **future** where English uses the present: {{Quand il arrivera, nous mangerons}} — *When he arrives, we will eat*. · quand-এর পরে ফরাসি ভবিষ্যৎ ব্যবহার করে।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Salim",
+       "t": "Qu'est-ce que tu vas faire demain ?",
+       "tr": "kes kuh tew vah FEHR duh-MAHN · কেস্ ক্য ত্যু ভা ফের্ দ্যমাঁ",
+       "mean": "What are you going to do tomorrow? · কাল কী করবে?"
+      },
+      {
+       "who": "Rima",
+       "t": "Je vais rester à la maison. Et toi ?",
+       "tr": "zhuh veh res-TAY ah lah meh-ZOHN ay TWAH · জ়্য ভে রেস্তে আ লা মেজ়ঁ। এ তোয়া",
+       "mean": "I am going to stay at home. And you? · বাড়িতেই থাকব। তুমি?"
+      },
+      {
+       "who": "Salim",
+       "t": "Je partirai tôt et je reviendrai dimanche.",
+       "tr": "zhuh pahr-tee-RAY TOH ay zhuh ruh-vyahn-DRAY dee-MAHNSH · জ়্য পার্তিরে তো এ জ়্য র্যভীয়াঁদ্রে দিমঁশ্",
+       "mean": "I shall leave early and come back on Sunday. · সকালে রওনা দেব, রবিবার ফিরব।"
+      },
+      {
+       "who": "Rima",
+       "t": "Tu verras, il fera beau.",
+       "tr": "tew veh-RAH eel fuh-rah BOH · ত্যু ভেরা, ইল্ ফ্যরা বো",
+       "mean": "You will see, the weather will be fine. · দেখো, আবহাওয়া ভালো থাকবে।"
+      }
+     ]
+    },
+    {
      "t": "Demain je partirai mais aujourd'hui je vais rester.",
      "tr": "duh-MAHN zhuh pahr-tee-RAY meh oh-zhoor-DWEE zhuh veh res-TAY · দ্যমাঁ জ়্য পার্তিরে মে ওজ়ুর্দুই জ়্য ভে রেস্তে",
      "mean": "Tomorrow I shall leave, but today I am going to stay. · কাল রওনা দেব, তবে আজ থাকব।",
@@ -1464,6 +1609,35 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "The only difference between {{je parlerai}} (future) and {{je parlerais}} (conditional) is a silent s. In speech they are near-identical; in writing the s matters. · পার্থক্য কেবল একটি নীরব s।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Pourriez-vous m'aider un instant ?",
+       "tr": "poo-ryay VOO meh-day uhn nahn-STAHN · পুরীয়ে-ভু মেদে আঁন্ আঁস্তঁ",
+       "mean": "Could you help me a moment? · একটু সাহায্য করবেন?"
+      },
+      {
+       "who": "Employé",
+       "t": "Bien sûr. Que voudriez-vous faire ?",
+       "tr": "byahn SEWR kuh voo-dryay VOO FEHR · বীয়াঁ স্যুর্। ক্য ভুদ্রীয়ে-ভু ফের্",
+       "mean": "Of course. What would you like to do? · নিশ্চয়ই। কী করতে চান?"
+      },
+      {
+       "who": "Rima",
+       "t": "J'aimerais ouvrir un compte.",
+       "tr": "zheh-muh-REH oo-VREER uhn KOHNT · জ়েম্যরে উভ্রির্ আঁ কঁত্",
+       "mean": "I would like to open an account. · একটি হিসাব খুলতে চাই।"
+      },
+      {
+       "who": "Employé",
+       "t": "Vous devriez apporter votre passeport.",
+       "tr": "voo duh-vryay tah-por-TAY votr pahs-POR · ভু দ্যভ্রীয়ে আপর্তে ভত্র্ পাস্পর্",
+       "mean": "You should bring your passport. · আপনার পাসপোর্ট আনা উচিত।"
+      }
+     ]
     },
     {
      "t": "Je voudrais vous poser une question.",
@@ -1714,6 +1888,35 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "Two subjects are needed. If the subject is the same in both halves, use an infinitive instead: {{Je veux partir}}, not *que je parte*. · দুই অংশে কর্তা এক হলে infinitive বসে।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Mère",
+       "t": "Il faut que tu sois à la gare avant huit heures.",
+       "tr": "eel foh kuh tew swah ah lah GAHR ah-vahn wee TUHR · ইল্ ফো ক্য ত্যু সোয়া আ লা গার্ আভঁ উইত্ ্যর্",
+       "mean": "You must be at the station before eight. · আটটার আগে স্টেশনে থাকতে হবে।"
+      },
+      {
+       "who": "Salim",
+       "t": "Je veux bien, mais je doute que le bus arrive à temps.",
+       "tr": "zhuh vuh BYAHN meh zhuh doot kuh luh bews ah-REEV ah TAHN · জ়্য ভ্য বীয়াঁ, মে জ়্য দুত্ ক্য ল্য ব্যুস্ আরিভ্ আ তঁ",
+       "mean": "Willingly, but I doubt the bus will arrive in time. · ঠিক আছে, তবে বাস সময়মতো আসবে কিনা সন্দেহ।"
+      },
+      {
+       "who": "Mère",
+       "t": "Bien qu'il soit souvent en retard, pars tôt.",
+       "tr": "byahn keel swah soo-vahn tahn ruh-TAHR pahr TOH · বীয়াঁ কিল্ সোয়া সুভঁত্ অঁ র্যতার্, পার্ তো",
+       "mean": "Although it is often late, leave early. · যদিও প্রায়ই দেরি করে, তবু আগে বেরিয়ো।"
+      },
+      {
+       "who": "Salim",
+       "t": "D'accord. Je suis content que tu me le rappelles.",
+       "tr": "dah-KOR zhuh swee kohn-TAHN kuh tew muh luh rah-PEL · দাকর্। জ়্য সুই কঁতঁ ক্য ত্যু ম্য ল্য রাপেল্",
+       "mean": "All right. I am glad you remind me. · ঠিক আছে। মনে করিয়ে দিলে বলে ভালো হলো।"
+      }
+     ]
     },
     {
      "t": "Il faut que tu sois là avant huit heures.",
@@ -2010,6 +2213,35 @@ LC.units.push({
      "text": "With a body part, French uses {{se}} plus **the** article, not a possessive: {{Je me lave les mains}} — literally *I wash myself the hands*. · শরীরের অংশে possessive নয়, article বসে।"
     },
     {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "À quelle heure tu te lèves d'habitude ?",
+       "tr": "ah kel UHR tew tuh LEV dah-bee-TEWD · আ কেল্ ্যর্ ত্যু ত্য লেভ্ দাবিত্যুদ্",
+       "mean": "What time do you usually get up? · সাধারণত কখন ওঠ?"
+      },
+      {
+       "who": "Salim",
+       "t": "Je me lève à six heures et je me dépêche.",
+       "tr": "zhuh muh LEV ah see ZUHR ay zhuh muh day-PESH · জ়্য ম্য লেভ্ আ সিজ়্ ্যর্ এ জ়্য ম্য দেপেশ্",
+       "mean": "I get up at six and I hurry. · ছটায় উঠি, তারপর তাড়াহুড়ো।"
+      },
+      {
+       "who": "Rima",
+       "t": "Et hier ? Tu t'es levé tôt aussi ?",
+       "tr": "ay YEHR tew teh luh-VAY toh oh-SEE · এ ইয়ের্? ত্যু তে ল্যভে তো অসি",
+       "mean": "And yesterday? Did you get up early too? · আর গতকাল? তখনো আগে উঠেছিলে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Non, je me suis trompé d'heure.",
+       "tr": "nohn zhuh muh swee trohn-PAY DUHR · নঁ, জ়্য ম্য সুই ত্রঁপে দ্যর্",
+       "mean": "No, I got the time wrong. · না, সময় ভুল করেছিলাম।"
+      }
+     ]
+    },
+    {
      "type": "sentence",
      "t": "Je me lève à six heures et je me dépêche.",
      "tr": "zhuh muh lev ah see-ZUHR ay zhuh muh day-PESH · জ়্য ম্য লেভ আ সিজ়্যর এ জ়্য ম্য দেপেশ",
@@ -2246,6 +2478,35 @@ LC.units.push({
      "type": "tip",
      "kind": "culture",
      "text": "In speech, {{on}} very often simply means *we*: {{On y va ?}} — *Shall we go?* It is more common than {{nous}} in conversation. · কথ্য ফরাসিতে on প্রায়ই nous-এর জায়গায় বসে।"
+    },
+    {
+     "type": "dialogue",
+     "lines": [
+      {
+       "who": "Rima",
+       "t": "Si tu as le temps, tu viendras avec nous ?",
+       "tr": "see tew ah luh TAHN tew vyahn-DRAH ah-vek NOO · সি ত্যু আ ল্য তঁ, ত্যু ভীয়াঁদ্রা আভেক্ নু",
+       "mean": "If you have time, will you come with us? · সময় থাকলে আমাদের সঙ্গে আসবে?"
+      },
+      {
+       "who": "Salim",
+       "t": "Si j'avais le temps, je viendrais tout de suite.",
+       "tr": "see zhah-veh luh TAHN zhuh vyahn-DREH too duh SWEET · সি জ়াভে ল্য তঁ, জ়্য ভীয়াঁদ্রে তু দ্য সুইত্",
+       "mean": "If I had time, I would come at once. · সময় থাকলে এখনই আসতাম।"
+      },
+      {
+       "who": "Rima",
+       "t": "On m'a dit que le bureau fermait à cinq heures.",
+       "tr": "ohn mah DEE kuh luh bew-ROH fehr-MEH ah sahn KUHR · ঁ মা দি ক্য ল্য ব্যুরো ফের্মে আ সাঁক্ ্যর্",
+       "mean": "I was told the office closed at five. · শুনেছি অফিস পাঁচটায় বন্ধ হতো।"
+      },
+      {
+       "who": "Salim",
+       "t": "Alors tout sera fini avant six heures.",
+       "tr": "ah-LOR too suh-rah fee-NEE ah-vahn see ZUHR · আলর্ তু স্যরা ফিনি আভঁ সিজ়্ ্যর্",
+       "mean": "Then everything will be finished before six. · তাহলে ছটার আগেই সব শেষ হবে।"
+      }
+     ]
     },
     {
      "type": "sentence",
