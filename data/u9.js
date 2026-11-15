@@ -1800,6 +1800,558 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u9-f3",
+   "icon": "F",
+   "title": "F · fill out → fail to keep a promise · ঙ-বর্গ তৃতীয় অংশ",
+   "subtitle": "Forms, faults and footing the bill · ফরম, দোষ ধরা আর খরচ চালানো",
+   "minutes": 10,
+   "goals": [
+    "Fill in a French form without hesitating · দ্বিধা ছাড়াই ফরাসি ফরম পূরণ করুন",
+    "Learn manquer de parole for breaking a promise · ওয়াদাভঙ্গ বোঝাতে manquer de parole শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**la parole** is the spoken word as a promise. To **manquer de parole** is to be short of your word — a stronger charge in French than *break a promise* sounds in English. · **la parole** মানে দেওয়া কথা; **manquer de parole** মানে কথা না রাখা।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Remplissez tous les formulaires.",
+       "tr": "rahn-plee-SAY too lay for-mew-LEHR · রঁপ্লিসে তু লে ফর্ম্যুলের্",
+       "mean": "Fill out all the forms · সব ফরম পূরণ করুন",
+       "note": "**fill out** — complete in full · সম্পূর্ণ পূরণ করা"
+      },
+      {
+       "t": "Ils trouvaient toujours à se diminuer l'un l'autre.",
+       "tr": "eel troo-VEH too-ZHOOR ah suh dee-mee-NWAY luhn LOHTR · ইল্ ত্রুভে তুজ়ুর্ আ স্য দিমিন্যুয়ে লাঁ লত্র্",
+       "mean": "They were constantly finding fault with one another · তারা প্রায়ই একে অন্যের দোষ ধরত",
+       "note": "**find fault with** — criticise · দোষ ধরা"
+      },
+      {
+       "t": "Découvrez le livre français.",
+       "tr": "day-koo-VRAY luh leevr frahn-SEH · দেকুভ্রে ল্য লিভ্র্ ফ্রঁসে",
+       "mean": "Find out the French book · ফরাসি বইটি খুঁজে বের করুন",
+       "note": "**find out** — discover · খুঁজে বের করা"
+      },
+      {
+       "t": "Cela doit être terminé bientôt, donc ne lambine pas.",
+       "tr": "suh-lah dwah tetr tehr-mee-NAY byahn-TOH dohnk nuh lahn-BEEN PAH · স্যলা দোয়া এত্র্ তের্মিনে বীয়াঁতো, দঁক্ ন্য লঁবিন্ পা",
+       "mean": "It has to be finished shortly, so don't fool around · অল্প সময়ের মধ্যে শেষ করতে হবে, তাই ফাজলামো কোরো না",
+       "note": "**fool around** — waste time · ফাজলামো করা"
+      },
+      {
+       "t": "C'est assez d'argent pour le moment.",
+       "tr": "seh tah-SAY dahr-ZHAHN poor luh moh-MAHN · সেত্ আসে দার্জ়ঁ পুর্ ল্য মমঁ",
+       "mean": "The money is sufficient for the time being · আপাতত এই টাকা যথেষ্ট",
+       "note": "**for the time being** — for now · বর্তমান সময়ের জন্য"
+      },
+      {
+       "t": "Cette fois il est parti tout de bon.",
+       "tr": "set FWAH eel eh pahr-TEE too duh BOHN · সেত্ ফোয়া ইল্ এ পার্তি তু দ্য বঁ",
+       "mean": "This time he left for good · এবার সে একেবারের জন্য চলে গেছে",
+       "note": "**for good** — permanently · চিরতরে"
+      },
+      {
+       "t": "Qui assurera les frais de votre éducation ?",
+       "tr": "kee ah-sew-ruh-RAH lay FREH duh votr ay-dew-kah-SYOHN · কি আস্যুর্যরা লে ফ্রে দ্য ভত্র্ এদ্যুকাসীয়ঁ",
+       "mean": "Who will foot the bill for your education? · তোমার পড়ার খরচ কে চালাবে?",
+       "note": "**foot the bill** — pay the cost · খরচ চালানো"
+      },
+      {
+       "t": "Il ne faut jamais manquer de parole à un enfant.",
+       "tr": "eel nuh foh zhah-MEH mahn-KAY duh pah-ROL ah uhn nahn-FAHN · ইল্ ন্য ফো জ়ামে মঁকে দ্য পারল্ আ আঁন্ অঁফঁ",
+       "mean": "One must never fail to keep a promise to a child · শিশুকে দেওয়া কথা কখনো ভাঙা উচিত নয়",
+       "note": "**fail to keep a promise** — break one's word · ওয়াদাভঙ্গ করা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**les frais** means costs and is always plural. There is no singular *un frai* in this sense. · **les frais** মানে খরচ, এটি সবসময় বহুবচন।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**manquer de parole** means to… · **manquer de parole** মানে…",
+       "options": [
+        "speak too little · কম কথা বলা",
+        "break one's word · কথা না রাখা",
+        "lose one's voice · গলা বসে যাওয়া",
+        "forget a name · নাম ভুলে যাওয়া"
+       ],
+       "answer": 1,
+       "explain": "To be *short of word* · *কথার ঘাটতি* হওয়া।"
+      },
+      {
+       "q": "**les frais** are always… · **les frais** সবসময়…",
+       "options": [
+        "singular · একবচন",
+        "feminine · স্ত্রীবাচক",
+        "plural · বহুবচন",
+        "capitalised · বড় হাতের"
+       ],
+       "answer": 2,
+       "explain": "Costs come in bundles in French · ফরাসিতে খরচ বহুবচনে চলে।"
+      },
+      {
+       "q": "**tout de bon** means… · **tout de bon** মানে…",
+       "options": [
+        "for good · চিরতরে",
+        "for now · আপাতত",
+        "for free · বিনামূল্যে",
+        "for once · একবারের জন্য"
+       ],
+       "answer": 0,
+       "explain": "Not *all the good*, but *once and for all* · একেবারের জন্য।"
+      },
+      {
+       "q": "**lambiner** describes someone who… · **lambiner** মানে যে…",
+       "options": [
+        "works quickly · দ্রুত কাজ করে",
+        "dawdles about · গড়িমসি করে",
+        "complains loudly · জোরে নালিশ করে",
+        "finishes early · আগে শেষ করে"
+       ],
+       "answer": 1,
+       "explain": "To dawdle and waste time · গড়িমসি করে সময় নষ্ট করা।"
+      },
+      {
+       "q": "**pour le moment** marks something… · **pour le moment** বোঝায়…",
+       "options": [
+        "final · চূড়ান্ত",
+        "forgotten · ভুলে যাওয়া",
+        "forbidden · নিষিদ্ধ",
+        "temporary · সাময়িক"
+       ],
+       "answer": 3,
+       "explain": "Only for now · কেবল আপাতত।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-g1",
+   "icon": "G",
+   "title": "G · get about → get on · চ-বর্গ প্রথম অংশ",
+   "subtitle": "The get- family, which French refuses to keep together · get- পরিবার, যা ফরাসি এক রাখে না",
+   "minutes": 10,
+   "goals": [
+    "See one English verb become eight French ones · এক ইংরেজি ক্রিয়া আটটি ফরাসি ক্রিয়ায় ভাগ হয়",
+    "Get on and off trains and buses correctly · ট্রেনে-বাসে ওঠা-নামা ঠিকভাবে বলুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "No English verb scatters further than *get*. Here it becomes **marcher**, **atteindre**, **s'enfuir**, **se venger**, **arriver**, **piger**, **descendre** and **monter** — eight verbs, one word. Learn the pairs; there is no shortcut. · *get*-এর মতো ছড়ানো ক্রিয়া আর নেই — এখানেই আটটি ফরাসি ক্রিয়া।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Il marche un peu avec une canne depuis l'accident.",
+       "tr": "eel marsh uhn PUH ah-vek ewn KAHN duh-pwee lahk-see-DAHN · ইল্ মার্শ আঁ প্য আভেক্ য়ুন্ কান্ দ্যপুই লাক্সিদঁ",
+       "mean": "He gets about with a cane since the accident · দুর্ঘটনার পর থেকে সে লাঠি নিয়ে একটু একটু হাঁটে",
+       "note": "**get about** — move around again · চলাফেরা করা"
+      },
+      {
+       "t": "Le garçon essayait d'atteindre les petits fours.",
+       "tr": "luh gahr-SOHN eh-seh-YEH dah-TAHNDR lay puh-tee FOOR · ল্য গার্সঁ এসেইয়ে দাতাঁদ্র্ লে প্যতি ফুর্",
+       "mean": "The boy was trying to get at the cookies · বালকটি বিস্কুটগুলোর নাগাল পাওয়ার চেষ্টা করছিল",
+       "note": "**get at** — reach · নাগাল পাওয়া"
+      },
+      {
+       "t": "Le voleur d'enfants s'enfuit sans laisser de traces.",
+       "tr": "luh voh-LUHR dahn-FAHN sahn-FWEE sahn leh-SAY duh TRAHS · ল্য ভল্যর্ দঁফঁ সঁফুই সঁ লেসে দ্য ত্রাস্",
+       "mean": "The kidnapper got away without leaving a clue · অপহরণকারী কোনো চিহ্ন না রেখেই পালিয়ে গিয়েছিল",
+       "note": "**get away** — escape · পালিয়ে যাওয়া"
+      },
+      {
+       "t": "Elle a voulu se venger de lui.",
+       "tr": "el ah voo-LEW suh vahn-ZHAY duh LWEE · এল্ আ ভুল্যু স্য ভঁজ়ে দ্য লুই",
+       "mean": "She tried to get back at him · সে তার উপর প্রতিশোধ নিতে চেয়েছিল",
+       "note": "**get back at** — take revenge on · প্রতিশোধ নেওয়া"
+      },
+      {
+       "t": "Elle arrivera par le dernier train.",
+       "tr": "el ah-ree-vuh-RAH pahr luh dehr-nyay TRAHN · এল্ আরিভ্যরা পার্ ল্য দের্নীয়ে ত্রাঁ",
+       "mean": "She will get in on the last train · সে শেষ ট্রেনে এসে পৌঁছবে",
+       "note": "**get in** — arrive · পৌঁছানো"
+      },
+      {
+       "t": "Vous avez pigé ce qu'il a dit ? Oui, j'ai pigé.",
+       "tr": "voo zah-vay pee-ZHAY suh keel ah DEE wee zhay pee-ZHAY · ভুজ়াভে পিজ়ে স্য কিল্ আ দি? উই, জ়ে পিজ়ে",
+       "mean": "Did you get what he said? Yes, I got it · সে যা বলল বুঝেছ? হ্যাঁ, বুঝেছি",
+       "note": "**get it** — understand · বুঝতে পারা"
+      },
+      {
+       "t": "Ils sont descendus du train rapidement.",
+       "tr": "eel sohn day-sahn-DEW dew TRAHN rah-peed-MAHN · ইল্ সঁ দেসঁদ্যু দ্যু ত্রাঁ রাপিদমঁ",
+       "mean": "They got off the train in a hurry · তারা দ্রুত ট্রেন থেকে নেমেছিল",
+       "note": "**get off** — step down from · নামা"
+      },
+      {
+       "t": "Ils sont montés dans l'autobus comme il démarrait.",
+       "tr": "eel sohn mohn-TAY dahn loh-toh-BEWS kom eel day-mah-REH · ইল্ সঁ মঁতে দঁ লোতব্যুস্ কম্ ইল্ দেমারে",
+       "mean": "They got on the bus as it started · বাস ছাড়ার মুহূর্তেই তারা উঠেছিল",
+       "note": "**get on** — board · ওঠা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**monter** and **descendre** take **être** in the past when they mean getting on and off: *ils sont montés*, *ils sont descendus*. With a direct object they switch to **avoir**. · ওঠা-নামার অর্থে **monter** ও **descendre** অতীতে **être** নেয়।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "To board a bus you use… · বাসে উঠতে ব্যবহার করবেন…",
+       "options": [
+        "descendre dans l'autobus",
+        "monter dans l'autobus",
+        "arriver dans l'autobus",
+        "atteindre l'autobus"
+       ],
+       "answer": 1,
+       "explain": "**monter dans** is to get on · **monter dans** মানে ওঠা।"
+      },
+      {
+       "q": "**se venger de** means to… · **se venger de** মানে…",
+       "options": [
+        "get back at · প্রতিশোধ নেওয়া",
+        "get away from · দূরে সরে যাওয়া",
+        "get on with · মিলেমিশে থাকা",
+        "get in touch · যোগাযোগ করা"
+       ],
+       "answer": 0,
+       "explain": "*La vengeance* is revenge · *la vengeance* মানে প্রতিশোধ।"
+      },
+      {
+       "q": "Why do **monter** and **descendre** take être here? · এখানে কেন **être** বসে?",
+       "options": [
+        "they are reflexive · এরা আত্মবাচক",
+        "they are irregular · এরা অনিয়মিত",
+        "they describe movement · এরা গমন বোঝায়",
+        "they are in the plural · এরা বহুবচনে"
+       ],
+       "answer": 2,
+       "explain": "Movement verbs take être with no object · কর্ম না থাকলে গমনের ক্রিয়া être নেয়।"
+      },
+      {
+       "q": "**s'enfuir** describes someone who… · **s'enfuir** মানে যে…",
+       "options": [
+        "arrives early · আগে পৌঁছায়",
+        "waits quietly · চুপচাপ অপেক্ষা করে",
+        "returns home · বাড়ি ফেরে",
+        "runs away · পালিয়ে যায়"
+       ],
+       "answer": 3,
+       "explain": "*Fuir* is to flee · *fuir* মানে পালানো।"
+      },
+      {
+       "q": "**atteindre** means to… · **atteindre** মানে…",
+       "options": [
+        "reach something · নাগাল পাওয়া",
+        "attend a class · ক্লাসে যাওয়া",
+        "attach a thing · জুড়ে দেওয়া",
+        "attempt a task · চেষ্টা করা"
+       ],
+       "answer": 0,
+       "explain": "A false friend: it is not *attend* · ছদ্মবন্ধু — এর মানে *attend* নয়।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-g2",
+   "icon": "G",
+   "title": "G · get out → give out · চ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Getting over, getting rid of and giving in · কাটিয়ে ওঠা, মুক্তি পাওয়া আর হার মানা",
+   "minutes": 10,
+   "goals": [
+    "Use en venir à bout for finishing a hard task · কঠিন কাজ শেষ করা বোঝাতে en venir à bout ব্যবহার করুন",
+    "Learn le bagout, the French gift of the gab · বাকপটুতা বোঝাতে le bagout শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**en venir à bout de** is *to come to the end of* something that resisted you — a lesson, a job, an opponent. It carries effort, which *get through* only hints at. · **en venir à bout de** মানে কষ্ট করে কোনো কিছুর শেষে পৌঁছানো।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Moi, je fiche le camp.",
+       "tr": "mwah zhuh feesh luh KAHN · মোয়া, জ়্য ফিশ্ ল্য কঁ",
+       "mean": "I am getting out · আমি কেটে পড়ছি",
+       "note": "**get out** — leave quickly · বেরিয়ে পড়া"
+      },
+      {
+       "t": "Il reviendra bientôt de son amourette.",
+       "tr": "eel ruh-vyahn-DRAH byahn-TOH duh sohn ah-moo-RET · ইল্ র্যভীয়াঁদ্রা বীয়াঁতো দ্য সন্ আমুরেত্",
+       "mean": "He will soon get over his love affair · সে শিগগিরই তার প্রেমের ব্যাপারটি কাটিয়ে উঠবে",
+       "note": "**get over** — recover from · কাটিয়ে ওঠা"
+      },
+      {
+       "t": "Je veux me défaire de ce vieux pardessus.",
+       "tr": "zhuh vuh muh day-FEHR duh suh vyuh pahr-duh-SEW · জ়্য ভ্য ম্য দেফের্ দ্য স্য ভীয়ো পার্দ্যস্যু",
+       "mean": "I want to get rid of that old coat · আমি পুরোনো কোটটি বিদায় করতে চাই",
+       "note": "**get rid of** — be free of · মুক্তি পাওয়া"
+      },
+      {
+       "t": "J'espère en venir à bout de cette leçon avant midi.",
+       "tr": "zhes-PEHR ahn vuh-NEER ah BOO duh set luh-SOHN ah-vahn mee-DEE · জ়েস্পের্ অঁ ভ্যনির্ আ বু দ্য সেত্ ল্যসঁ আভঁ মিদি",
+       "mean": "I hope to get through with this lesson by noon · আশা করি দুপুরের মধ্যেই পাঠটি শেষ করব",
+       "note": "**get through** — finish · সমাধা করা"
+      },
+      {
+       "t": "On se réunira après les cours.",
+       "tr": "ohn suh ray-ew-nee-RAH ah-preh lay KOOR · ওঁ স্য রেউনিরা আপ্রে লে কুর্",
+       "mean": "We'll get together after school · ক্লাস শেষে আমরা একত্র হব",
+       "note": "**get together** — meet up · একত্র হওয়া"
+      },
+      {
+       "t": "Il peut persuader n'importe qui de n'importe quoi avec son bagout.",
+       "tr": "eel puh pehr-sew-ah-DAY nahn-port KEE duh nahn-port KWAH ah-vek sohn bah-GOO · ইল্ প্য পের্স্যুয়াদে নাঁপর্ত্ কি দ্য নাঁপর্ত্ কোয়া আভেক্ সঁ বাগু",
+       "mean": "He can convince anybody of anything with that gift of the gab · তার বাকপটুতা দিয়ে সে যে কাউকে যেকোনো কিছুতে রাজি করাতে পারে",
+       "note": "**gift of the gab** — fluent persuasive talk · বাকপটুতা"
+      },
+      {
+       "t": "Il s'est soumis à la suite d'une pression prolongée.",
+       "tr": "eel seh soo-MEE ah lah SWEET dewn preh-SYOHN proh-lohn-ZHAY · ইল্ সে সুমি আ লা সুইত্ দ্যুন্ প্রেসীয়ঁ প্রলঁজ়ে",
+       "mean": "He gave in after prolonged pressure · দীর্ঘ চাপের পর সে হার মেনেছিল",
+       "note": "**give in** — yield · আত্মসমর্পণ করা"
+      },
+      {
+       "t": "Les provisions ont manqué tôt dans la journée.",
+       "tr": "lay proh-vee-ZYOHN ohn mahn-KAY TOH dahn lah zhoor-NAY · লে প্রভিজ়ীয়ঁ ওঁ মঁকে তো দঁ লা জ়ুর্নে",
+       "mean": "The food gave out early in the day · দিনের শুরুতেই খাবার ফুরিয়ে গিয়েছিল",
+       "note": "**give out** — run short, be exhausted · ফুরিয়ে যাওয়া"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**ficher le camp** is blunt, close to *clear off*. Keep it for friends; in polite company say **je m'en vais**. · **ficher le camp** বেশ কড়া কথা; ভদ্রভাবে বলুন **je m'en vais**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**en venir à bout de** suggests the task was… · **en venir à bout de** বোঝায় কাজটি ছিল…",
+       "options": [
+        "hard to finish · শেষ করা কঠিন",
+        "quickly done · দ্রুত শেষ",
+        "left undone · অসমাপ্ত",
+        "given to others · অন্যকে দেওয়া"
+       ],
+       "answer": 0,
+       "explain": "*Le bout* is the far end, reached with effort · *le bout* মানে শেষ প্রান্ত।"
+      },
+      {
+       "q": "**manquer** used of supplies means they… · সরবরাহের ক্ষেত্রে **manquer** মানে…",
+       "options": [
+        "arrive late · দেরিতে আসে",
+        "run short · ফুরিয়ে যায়",
+        "are shared out · ভাগ করা হয়",
+        "are stored away · তুলে রাখা হয়"
+       ],
+       "answer": 1,
+       "explain": "To be lacking · ঘাটতি পড়া।"
+      },
+      {
+       "q": "**le bagout** is a gift for… · **le bagout** কিসের দক্ষতা…",
+       "options": [
+        "writing well · ভালো লেখা",
+        "keeping secrets · গোপন রাখা",
+        "smooth talking · চটপটে কথা",
+        "making money · টাকা কামানো"
+       ],
+       "answer": 2,
+       "explain": "The persuasive patter · রাজি করানোর মতো বাক্পটুতা।"
+      },
+      {
+       "q": "**se défaire de** means to… · **se défaire de** মানে…",
+       "options": [
+        "hold on to · ধরে রাখা",
+        "look for · খুঁজে বেড়ানো",
+        "repair again · মেরামত করা",
+        "get rid of · বিদায় করা"
+       ],
+       "answer": 3,
+       "explain": "To undo oneself of a thing · নিজেকে কোনো কিছু থেকে মুক্ত করা।"
+      },
+      {
+       "q": "**ficher le camp** belongs in… · **ficher le camp** কোথায় মানায়…",
+       "options": [
+        "casual speech · চলতি কথায়",
+        "a formal letter · আনুষ্ঠানিক চিঠিতে",
+        "a legal notice · আইনি নোটিশে",
+        "a job interview · চাকরির সাক্ষাৎকারে"
+       ],
+       "answer": 0,
+       "explain": "It is slang, and blunt · এটি কড়া চলতি কথা।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-g3",
+   "icon": "G",
+   "title": "G · give up → go off · চ-বর্গ তৃতীয় অংশ",
+   "subtitle": "Giving up, going easy and going into detail · হাল ছাড়া, নরম হওয়া আর খুঁটিয়ে দেখা",
+   "minutes": 10,
+   "goals": [
+    "Use renoncer à for giving something up · হাল ছাড়া বোঝাতে renoncer à ব্যবহার করুন",
+    "Separate the two senses of go off · go off-এর দুই অর্থ আলাদা করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "*Go off* has two unrelated senses in English — leaving, and turning out well. French keeps them apart with **s'en aller** and **avoir lieu**, which is clearer. · ইংরেজি *go off*-এর দুই আলাদা অর্থ ফরাসিতে দুই ক্রিয়ায় ভাগ হয়ে যায়।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Ils ont renoncé à l'espoir de retrouver l'enfant perdu.",
+       "tr": "eel zohn ruh-nohn-SAY ah les-PWAHR duh ruh-troo-VAY lahn-FAHN pehr-DEW · ইলজ়্ ওঁ র্যনঁসে আ লেস্পোয়ার্ দ্য র্যত্রুভে লঁফঁ পের্দ্যু",
+       "mean": "They gave up hope of finding the lost child · হারানো শিশুটিকে খুঁজে পাওয়ার আশা তারা ছেড়ে দিয়েছিল",
+       "note": "**give up** — abandon · ছেড়ে দেওয়া"
+      },
+      {
+       "t": "Quand Happy recevait le signal de son avocat, elle parlait.",
+       "tr": "kahn ah-PEE ruh-suh-VEH luh see-NYAHL duh sohn ah-voh-KAH el pahr-LEH · কঁ হ্যাপী র্যস্যভে ল্য সিঞাল্ দ্য সন্ আভকা, এল্ পার্লে",
+       "mean": "When Happy got the go-ahead from her lawyer she talked · আইনজীবীর সম্মতি পেলেই হ্যাপী কথা বলত",
+       "note": "**go-ahead** — permission to begin · শুরু করার অনুমতি"
+      },
+      {
+       "t": "Allez-y doucement avec les petits enfants quand il s'agit d'une punition.",
+       "tr": "ah-lay-ZEE doos-MAHN ah-vek lay puh-tee zahn-FAHN kahn teel sah-ZHEE dewn pew-nee-SYOHN · আলেজ়ি দুসমঁ আভেক্ লে প্যতিজ়্ অঁফঁ কঁত্ ইল্ সাজ়ি দ্যুন্ প্যুনিসীয়ঁ",
+       "mean": "Go easy on the small children when it comes to punishment · শাস্তির বেলায় ছোট শিশুদের প্রতি নরম হোন",
+       "note": "**go easy on** — be gentle with · কঠোর না হওয়া"
+      },
+      {
+       "t": "Pretty est allée chercher le curé.",
+       "tr": "pree-tee eh tah-LAY shehr-SHAY luh kew-RAY · প্রীতি এতালে শের্শে ল্য ক্যুরে",
+       "mean": "Pretty has gone for the priest · প্রীতি যাজককে ডাকতে গিয়েছিল",
+       "note": "**go for** — go and fetch · ডাকতে যাওয়া"
+      },
+      {
+       "t": "Le professeur abordera les nuances du livre demain.",
+       "tr": "luh proh-feh-SUHR ah-bor-duh-RAH lay new-AHNS dew leevr duh-MAHN · ল্য প্রফেস্যর্ আবর্দ্যরা লে ন্যুয়ঁস্ দ্যু লিভ্র্ দ্যমাঁ",
+       "mean": "The professor will go into the points of the book tomorrow · অধ্যাপক আগামীকাল বইয়ের খুঁটিনাটি আলোচনা করবেন",
+       "note": "**go into** — examine closely · খুঁটিয়ে দেখা"
+      },
+      {
+       "t": "Elle était contente de s'en aller toute seule.",
+       "tr": "el ay-teh kohn-TAHNT duh sahn nah-LAY toot SUHL · এল্ এতে কঁতঁত্ দ্য সন্ আলে তুত্ সল্",
+       "mean": "She liked to go off by herself · একা একা চলে যেতে সে খুশি হত",
+       "note": "**go off** — leave, set out alone · একা চলে যাওয়া"
+      },
+      {
+       "t": "Le concert a eu lieu comme il était prévu.",
+       "tr": "luh kohn-SEHR ah ew LYUH kom eel ay-teh pray-VEW · ল্য কঁসের্ আ য়ু লীয়ো কম্ ইল্ এতে প্রেভ্যু",
+       "mean": "The concert went off as scheduled · পূর্বনির্ধারিত সময়েই অনুষ্ঠানটি হয়েছিল",
+       "note": "**go off** — take place as planned · ঠিকভাবে সম্পন্ন হওয়া"
+      },
+      {
+       "t": "Il s'agit d'une punition, pas d'une récompense.",
+       "tr": "eel sah-ZHEE dewn pew-nee-SYOHN pah dewn ray-kohn-PAHNS · ইল্ সাজ়ি দ্যুন্ প্যুনিসীয়ঁ, পা দ্যুন্ রেকঁপঁস্",
+       "mean": "It is a matter of punishment, not of reward · ব্যাপারটি শাস্তির, পুরস্কারের নয়",
+       "note": "**it is a matter of** — the fixed phrase il s'agit de · ব্যাপারটি হলো"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**il s'agit de** has no personal subject. Never say *je m'agis*. Build the sentence around **il**, whatever the real topic is. · **il s'agit de**-তে কর্তা সবসময় **il**, অন্য কিছু নয়।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**avoir lieu** means an event… · **avoir lieu** মানে অনুষ্ঠানটি…",
+       "options": [
+        "is cancelled · বাতিল হয়",
+        "takes place · অনুষ্ঠিত হয়",
+        "is delayed · পিছিয়ে যায়",
+        "is repeated · আবার হয়"
+       ],
+       "answer": 1,
+       "explain": "Literally *to have a place* · আক্ষরিক অর্থে *স্থান পাওয়া*।"
+      },
+      {
+       "q": "**renoncer à** is followed by… · **renoncer à**-এর পরে বসে…",
+       "options": [
+        "the thing given up · যা ছাড়া হচ্ছে",
+        "the person blamed · যাকে দোষ দেওয়া হয়",
+        "the time taken · যত সময় লাগে",
+        "the place reached · যেখানে পৌঁছানো হয়"
+       ],
+       "answer": 0,
+       "explain": "*Renoncer à l'espoir* — give up hope · *renoncer à l'espoir* মানে আশা ছাড়া।"
+      },
+      {
+       "q": "**il s'agit de** always takes which subject? · **il s'agit de**-এর কর্তা সবসময়…",
+       "options": [
+        "je",
+        "nous",
+        "il",
+        "on"
+       ],
+       "answer": 2,
+       "explain": "It is impersonal and fixed · এটি অব্যক্তিক ও বাঁধা।"
+      },
+      {
+       "q": "**aborder** a subject means to… · কোনো বিষয় **aborder** মানে…",
+       "options": [
+        "avoid it · এড়িয়ে যাওয়া",
+        "postpone it · পিছিয়ে দেওয়া",
+        "forget it · ভুলে যাওয়া",
+        "take it up · আলোচনায় আনা"
+       ],
+       "answer": 3,
+       "explain": "The same verb brings a boat to shore · একই ক্রিয়া নৌকা তীরে ভেড়ায়।"
+      },
+      {
+       "q": "**doucement** asks someone to act… · **doucement** মানে…",
+       "options": [
+        "gently · নরমভাবে",
+        "quickly · দ্রুত",
+        "loudly · জোরে",
+        "secretly · গোপনে"
+       ],
+       "answer": 0,
+       "explain": "*Doux* is soft · *doux* মানে কোমল।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
