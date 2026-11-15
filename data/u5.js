@@ -27,28 +27,28 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Mark",
+      "Mark · চিহ্ন",
       "French name",
-      "Spacing",
-      "Example"
+      "Spacing · ফাঁক",
+      "Example · উদাহরণ"
      ],
      "rows": [
       [
        ". ,",
        "{{le point, la virgule}}",
-       "no space before",
+       "no space before · আগে ফাঁক নেই",
        "{{Bonjour, Rana.}}"
       ],
       [
        "? !",
        "{{le point d'interrogation}}",
-       "thin space before",
+       "thin space before · আগে সরু ফাঁক",
        "{{Ça va ?}}"
       ],
       [
        ": ;",
        "{{les deux-points}}",
-       "thin space before",
+       "thin space before · আগে সরু ফাঁক",
        "{{Voici la liste :}}"
       ],
       [
@@ -60,7 +60,7 @@ LC.units.push({
       [
        "…",
        "{{les points de suspension}}",
-       "no space before",
+       "no space before · আগে ফাঁক নেই",
        "{{Je ne sais pas…}}"
       ]
      ],
@@ -73,7 +73,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "French quotation marks",
+     "name": "French quotation marks · ফরাসি উদ্ধৃতিচিহ্ন",
      "color": "blue",
      "desc": "French uses **« »**, not English quotes, and puts a space just inside each one. · ফরাসি « » ব্যবহার করে, ভেতরে ফাঁক রেখে।",
      "examples": [
@@ -91,7 +91,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The apostrophe",
+     "name": "The apostrophe · ঊর্ধ্বকমা",
      "color": "green",
      "desc": "It marks a missing vowel and joins the two parts tightly, with no space on either side. · হারিয়ে যাওয়া স্বরের চিহ্ন; দুপাশে ফাঁক নেই।",
      "examples": [
@@ -242,7 +242,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Choosing the opening",
+     "name": "Choosing the opening · সূচনা বাছাই",
      "color": "blue",
      "desc": "Never use the person's first name in a formal letter, and never add their surname after {{Monsieur}}. · আনুষ্ঠানিক চিঠিতে নামের আগে Monsieur-এর পরে পদবি বসে না।",
      "examples": [
@@ -275,7 +275,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The closing formula",
+     "name": "The closing formula · সমাপ্তির বাঁধা বাক্য",
      "color": "purple",
      "desc": "French ends formally with a long sentence that repeats the opening word exactly. · শেষের বাক্যে শুরুর সম্বোধনটি হুবহু ফিরে আসে।",
      "examples": [
@@ -382,16 +382,16 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Purpose",
+      "Purpose · উদ্দেশ্য",
       "Opening sentence"
      ],
      "rows": [
       [
-       "apply for a job",
+       "apply for a job · চাকরির জন্য আবেদন করুন",
        "{{Je me permets de poser ma candidature au poste de…}}"
       ],
       [
-       "reply to an advert",
+       "reply to an advert · বিজ্ঞাপনের উত্তর দিন",
        "{{Suite à votre annonce parue le…, je vous écris pour…}}"
       ],
       [
@@ -399,7 +399,7 @@ LC.units.push({
        "{{Je vous serais reconnaissant de bien vouloir m'informer sur…}}"
       ],
       [
-       "make a booking",
+       "make a booking · বুকিং করুন",
        "{{Je souhaiterais réserver une chambre du… au…}}"
       ],
       [
@@ -608,33 +608,33 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Opening",
+      "Opening · সূচনা",
       "To whom",
-      "Closing",
-      "Warmth"
+      "Closing · সমাপ্তি",
+      "Warmth · আন্তরিকতা"
      ],
      "rows": [
       [
        "{{Cher Rahim,}}",
-       "a male friend",
+       "a male friend · একজন বন্ধু",
        "{{Amicalement,}}",
        "friendly"
       ],
       [
        "{{Chère Shila,}}",
-       "a female friend",
+       "a female friend · একজন বান্ধবী",
        "{{Bien à toi,}}",
        "warm"
       ],
       [
        "{{Mon cher ami,}}",
-       "a close friend",
+       "a close friend · ঘনিষ্ঠ বন্ধু",
        "{{Je t'embrasse,}}",
        "affectionate"
       ],
       [
        "{{Chers tous,}}",
-       "a family",
+       "a family · একটি পরিবার",
        "{{Grosses bises,}}",
        "very informal"
       ]
@@ -674,7 +674,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "tu or vous — and stay there",
+     "name": "tu or vous — and stay there · tu না vous — বেছে নিয়ে সেখানেই থাকুন",
      "color": "orange",
      "desc": "{{tu}} for one friend, child or relative; {{vous}} for a stranger, an older person, anyone senior, and always for more than one person. · একজন বন্ধু বা শিশুকে tu; অপরিচিত, বড় বা একাধিক জনকে vous।",
      "examples": [
@@ -781,9 +781,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Section",
+      "Section · অংশ",
       "French heading",
-      "What goes in it"
+      "What goes in it · এতে কী থাকে"
      ],
      "rows": [
       [
@@ -792,41 +792,41 @@ LC.units.push({
        "name, address, telephone, email"
       ],
       [
-       "Objective",
+       "Objective · লক্ষ্য",
        "{{Objectif professionnel}}",
-       "one line on the post you want"
+       "one line on the post you want · যে পদ চান তার এক লাইন"
       ],
       [
-       "Education",
+       "Education · শিক্ষা",
        "{{Formation}}",
        "degrees, newest first"
       ],
       [
-       "Experience",
+       "Experience · অভিজ্ঞতা",
        "{{Expérience professionnelle}}",
        "jobs, newest first"
       ],
       [
-       "Skills",
+       "Skills · দক্ষতা",
        "{{Compétences}}",
        "software, licences, technical skills"
       ],
       [
-       "Languages",
+       "Languages · ভাষা",
        "{{Langues}}",
-       "with a level for each"
+       "with a level for each · প্রতিটির জন্য একটি স্তর"
       ],
       [
-       "Interests",
+       "Interests · আগ্রহ",
        "{{Centres d'intérêt}}",
-       "two or three lines only"
+       "two or three lines only · কেবল দুই-তিন লাইন"
       ]
      ],
      "title": "The standard sections · প্রচলিত অংশগুলো"
     },
     {
      "type": "rule",
-     "name": "Describing your language level",
+     "name": "Describing your language level · নিজের ভাষাদক্ষতার স্তর জানানো",
      "color": "blue",
      "desc": "Use the European levels or the standard phrases. Vague claims get tested in the interview. · ইউরোপীয় স্তর বা প্রচলিত বাক্যাংশ ব্যবহার করুন।",
      "examples": [
@@ -1003,9 +1003,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Job",
-      "Connectives",
-      "Meaning"
+      "Job · চাকরি",
+      "Connectives · সংযোজক",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
@@ -1021,12 +1021,12 @@ LC.units.push({
       [
        "contrast",
        "{{cependant, néanmoins, en revanche}}",
-       "however, nevertheless, on the other hand"
+       "however, nevertheless, on the other hand · তবুও, অন্যদিকে"
       ],
       [
        "cause",
        "{{car, parce que, en effet}}",
-       "for, because, indeed"
+       "for, because, indeed · কারণ, যেহেতু"
       ],
       [
        "result",
@@ -1036,14 +1036,14 @@ LC.units.push({
       [
        "clarify",
        "{{c'est-à-dire, autrement dit}}",
-       "that is to say, in other words"
+       "that is to say, in other words · অর্থাৎ, অন্যভাবে বললে"
       ]
      ],
      "title": "The working set · কাজের সেটটি"
     },
     {
      "type": "rule",
-     "name": "A few take the subjunctive",
+     "name": "A few take the subjunctive · কয়েকটিতে সম্ভাবনাসূচক বসে",
      "color": "purple",
      "desc": "{{bien que}}, {{quoique}}, {{avant que}} and {{pour que}} all demand the subjunctive you met in Unit 3. · এই সংযোজকগুলোর পরে subjonctif বসে।",
      "examples": [

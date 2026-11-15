@@ -29,38 +29,38 @@ LC.units.push({
      "head": [
       "English idea",
       "French idiom",
-      "Literally"
+      "Literally · আক্ষরিক অর্থে"
      ],
      "rows": [
       [
-       "raining cats and dogs",
+       "raining cats and dogs · মুষলধারে বৃষ্টি",
        "{{il pleut des cordes}}",
-       "it is raining ropes"
+       "it is raining ropes · মুষলধারে বৃষ্টি পড়ছে"
       ],
       [
-       "fed up with",
+       "fed up with · বিরক্ত হয়ে",
        "{{en avoir marre de}}",
-       "to have enough of"
+       "to have enough of · যথেষ্ট হয়ে যাওয়া"
       ],
       [
-       "to get by",
+       "to get by · চালিয়ে নেওয়া",
        "{{se débrouiller}}",
-       "to untangle oneself"
+       "to untangle oneself · নিজেকে সামলে নেওয়া"
       ],
       [
-       "between a rock and a hard place",
+       "between a rock and a hard place · উভয়সংকটে",
        "{{entre le marteau et l'enclume}}",
-       "between hammer and anvil"
+       "between hammer and anvil · হাতুড়ি আর নেহাইয়ের মাঝে"
       ],
       [
-       "it is up to you",
+       "it is up to you · এটা তোমার ইচ্ছা",
        "{{c'est à vous de voir}}",
-       "it is for you to see"
+       "it is for you to see · দেখা তোমার কাজ"
       ],
       [
-       "to keep in touch",
+       "to keep in touch · যোগাযোগ রাখা",
        "{{garder le contact}}",
-       "to keep the contact"
+       "to keep the contact · যোগাযোগ বজায় রাখা"
       ]
      ],
      "title": "Six to start with · শুরুর ছয়টি"
@@ -220,8 +220,8 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "French",
-      "English",
+      "French · ফরাসি",
+      "English · ইংরেজি",
       "Bangla sense"
      ],
      "rows": [
@@ -242,7 +242,7 @@ LC.units.push({
       ],
       [
        "{{Tout ce qui brille n'est pas or.}}",
-       "All that glitters is not gold.",
+       "All that glitters is not gold. · চক্চক করলেই সোনা হয় না।",
        "চকচক করলেই সোনা হয় না"
       ],
       [
@@ -375,9 +375,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Sound",
-      "Words",
-      "Meanings"
+      "Sound · ধ্বনি",
+      "Words · শব্দ",
+      "Meanings · অর্থ"
      ],
      "rows": [
       [
@@ -408,14 +408,14 @@ LC.units.push({
       [
        "mètre",
        "{{le mètre · mettre · le maître}}",
-       "metre · to put · master"
+       "metre · to put · master · মিটার · রাখা · গুরু"
       ]
      ],
      "title": "The classic sets · চিরচেনা সেটগুলো"
     },
     {
      "type": "rule",
-     "name": "Accents that separate meanings",
+     "name": "Accents that separate meanings · যে উচ্চারণচিহ্ন অর্থ আলাদা করে",
      "color": "orange",
      "desc": "Sometimes the only difference between two words is a single accent. The sound may be identical. · কখনো কেবল একটি চিহ্নই দুটি শব্দকে আলাদা করে।",
      "examples": [
@@ -578,9 +578,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "French word",
+      "French word · ফরাসি শব্দ",
       "Looks like",
-      "Actually means"
+      "Actually means · আসলে যা বোঝায়"
      ],
      "rows": [
       [
@@ -591,7 +591,7 @@ LC.units.push({
       [
        "{{éventuellement}}",
        "eventually",
-       "possibly, if need be"
+       "possibly, if need be · সম্ভবত, প্রয়োজনে"
       ],
       [
        "{{la librairie}}",
@@ -605,25 +605,25 @@ LC.units.push({
       ],
       [
        "{{assister à}}",
-       "to assist",
-       "to attend"
+       "to assist · সাহায্য করা",
+       "to attend · উপস্থিত থাকা"
       ],
       [
        "{{demander}}",
-       "to demand",
-       "to ask"
+       "to demand · দাবি করা",
+       "to ask · জিজ্ঞেস করা"
       ],
       [
        "{{rester}}",
-       "to rest",
-       "to stay, to remain"
+       "to rest · বিশ্রাম নেওয়া",
+       "to stay, to remain · থাকা"
       ]
      ],
      "title": "False friends that change your meaning · অর্থ বদলে দেওয়া ছদ্মবন্ধু শব্দ"
     },
     {
      "type": "rule",
-     "name": "Three structures to correct",
+     "name": "Three structures to correct · শোধরানোর মতো তিনটি গঠন",
      "color": "red",
      "desc": "These three appear in nearly every learner's writing. · প্রায় প্রতিটি শিক্ষার্থীর লেখায় এই তিনটি ভুল পাওয়া যায়।",
      "examples": [
@@ -651,7 +651,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "visiter is for places, not people",
+     "name": "visiter is for places, not people · visiter জায়গার জন্য, মানুষের জন্য নয়",
      "color": "orange",
      "desc": "You {{visiter}} a museum but you {{rendre visite à}} a person. · জাদুঘর visiter করা যায়, মানুষকে নয়।",
      "examples": [
@@ -780,30 +780,30 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Short",
-      "Full",
-      "Meaning"
+      "Short · সংক্ষিপ্ত",
+      "Full · পূর্ণ রূপ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
        "{{SVP}}",
        "{{s'il vous plaît}}",
-       "please"
+       "please · অনুগ্রহ করে"
       ],
       [
        "{{TSVP}}",
        "{{tournez s'il vous plaît}}",
-       "please turn over"
+       "please turn over · পাতা উল্টান"
       ],
       [
        "{{RSVP}}",
        "{{répondez s'il vous plaît}}",
-       "please reply"
+       "please reply · অনুগ্রহ করে উত্তর দিন"
       ],
       [
        "{{c.-à-d.}}",
        "{{c'est-à-dire}}",
-       "that is to say"
+       "that is to say · অর্থাৎ"
       ],
       [
        "{{PDG}}",
@@ -830,7 +830,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Titles before a name",
+     "name": "Titles before a name · নামের আগে সম্বোধন",
      "color": "blue",
      "desc": "Written in full they are lower case; abbreviated they take a capital. · পুরো লিখলে ছোট হাতের, সংক্ষেপে বড় হাতের।",
      "examples": [
@@ -864,40 +864,40 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Word in English",
-      "French meaning",
-      "Note"
+      "Word in English · ইংরেজিতে শব্দটি",
+      "French meaning · ফরাসি অর্থ",
+      "Note · টীকা"
      ],
      "rows": [
       [
        "encore",
        "again, still",
-       "French audiences shout {{bis}}, not {{encore}}"
+       "French audiences shout {{bis}}, not {{encore}} · ফরাসি দর্শক {{encore}} নয়, {{bis}} বলে চেঁচায়"
       ],
       [
        "entrée",
        "starter",
-       "in France it is the first course, not the main one"
+       "in France it is the first course, not the main one · ফ্রান্সে এটি প্রথম পদ, প্রধান পদ নয়"
       ],
       [
        "déjà vu",
        "already seen",
-       "same meaning in both"
+       "same meaning in both · দুটিতেই একই অর্থ"
       ],
       [
        "vis-à-vis",
        "facing, regarding",
-       "literally *face to face*"
+       "literally *face to face* · আক্ষরিক অর্থে *মুখোমুখি*"
       ],
       [
        "table d'hôte",
        "set menu",
-       "a fixed-price meal"
+       "a fixed-price meal · বাঁধা দামের খাবার"
       ],
       [
        "cliché",
-       "a printing plate",
-       "the photographic sense came first"
+       "a printing plate · ছাপার প্লেট",
+       "the photographic sense came first · ছবি তোলার অর্থটিই আগে এসেছে"
       ]
      ],
      "title": "French words in English — and what they really mean · ইংরেজিতে ফরাসি শব্দ — আর তাদের আসল অর্থ"
@@ -988,9 +988,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Informal",
-      "Standard",
-      "Formal"
+      "Informal · ঘরোয়া",
+      "Standard · প্রমিত",
+      "Formal · আনুষ্ঠানিক"
      ],
      "rows": [
       [
@@ -1023,7 +1023,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Softening a refusal",
+     "name": "Softening a refusal · প্রত্যাখ্যান নরম করা",
      "color": "green",
      "desc": "A flat {{non}} is rarely used alone. French cushions a refusal with a reason or an apology. · শুধু non বলা হয় না; কারণ বা দুঃখপ্রকাশ যোগ হয়।",
      "examples": [
@@ -1087,11 +1087,11 @@ LC.units.push({
     {
      "type": "selfcheck",
      "items": [
-      "I say {{Bonjour}} before anything else in a shop",
-      "I use {{Je voudrais}} rather than {{Je veux}}",
-      "I never mix {{tu}} and {{vous}} with the same person",
-      "I soften a refusal instead of saying {{non}} alone",
-      "I can move a sentence up or down a register at will"
+      "I say {{Bonjour}} before anything else in a shop · দোকানে ঢুকে সবার আগে {{Bonjour}} বলি",
+      "I use {{Je voudrais}} rather than {{Je veux}} · {{Je veux}} নয়, {{Je voudrais}} ব্যবহার করি",
+      "I never mix {{tu}} and {{vous}} with the same person · একই ব্যক্তির সঙ্গে {{tu}} ও {{vous}} কখনো মেশাই না",
+      "I soften a refusal instead of saying {{non}} alone · শুধু {{non}} না বলে প্রত্যাখ্যান নরম করি",
+      "I can move a sentence up or down a register at will · ইচ্ছেমতো বাক্যের স্তর ওঠাতে-নামাতে পারি"
      ]
     },
     {

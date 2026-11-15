@@ -27,7 +27,7 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Person",
+      "Person · পুরুষ",
       "-er: parler",
       "-ir: finir",
       "-re: vendre"
@@ -79,7 +79,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The -iss- that marks group two",
+     "name": "The -iss- that marks group two · দ্বিতীয় দলের চিহ্ন -iss-",
      "color": "blue",
      "desc": "True second-group verbs insert **-iss-** in the plural. If a verb ends in -ir but has no -iss-, it is irregular. · দ্বিতীয় দলের ক্রিয়া বহুবচনে -iss- নেয়।",
      "examples": [
@@ -231,11 +231,11 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Person",
-      "être (be)",
-      "avoir (have)",
-      "aller (go)",
-      "faire (do)"
+      "Person · পুরুষ",
+      "être (be) · être (হওয়া)",
+      "avoir (have) · avoir (থাকা)",
+      "aller (go) · aller (যাওয়া)",
+      "faire (do) · faire (করা)"
      ],
      "rows": [
       [
@@ -290,7 +290,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "avoir where English says to be",
+     "name": "avoir where English says to be · ইংরেজিতে যেখানে to be, ফরাসিতে avoir",
      "color": "orange",
      "desc": "French uses **avoir** for age, hunger, thirst, fear, cold and heat. Saying {{je suis 28}} is a classic beginner error. · বয়স, খিদে, তৃষ্ণা, ভয়, শীত ও গরম বোঝাতে ফরাসি avoir ব্যবহার করে।",
      "examples": [
@@ -318,7 +318,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "faire for weather and activities",
+     "name": "faire for weather and activities · আবহাওয়া ও কাজকর্মে faire",
      "color": "green",
      "desc": "{{faire}} covers the weather and most sports and chores. · আবহাওয়া ও অধিকাংশ কাজকর্মে faire বসে।",
      "examples": [
@@ -467,10 +467,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Infinitive ending",
-      "Participle ending",
-      "Example",
-      "Meaning"
+      "Infinitive ending · ক্রিয়ামূলের শেষাংশ",
+      "Participle ending · কৃদন্তের শেষাংশ",
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
@@ -480,7 +480,7 @@ LC.units.push({
        "spoken"
       ],
       [
-       "-ir (group 2)",
+       "-ir (group 2) · -ir (দ্বিতীয় দল)",
        "-i",
        "{{finir → fini}}",
        "finished"
@@ -496,7 +496,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Most verbs take avoir",
+     "name": "Most verbs take avoir · বেশির ভাগ ক্রিয়া avoir নেয়",
      "color": "blue",
      "desc": "The default helper is {{avoir}}. The participle does **not** change for the subject. · সাধারণ সহায়ক avoir; participle কর্তার সঙ্গে বদলায় না।",
      "examples": [
@@ -519,7 +519,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Movement verbs take être",
+     "name": "Movement verbs take être · গমনের ক্রিয়া être নেয়",
      "color": "red",
      "desc": "About fourteen verbs of coming and going use {{être}} — and then the participle **agrees** with the subject like an adjective. · যাতায়াতের প্রায় চোদ্দটি ক্রিয়া être নেয়, আর তখন participle কর্তার সঙ্গে মেলে।",
      "examples": [
@@ -552,7 +552,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Irregular participles worth memorising",
+     "name": "Irregular participles worth memorising · মুখস্থ রাখার মতো অনিয়মিত কৃদন্ত",
      "color": "purple",
      "desc": "The commonest verbs have participles you simply have to know. · সবচেয়ে ব্যবহৃত ক্রিয়ার participle মুখস্থ করতে হয়।",
      "examples": [
@@ -704,7 +704,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "One stem, no exceptions but être",
+     "name": "One stem, no exceptions but être · এক ধাতু, être ছাড়া ব্যতিক্রম নেই",
      "color": "green",
      "desc": "Take the **nous** form of the present, drop **-ons**, add the endings. Only {{être}} breaks this, using the stem **ét-**. · nous রূপ থেকে -ons বাদ দিন, তারপর শেষাংশ যোগ করুন।",
      "examples": [
@@ -733,8 +733,8 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Person",
-      "Ending",
+      "Person · পুরুষ",
+      "Ending · শেষাংশ",
       "parler",
       "être"
      ],
@@ -806,7 +806,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "When to choose the imparfait",
+     "name": "When to choose the imparfait · কখন অসমাপিকা অতীত বাছবেন",
      "color": "blue",
      "desc": "Use it for habits, descriptions, ages, weather, feelings and time of day in the past. · অভ্যাস, বর্ণনা, বয়স, আবহাওয়া ও অনুভূতির জন্য imparfait।",
      "examples": [
@@ -952,7 +952,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Futur proche: aller + infinitive",
+     "name": "Futur proche: aller + infinitive · নিকট ভবিষ্যৎ: aller + ক্রিয়ামূল",
      "color": "green",
      "desc": "Exactly like English *going to*. Conjugate {{aller}}, then add the plain infinitive. · ইংরেজি going to-এর মতো।",
      "examples": [
@@ -975,7 +975,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Futur simple: infinitive + endings",
+     "name": "Futur simple: infinitive + endings · সরল ভবিষ্যৎ: ক্রিয়ামূল + শেষাংশ",
      "color": "blue",
      "desc": "Add **-ai, -as, -a, -ons, -ez, -ont** straight onto the infinitive. For -re verbs, drop the final e first. · infinitive-এর সঙ্গে শেষাংশ যোগ করুন।",
      "examples": [
@@ -1004,17 +1004,17 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Verb",
+      "Verb · ক্রিয়া",
       "Future stem",
-      "Example",
-      "Meaning"
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
        "{{être}}",
        "ser-",
        "{{je serai}}",
-       "I shall be"
+       "I shall be · আমি হব"
       ],
       [
        "{{avoir}}",
@@ -1044,7 +1044,7 @@ LC.units.push({
        "{{pouvoir}}",
        "pourr-",
        "{{je pourrai}}",
-       "I shall be able"
+       "I shall be able · আমি পারব"
       ],
       [
        "{{vouloir}}",
@@ -1146,7 +1146,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Future stem + imparfait endings",
+     "name": "Future stem + imparfait endings · ভবিষ্যৎ ধাতু + অসমাপিকা অতীতের শেষাংশ",
      "color": "blue",
      "desc": "If you know the future, you already know the conditional. · ভবিষ্যৎ জানলে conditionnel আপনার জানা।",
      "examples": [
@@ -1174,7 +1174,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Politeness, the French way",
+     "name": "Politeness, the French way · ভদ্রতা, ফরাসি রীতিতে",
      "color": "green",
      "desc": "A request in the present sounds blunt. The conditional turns an order into an offer. · বর্তমান কালে অনুরোধ রূক্ষ শোনায়; conditionnel তাকে ভদ্র করে।",
      "examples": [
@@ -1306,7 +1306,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Building it",
+     "name": "Building it · এটি গড়া",
      "color": "blue",
      "desc": "Take the **ils** form of the present, drop **-ent**, add **-e, -es, -e, -ions, -iez, -ent**. · ils রূপ থেকে -ent বাদ দিয়ে নতুন শেষাংশ যোগ করুন।",
      "examples": [
@@ -1330,10 +1330,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Verb",
-      "Subjunctive",
-      "Verb",
-      "Subjunctive"
+      "Verb · ক্রিয়া",
+      "Subjunctive · সম্ভাবনাসূচক",
+      "Verb · ক্রিয়া",
+      "Subjunctive · সম্ভাবনাসূচক"
      ],
      "rows": [
       [
@@ -1365,7 +1365,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "What triggers it",
+     "name": "What triggers it · কী এটি ডেকে আনে",
      "color": "purple",
      "desc": "Necessity, wish, emotion and doubt. Learn the trigger phrases, not the theory. · প্রয়োজন, ইচ্ছা, আবেগ ও সন্দেহ। নিয়ম নয়, সূচক বাক্যাংশ শিখুন।",
      "examples": [
@@ -1509,10 +1509,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Person",
-      "Pronoun",
-      "se lever (get up)",
-      "Meaning"
+      "Person · পুরুষ",
+      "Pronoun · সর্বনাম",
+      "se lever (get up) · se lever (ওঠা)",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
@@ -1525,7 +1525,7 @@ LC.units.push({
        "tu",
        "{{te}}",
        "{{tu te lèves}}",
-       "you get up"
+       "you get up · তুমি ওঠো"
       ],
       [
        "il / elle",
@@ -1543,7 +1543,7 @@ LC.units.push({
        "vous",
        "{{vous}}",
        "{{vous vous levez}}",
-       "you get up"
+       "you get up · তুমি ওঠো"
       ],
       [
        "ils / elles",
@@ -1586,7 +1586,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "In the past, always être",
+     "name": "In the past, always être · অতীতে সবসময় être",
      "color": "red",
      "desc": "Every reflexive verb takes {{être}} in the passé composé, and the participle usually agrees with the subject. · সব reflexive ক্রিয়া অতীতে être নেয়।",
      "examples": [
@@ -1609,7 +1609,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Some verbs change meaning",
+     "name": "Some verbs change meaning · কিছু ক্রিয়ার অর্থ বদলায়",
      "color": "orange",
      "desc": "Adding the reflexive pronoun can shift the sense completely. · reflexive হলে কিছু ক্রিয়ার অর্থ বদলে যায়।",
      "examples": [
@@ -1770,28 +1770,28 @@ LC.units.push({
      "type": "table",
      "head": [
       "After si",
-      "In the other half",
-      "Example",
-      "Meaning"
+      "In the other half · অন্য অর্ধে",
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
        "présent",
        "futur",
        "{{Si tu cherches, tu trouveras.}}",
-       "If you look, you will find."
+       "If you look, you will find. · খুঁজলে পাবে।"
       ],
       [
        "imparfait",
        "conditionnel",
        "{{Si j'avais le temps, je viendrais.}}",
-       "If I had time, I would come."
+       "If I had time, I would come. · সময় থাকলে আসতাম।"
       ],
       [
        "plus-que-parfait",
        "conditionnel passé",
        "{{Si j'avais su, je vous l'aurais dit.}}",
-       "If I had known, I would have told you."
+       "If I had known, I would have told you. · জানলে তোমাকে বলতাম।"
       ]
      ],
      "title": "The three patterns · তিনটি ছাঁচ"
@@ -1803,7 +1803,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The passive",
+     "name": "The passive · কর্মবাচ্য",
      "color": "blue",
      "desc": "Built with {{être}} plus the past participle, which **agrees** with the subject. The doer follows {{par}}. · être + past participle, আর participle কর্তার সঙ্গে মেলে।",
      "examples": [
@@ -1826,7 +1826,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "on is the French shortcut",
+     "name": "on is the French shortcut · on হলো ফরাসি সংক্ষিপ্ত পথ",
      "color": "green",
      "desc": "Where English reaches for the passive, French often uses **on** with an active verb. It is shorter and far more natural. · ইংরেজি passive ব্যবহার করলেও ফরাসি প্রায়ই on দিয়ে active বাক্য বানায়।",
      "examples": [

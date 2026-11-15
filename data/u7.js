@@ -137,7 +137,7 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Tense",
+      "Tense · কাল",
       "être",
       "avoir"
      ],
@@ -251,9 +251,9 @@ LC.units.push({
      "type": "table",
      "head": [
       "",
-      "parler (-er)",
-      "finir (-ir)",
-      "vendre (-re)"
+      "parler (-er) · parler (-er দল)",
+      "finir (-ir) · finir (-ir দল)",
+      "vendre (-re) · vendre (-re দল)"
      ],
      "rows": [
       [
@@ -298,38 +298,38 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Tense",
+      "Tense · কাল",
       "parler",
       "finir",
       "vendre"
      ],
      "rows": [
       [
-       "Imparfait (je)",
+       "Imparfait (je) · অসমাপিকা অতীত (je)",
        "{{parlais}}",
        "{{finissais}}",
        "{{vendais}}"
       ],
       [
-       "Futur (je)",
+       "Futur (je) · ভবিষ্যৎ (je)",
        "{{parlerai}}",
        "{{finirai}}",
        "{{vendrai}}"
       ],
       [
-       "Conditionnel (je)",
+       "Conditionnel (je) · শর্তবাচক (je)",
        "{{parlerais}}",
        "{{finirais}}",
        "{{vendrais}}"
       ],
       [
-       "Passé composé (j')",
+       "Passé composé (j') · যৌগিক অতীত (j')",
        "{{ai parlé}}",
        "{{ai fini}}",
        "{{ai vendu}}"
       ],
       [
-       "Subjonctif (que je)",
+       "Subjonctif (que je) · সম্ভাবনাসূচক (que je)",
        "{{parle}}",
        "{{finisse}}",
        "{{vende}}"
@@ -350,7 +350,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Small spelling shifts in -er verbs",
+     "name": "Small spelling shifts in -er verbs · -er ক্রিয়ায় ছোট বানান-বদল",
      "color": "orange",
      "desc": "A few -er verbs adjust their spelling to keep the sound. · ধ্বনি ঠিক রাখতে কিছু -er ক্রিয়ার বানান সামান্য বদলায়।",
      "examples": [
@@ -542,16 +542,16 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Verb",
-      "Futur (je)",
+      "Verb · ক্রিয়া",
+      "Futur (je) · ভবিষ্যৎ (je)",
       "Participe passé",
-      "Subjonctif (que je)"
+      "Subjonctif (que je) · সম্ভাবনাসূচক (que je)"
      ],
      "rows": [
       [
        "{{aller}}",
        "{{irai}}",
-       "{{allé}} (être)",
+       "{{allé}} (être) · {{allé}} (être নেয়)",
        "{{aille}}"
       ],
       [
@@ -569,7 +569,7 @@ LC.units.push({
       [
        "{{venir}}",
        "{{viendrai}}",
-       "{{venu}} (être)",
+       "{{venu}} (être) · {{venu}} (être নেয়)",
        "{{vienne}}"
       ],
       [
@@ -733,10 +733,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Verb",
-      "Futur (je)",
+      "Verb · ক্রিয়া",
+      "Futur (je) · ভবিষ্যৎ (je)",
       "Participe passé",
-      "Subjonctif (que je)"
+      "Subjonctif (que je) · সম্ভাবনাসূচক (que je)"
      ],
      "rows": [
       [
@@ -979,10 +979,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Verb",
-      "Futur (je)",
+      "Verb · ক্রিয়া",
+      "Futur (je) · ভবিষ্যৎ (je)",
       "Participe passé",
-      "Helper"
+      "Helper · সহায়ক ক্রিয়া"
      ],
      "rows": [
       [
@@ -1121,10 +1121,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Verb",
-      "Participle",
-      "Verb",
-      "Participle"
+      "Verb · ক্রিয়া",
+      "Participle · কৃদন্ত",
+      "Verb · ক্রিয়া",
+      "Participle · কৃদন্ত"
      ],
      "rows": [
       [
@@ -1198,7 +1198,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The être verbs",
+     "name": "The être verbs · être নেয় যে ক্রিয়াগুলো",
      "color": "red",
      "desc": "These take {{être}}, and their participle agrees with the subject. Every reflexive verb joins them. · এরা être নেয় এবং participle কর্তার সঙ্গে মেলে।",
      "examples": [
@@ -1221,7 +1221,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Three agreement rules",
+     "name": "Three agreement rules · সমতার তিন নিয়ম",
      "color": "purple",
      "desc": "Learn them in this order and you will never guess. · এই তিনটি নিয়ম ক্রমানুসারে শিখুন।",
      "examples": [
@@ -1245,10 +1245,10 @@ LC.units.push({
     {
      "type": "selfcheck",
      "items": [
-      "I can give the participle of the twenty verbs above without looking",
-      "I know which verbs take {{être}}",
-      "I make the participle agree after {{être}}",
-      "I agree after {{avoir}} only when the object comes first"
+      "I can give the participle of the twenty verbs above without looking · উপরের কুড়িটি ক্রিয়ার কৃদন্ত না দেখে বলতে পারি",
+      "I know which verbs take {{être}} · কোন ক্রিয়া {{être}} নেয় তা জানি",
+      "I make the participle agree after {{être}} · {{être}}-এর পরে কৃদন্তে সমতা আনি",
+      "I agree after {{avoir}} only when the object comes first · কর্ম আগে বসলে তবেই {{avoir}}-এর পরে সমতা করি"
      ]
     },
     {
@@ -1334,7 +1334,7 @@ LC.units.push({
      "head": [
       "Male names",
       "Female names",
-      "Surnames"
+      "Surnames · পদবি"
      ],
      "rows": [
       [
@@ -1363,10 +1363,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Spoken",
+      "Spoken · কথ্য",
       "Written short",
-      "Plural",
-      "Use for"
+      "Plural · বহুবচন",
+      "Use for · যে কাজে লাগে"
      ],
      "rows": [
       [
@@ -1385,13 +1385,13 @@ LC.units.push({
        "{{docteur}}",
        "{{Dr}}",
        "{{Drs}}",
-       "a doctor"
+       "a doctor · একজন ডাক্তার"
       ],
       [
        "{{maître}}",
        "{{Me}}",
        "{{Mes}}",
-       "a lawyer or notary"
+       "a lawyer or notary · আইনজীবী বা দলিল-লেখক"
       ]
      ],
      "title": "Titles · সম্বোধন ও পদবি"

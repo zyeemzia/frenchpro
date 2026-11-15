@@ -27,10 +27,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Masculine endings",
-      "Example",
-      "Feminine endings",
-      "Example"
+      "Masculine endings · পুংবাচক শেষাংশ",
+      "Example · উদাহরণ",
+      "Feminine endings · স্ত্রীবাচক শেষাংশ",
+      "Example · উদাহরণ"
      ],
      "rows": [
       [
@@ -64,9 +64,9 @@ LC.units.push({
        "{{la patience}}"
       ],
       [
-       "-eur (things)",
+       "-eur (things) · -eur (বস্তুবাচক)",
        "{{le bonheur}}",
-       "-eur (qualities)",
+       "-eur (qualities) · -eur (গুণবাচক)",
        "{{la couleur}}"
       ]
      ],
@@ -79,7 +79,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Same word, two genders, two meanings",
+     "name": "Same word, two genders, two meanings · একই শব্দ, দুই লিঙ্গ, দুই অর্থ",
      "color": "orange",
      "desc": "A small group of nouns changes meaning with the article. These are examiner favourites. · কিছু শব্দ article বদলালে অর্থও বদলায়।",
      "examples": [
@@ -107,7 +107,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Making a feminine job title",
+     "name": "Making a feminine job title · স্ত্রীবাচক পদনাম গড়া",
      "color": "blue",
      "desc": "Modern French feminises most professions. The pattern follows the masculine ending. · আধুনিক ফরাসি অধিকাংশ পেশার স্ত্রীলিঙ্গ রূপ তৈরি করে।",
      "examples": [
@@ -254,10 +254,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Ending",
-      "Becomes",
-      "Example",
-      "Plural"
+      "Ending · শেষাংশ",
+      "Becomes · হয়ে যায়",
+      "Example · উদাহরণ",
+      "Plural · বহুবচন"
      ],
      "rows": [
       [
@@ -279,14 +279,14 @@ LC.units.push({
        "{{les journaux}}"
       ],
       [
-       "-ail (7 words)",
+       "-ail (7 words) · -ail (৭টি শব্দ)",
        "-aux",
        "{{le travail}}",
        "{{les travaux}}"
       ],
       [
        "-s, -x, -z",
-       "no change",
+       "no change · কোনো বদল নেই",
        "{{le fils}}",
        "{{les fils}}"
       ]
@@ -300,7 +300,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The -al escapees",
+     "name": "The -al escapees · -al-এর পলাতকগুলো",
      "color": "red",
      "desc": "Not every -al becomes -aux. A short list keeps a plain s. · সব -al শব্দ -aux হয় না।",
      "examples": [
@@ -444,33 +444,33 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Type",
-      "Masculine",
-      "Feminine",
-      "Plural",
-      "Use it for"
+      "Type · ধরন",
+      "Masculine · পুংবাচক",
+      "Feminine · স্ত্রীবাচক",
+      "Plural · বহুবচন",
+      "Use it for · যে কাজে লাগান"
      ],
      "rows": [
       [
-       "Definite",
+       "Definite · নির্দিষ্ট",
        "{{le}}",
        "{{la}}",
        "{{les}}",
-       "a known thing, or a whole category"
+       "a known thing, or a whole category · জানা কোনো বস্তু, বা গোটা শ্রেণি"
       ],
       [
-       "Indefinite",
+       "Indefinite · অনির্দিষ্ট",
        "{{un}}",
        "{{une}}",
        "{{des}}",
-       "one countable thing, or some"
+       "one countable thing, or some · একটি গণনাযোগ্য বস্তু, বা কিছু"
       ],
       [
-       "Partitive",
+       "Partitive · আংশিক পদাশ্রয়",
        "{{du}}",
        "{{de la}}",
        "{{des}}",
-       "an uncounted amount: some, any"
+       "an uncounted amount: some, any · অগণিত পরিমাণ: কিছু, খানিকটা"
       ]
      ],
      "title": "The three families · তিনটি শব্দপরিবার"
@@ -501,7 +501,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "After a negative, everything becomes de",
+     "name": "After a negative, everything becomes de · নঞর্থকের পরে সবই de হয়ে যায়",
      "color": "red",
      "desc": "{{un, une, des, du, de la}} all collapse to **de** or **d'** after a negative verb. The definite article does **not** change. · না-বাচক ক্রিয়ার পরে সব article হয়ে যায় de।",
      "examples": [
@@ -524,7 +524,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Quantities take de too",
+     "name": "Quantities take de too · পরিমাণেও de বসে",
      "color": "green",
      "desc": "After a word of quantity, use plain **de** with no article. · পরিমাণবাচক শব্দের পরে কেবল de বসে।",
      "examples": [
@@ -557,7 +557,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "des becomes de before an early adjective",
+     "name": "des becomes de before an early adjective · বিশেষণ আগে বসলে des হয়ে যায় de",
      "color": "purple",
      "desc": "When an adjective comes **before** a plural noun, {{des}} shortens to {{de}}. · বহুবচন নামের আগে বিশেষণ থাকলে des হয়ে যায় de।",
      "examples": [
@@ -761,7 +761,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "In and to a place",
+     "name": "In and to a place · কোনো জায়গায় ও সেখানে",
      "color": "blue",
      "desc": "The word depends on whether the place is a city, a feminine country, a masculine country or a plural one. · শব্দটি নির্ভর করে জায়গাটি শহর না দেশ, এবং দেশটির লিঙ্গের উপর।",
      "examples": [
@@ -794,7 +794,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "From a place",
+     "name": "From a place · কোনো জায়গা থেকে",
      "color": "green",
      "desc": "To say *from*, feminine countries take bare **de**; masculine ones take **du**; plurals take **des**. · কোথা থেকে বোঝাতে স্ত্রীলিঙ্গ দেশে de, পুংলিঙ্গে du, বহুবচনে des।",
      "examples": [
@@ -941,10 +941,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Masculine ending",
-      "Feminine",
-      "Example",
-      "Meaning"
+      "Masculine ending · পুংবাচক শেষাংশ",
+      "Feminine · স্ত্রীবাচক",
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
@@ -982,7 +982,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The ones that go first",
+     "name": "The ones that go first · যেগুলো আগে বসে",
      "color": "blue",
      "desc": "Short adjectives of **beauty, age, goodness and size** come before the noun. · সৌন্দর্য, বয়স, গুণ ও আকার বোঝানো ছোট বিশেষণ নামের আগে বসে।",
      "examples": [
@@ -1015,7 +1015,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Before a vowel, three adjectives change shape",
+     "name": "Before a vowel, three adjectives change shape · স্বরধ্বনির আগে তিনটি বিশেষণ রূপ বদলায়",
      "color": "orange",
      "desc": "{{beau, nouveau, vieux}} become {{bel, nouvel, vieil}} before a masculine noun starting with a vowel or mute h. · স্বর বা mute h-এর আগে এই তিনটি রূপ বদলায়।",
      "examples": [
@@ -1065,9 +1065,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Adjective",
-      "Before the noun",
-      "After the noun"
+      "Adjective · বিশেষণ",
+      "Before the noun · বিশেষ্যের আগে",
+      "After the noun · বিশেষ্যের পরে"
      ],
      "rows": [
       [
@@ -1194,7 +1194,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The three comparatives",
+     "name": "The three comparatives · তিনটি তুলনাবাচক রূপ",
      "color": "green",
      "desc": "Put {{plus}}, {{moins}} or {{aussi}} before the adjective, and {{que}} after it. · বিশেষণের আগে plus, moins বা aussi, পরে que।",
      "examples": [
@@ -1217,7 +1217,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Two irregulars you must know",
+     "name": "Two irregulars you must know · জানতেই হবে এমন দুটি অনিয়মিত ক্রিয়া",
      "color": "red",
      "desc": "{{bon}} (adjective) becomes {{meilleur}}; {{bien}} (adverb) becomes {{mieux}}. Never say *plus bon* or *plus bien*. · bon হয় meilleur, bien হয় mieux।",
      "examples": [
@@ -1245,7 +1245,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The superlative",
+     "name": "The superlative · অতিশয়ার্থ",
      "color": "purple",
      "desc": "Add the definite article: {{le plus}}, {{la plus}}, {{les plus}}. For *in* or *of* after a superlative, French uses **de**. · superlative-এ article যোগ হয়; পরে de বসে।",
      "examples": [
@@ -1393,9 +1393,9 @@ LC.units.push({
      "type": "table",
      "head": [
       "",
-      "Direct",
-      "Indirect",
-      "Example"
+      "Direct · প্রত্যক্ষ",
+      "Indirect · পরোক্ষ",
+      "Example · উদাহরণ"
      ],
      "rows": [
       [
@@ -1405,13 +1405,13 @@ LC.units.push({
        "{{Il me voit.}}"
       ],
       [
-       "you",
+       "you · তুমি",
        "{{te}}",
        "{{te}}",
        "{{Je te parle.}}"
       ],
       [
-       "him/her/it",
+       "him/her/it · তাকে",
        "{{le / la}}",
        "{{lui}}",
        "{{Je lui donne.}}"
@@ -1423,7 +1423,7 @@ LC.units.push({
        "{{Elle nous aide.}}"
       ],
       [
-       "you (pl.)",
+       "you (pl.) · তোমরা",
        "{{vous}}",
        "{{vous}}",
        "{{Je vous écoute.}}"
@@ -1444,7 +1444,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "en replaces de + thing",
+     "name": "en replaces de + thing · en বসে de + বস্তুর বদলে",
      "color": "blue",
      "desc": "{{en}} stands for *some of it*, *of them*, *from there* — anything introduced by **de** or a quantity. · en মানে তার কিছু, সেখান থেকে।",
      "examples": [
@@ -1467,7 +1467,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "y replaces à + place or thing",
+     "name": "y replaces à + place or thing · y বসে à + স্থান বা বস্তুর বদলে",
      "color": "green",
      "desc": "{{y}} stands for *there*, or *to it / about it* when the verb takes **à**. · y মানে সেখানে, কিংবা তাতে।",
      "examples": [
@@ -1490,7 +1490,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "When two pronouns meet",
+     "name": "When two pronouns meet · দুটি সর্বনাম একসঙ্গে এলে",
      "color": "purple",
      "desc": "The order is fixed: **me/te/se/nous/vous → le/la/les → lui/leur → y → en**. · দুটি pronoun একসঙ্গে এলে ক্রম নির্দিষ্ট।",
      "examples": [
@@ -1632,7 +1632,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "qui is the subject, que is the object",
+     "name": "qui is the subject, que is the object · qui কর্তা, que কর্ম",
      "color": "blue",
      "desc": "If a **verb** follows directly, use {{qui}}. If a **subject** follows, use {{que}}. · সঙ্গে সঙ্গে ক্রিয়া এলে qui; কর্তা এলে que।",
      "examples": [
@@ -1655,7 +1655,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "dont carries de",
+     "name": "dont carries de · dont-এর ভেতরেই de আছে",
      "color": "orange",
      "desc": "When the original sentence needed **de**, the joining word is {{dont}} — *whose, of which, about which*. · মূল বাক্যে de লাগলে জোড়া দেওয়ার শব্দ হবে dont।",
      "examples": [
@@ -1678,7 +1678,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "où covers place and time",
+     "name": "où covers place and time · où স্থান ও কাল দুই-ই বোঝায়",
      "color": "green",
      "desc": "{{où}} means *where*, and also *when* after a word of time. · où মানে কোথায়, আবার সময়ের পরে কখন।",
      "examples": [
@@ -1702,33 +1702,33 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Pointing word",
-      "Used before",
-      "Example",
-      "Meaning"
+      "Pointing word · নির্দেশক শব্দ",
+      "Used before · যার আগে বসে",
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
        "{{ce}}",
-       "masculine noun",
+       "masculine noun · পুংবাচক বিশেষ্য",
        "{{ce livre}}",
        "this book"
       ],
       [
        "{{cet}}",
-       "masculine + vowel",
+       "masculine + vowel · পুংবাচক + স্বরধ্বনি",
        "{{cet homme}}",
        "this man"
       ],
       [
        "{{cette}}",
-       "feminine noun",
+       "feminine noun · স্ত্রীবাচক বিশেষ্য",
        "{{cette maison}}",
        "this house"
       ],
       [
        "{{ces}}",
-       "any plural",
+       "any plural · যেকোনো বহুবচন",
        "{{ces enfants}}",
        "these children"
       ]

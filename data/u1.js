@@ -31,7 +31,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Four nasals, many spellings",
+     "name": "Four nasals, many spellings · চারটি নাসিক্য ধ্বনি, বহু বানান",
      "color": "purple",
      "desc": "French has four nasal vowels, but each can be written several ways. Learn the spellings, not the letters. · চারটি নাসিক্য স্বর, কিন্তু প্রতিটির একাধিক বানান।",
      "examples": [
@@ -60,35 +60,35 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Nasal",
-      "Spellings",
-      "Example",
-      "Meaning"
+      "Nasal · নাসিক্য",
+      "Spellings · বানান",
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
        "ɑ̃",
        "an, am, en, em",
        "{{dans le temps}}",
-       "in the past"
+       "in the past · অতীতে"
       ],
       [
        "ɔ̃",
        "on, om",
        "{{un bon nom}}",
-       "a good name"
+       "a good name · সুনাম"
       ],
       [
        "ɛ̃",
        "in, im, ain, ein, yn",
        "{{le pain plein}}",
-       "the full loaf"
+       "the full loaf · গোটা রুটি"
       ],
       [
        "œ̃",
        "un, um",
        "{{un parfum brun}}",
-       "a brown perfume"
+       "a brown perfume · বাদামি সুগন্ধি"
       ]
      ],
      "title": "The whole system on one page · এক পাতায় পুরো ব্যবস্থা"
@@ -168,7 +168,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "When the nasal breaks",
+     "name": "When the nasal breaks · কখন নাসিক্য ভাঙে",
      "color": "red",
      "desc": "If the n or m is **doubled**, or followed by a **vowel**, there is no nasal at all. The vowel goes back to normal and the consonant is pronounced. · n বা m দ্বিগুণ হলে, কিংবা তার পরে স্বর থাকলে নাসিক্যতা ভেঙে যায়।",
      "how": "Compare the pairs below carefully. · নিচের জোড়াগুলো মন দিয়ে মিলিয়ে দেখুন।",
@@ -318,7 +318,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Final consonants are usually silent",
+     "name": "Final consonants are usually silent · শেষ ব্যঞ্জন সাধারণত নীরব",
      "color": "blue",
      "desc": "At the end of a word, most consonants are not pronounced — especially **s, t, d, x, z, p, g**. · শব্দের শেষে অধিকাংশ ব্যঞ্জন উচ্চারিত হয় না।",
      "examples": [
@@ -387,22 +387,22 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Written",
-      "Said",
-      "Meaning",
-      "What is dropped"
+      "Written · লেখা",
+      "Said · উচ্চারণ",
+      "Meaning · অর্থ",
+      "What is dropped · কী বাদ পড়ে"
      ],
      "rows": [
       [
        "{{beaucoup}}",
        "boh-KOO · বোকু",
-       "a lot",
+       "a lot · অনেক",
        "final p"
       ],
       [
        "{{le nez}}",
        "luh NAY · ল্য নে",
-       "the nose",
+       "the nose · নাক",
        "final z"
       ],
       [
@@ -414,21 +414,21 @@ LC.units.push({
       [
        "{{vous êtes}}",
        "voo-ZET · ভু জ়েত",
-       "you are",
+       "you are · তুমি আছ",
        "s joins, final s drops"
       ],
       [
        "{{ils parlent}}",
        "eel PARL · ইল পার্ল",
        "they speak",
-       "whole -ent ending"
+       "whole -ent ending · গোটা -ent শেষাংশ"
       ]
      ],
      "title": "Common traps · সাধারণ ফাঁদ"
     },
     {
      "type": "rule",
-     "name": "The -ent ending vanishes",
+     "name": "The -ent ending vanishes · -ent শেষাংশ মিলিয়ে যায়",
      "color": "red",
      "desc": "When **-ent** is a verb ending for *ils / elles*, the whole ending is silent. It is not silent in adverbs or nouns. · ক্রিয়ার -ent সম্পূর্ণ নীরব, কিন্তু ক্রিয়াবিশেষণে নয়।",
      "examples": [
@@ -463,10 +463,10 @@ LC.units.push({
     {
      "type": "selfcheck",
      "items": [
-      "I can name the four CaReFuL consonants",
-      "I say {{parler}} without an r at the end",
-      "I drop the whole -ent ending on ils / elles verbs",
-      "I no longer pronounce final s on plurals"
+      "I can name the four CaReFuL consonants · CaReFuL-এর চারটি ব্যঞ্জনের নাম বলতে পারি",
+      "I say {{parler}} without an r at the end · {{parler}} বলি শেষে r ছাড়া",
+      "I drop the whole -ent ending on ils / elles verbs · ils / elles ক্রিয়ায় গোটা -ent শেষাংশ ফেলে দিই",
+      "I no longer pronounce final s on plurals · বহুবচনের শেষ s আর উচ্চারণ করি না"
      ]
     },
     {
@@ -578,7 +578,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The sound can change",
+     "name": "The sound can change · ধ্বনি বদলাতে পারে",
      "color": "orange",
      "desc": "In liaison, **s** and **x** are said as **z**, and **d** is said as **t**. · liaison-এ s ও x হয় জ়, আর d হয় ত।",
      "examples": [
@@ -598,9 +598,9 @@ LC.units.push({
      "type": "table",
      "head": [
       "Always join",
-      "Example",
+      "Example · উদাহরণ",
       "Never join",
-      "Example"
+      "Example · উদাহরণ"
      ],
      "rows": [
       [
@@ -610,21 +610,21 @@ LC.units.push({
        "{{et | il}}"
       ],
       [
-       "pronoun + verb",
+       "pronoun + verb · সর্বনাম + ক্রিয়া",
        "{{nous_avons}}",
-       "before aspirate h",
+       "before aspirate h · সাশ্বাস h-এর আগে",
        "{{les | héros}}"
       ],
       [
        "adjective + noun",
        "{{petit_ami}}",
-       "noun + verb",
+       "noun + verb · বিশেষ্য + ক্রিয়া",
        "{{les enfants | arrivent}}"
       ],
       [
        "short adverb + adj.",
        "{{très_utile}}",
-       "before a number",
+       "before a number · সংখ্যার আগে",
        "{{les | onze}}"
       ]
      ],
@@ -749,17 +749,17 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Word",
-      "Becomes",
-      "Example",
-      "Meaning"
+      "Word · শব্দ",
+      "Becomes · হয়ে যায়",
+      "Example · উদাহরণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
        "{{le, la}}",
        "{{l'}}",
        "{{l'ami}}",
-       "the friend"
+       "the friend · বন্ধুটি"
       ],
       [
        "{{je}}",
@@ -777,7 +777,7 @@ LC.units.push({
        "{{ne}}",
        "{{n'}}",
        "{{je n'ai pas}}",
-       "I do not have"
+       "I do not have · আমার নেই"
       ],
       [
        "{{que}}",
@@ -789,7 +789,7 @@ LC.units.push({
        "{{si}}",
        "{{s'}}",
        "{{s'il vous plaît}}",
-       "please"
+       "please · অনুগ্রহ করে"
       ]
      ],
      "title": "The elision list · স্বরলোপের তালিকা"
@@ -827,7 +827,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The apostrophe is not a space",
+     "name": "The apostrophe is not a space · ঊর্ধ্বকমা কোনো ফাঁক নয়",
      "color": "red",
      "desc": "Write **l'ami**, never *l' ami* and never *lami*. The apostrophe joins the two parts tightly. · apostrophe কোনো ফাঁক নয়; দুই অংশ শক্তভাবে জোড়া থাকে।",
      "examples": [
@@ -957,7 +957,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The French R",
+     "name": "The French R · ফরাসি R",
      "color": "purple",
      "desc": "It is not Bangla র. The tongue tip stays **down** behind the lower teeth, and the sound is made at the back of the throat, like a very soft gargle. · এটি বাংলা র নয়। জিভের ডগা নিচে থাকবে, ধ্বনি তৈরি হবে গলার পেছনে।",
      "how": "Hold a pencil flat across your tongue so the tip cannot rise, then say ra, re, ri, ro, ru slowly. · জিভের উপর আড়াআড়ি করে একটি পেনসিল রাখুন যাতে ডগা উপরে উঠতে না পারে, তারপর ধীরে ধীরে বলুন ra, re, ri, ro, ru।",
@@ -981,7 +981,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "u versus ou",
+     "name": "u versus ou · u বনাম ou",
      "color": "blue",
      "desc": "**u** = say *ee* and round your lips without moving your tongue. **ou** = a plain *oo*. These are two different sounds and they change meanings. · u মানে ই বলে ঠোঁট গোল করা; ou মানে সাধারণ উ।",
      "examples": [
@@ -1035,7 +1035,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The disappearing e",
+     "name": "The disappearing e · লুপ্ত হয়ে যাওয়া e",
      "color": "green",
      "desc": "An unaccented **e** inside or at the end of a word is often dropped in ordinary speech. · শব্দের ভেতরে বা শেষে চিহ্নহীন e সাধারণ কথ্য ভাষায় প্রায়ই পড়ে যায়।",
      "examples": [
@@ -1205,7 +1205,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Three ways to ask",
+     "name": "Three ways to ask · জিজ্ঞেস করার তিন উপায়",
      "color": "blue",
      "desc": "The same words can become a question three ways; the first is the most common in speech. · একই শব্দ তিনভাবে প্রশ্ন হতে পারে।",
      "examples": [

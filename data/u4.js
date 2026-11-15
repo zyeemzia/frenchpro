@@ -27,10 +27,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Number",
-      "French",
-      "Literally",
-      "Say"
+      "Number · সংখ্যা",
+      "French · ফরাসি",
+      "Literally · আক্ষরিক অর্থে",
+      "Say · বলুন"
      ],
      "rows": [
       [
@@ -42,7 +42,7 @@ LC.units.push({
       [
        "71",
        "{{soixante et onze}}",
-       "sixty and eleven",
+       "sixty and eleven · ষাট আর এগারো",
        "swah-sahnt-ay-OHNZ"
       ],
       [
@@ -54,7 +54,7 @@ LC.units.push({
       [
        "81",
        "{{quatre-vingt-un}}",
-       "four-twenty-one",
+       "four-twenty-one · চার-কুড়ি-এক",
        "kah-truh-van-UHN"
       ],
       [
@@ -84,7 +84,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Hundreds and thousands",
+     "name": "Hundreds and thousands · শত ও হাজার",
      "color": "blue",
      "desc": "{{cent}} pluralises when it is exact; {{mille}} never changes at all. · cent ঠিক গুণিতক হলে বহুবচন হয়; mille কখনো বদলায় না।",
      "examples": [
@@ -107,7 +107,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Ordinal numbers",
+     "name": "Ordinal numbers · পূরণবাচক সংখ্যা",
      "color": "green",
      "desc": "Add **-ième** to the number. Only *first* is irregular. · সংখ্যার সঙ্গে -ième যোগ করুন; কেবল প্রথমটি অনিয়মিত।",
      "examples": [
@@ -265,9 +265,9 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Written",
-      "Said",
-      "Meaning"
+      "Written · লেখা",
+      "Said · উচ্চারণ",
+      "Meaning · অর্থ"
      ],
      "rows": [
       [
@@ -300,7 +300,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Morning, afternoon, evening",
+     "name": "Morning, afternoon, evening · সকাল, দুপুর, সন্ধ্যা",
      "color": "green",
      "desc": "French has no a.m. or p.m. It adds a phrase instead. · ফরাসিতে a.m./p.m. নেই; বদলে বাক্যাংশ যোগ হয়।",
      "examples": [
@@ -431,10 +431,10 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Days",
-      "Months",
-      "Months",
-      "Seasons"
+      "Days · বার",
+      "Months · মাস",
+      "Months · মাস",
+      "Seasons · ঋতু"
      ],
      "rows": [
       [
@@ -484,7 +484,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Writing a date",
+     "name": "Writing a date · তারিখ লেখা",
      "color": "blue",
      "desc": "Use **le** plus a plain number plus the month. Only the first of the month is an ordinal. · le + সংখ্যা + মাস। কেবল মাসের প্রথম দিন ordinal হয়।",
      "examples": [
@@ -507,7 +507,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Seasons take different prepositions",
+     "name": "Seasons take different prepositions · ঋতুভেদে অনুসর্গ আলাদা",
      "color": "orange",
      "desc": "Three seasons take {{en}}; spring alone takes {{au}}. · তিনটি ঋতুতে en, কেবল বসন্তে au।",
      "examples": [
@@ -682,34 +682,34 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Paying",
-      "French",
-      "Banking",
-      "French"
+      "Paying · পরিশোধ",
+      "French · ফরাসি",
+      "Banking · ব্যাংকিং",
+      "French · ফরাসি"
      ],
      "rows": [
       [
-       "in cash",
+       "in cash · নগদে",
        "{{en espèces}}",
-       "an account",
+       "an account · একটি হিসাব",
        "{{un compte}}"
       ],
       [
-       "by card",
+       "by card · কার্ডে",
        "{{par carte}}",
-       "to withdraw",
+       "to withdraw · তুলে নেওয়া",
        "{{retirer}}"
       ],
       [
-       "by cheque",
+       "by cheque · চেকে",
        "{{par chèque}}",
-       "to deposit",
+       "to deposit · জমা দেওয়া",
        "{{déposer}}"
       ],
       [
        "change",
        "{{la monnaie}}",
-       "the rate",
+       "the rate · হার",
        "{{le taux de change}}"
       ]
      ],
@@ -952,7 +952,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "At the table, the partitive rules",
+     "name": "At the table, the partitive rules · খাবার টেবিলে আংশিক পদাশ্রয়ই চলে",
      "color": "blue",
      "desc": "Ordering an amount takes {{du / de la / des}}; refusing takes plain {{de}}. · পরিমাণ চাইলে du/de la/des, অস্বীকার করলে কেবল de।",
      "examples": [
@@ -1139,32 +1139,32 @@ LC.units.push({
     {
      "type": "table",
      "head": [
-      "Asking",
-      "French",
-      "Answer",
-      "French"
+      "Asking · জিজ্ঞাসা",
+      "French · ফরাসি",
+      "Answer · উত্তর",
+      "French · ফরাসি"
      ],
      "rows": [
       [
-       "Where is…?",
+       "Where is…? · …কোথায়?",
        "{{Où est… ?}}",
        "straight on",
        "{{tout droit}}"
       ],
       [
-       "Is it far?",
+       "Is it far? · এটা কি দূরে?",
        "{{C'est loin ?}}",
        "turn right",
        "{{tournez à droite}}"
       ],
       [
-       "How do I get to…?",
+       "How do I get to…? · …-এ কীভাবে যাব?",
        "{{Pour aller à… ?}}",
        "turn left",
        "{{tournez à gauche}}"
       ],
       [
-       "Is there a… nearby?",
+       "Is there a… nearby? · কাছে কি কোনো… আছে?",
        "{{Il y a un… près d'ici ?}}",
        "opposite",
        "{{en face de}}"
@@ -1314,7 +1314,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "The weather always starts with il",
+     "name": "The weather always starts with il · আবহাওয়ার কথা সবসময় il দিয়ে শুরু",
      "color": "green",
      "desc": "Weather uses the impersonal {{il}} plus {{faire}}, or a verb of its own. · আবহাওয়ার বর্ণনা শুরু হয় il দিয়ে।",
      "examples": [
@@ -1347,7 +1347,7 @@ LC.units.push({
     },
     {
      "type": "rule",
-     "name": "Saying what hurts",
+     "name": "Saying what hurts · কোথায় ব্যথা তা বলা",
      "color": "red",
      "desc": "Use {{avoir mal à}} plus the article and the body part. The {{à}} contracts as usual. · avoir mal à + article + শরীরের অংশ।",
      "examples": [
