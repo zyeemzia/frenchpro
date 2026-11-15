@@ -113,6 +113,31 @@ LC.units.push({
      "text": "In a French letter, the date is written {{Dacca, le 5 décembre 2026}} — place, comma, {{le}}, then the date, with the month in lower case. · ফরাসি চিঠিতে তারিখ এভাবে লেখা হয়।"
     },
     {
+     "t": "Comment allez-vous, chère madame ?",
+     "tr": "koh-mahn tah-lay VOO shehr mah-DAHM · কমঁ তালে-ভু, শের্ মাদাম ?",
+     "mean": "How are you, dear madam? · আপনি কেমন আছেন, প্রিয় ম্যাডাম?",
+     "words": [
+      {
+       "t": "Comment",
+       "mean": "how · কেমন"
+      },
+      {
+       "t": "allez-vous",
+       "mean": "are you · আছেন"
+      },
+      {
+       "t": "chère",
+       "mean": "dear (feminine) · প্রিয়"
+      },
+      {
+       "t": "madame",
+       "mean": "madam · ম্যাডাম"
+      }
+     ],
+     "note": "A space goes before the question mark but never before the comma. **allez-vous** keeps its hyphen because the verb and pronoun have swapped places. · প্রশ্নচিহ্নের আগে ফাঁক, কমার আগে নয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud and watch the spacing. French puts a space before the tall marks. · পড়ুন ও ফাঁক লক্ষ করুন; উঁচু চিহ্নের আগে ফরাসিতে ফাঁক থাকে।",
      "lines": [
@@ -326,6 +351,39 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "Whatever you wrote at the top must reappear inside the closing. Open with {{Monsieur le Directeur,}} and you must close with {{…, Monsieur le Directeur, …}}. · শুরুর সম্বোধন শেষেও হুবহু বসাতে হবে।"
+    },
+    {
+     "t": "Veuillez agréer, Madame, mes salutations distinguées.",
+     "tr": "vuh-yay ah-gray-AY mah-DAHM may sah-lew-tah-SYOHN dees-tahn-GAY · ভ্যইয়ে আগ্রেয়ে, মাদাম, মে সাল্যুতাসীয়ঁ দিস্তাঁগে",
+     "mean": "Yours faithfully. · আপনার বিশ্বস্ত।",
+     "words": [
+      {
+       "t": "Veuillez",
+       "mean": "be so kind as to · অনুগ্রহ করে"
+      },
+      {
+       "t": "agréer",
+       "mean": "accept · গ্রহণ করুন"
+      },
+      {
+       "t": "Madame",
+       "mean": "Madam · ম্যাডাম"
+      },
+      {
+       "t": "mes",
+       "mean": "my · আমার"
+      },
+      {
+       "t": "salutations",
+       "mean": "greetings · অভিবাদন"
+      },
+      {
+       "t": "distinguées",
+       "mean": "distinguished · বিশিষ্ট"
+      }
+     ],
+     "note": "Word for word this is *be so kind as to accept my distinguished greetings*. It means no more than *yours faithfully*; learn it whole. · আক্ষরিক অনুবাদে অদ্ভুত শোনায়; গোটাটাই একসঙ্গে শিখুন।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -779,6 +837,39 @@ LC.units.push({
      "text": "Never mix the two in one letter. Starting with {{vous}} and slipping into {{tu}} reads as carelessness. · একই চিঠিতে দুটো মেশাবেন না।"
     },
     {
+     "t": "Écris-moi vite, tu me manques beaucoup.",
+     "tr": "ay-kree MWAH veet tew muh mahnk boh-KOO · একি-মোয়া ভিত্, ত্যু ম্য মঁক্ বোকু",
+     "mean": "Write to me soon, I miss you a lot. · তাড়াতাড়ি লিখো, তোমাকে খুব মনে পড়ে।",
+     "words": [
+      {
+       "t": "Écris-moi",
+       "mean": "write to me · আমাকে লেখো"
+      },
+      {
+       "t": "vite",
+       "mean": "quickly · তাড়াতাড়ি"
+      },
+      {
+       "t": "tu",
+       "mean": "you · তুমি"
+      },
+      {
+       "t": "me",
+       "mean": "to me · আমার"
+      },
+      {
+       "t": "manques",
+       "mean": "are missing · অভাব বোধ হও"
+      },
+      {
+       "t": "beaucoup",
+       "mean": "a lot · খুব"
+      }
+     ],
+     "note": "French turns *I miss you* around: **tu me manques** is *you are missing from me*. The person missed is the subject. · ফরাসিতে উল্টো — যাকে মনে পড়ে সেই কর্তা।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. To a friend, French drops its collar and tie. · জোরে পড়ুন; বন্ধুর কাছে ফরাসি আটপৌরে হয়ে যায়।",
      "lines": [
@@ -1027,6 +1118,47 @@ LC.units.push({
      "text": "{{une formation}} means **training or education**, not the forming of something. And {{un poste}} is a job; {{la poste}} is the post office. · formation মানে শিক্ষা বা প্রশিক্ষণ।"
     },
     {
+     "t": "Je suis disponible à partir du mois prochain.",
+     "tr": "zhuh swee dees-poh-NEEBL ah pahr-TEER dew mwah proh-SHAHN · জ়্য সুই দিস্পনিব্ল্ আ পার্তির্ দ্যু মোয়া প্রশাঁ",
+     "mean": "I am available from next month. · আমি আগামী মাস থেকে প্রস্তুত।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "suis",
+       "mean": "am · আছি"
+      },
+      {
+       "t": "disponible",
+       "mean": "available · প্রস্তুত"
+      },
+      {
+       "t": "à",
+       "mean": "from · থেকে"
+      },
+      {
+       "t": "partir",
+       "mean": "starting · শুরু করে"
+      },
+      {
+       "t": "du",
+       "mean": "of the · -এর"
+      },
+      {
+       "t": "mois",
+       "mean": "month · মাস"
+      },
+      {
+       "t": "prochain",
+       "mean": "next · আগামী"
+      }
+     ],
+     "note": "**à partir de** is a set phrase for *from, starting at*, and has nothing to do with leaving. · **à partir de** মানে *থেকে শুরু করে*, রওনা দেওয়া নয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud as if answering across a desk. Short, calm, specific. · টেবিলের ওপারে উত্তর দিচ্ছেন ভেবে পড়ুন — সংক্ষিপ্ত, শান্ত, সুনির্দিষ্ট।",
      "lines": [
@@ -1229,6 +1361,39 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "{{car}} and {{parce que}} both mean *because*, but {{car}} never starts a sentence — it joins two clauses inside one. · car দিয়ে বাক্য শুরু করা যায় না।"
+    },
+    {
+     "t": "Cependant, le prix reste très élevé.",
+     "tr": "suh-pahn-DAHN luh pree rest treh zay-luh-VAY · স্যপঁদঁ, ল্য প্রি রেস্ত্ ত্রে জ়েল্যভে",
+     "mean": "However, the price remains very high. · তবু দাম খুব বেশিই থাকছে।",
+     "words": [
+      {
+       "t": "Cependant",
+       "mean": "however · তবু"
+      },
+      {
+       "t": "le",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "prix",
+       "mean": "price · দাম"
+      },
+      {
+       "t": "reste",
+       "mean": "remains · থাকছে"
+      },
+      {
+       "t": "très",
+       "mean": "very · খুব"
+      },
+      {
+       "t": "élevé",
+       "mean": "high · উঁচু"
+      }
+     ],
+     "note": "A connective at the head of the sentence always takes a comma. **élevé** is the word for a high price; **haut** is for height. · দামের বেলায় **élevé**, উচ্চতার বেলায় **haut**।",
+     "type": "sentence"
     },
     {
      "type": "practice",

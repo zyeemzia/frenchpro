@@ -140,6 +140,43 @@ LC.units.push({
      "text": "{{supporter}} means **to tolerate**, not to support. {{Je ne le supporte pas}} is *I cannot stand him*, not *I do not support him*. For support, use {{soutenir}}. · supporter মানে সহ্য করা, সমর্থন নয়।"
     },
     {
+     "t": "Il m'a posé un lapin hier soir.",
+     "tr": "eel mah poh-ZAY uhn lah-PAHN yehr SWAHR · ইল্ মা পোজ়ে আঁ লাপাঁ ইয়ের্ সোয়ার্",
+     "mean": "He stood me up last night. · গতরাতে সে আমাকে দাঁড় করিয়ে রাখল।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "m'a",
+       "mean": "to me has · আমাকে"
+      },
+      {
+       "t": "posé",
+       "mean": "placed · রাখল"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "lapin",
+       "mean": "rabbit · খরগোশ"
+      },
+      {
+       "t": "hier",
+       "mean": "yesterday · গতকাল"
+      },
+      {
+       "t": "soir",
+       "mean": "evening · সন্ধ্যা"
+      }
+     ],
+     "note": "Word for word, *he placed a rabbit on me*. Every word is ordinary and the sentence still means nothing until you know the idiom. · আক্ষরিক অর্থে *সে আমার উপর একটি খরগোশ রাখল* — বাগধারা না জানলে বোঝা যায় না।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. Do not translate word by word; say the whole phrase as one unit. · জোরে পড়ুন; শব্দে শব্দে নয়, গোটা বাগধারাটি একসঙ্গে বলুন।",
      "lines": [
@@ -319,6 +356,43 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "One proverb, used at the right moment, does more for your credibility than a hundred memorised words. Pick two you like and keep them ready. · সঠিক সময়ে একটি প্রবাদ শতেক শব্দের চেয়ে বেশি কাজ করে।"
+    },
+    {
+     "t": "Petit à petit, l'oiseau fait son nid.",
+     "tr": "puh-tee tah puh-TEE lwah-ZOH feh sohn NEE · প্যতিত্ আ প্যতি, লোয়াজ়ো ফে সঁ নি",
+     "mean": "Little by little, the bird builds its nest. · ধীরে ধীরেই পাখি তার বাসা গড়ে।",
+     "words": [
+      {
+       "t": "Petit",
+       "mean": "small · ছোট"
+      },
+      {
+       "t": "à",
+       "mean": "by · করে"
+      },
+      {
+       "t": "petit",
+       "mean": "small · ছোট"
+      },
+      {
+       "t": "l'oiseau",
+       "mean": "the bird · পাখিটি"
+      },
+      {
+       "t": "fait",
+       "mean": "makes · বানায়"
+      },
+      {
+       "t": "son",
+       "mean": "its · তার"
+      },
+      {
+       "t": "nid",
+       "mean": "nest · বাসা"
+      }
+     ],
+     "note": "The whole proverb is seven short words and five of them are among the first hundred any learner meets. That is why it has lasted. · সাতটি ছোট শব্দ, তার পাঁচটিই একেবারে প্রাথমিক — সেজন্যই প্রবাদটি টিকে আছে।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -550,6 +624,59 @@ LC.units.push({
      ]
     },
     {
+     "t": "Il a mal à la main où il porte la bague.",
+     "tr": "eel ah mahl ah lah MAHN oo eel port lah BAHG · ইল্ আ মাল্ আ লা মাঁ উ ইল্ পর্ত্ লা বাগ্",
+     "mean": "His hand hurts, the one where he wears the ring. · যে হাতে সে আংটি পরে, সেই হাতে ব্যথা।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "a",
+       "mean": "has — the verb, no accent · ক্রিয়া, চিহ্ন নেই"
+      },
+      {
+       "t": "mal",
+       "mean": "pain · ব্যথা"
+      },
+      {
+       "t": "à",
+       "mean": "in — the preposition, with accent · সম্বন্ধপদ, চিহ্নসহ"
+      },
+      {
+       "t": "la",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "main",
+       "mean": "hand · হাত"
+      },
+      {
+       "t": "où",
+       "mean": "where — with accent · কোথায়, চিহ্নসহ"
+      },
+      {
+       "t": "il",
+       "mean": "he · সে"
+      },
+      {
+       "t": "porte",
+       "mean": "wears · পরে"
+      },
+      {
+       "t": "la",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "bague",
+       "mean": "ring · আংটি"
+      }
+     ],
+     "note": "**a** and **à** sound identical, and so do **ou** and **où**. The accent is the only thing telling the verb from the preposition. · উচ্চারণ এক; চিহ্নই ক্রিয়া আর সম্বন্ধপদের তফাত বলে দেয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each pair aloud. They sound identical; only the spelling tells them apart. · প্রতিটি জোড়া পড়ুন; উচ্চারণ এক, কেবল বানানেই তফাত।",
      "lines": [
@@ -765,6 +892,51 @@ LC.units.push({
       }
      ],
      "title": "The -ée pairs · -ée জোড়াগুলো"
+    },
+    {
+     "t": "Je ne sais pas ce qui se passe ici.",
+     "tr": "zhuh nuh seh pah suh kee suh pahs ee-SEE · জ়্য ন্য সে পা স্য কি স্য পাস্ ইসি",
+     "mean": "I do not know what is happening here. · এখানে কী ঘটছে আমি জানি না।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "sais",
+       "mean": "know · জানি"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "ce",
+       "mean": "that · তা"
+      },
+      {
+       "t": "qui",
+       "mean": "which · যা"
+      },
+      {
+       "t": "se",
+       "mean": "itself · নিজে"
+      },
+      {
+       "t": "passe",
+       "mean": "happens · ঘটছে"
+      },
+      {
+       "t": "ici",
+       "mean": "here · এখানে"
+      }
+     ],
+     "note": "Not **qu'est-ce qui** here. The question form belongs in a question; inside a statement it becomes **ce qui**. · প্রশ্নের রূপ প্রশ্নেই থাকে; বিবৃতিতে হয় **ce qui**।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1012,6 +1184,43 @@ LC.units.push({
      "text": "Ask for an {{entrée}} in Paris and you will be served a starter, not a main course. The American sense travelled, the French one stayed home. · প্যারিসে entrée মানে প্রথম পদ।"
     },
     {
+     "t": "M. Rahman est arrivé vers vingt heures.",
+     "tr": "muh-syuh rah-MAHN eh tah-ree-VAY vehr vahn TUHR · ম্যসীয়ো রহমান এত্ আরিভে ভের্ ভাঁত্ ্যর্",
+     "mean": "Mr Rahman arrived at about eight in the evening. · জনাব রহমান রাত আটটা নাগাদ এসেছেন।",
+     "words": [
+      {
+       "t": "M.",
+       "mean": "Mr — short for Monsieur · Monsieur-এর সংক্ষেপ"
+      },
+      {
+       "t": "Rahman",
+       "mean": "Rahman · রহমান"
+      },
+      {
+       "t": "est",
+       "mean": "is (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "arrivé",
+       "mean": "arrived · এসেছেন"
+      },
+      {
+       "t": "vers",
+       "mean": "towards, about · নাগাদ"
+      },
+      {
+       "t": "vingt",
+       "mean": "twenty · বিশ"
+      },
+      {
+       "t": "heures",
+       "mean": "hundred hours · ঘণ্টা"
+      }
+     ],
+     "note": "**M.** is written but **Monsieur** is said. The abbreviation lives only on the page. · লেখা হয় **M.**, বলা হয় **Monsieur**।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud, saying the full words first and then the short form. · পূর্ণ রূপ বলে তারপর সংক্ষিপ্ত রূপটি পড়ুন।",
      "lines": [
@@ -1223,6 +1432,39 @@ LC.units.push({
       "I soften a refusal instead of saying {{non}} alone · শুধু {{non}} না বলে প্রত্যাখ্যান নরম করি",
       "I can move a sentence up or down a register at will · ইচ্ছেমতো বাক্যের স্তর ওঠাতে-নামাতে পারি"
      ]
+    },
+    {
+     "t": "Pourriez-vous me rendre un petit service ?",
+     "tr": "poo-ryay VOO muh rahndr uhn puh-tee sehr-VEES · পুরীয়ে-ভু ম্য রঁদ্র্ আঁ প্যতি সের্ভিস্",
+     "mean": "Could you do me a small favour? · আমাকে একটু উপকার করবেন কি?",
+     "words": [
+      {
+       "t": "Pourriez-vous",
+       "mean": "could you · পারবেন কি"
+      },
+      {
+       "t": "me",
+       "mean": "to me · আমাকে"
+      },
+      {
+       "t": "rendre",
+       "mean": "render · করা"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "petit",
+       "mean": "small · ছোট"
+      },
+      {
+       "t": "service",
+       "mean": "favour · উপকার"
+      }
+     ],
+     "note": "Three softeners at once: the conditional **pourriez**, the inversion, and **petit**, which makes the favour sound smaller than it is. · একসঙ্গে তিনটি নম্রতার চিহ্ন।",
+     "type": "sentence"
     },
     {
      "type": "practice",

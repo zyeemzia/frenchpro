@@ -181,6 +181,43 @@ LC.units.push({
      "text": "{{eu}} is pronounced simply **ew** — the first letter is silent. And {{j'ai eu}} is said *zhay EW*, not *zhay uh-EW*. · eu-এর উচ্চারণ কেবল য়্যু; প্রথম অক্ষর নীরব।"
     },
     {
+     "t": "J'ai vingt ans et je suis étudiant.",
+     "tr": "zhay vahn TAHN ay zhuh swee zay-tew-DYAHN · জ়ে ভাঁত্ অঁ এ জ়্য সুইজ়্ এত্যুদীয়ঁ",
+     "mean": "I am twenty and I am a student. · আমার বয়স বিশ এবং আমি ছাত্র।",
+     "words": [
+      {
+       "t": "J'ai",
+       "mean": "I have · আমার আছে"
+      },
+      {
+       "t": "vingt",
+       "mean": "twenty · বিশ"
+      },
+      {
+       "t": "ans",
+       "mean": "years · বছর"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "suis",
+       "mean": "am · আছি"
+      },
+      {
+       "t": "étudiant",
+       "mean": "student · ছাত্র"
+      }
+     ],
+     "note": "Both verbs in one breath, and the first is the trap: age is **had** in French, never **been**. · এক বাক্যে দুটি ক্রিয়া; বয়সের বেলায় ফরাসি **avoir** নেয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say the whole present tense aloud without looking. These two verbs must come automatically. · না দেখে পুরো বর্তমান কাল বলুন; এই দুটি ক্রিয়া আপনাআপনি আসা চাই।",
      "lines": [
@@ -401,6 +438,43 @@ LC.units.push({
        "hl": "appelle"
       }
      ]
+    },
+    {
+     "t": "Nous parlons, nous finissons et nous vendons.",
+     "tr": "noo pahr-LOHN noo fee-nee-SOHN ay noo vahn-DOHN · নু পার্লঁ, নু ফিনিসঁ এ নু ভঁদঁ",
+     "mean": "We speak, we finish and we sell. · আমরা বলি, শেষ করি এবং বিক্রি করি।",
+     "words": [
+      {
+       "t": "Nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "parlons",
+       "mean": "speak — the -er group · -er দল"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "finissons",
+       "mean": "finish — the -ir group · -ir দল"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "vendons",
+       "mean": "sell — the -re group · -re দল"
+      }
+     ],
+     "note": "All three regular patterns in one line, and all three end in **-ons**. The ending is shared; only the stem differs. · তিনটি দলই **-ons** নেয়, কেবল মূল অংশ আলাদা।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -650,6 +724,51 @@ LC.units.push({
      "text": "{{vous dites}} and {{vous faites}} are irregular; but {{vous disez}} and *vous faisez* do not exist. Compare the regular {{vous lisez}}. · dites ও faites অনিয়মিত।"
     },
     {
+     "t": "Je vais au marché et je fais les courses.",
+     "tr": "zhuh veh oh mahr-SHAY ay zhuh feh lay KOORS · জ়্য ভে ও মার্শে এ জ়্য ফে লে কুর্স্",
+     "mean": "I go to the market and do the shopping. · আমি বাজারে গিয়ে কেনাকাটা করি।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "vais",
+       "mean": "go · যাই"
+      },
+      {
+       "t": "au",
+       "mean": "to the · -এ"
+      },
+      {
+       "t": "marché",
+       "mean": "market · বাজার"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "fais",
+       "mean": "do · করি"
+      },
+      {
+       "t": "les",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "courses",
+       "mean": "shopping · কেনাকাটা"
+      }
+     ],
+     "note": "**aller** and **faire** in one sentence, and **au** is **à + le** already joined. **faire les courses** is shopping; **faire la course** is racing. · একবচনে **la course** মানে দৌড়, বহুবচনে কেনাকাটা।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say each line aloud. These irregulars are too common to look up; they must be in the mouth. · এই অনিয়মিত ক্রিয়াগুলো এত চলে যে মুখস্থই থাকা চাই।",
      "lines": [
@@ -885,6 +1004,51 @@ LC.units.push({
       }
      ],
      "title": "The polite conditional at work · ভদ্র শর্তবাচক কাজে"
+    },
+    {
+     "t": "Je ne peux pas venir mais je veux essayer.",
+     "tr": "zhuh nuh puh pah vuh-NEER meh zhuh vuh zeh-seh-YAY · জ়্য ন্য প্য পা ভ্যনির্ মে জ়্য ভ্য এসেইয়ে",
+     "mean": "I cannot come but I want to try. · আমি আসতে পারছি না, তবু চেষ্টা করতে চাই।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "peux",
+       "mean": "can · পারি"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "venir",
+       "mean": "to come · আসতে"
+      },
+      {
+       "t": "mais",
+       "mean": "but · কিন্তু"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "veux",
+       "mean": "want · চাই"
+      },
+      {
+       "t": "essayer",
+       "mean": "to try · চেষ্টা করতে"
+      }
+     ],
+     "note": "After a modal the next verb never changes: **venir** and **essayer** both stay in the plain form. · modal-এর পরের ক্রিয়া মূল রূপেই থাকে।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1145,6 +1309,47 @@ LC.units.push({
      "text": "{{connaître}} keeps its circumflex only before a **t**: {{il connaît}} but {{nous connaissons}}. The 1990 spelling reform allows {{connaitre}} without it, and both are accepted. · চিহ্নটি কেবল t-এর আগে থাকে।"
     },
     {
+     "t": "Elle écrit une lettre et je la lis.",
+     "tr": "el ay-KREE ewn LETR ay zhuh lah LEE · এল্ একি ্যুন্ লেত্র্ এ জ়্য লা লি",
+     "mean": "She writes a letter and I read it. · সে একটি চিঠি লেখে আর আমি তা পড়ি।",
+     "words": [
+      {
+       "t": "Elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "écrit",
+       "mean": "writes · লেখে"
+      },
+      {
+       "t": "une",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "lettre",
+       "mean": "letter · চিঠি"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "la",
+       "mean": "it · সেটি"
+      },
+      {
+       "t": "lis",
+       "mean": "read · পড়ি"
+      }
+     ],
+     "note": "**la** here is not *the* but *it*, standing for **la lettre** — and it comes before the verb, as object pronouns always do. · এখানে **la** মানে *সেটি*, এবং তা ক্রিয়ার আগে বসে।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say each line aloud. Add one verb a day and the table becomes speech. · রোজ একটি করে ক্রিয়া যোগ করুন; তালিকাই কথা হয়ে উঠবে।",
      "lines": [
@@ -1382,6 +1587,43 @@ LC.units.push({
      ]
     },
     {
+     "t": "Nous avons vu et nous avons compris.",
+     "tr": "noo zah-VOHN VEW ay noo zah-VOHN kohn-PREE · নুজ়্ আভঁ ভ্যু এ নুজ়্ আভঁ কঁপ্রি",
+     "mean": "We saw and we understood. · আমরা দেখেছি এবং বুঝেছি।",
+     "words": [
+      {
+       "t": "Nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "avons",
+       "mean": "have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "vu",
+       "mean": "seen — from voir · voir থেকে"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "avons",
+       "mean": "have (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "compris",
+       "mean": "understood — from comprendre · comprendre থেকে"
+      }
+     ],
+     "note": "Neither participle looks like its infinitive. **voir** gives **vu** and **comprendre** gives **compris**: these have to be learnt as pairs. · কৃদন্তপদ দেখে ক্রিয়ামূল চেনা যায় না, জোড়া বেঁধেই শিখতে হয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say the infinitive and its participle together, as one pair. That is how they are remembered. · ক্রিয়ামূল ও কৃদন্তপদ একসঙ্গে বলুন; জোড়া বেঁধেই মনে থাকে।",
      "lines": [
@@ -1579,6 +1821,43 @@ LC.units.push({
        "note": "title by office, in a letter · চিঠিতে পদ অনুযায়ী সম্বোধন"
       }
      ]
+    },
+    {
+     "t": "Je vous présente ma collègue, madame Haque.",
+     "tr": "zhuh voo pray-ZAHNT mah koh-LEG mah-dahm AHK · জ়্য ভু প্রেজ়ঁত্ মা কলেগ্, মাদাম হক",
+     "mean": "May I introduce my colleague, Mrs Haque. · আমার সহকর্মী জনাবা হকের সঙ্গে পরিচয় করিয়ে দিই।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "vous",
+       "mean": "to you · আপনাকে"
+      },
+      {
+       "t": "présente",
+       "mean": "introduce · পরিচয় করিয়ে দিই"
+      },
+      {
+       "t": "ma",
+       "mean": "my · আমার"
+      },
+      {
+       "t": "collègue",
+       "mean": "colleague · সহকর্মী"
+      },
+      {
+       "t": "madame",
+       "mean": "Mrs · জনাবা"
+      },
+      {
+       "t": "Haque",
+       "mean": "Haque · হক"
+      }
+     ],
+     "note": "**collègue** is the same word for a man or a woman; only **ma** or **mon** shows which. Titles stay lower case inside a sentence. · **collègue** উভয় লিঙ্গে এক; **ma** বা **mon**-ই বলে দেয়।",
+     "type": "sentence"
     },
     {
      "type": "practice",

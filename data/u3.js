@@ -141,6 +141,43 @@ LC.units.push({
      "text": "{{attendre}} means *to wait for* — the *for* is already inside it. Say {{J'attends le bus}}, never *j'attends pour le bus*. · attendre-এর ভেতরেই for আছে।"
     },
     {
+     "t": "Nous finissons le travail et nous partons.",
+     "tr": "noo fee-nee-SOHN luh trah-VYE ay noo pahr-TOHN · নু ফিনিসঁ ল্য ত্রাভাই এ নু পার্তঁ",
+     "mean": "We finish the work and we leave. · আমরা কাজ শেষ করে রওনা দিই।",
+     "words": [
+      {
+       "t": "Nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "finissons",
+       "mean": "finish · শেষ করি"
+      },
+      {
+       "t": "le",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "travail",
+       "mean": "work · কাজ"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "partons",
+       "mean": "leave · রওনা দিই"
+      }
+     ],
+     "note": "Both verbs end in **-ir**, but only **finir** takes the **-iss-**. That syllable is what separates the second group from the third. · দুটিই **-ir**, তবু কেবল **finir** নেয় **-iss-**।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Conjugate aloud, then listen for which endings you actually hear. · জোরে রূপ বলুন, শুনুন কোনগুলো আসলে শোনা যায়।",
      "lines": [
@@ -652,6 +689,51 @@ LC.units.push({
      ]
     },
     {
+     "t": "Elle est arrivée et elle a pris le train.",
+     "tr": "el eh tah-ree-VAY ay el ah pree luh TRAHN · এল্ এত্ আরিভে এ এল্ আ প্রি ল্য ত্রাঁ",
+     "mean": "She arrived and she took the train. · সে এসে ট্রেন ধরেছিল।",
+     "words": [
+      {
+       "t": "Elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "est",
+       "mean": "is (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "arrivée",
+       "mean": "arrived (feminine) · এসেছিল"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "a",
+       "mean": "has (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "pris",
+       "mean": "taken · ধরেছিল"
+      },
+      {
+       "t": "le",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "train",
+       "mean": "train · ট্রেন"
+      }
+     ],
+     "note": "One sentence, two helpers. **arriver** takes **être** and agrees, so it gains an e; **prendre** takes **avoir** and does not. · একই বাক্যে দুই সহকারী — একটিতে মিল ঘটে, অন্যটিতে নয়।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. Hear the helper first, then the participle: two beats, one tense. · জোরে পড়ুন; আগে সহকারী, পরে কৃদন্তপদ — দুই মাত্রা, এক কাল।",
      "lines": [
@@ -1157,6 +1239,47 @@ LC.units.push({
      "text": "After {{quand}}, {{lorsque}} and {{dès que}}, French uses the **future** where English uses the present: {{Quand il arrivera, nous mangerons}} — *When he arrives, we will eat*. · quand-এর পরে ফরাসি ভবিষ্যৎ ব্যবহার করে।"
     },
     {
+     "t": "Demain je partirai mais aujourd'hui je vais rester.",
+     "tr": "duh-MAHN zhuh pahr-tee-RAY meh oh-zhoor-DWEE zhuh veh res-TAY · দ্যমাঁ জ়্য পার্তিরে মে ওজ়ুর্দুই জ়্য ভে রেস্তে",
+     "mean": "Tomorrow I shall leave, but today I am going to stay. · কাল রওনা দেব, তবে আজ থাকব।",
+     "words": [
+      {
+       "t": "Demain",
+       "mean": "tomorrow · আগামীকাল"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "partirai",
+       "mean": "shall leave · রওনা দেব"
+      },
+      {
+       "t": "mais",
+       "mean": "but · কিন্তু"
+      },
+      {
+       "t": "aujourd'hui",
+       "mean": "today · আজ"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "vais",
+       "mean": "am going · যাচ্ছি"
+      },
+      {
+       "t": "rester",
+       "mean": "to stay · থাকতে"
+      }
+     ],
+     "note": "Both halves are future. **partirai** is one word; **vais rester** is two, and the second verb stays in its plain form. · দুটোই ভবিষ্যৎ; দ্বিতীয়টিতে ক্রিয়া মূল রূপেই থাকে।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each pair aloud. The near future is going to happen; the simple future simply will. · প্রতিটি জোড়া পড়ুন; একটি এখনই ঘটতে যাচ্ছে, অন্যটি ভবিষ্যতে ঘটবে।",
      "lines": [
@@ -1341,6 +1464,39 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "The only difference between {{je parlerai}} (future) and {{je parlerais}} (conditional) is a silent s. In speech they are near-identical; in writing the s matters. · পার্থক্য কেবল একটি নীরব s।"
+    },
+    {
+     "t": "Je voudrais vous poser une question.",
+     "tr": "zhuh voo-DREH voo poh-ZAY ewn kes-TYOHN · জ়্য ভুদ্রে ভু পোজ়ে ্যুন্ কেস্তীয়ঁ",
+     "mean": "I would like to ask you a question. · আমি আপনাকে একটি প্রশ্ন করতে চাই।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "voudrais",
+       "mean": "would like · চাইব"
+      },
+      {
+       "t": "vous",
+       "mean": "you · আপনাকে"
+      },
+      {
+       "t": "poser",
+       "mean": "to ask · করতে"
+      },
+      {
+       "t": "une",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "question",
+       "mean": "question · প্রশ্ন"
+      }
+     ],
+     "note": "**je veux** would be blunt to the point of rudeness. One letter of tense turns a demand into a request. · **je veux** বললে রূঢ় শোনাত; কালের বদলেই দাবি হয়ে যায় অনুরোধ।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1558,6 +1714,51 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "Two subjects are needed. If the subject is the same in both halves, use an infinitive instead: {{Je veux partir}}, not *que je parte*. · দুই অংশে কর্তা এক হলে infinitive বসে।"
+    },
+    {
+     "t": "Il faut que tu sois là avant huit heures.",
+     "tr": "eel foh kuh tew swah lah ah-vahn wee TUHR · ইল্ ফো ক্য ত্যু সোয়া লা আভঁ উইত্ ্যর্",
+     "mean": "You must be there before eight o'clock. · তোমাকে আটটার আগে সেখানে থাকতে হবে।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "it (impersonal) · (ভাববাচক)"
+      },
+      {
+       "t": "faut",
+       "mean": "is necessary · দরকার"
+      },
+      {
+       "t": "que",
+       "mean": "that · যে"
+      },
+      {
+       "t": "tu",
+       "mean": "you · তুমি"
+      },
+      {
+       "t": "sois",
+       "mean": "be (subjunctive) · থাকো"
+      },
+      {
+       "t": "là",
+       "mean": "there · সেখানে"
+      },
+      {
+       "t": "avant",
+       "mean": "before · আগে"
+      },
+      {
+       "t": "huit",
+       "mean": "eight · আট"
+      },
+      {
+       "t": "heures",
+       "mean": "o'clock · টা"
+      }
+     ],
+     "note": "**sois**, not **es**. Necessity bends the verb out of its ordinary shape; that bent form is the subjunctive. · **es** নয়, **sois** — আবশ্যকতা ক্রিয়াকে বাঁকিয়ে দেয়।",
+     "type": "sentence"
     },
     {
      "type": "practice",

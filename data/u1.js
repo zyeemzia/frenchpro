@@ -191,6 +191,39 @@ LC.units.push({
      ]
     },
     {
+     "t": "Mon oncle attend un bon train.",
+     "tr": "mohn NOHNKL ah-TAHN uhn bohn TRAHN · মঁন্ অঁক্ল্ আতঁ আঁ বঁ ত্রাঁ",
+     "mean": "My uncle is waiting for a good train. · আমার কাকা একটি ভালো ট্রেনের অপেক্ষায়।",
+     "words": [
+      {
+       "t": "Mon",
+       "mean": "my · আমার"
+      },
+      {
+       "t": "oncle",
+       "mean": "uncle · কাকা"
+      },
+      {
+       "t": "attend",
+       "mean": "is waiting for · অপেক্ষা করছে"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "bon",
+       "mean": "good · ভালো"
+      },
+      {
+       "t": "train",
+       "mean": "train · ট্রেন"
+      }
+     ],
+     "note": "Four different nasals in one short line: **on**, **en**, **un**, **ain**. None of the n sounds are said. · এক লাইনেই চারটি নাসিক্য স্বর; কোনো n উচ্চারিত হয় না।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud twice. Keep the n silent, and let the sound out through your nose. · প্রতিটি লাইন দুবার জোরে পড়ুন। n নীরব রাখুন।",
      "lines": [
@@ -465,6 +498,39 @@ LC.units.push({
      ]
     },
     {
+     "t": "Les petits enfants sont très heureux.",
+     "tr": "lay puh-tee zahn-FAHN sohn treh zuh-RUH · লে প্যতিজ়্ অঁফঁ সঁ ত্রে জ়্যর্য",
+     "mean": "The little children are very happy. · ছোট শিশুরা খুব খুশি।",
+     "words": [
+      {
+       "t": "Les",
+       "mean": "the · (বহুবচনের নির্দেশক)"
+      },
+      {
+       "t": "petits",
+       "mean": "little · ছোট"
+      },
+      {
+       "t": "enfants",
+       "mean": "children · শিশুরা"
+      },
+      {
+       "t": "sont",
+       "mean": "are · আছে"
+      },
+      {
+       "t": "très",
+       "mean": "very · খুব"
+      },
+      {
+       "t": "heureux",
+       "mean": "happy · খুশি"
+      }
+     ],
+     "note": "Five written letters are never said here: the s of **les**, the s of **petits** before the liaison, the t of **sont**, the s of **très** and the x of **heureux**. · এখানে পাঁচটি লেখা বর্ণ উচ্চারিত হয় না।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read aloud. Say only what is heard, not what is written. · জোরে পড়ুন। যা শোনা যায় কেবল তাই বলুন।",
      "lines": [
@@ -685,6 +751,35 @@ LC.units.push({
      "type": "tip",
      "kind": "fun",
      "text": "Drop the liaison in {{les héros}} and you say {{les zéros}} — *the zeros*. The heroes will not thank you. · liaison ভুল করলে বীরেরা শূন্য হয়ে যায়।"
+    },
+    {
+     "t": "Nous avons un grand appartement.",
+     "tr": "noo zah-VOHN uhn grahn tah-pahr-tuh-MAHN · নুজ়্ আভঁ আঁ গ্রঁত্ আপার্ত্যমঁ",
+     "mean": "We have a big flat. · আমাদের একটি বড় ফ্ল্যাট আছে।",
+     "words": [
+      {
+       "t": "Nous",
+       "mean": "we · আমরা"
+      },
+      {
+       "t": "avons",
+       "mean": "have · আছে"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "grand",
+       "mean": "big · বড়"
+      },
+      {
+       "t": "appartement",
+       "mean": "flat · ফ্ল্যাট"
+      }
+     ],
+     "note": "Two liaisons: **nous_avons** adds a z sound, and **grand_appartement** turns the silent d into a t. · দুটি liaison — একটিতে z, অন্যটিতে d হয়ে যায় t।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -923,6 +1018,35 @@ LC.units.push({
      ]
     },
     {
+     "t": "J'habite à l'hôtel d'en face.",
+     "tr": "zhah-BEET ah loh-TEL dahn FAHS · জ়াবিত্ আ লোতেল্ দঁ ফাস্",
+     "mean": "I live at the hotel opposite. · আমি উল্টো দিকের হোটেলে থাকি।",
+     "words": [
+      {
+       "t": "J'habite",
+       "mean": "I live · আমি থাকি"
+      },
+      {
+       "t": "à",
+       "mean": "at · -এ"
+      },
+      {
+       "t": "l'hôtel",
+       "mean": "the hotel · হোটেলটি"
+      },
+      {
+       "t": "d'en",
+       "mean": "of · -এর"
+      },
+      {
+       "t": "face",
+       "mean": "opposite side · উল্টো দিক"
+      }
+     ],
+     "note": "Three elisions in six words, and each one hides a silent h or a vowel: **je+habite**, **le+hôtel**, **de+en**. · ছয় শব্দে তিনটি elision।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. Let the vowel swallow the one before it, so the two words sound like one. · প্রতিটি লাইন জোরে পড়ুন; দুই শব্দ যেন এক শব্দ শোনায়।",
      "lines": [
@@ -1131,6 +1255,39 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "Listening and imitating beats any written rule. Play one French sentence, say it back immediately, and compare. Thirty seconds a day changes more than an hour of theory. · শোনা ও নকল করা যেকোনো লিখিত নিয়মের চেয়ে কার্যকর।"
+    },
+    {
+     "t": "Une jeune fille lit un journal.",
+     "tr": "ewn zhuhn FEEY lee uhn zhoor-NAHL · ্যুন্ জ়্যন্ ফিই লি আঁ জ়ুর্নাল্",
+     "mean": "A young girl is reading a newspaper. · একটি অল্পবয়সী মেয়ে খবরের কাগজ পড়ছে।",
+     "words": [
+      {
+       "t": "Une",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "jeune",
+       "mean": "young · অল্পবয়সী"
+      },
+      {
+       "t": "fille",
+       "mean": "girl · মেয়ে"
+      },
+      {
+       "t": "lit",
+       "mean": "is reading · পড়ছে"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "journal",
+       "mean": "newspaper · খবরের কাগজ"
+      }
+     ],
+     "note": "All three hard sounds in one line: the **u** of **une**, the **j** of **jeune**, and the **ille** of **fille**, which is said like a y. · তিনটি কঠিন ধ্বনিই এক লাইনে।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1345,6 +1502,47 @@ LC.units.push({
      "type": "tip",
      "kind": "culture",
      "text": "In writing, French puts a thin space before **? ! : ;** — {{Ça va ?}} not *Ça va?*. Publishers care about this; so do examiners. · লেখায় ? ! : ; -এর আগে সরু ফাঁক থাকে।"
+    },
+    {
+     "t": "Je ne comprends pas très bien le français.",
+     "tr": "zhuh nuh kohn-prahn pah treh byahn luh frahn-SEH · জ়্য ন্য কঁপ্রঁ পা ত্রে বীয়াঁ ল্য ফ্রঁসে",
+     "mean": "I do not understand French very well. · আমি ফরাসি খুব ভালো বুঝি না।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "comprends",
+       "mean": "understand · বুঝি"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "très",
+       "mean": "very · খুব"
+      },
+      {
+       "t": "bien",
+       "mean": "well · ভালো"
+      },
+      {
+       "t": "le",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "français",
+       "mean": "French · ফরাসি"
+      }
+     ],
+     "note": "French stresses only the last syllable of a group, so the weight falls on **-çais** and nowhere else. · ফরাসিতে ঝোঁক পড়ে দলের শেষ শব্দাংশে, এখানে **-çais**-এ।",
+     "type": "sentence"
     },
     {
      "type": "practice",

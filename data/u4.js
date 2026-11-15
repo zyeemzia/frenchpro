@@ -139,6 +139,47 @@ LC.units.push({
      "text": "French writes large numbers with a space or a full stop, and uses a **comma** for decimals: **1 000,50 €**. Reading an English price aloud with a decimal point is a giveaway. · ফরাসিতে দশমিকে কমা বসে।"
     },
     {
+     "t": "Il y a quatre-vingt-dix-neuf pages dans ce livre.",
+     "tr": "eel ee ah kah-truh-vahn-deez-NUHF pahzh dahn suh LEEVR · ইল্ ই আ কাত্র্-ভাঁ-দিজ়্-ন্যফ্ পাজ়্ দঁ স্য লিভ্র্",
+     "mean": "There are ninety-nine pages in this book. · এই বইয়ে নিরানব্বই পাতা আছে।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "it (impersonal) · (ভাববাচক)"
+      },
+      {
+       "t": "y",
+       "mean": "there · সেখানে"
+      },
+      {
+       "t": "a",
+       "mean": "has · আছে"
+      },
+      {
+       "t": "quatre-vingt-dix-neuf",
+       "mean": "ninety-nine · নিরানব্বই"
+      },
+      {
+       "t": "pages",
+       "mean": "pages · পাতা"
+      },
+      {
+       "t": "dans",
+       "mean": "in · ভেতরে"
+      },
+      {
+       "t": "ce",
+       "mean": "this · এই"
+      },
+      {
+       "t": "livre",
+       "mean": "book · বই"
+      }
+     ],
+     "note": "Ninety-nine is said as *four twenties ten nine*. French counts in twenties here, a habit older than the language itself. · নিরানব্বই বলতে হয় *চার-কুড়ি-দশ-নয়*।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Say each number aloud, then write it. · প্রতিটি সংখ্যা জোরে বলুন, তারপর লিখুন।",
      "lines": [
@@ -361,6 +402,43 @@ LC.units.push({
        "mean": "At 8:45. Hurry up! · ৮টা ৪৫-এ। তাড়াতাড়ি করুন!"
       }
      ]
+    },
+    {
+     "t": "Le train part à dix-neuf heures trente.",
+     "tr": "luh trahn pahr ah deez-nuh VUHR TRAHNT · ল্য ত্রাঁ পার্ আ দিজ়্-ন্যভ্যর্ ত্রঁত্",
+     "mean": "The train leaves at seven thirty in the evening. · ট্রেনটি সন্ধ্যা সাড়ে সাতটায় ছাড়ে।",
+     "words": [
+      {
+       "t": "Le",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "train",
+       "mean": "train · ট্রেন"
+      },
+      {
+       "t": "part",
+       "mean": "leaves · ছাড়ে"
+      },
+      {
+       "t": "à",
+       "mean": "at · -টায়"
+      },
+      {
+       "t": "dix-neuf",
+       "mean": "nineteen · উনিশ"
+      },
+      {
+       "t": "heures",
+       "mean": "hundred hours · ঘণ্টা"
+      },
+      {
+       "t": "trente",
+       "mean": "thirty · ত্রিশ"
+      }
+     ],
+     "note": "Timetables use the twenty-four hour clock, so 7.30 pm is **dix-neuf heures trente**. In speech you would say **sept heures et demie du soir**. · সময়সূচিতে চব্বিশ ঘণ্টার হিসাব, মুখে বারো ঘণ্টার।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -610,6 +688,55 @@ LC.units.push({
        "mean": "last month · গত মাস"
       }
      ]
+    },
+    {
+     "t": "Elle est née le premier mars mille neuf cent quatre-vingts.",
+     "tr": "el eh nay luh pruh-MYAY mahrs meel nuhf sahn kah-truh-VAHN · এল্ এ নে ল্য প্র্যমীয়ে মার্স্ মিল্ ন্যফ্ সঁ কাত্র্-ভাঁ",
+     "mean": "She was born on the first of March 1980. · সে ১৯৮০ সালের পয়লা মার্চে জন্মেছিল।",
+     "words": [
+      {
+       "t": "Elle",
+       "mean": "she · সে"
+      },
+      {
+       "t": "est",
+       "mean": "was (helper) · (সহকারী ক্রিয়া)"
+      },
+      {
+       "t": "née",
+       "mean": "born (feminine) · জন্মেছিল"
+      },
+      {
+       "t": "le",
+       "mean": "on the · -তে"
+      },
+      {
+       "t": "premier",
+       "mean": "first · পয়লা"
+      },
+      {
+       "t": "mars",
+       "mean": "March · মার্চ"
+      },
+      {
+       "t": "mille",
+       "mean": "thousand · হাজার"
+      },
+      {
+       "t": "neuf",
+       "mean": "nine · নয়"
+      },
+      {
+       "t": "cent",
+       "mean": "hundred · শত"
+      },
+      {
+       "t": "quatre-vingts",
+       "mean": "eighty · আশি"
+      }
+     ],
+     "note": "Only the first of the month is an ordinal; the other days are plain numbers. Months are not capitalised in French. · কেবল পয়লা তারিখই ক্রমবাচক; মাসের নামে বড় হাতের অক্ষর লাগে না।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1085,6 +1212,51 @@ LC.units.push({
      "title": "Three more you will use · আরও তিনটি যা কাজে লাগবে"
     },
     {
+     "t": "Je voudrais un café et l'addition, s'il vous plaît.",
+     "tr": "zhuh voo-DREH uhn kah-FAY ay lah-dee-SYOHN seel voo PLEH · জ়্য ভুদ্রে আঁ কাফে এ লাদিসীয়ঁ, সিল্ ভু প্লে",
+     "mean": "I would like a coffee and the bill, please. · একটি কফি আর বিলটা দিন, দয়া করে।",
+     "words": [
+      {
+       "t": "Je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "voudrais",
+       "mean": "would like · চাইব"
+      },
+      {
+       "t": "un",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "café",
+       "mean": "coffee · কফি"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "l'addition",
+       "mean": "the bill · বিল"
+      },
+      {
+       "t": "s'il",
+       "mean": "if it · যদি তা"
+      },
+      {
+       "t": "vous",
+       "mean": "you · আপনাকে"
+      },
+      {
+       "t": "plaît",
+       "mean": "pleases · সন্তুষ্ট করে"
+      }
+     ],
+     "note": "**s'il vous plaît** is three words meaning *if it pleases you*. Say it as one; never leave it off an order. · **s'il vous plaît** আসলে তিন শব্দ — *যদি আপনার ভালো লাগে*।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud. In a French café the order is short; the politeness is in the ending. · জোরে পড়ুন; ক্যাফেতে অর্ডার ছোট হয়, ভদ্রতা থাকে শেষে।",
      "lines": [
@@ -1313,6 +1485,43 @@ LC.units.push({
       }
      ],
      "title": "Real exchanges · সত্যিকারের কথোপকথন"
+    },
+    {
+     "t": "Allez tout droit puis tournez à gauche.",
+     "tr": "ah-lay too DRWAH pwee toor-nay ah GOHSH · আলে তু দ্রোয়া পুই তুর্নে আ গোশ্",
+     "mean": "Go straight on, then turn left. · সোজা যান, তারপর বাঁয়ে ঘুরুন।",
+     "words": [
+      {
+       "t": "Allez",
+       "mean": "go · যান"
+      },
+      {
+       "t": "tout",
+       "mean": "all · সম্পূর্ণ"
+      },
+      {
+       "t": "droit",
+       "mean": "straight · সোজা"
+      },
+      {
+       "t": "puis",
+       "mean": "then · তারপর"
+      },
+      {
+       "t": "tournez",
+       "mean": "turn · ঘুরুন"
+      },
+      {
+       "t": "à",
+       "mean": "to · দিকে"
+      },
+      {
+       "t": "gauche",
+       "mean": "left · বাঁ"
+      }
+     ],
+     "note": "Directions come as commands, with no **vous**. **tout droit** is *straight on*; **à droite** is *to the right*, which is a different word entirely. · **tout droit** মানে সোজা, **à droite** মানে ডানে — দুটি আলাদা।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1548,6 +1757,43 @@ LC.units.push({
      "type": "tip",
      "kind": "tip",
      "text": "{{depuis}} plus the **present** tense means *for* or *since* an action still going on: {{J'habite ici depuis cinq ans}} — *I have lived here for five years*. English uses a past tense here; French does not. · depuis-এর সঙ্গে বর্তমান কাল বসে।"
+    },
+    {
+     "t": "Ne quittez pas, je vous le passe.",
+     "tr": "nuh kee-tay PAH zhuh voo luh PAHS · ন্য কিতে পা, জ়্য ভু ল্য পাস্",
+     "mean": "Hold on, I'll put you through. · ধরুন, আমি দিচ্ছি।",
+     "words": [
+      {
+       "t": "Ne",
+       "mean": "not (part 1) · না (প্রথম অংশ)"
+      },
+      {
+       "t": "quittez",
+       "mean": "leave · ছাড়ুন"
+      },
+      {
+       "t": "pas",
+       "mean": "not (part 2) · না (দ্বিতীয় অংশ)"
+      },
+      {
+       "t": "je",
+       "mean": "I · আমি"
+      },
+      {
+       "t": "vous",
+       "mean": "to you · আপনাকে"
+      },
+      {
+       "t": "le",
+       "mean": "him · তাকে"
+      },
+      {
+       "t": "passe",
+       "mean": "pass · দিচ্ছি"
+      }
+     ],
+     "note": "Literally *do not leave*. Two pronouns stack before the verb, in the order person then thing: **vous le**. · আক্ষরিক অর্থে *ছাড়বেন না*; দুটি সর্বনাম ক্রিয়ার আগে বসে।",
+     "type": "sentence"
     },
     {
      "type": "practice",

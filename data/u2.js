@@ -174,6 +174,47 @@ LC.units.push({
      ]
     },
     {
+     "t": "La décision du gouvernement est une bonne nouvelle.",
+     "tr": "lah day-see-ZYOHN dew goo-vehr-nuh-MAHN eh tewn bon noo-VEL · লা দেসিজ়ীয়ঁ দ্যু গুভের্ন্যমঁ এত্ ্যুন্ বন্ নুভেল্",
+     "mean": "The government's decision is good news. · সরকারের সিদ্ধান্তটি সুখবর।",
+     "words": [
+      {
+       "t": "La",
+       "mean": "the (feminine) · (স্ত্রীবাচক নির্দেশক)"
+      },
+      {
+       "t": "décision",
+       "mean": "decision · সিদ্ধান্ত"
+      },
+      {
+       "t": "du",
+       "mean": "of the · -এর"
+      },
+      {
+       "t": "gouvernement",
+       "mean": "government · সরকার"
+      },
+      {
+       "t": "est",
+       "mean": "is · হলো"
+      },
+      {
+       "t": "une",
+       "mean": "a (feminine) · একটি"
+      },
+      {
+       "t": "bonne",
+       "mean": "good (feminine) · ভালো"
+      },
+      {
+       "t": "nouvelle",
+       "mean": "piece of news · খবর"
+      }
+     ],
+     "note": "**-tion** and **-elle** are feminine, **-ment** is masculine, and **bonne** has to follow **nouvelle** into the feminine. · শেষাংশই লিঙ্গ ঠিক করে, আর বিশেষণ তার সঙ্গে মেলে।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each line aloud and listen to the article. The ending tells you which one to say. · জোরে পড়ুন ও নির্দেশক পদ শুনুন; শেষাংশই বলে দেয় কোনটি হবে।",
      "lines": [
@@ -377,6 +418,51 @@ LC.units.push({
      "type": "tip",
      "kind": "warn",
      "text": "A family name never takes s: {{les Rahman}}, {{les Dupont}}. · পারিবারিক নামে বহুবচনের s বসে না।"
+    },
+    {
+     "t": "Les journaux et les travaux sont sur la table.",
+     "tr": "lay zhoor-NOH ay lay trah-VOH sohn sewr lah TAHBL · লে জ়ুর্নো এ লে ত্রাভো সঁ স্যুর্ লা তাব্ল্",
+     "mean": "The newspapers and the works are on the table. · খবরের কাগজ আর কাজগুলো টেবিলের উপরে।",
+     "words": [
+      {
+       "t": "Les",
+       "mean": "the · (বহুবচনের নির্দেশক)"
+      },
+      {
+       "t": "journaux",
+       "mean": "newspapers · খবরের কাগজগুলো"
+      },
+      {
+       "t": "et",
+       "mean": "and · এবং"
+      },
+      {
+       "t": "les",
+       "mean": "the · (বহুবচনের নির্দেশক)"
+      },
+      {
+       "t": "travaux",
+       "mean": "works · কাজগুলো"
+      },
+      {
+       "t": "sont",
+       "mean": "are · আছে"
+      },
+      {
+       "t": "sur",
+       "mean": "on · উপরে"
+      },
+      {
+       "t": "la",
+       "mean": "the · (নির্দেশক)"
+      },
+      {
+       "t": "table",
+       "mean": "table · টেবিল"
+      }
+     ],
+     "note": "Words in **-al** turn into **-aux**, so the plural is heard but the s is not written. · **-al** হয়ে যায় **-aux**, তাই বহুবচনে s নেই।",
+     "type": "sentence"
     },
     {
      "type": "practice",
@@ -1187,6 +1273,35 @@ LC.units.push({
      "title": "Four more that shift · আরও চারটি যারা বদলায়"
     },
     {
+     "t": "C'est une vieille maison blanche.",
+     "tr": "seh tewn vyey meh-ZOHN BLAHNSH · সেত্ ্যুন্ ভীয়েই মেজ়ঁ ব্লঁশ্",
+     "mean": "It is an old white house. · এটি একটি পুরোনো সাদা বাড়ি।",
+     "words": [
+      {
+       "t": "C'est",
+       "mean": "it is · এটি"
+      },
+      {
+       "t": "une",
+       "mean": "a · একটি"
+      },
+      {
+       "t": "vieille",
+       "mean": "old (feminine) · পুরোনো"
+      },
+      {
+       "t": "maison",
+       "mean": "house · বাড়ি"
+      },
+      {
+       "t": "blanche",
+       "mean": "white (feminine) · সাদা"
+      }
+     ],
+     "note": "**vieille** comes before the noun and **blanche** after: age goes in front, colour goes behind. · বয়স আগে বসে, রং পরে।",
+     "type": "sentence"
+    },
+    {
      "type": "practice",
      "text": "Read each pair and feel the change in meaning. · প্রতিটি জোড়া পড়ুন এবং অর্থের পরিবর্তন অনুভব করুন।",
      "lines": [
@@ -1671,6 +1786,39 @@ LC.units.push({
        "mean": "I give it to him. · আমি তাকে এটি দিই।"
       }
      ]
+    },
+    {
+     "t": "Il y en a encore beaucoup.",
+     "tr": "eel ee ahn nah ahn-KOR boh-KOO · ইল্ ই অঁন্ আ অঁকর্ বোকু",
+     "mean": "There are still plenty of them. · এখনো অনেক আছে।",
+     "words": [
+      {
+       "t": "Il",
+       "mean": "it (impersonal) · (ভাববাচক)"
+      },
+      {
+       "t": "y",
+       "mean": "there · সেখানে"
+      },
+      {
+       "t": "en",
+       "mean": "of them · তার মধ্যে"
+      },
+      {
+       "t": "a",
+       "mean": "has · আছে"
+      },
+      {
+       "t": "encore",
+       "mean": "still · এখনো"
+      },
+      {
+       "t": "beaucoup",
+       "mean": "a lot · অনেক"
+      }
+     ],
+     "note": "Four of these six words are grammar rather than meaning. **y** always comes before **en**, never the other way round. · **y** সবসময় **en**-এর আগে বসে।",
+     "type": "sentence"
     },
     {
      "type": "practice",
