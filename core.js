@@ -53,6 +53,9 @@ window.LC = window.LC || { course: null, alphabet: null, units: [] };
   }
   const md = s => gloss(s, mdRaw);   /* meanings, notes, explanations */
   const gl = s => gloss(s, esc);     /* pronunciation lines and other plain strings */
+  /* A practice line is either plain target text, or that text with a gloss:
+     "bonjour"  or  { t: "bonjour", mean: "hello · নমস্কার" }. */
+  const lineOf = l => (l && typeof l === 'object') ? l : { t: l, mean: '' };
   const plain = s => String(s == null ? '' : s).replace(/\{\{|\}\}|\*\*/g, '');
   function hl(t, h, cls) {
     if (!h || String(t).indexOf(h) < 0) return esc(t);
@@ -81,5 +84,5 @@ window.LC = window.LC || { course: null, alphabet: null, units: [] };
   const joiner = C.cjk ? '' : ' ';
   const isHan = ch => /^[㐀-鿿豈-﫿]$/.test(ch);
 
-  window.LX = { C, esc, md, gl, plain, hl, fold, isTarget, prepare, seeded, joiner, isHan };
+  window.LX = { C, esc, md, gl, lineOf, plain, hl, fold, isTarget, prepare, seeded, joiner, isHan };
 })();

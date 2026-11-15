@@ -142,10 +142,22 @@ LC.units.push({
      "type": "practice",
      "text": "Say each number aloud, then write it. · প্রতিটি সংখ্যা জোরে বলুন, তারপর লিখুন।",
      "lines": [
-      "soixante-dix, soixante et onze, soixante-quinze",
-      "quatre-vingts, quatre-vingt-un, quatre-vingt-dix-neuf",
-      "deux cents, deux cent cinquante",
-      "mille neuf cent soixante et onze"
+      {
+       "t": "soixante-dix, soixante et onze, soixante-quinze",
+       "mean": "seventy, seventy-one, seventy-five · সত্তর, একাত্তর, পঁচাত্তর"
+      },
+      {
+       "t": "quatre-vingts, quatre-vingt-un, quatre-vingt-dix-neuf",
+       "mean": "eighty, eighty-one, ninety-nine · আশি, একাশি, নিরানব্বই"
+      },
+      {
+       "t": "deux cents, deux cent cinquante",
+       "mean": "two hundred, two hundred and fifty · দুইশ, দুইশ পঞ্চাশ"
+      },
+      {
+       "t": "mille neuf cent soixante et onze",
+       "mean": "nineteen seventy-one · উনিশশ একাত্তর"
+      }
      ]
     },
     {

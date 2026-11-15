@@ -922,6 +922,7 @@ html[data-gloss="bn"] .gl-sep { display: none; }
 .glbar button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 @media print { .glbar { display: none; } }
 .lesson-gloss { margin: 6px 0 10px; }
+.p-gloss { margin: -2px 0 10px; font-size: .9rem; color: var(--ink-2); }
 
 /* ---------- course theme: French Pro ---------- */
 :root { --paper: #f6f5f1; --surface-2: #ece9e0; --ink: #1b1a14; --ink-2: #55523f; --ink-3: #8a8670; --line: #dcd8c9; --primary: #7a1f2b; --primary-print: #7a1f2b; --c-teal: #7a1f2b; --cover: #4a1019;

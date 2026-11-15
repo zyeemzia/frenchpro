@@ -356,11 +356,26 @@ LC.units.push({
      "type": "practice",
      "text": "Say each singular, then its plural. Listen for which plurals actually change the sound. · একবচন বলে তার বহুবচন বলুন।",
      "lines": [
-      "le journal — les journaux",
-      "le bateau — les bateaux",
-      "le travail — les travaux",
-      "le genou — les genoux",
-      "l'œil — les yeux"
+      {
+       "t": "le journal — les journaux",
+       "mean": "the newspaper — the newspapers · সংবাদপত্র — সংবাদপত্রগুলো"
+      },
+      {
+       "t": "le bateau — les bateaux",
+       "mean": "the boat — the boats · নৌকা — নৌকাগুলো"
+      },
+      {
+       "t": "le travail — les travaux",
+       "mean": "the work — the works · কাজ — কাজগুলো"
+      },
+      {
+       "t": "le genou — les genoux",
+       "mean": "the knee — the knees · হাঁটু — হাঁটুগুলো"
+      },
+      {
+       "t": "l'œil — les yeux",
+       "mean": "the eye — the eyes · চোখ — চোখগুলো"
+      }
      ]
     },
     {
@@ -1097,10 +1112,22 @@ LC.units.push({
      "type": "practice",
      "text": "Read each pair and feel the change in meaning. · প্রতিটি জোড়া পড়ুন এবং অর্থের পরিবর্তন অনুভব করুন।",
      "lines": [
-      "un grand homme — un homme grand",
-      "ma chère amie — une voiture chère",
-      "mon propre livre — un livre propre",
-      "le seul enfant — un enfant seul"
+      {
+       "t": "un grand homme — un homme grand",
+       "mean": "a great man — a tall man · একজন মহান ব্যক্তি — একজন লম্বা মানুষ"
+      },
+      {
+       "t": "ma chère amie — une voiture chère",
+       "mean": "my dear friend — an expensive car · আমার প্রিয় বান্ধবী — একটি দামি গাড়ি"
+      },
+      {
+       "t": "mon propre livre — un livre propre",
+       "mean": "my own book — a clean book · আমার নিজের বই — একটি পরিষ্কার বই"
+      },
+      {
+       "t": "le seul enfant — un enfant seul",
+       "mean": "the only child — a lonely child · একমাত্র সন্তান — একাকী শিশু"
+      }
      ]
     },
     {

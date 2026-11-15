@@ -144,10 +144,22 @@ LC.units.push({
      "type": "practice",
      "text": "Conjugate aloud, then listen for which endings you actually hear. · জোরে রূপ বলুন, শুনুন কোনগুলো আসলে শোনা যায়।",
      "lines": [
-      "je parle, tu parles, il parle, ils parlent",
-      "nous parlons, vous parlez",
-      "je finis, nous finissons",
-      "il attend, ils attendent"
+      {
+       "t": "je parle, tu parles, il parle, ils parlent",
+       "mean": "I speak, you speak, he speaks, they speak · আমি বলি, তুমি বলো, সে বলে, তারা বলে"
+      },
+      {
+       "t": "nous parlons, vous parlez",
+       "mean": "we speak, you speak · আমরা বলি, আপনারা বলেন"
+      },
+      {
+       "t": "je finis, nous finissons",
+       "mean": "I finish, we finish · আমি শেষ করি, আমরা শেষ করি"
+      },
+      {
+       "t": "il attend, ils attendent",
+       "mean": "he waits, they wait · সে অপেক্ষা করে, তারা অপেক্ষা করে"
+      }
      ]
     },
     {

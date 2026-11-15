@@ -194,11 +194,26 @@ LC.units.push({
      "type": "practice",
      "text": "Read each line aloud twice. Keep the n silent, and let the sound out through your nose. · প্রতিটি লাইন দুবার জোরে পড়ুন। n নীরব রাখুন।",
      "lines": [
-      "un bon vin blanc",
-      "dans le grand jardin",
-      "mon oncle est content",
-      "cinq pains et un melon",
-      "il attend son enfant"
+      {
+       "t": "un bon vin blanc",
+       "mean": "a good white wine · একটি ভালো সাদা মদ"
+      },
+      {
+       "t": "dans le grand jardin",
+       "mean": "in the big garden · বড় বাগানে"
+      },
+      {
+       "t": "mon oncle est content",
+       "mean": "my uncle is happy · আমার কাকা খুশি"
+      },
+      {
+       "t": "cinq pains et un melon",
+       "mean": "five loaves and a melon · পাঁচটি রুটি আর একটি তরমুজ"
+      },
+      {
+       "t": "il attend son enfant",
+       "mean": "he is waiting for his child · সে তার সন্তানের জন্য অপেক্ষা করছে"
+      }
      ]
     },
     {
@@ -453,11 +468,26 @@ LC.units.push({
      "type": "practice",
      "text": "Read aloud. Say only what is heard, not what is written. · জোরে পড়ুন। যা শোনা যায় কেবল তাই বলুন।",
      "lines": [
-      "les petits enfants",
-      "ils parlent beaucoup",
-      "le prix est grand",
-      "vous êtes très gentil",
-      "elles arrivent avec le journal"
+      {
+       "t": "les petits enfants",
+       "mean": "the small children · ছোট শিশুরা"
+      },
+      {
+       "t": "ils parlent beaucoup",
+       "mean": "they talk a lot · তারা অনেক কথা বলে"
+      },
+      {
+       "t": "le prix est grand",
+       "mean": "the prize is big · পুরস্কারটি বড়"
+      },
+      {
+       "t": "vous êtes très gentil",
+       "mean": "you are very kind · আপনি খুব দয়ালু"
+      },
+      {
+       "t": "elles arrivent avec le journal",
+       "mean": "they arrive with the newspaper · তারা সংবাদপত্র নিয়ে আসে"
+      }
      ]
     },
     {
@@ -660,11 +690,26 @@ LC.units.push({
      "type": "practice",
      "text": "Read each line as one unbroken ribbon of sound. · প্রতিটি লাইন একটানা পড়ুন।",
      "lines": [
-      "nous avons un grand appartement",
-      "les enfants arrivent à onze heures",
-      "c'est très important",
-      "vous êtes un bon ami",
-      "ils ont deux enfants"
+      {
+       "t": "nous avons un grand appartement",
+       "mean": "we have a big flat · আমাদের একটি বড় ফ্ল্যাট আছে"
+      },
+      {
+       "t": "les enfants arrivent à onze heures",
+       "mean": "the children arrive at eleven · শিশুরা এগারোটায় আসে"
+      },
+      {
+       "t": "c'est très important",
+       "mean": "it is very important · এটি খুব গুরুত্বপূর্ণ"
+      },
+      {
+       "t": "vous êtes un bon ami",
+       "mean": "you are a good friend · আপনি একজন ভালো বন্ধু"
+      },
+      {
+       "t": "ils ont deux enfants",
+       "mean": "they have two children · তাদের দুটি সন্তান আছে"
+      }
      ]
     },
     {
@@ -1065,11 +1110,26 @@ LC.units.push({
      "type": "practice",
      "text": "Each line drills one sound. Slow first, then at speed. · প্রতিটি লাইন একটি ধ্বনির জন্য। আগে ধীরে, পরে দ্রুত।",
      "lines": [
-      "rouge, riche, rare, rire",
-      "tu as vu la rue",
-      "tout le monde court",
-      "je ne sais pas",
-      "le frère de Pierre regarde"
+      {
+       "t": "rouge, riche, rare, rire",
+       "mean": "red, rich, rare, to laugh · লাল, ধনী, বিরল, হাসা"
+      },
+      {
+       "t": "tu as vu la rue",
+       "mean": "you saw the street · তুমি রাস্তাটি দেখেছ"
+      },
+      {
+       "t": "tout le monde court",
+       "mean": "everyone is running · সবাই দৌড়াচ্ছে"
+      },
+      {
+       "t": "je ne sais pas",
+       "mean": "I do not know · আমি জানি না"
+      },
+      {
+       "t": "le frère de Pierre regarde",
+       "mean": "Pierre's brother is watching · পিয়েরের ভাই দেখছে"
+      }
      ]
     },
     {
@@ -1264,11 +1324,26 @@ LC.units.push({
      "type": "practice",
      "text": "Say each line as one group, leaning only on the final syllable. Then turn it into a question by letting your voice rise. · প্রতিটি লাইন একগুচ্ছ হিসেবে বলুন, কেবল শেষ অক্ষরে ভার দিন।",
      "lines": [
-      "Vous habitez à Dacca",
-      "Il travaille dans une banque",
-      "Elle est professeur de français",
-      "Nous allons au restaurant",
-      "Tu veux un café"
+      {
+       "t": "Vous habitez à Dacca",
+       "mean": "You live in Dhaka · আপনি ঢাকায় থাকেন"
+      },
+      {
+       "t": "Il travaille dans une banque",
+       "mean": "He works in a bank · সে একটি ব্যাংকে কাজ করে"
+      },
+      {
+       "t": "Elle est professeur de français",
+       "mean": "She is a French teacher · তিনি ফরাসির শিক্ষক"
+      },
+      {
+       "t": "Nous allons au restaurant",
+       "mean": "We are going to the restaurant · আমরা রেস্তোরাঁয় যাচ্ছি"
+      },
+      {
+       "t": "Tu veux un café",
+       "mean": "You want a coffee · তুমি এক কাপ কফি চাও"
+      }
      ]
     },
     {
