@@ -1698,6 +1698,243 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u6-acronyms",
+   "icon": "DELF",
+   "title": "Acronyms You Will Actually Meet · যে সংক্ষিপ্ত রূপগুলো সত্যিই চোখে পড়বে",
+   "subtitle": "The initials on French forms, exams and cash machines, and the ones that no longer exist · ফরাসি ফরম, পরীক্ষা ও এটিএমের আদ্যক্ষর, আর যেগুলো আর নেই",
+   "minutes": 11,
+   "goals": [
+    "Read the acronyms that appear on real French forms and signs · বাস্তব ফরম ও সাইনবোর্ডের সংক্ষিপ্ত রূপ পড়ুন",
+    "Know which famous initials have been abolished and what replaced them · কোন পরিচিত আদ্যক্ষর বিলুপ্ত আর তার বদলে কী এসেছে জানুন",
+    "Read each entry in all three languages · প্রতিটি ভুক্তি তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "French administration runs on initials. Most lists of them go stale quickly, because the bodies behind them are renamed every few years, so what follows is split in two: the ones you will meet today, and the famous ones that are gone. · ফরাসি প্রশাসন চলে আদ্যক্ষরে; সেগুলো দ্রুত পুরোনো হয়ে যায়, তাই এখানে দুই ভাগ — যেগুলো আজও চলে, আর যেগুলো বিলুপ্ত।"
+    },
+    {
+     "type": "table",
+     "title": "Still in use · এখনো চালু",
+     "head": [
+      "Short · সংক্ষেপ",
+      "In full · পূর্ণ রূপ",
+      "What it is · কী"
+     ],
+     "rows": [
+      [
+       "DELF",
+       "{{Diplôme d'Études en Langue Française}}",
+       "the standard French exam, levels A1 to B2 · প্রমিত ফরাসি পরীক্ষা, A1 থেকে B2"
+      ],
+      [
+       "DALF",
+       "{{Diplôme Approfondi de Langue Française}}",
+       "the advanced one, C1 and C2 · উচ্চতর স্তর, C1 ও C2"
+      ],
+      [
+       "DAB",
+       "{{Distributeur Automatique de Billets}}",
+       "cash machine · টাকা তোলার যন্ত্র"
+      ],
+      [
+       "CAPES",
+       "{{Certificat d'Aptitude au Professorat de l'Enseignement du Second degré}}",
+       "the secondary teaching qualification · মাধ্যমিক শিক্ষকতার সনদ"
+      ],
+      [
+       "CNES",
+       "{{Centre National d'Études Spatiales}}",
+       "the French space agency · ফরাসি মহাকাশ সংস্থা"
+      ],
+      [
+       "CGT",
+       "{{Confédération Générale du Travail}}",
+       "a large trade union · একটি বড় শ্রমিক সংঘ"
+      ],
+      [
+       "DG",
+       "{{Directeur Général}}",
+       "managing director · ব্যবস্থাপনা পরিচালক"
+      ],
+      [
+       "RDV",
+       "{{rendez-vous}}",
+       "appointment, on any form · ফরমে লেখা সাক্ষাৎকার"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Short forms in small ads · ছোট বিজ্ঞাপনের সংক্ষেপ",
+     "head": [
+      "Short · সংক্ষেপ",
+      "In full · পূর্ণ রূপ",
+      "Meaning · অর্থ"
+     ],
+     "rows": [
+      [
+       "ch",
+       "{{chambre}}",
+       "bedroom · শোবার ঘর"
+      ],
+      [
+       "cuis",
+       "{{cuisine}}",
+       "kitchen · রান্নাঘর"
+      ],
+      [
+       "dép",
+       "{{départ}}",
+       "departure · ছাড়ার সময়"
+      ],
+      [
+       "arr",
+       "{{arrivée}}",
+       "arrival · পৌঁছানোর সময়"
+      ],
+      [
+       "dépt",
+       "{{département}}",
+       "department, an administrative area · প্রশাসনিক জেলা"
+      ],
+      [
+       "RER",
+       "{{Réseau Express Régional}}",
+       "the fast suburban rail round Paris · প্যারিসের দ্রুত শহরতলি রেল"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "Three acronyms in the source book no longer exist. **ANPE**, the employment agency, was abolished in 2008; after a spell as **Pôle emploi** it became **France Travail** in 2024. **DESS** and **DEST** were folded into the **Master** when degrees were reformed. **CEG** has not existed since the 1970s. Learn them only to understand an old document. · বইয়ের তিনটি সংক্ষেপ আর নেই — **ANPE** এখন **France Travail**, **DESS**/**DEST** এখন **Master**, আর **CEG** সত্তরের দশকেই উঠে গেছে।"
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**DOM-TOM** is still said aloud, but the official term changed in 2003 to **DROM-COM**. If you write it in a formal document, use the newer form; if you hear it in conversation, people still mostly say the old one. · মুখে **DOM-TOM** চললেও সরকারি ভাষায় ২০০৩ সাল থেকে **DROM-COM**।"
+    },
+    {
+     "type": "examples",
+     "title": "In a sentence · বাক্যে",
+     "items": [
+      {
+       "t": "J'ai passé le DELF B2 l'année dernière.",
+       "tr": "zhay pah-SAY luh delf bay-DUH lah-nay dehr-NYEHR · জ়ে পাসে ল্য দেল্ফ্ বে-দ্য লানে দের্নীয়ের্",
+       "mean": "I took the DELF B2 last year · গত বছর আমি DELF B2 দিয়েছি",
+       "note": "**passer un examen** is to sit it, not to pass it · **passer** মানে পরীক্ষা দেওয়া, পাস করা নয়"
+      },
+      {
+       "t": "Il y a un DAB juste en face de la gare.",
+       "tr": "eel ee ah uhn DAHB zhewst ahn fahs duh lah GAHR · ইল্ ই আ আঁ দাব্ জ়্যুস্ত্ অঁ ফাস্ দ্য লা গার্",
+       "mean": "There is a cash machine right opposite the station · স্টেশনের ঠিক উল্টো দিকে একটি এটিএম আছে",
+       "note": "Said as one word, **dab**, not spelled out · একসঙ্গে *দাব্* বলা হয়, বানান করে নয়"
+      },
+      {
+       "t": "Prenez le RER B jusqu'à l'aéroport.",
+       "tr": "pruh-nay luh ehr-uh-EHR bay zhews-kah lah-ay-roh-POR · প্র্যনে ল্য এর্-য-এর্ বে জ়্যুস্কা লায়েরপর্",
+       "mean": "Take the RER B to the airport · বিমানবন্দর পর্যন্ত RER B ধরুন",
+       "note": "**RER** is spelled out letter by letter · **RER** অক্ষরে অক্ষরে বলা হয়"
+      },
+      {
+       "t": "Veuillez prendre rendez-vous avec le DG.",
+       "tr": "vuh-yay prahndr rahn-day-VOO ah-vek luh day-ZHAY · ভ্যইয়ে প্রঁদ্র্ রঁদে-ভু আভেক্ ল্য দে-জ়ে",
+       "mean": "Please make an appointment with the managing director · অনুগ্রহ করে ব্যবস্থাপনা পরিচালকের সঙ্গে সময় নিন",
+       "note": "**DG** is spelled out: *day-zhay* · **DG** বলা হয় *দে-জ়ে*"
+      }
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read each line aloud. Decide as you go whether the initials are said as a word or spelled out. · জোরে পড়ুন; ঠিক করুন আদ্যক্ষরগুলো শব্দের মতো বলবেন না অক্ষরে অক্ষরে।",
+     "lines": [
+      {
+       "t": "Je cherche un DAB ouvert.",
+       "mean": "I am looking for a cash machine that is open · খোলা একটি এটিএম খুঁজছি"
+      },
+      {
+       "t": "Elle prépare le DALF C1.",
+       "mean": "She is preparing for the DALF C1 · সে DALF C1-এর প্রস্তুতি নিচ্ছে"
+      },
+      {
+       "t": "Le RER est en grève aujourd'hui.",
+       "mean": "The RER is on strike today · আজ RER ধর্মঘটে"
+      },
+      {
+       "t": "Appartement 2 pièces, ch et cuis.",
+       "mean": "Two-room flat, bedroom and kitchen · দুই কামরার ফ্ল্যাট, শোবার ঘর ও রান্নাঘর"
+      },
+      {
+       "t": "Départ 8h10, arrivée 11h45.",
+       "mean": "Departure 8.10, arrival 11.45 · ছাড়বে ৮:১০, পৌঁছবে ১১:৪৫"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**DAB** on a street sign points to a… · রাস্তার সাইনে **DAB** মানে…",
+       "options": [
+        "cash machine · টাকা তোলার যন্ত্র",
+        "bus stop · বাস স্টপ",
+        "car park · গাড়ি রাখার জায়গা",
+        "post box · ডাকবাক্স"
+       ],
+       "answer": 0,
+       "explain": "**Distributeur Automatique de Billets** · টাকা বিতরণের যন্ত্র।"
+      },
+      {
+       "q": "Which exam is the advanced one? · কোন পরীক্ষাটি উচ্চতর স্তরের?",
+       "options": [
+        "DELF · দেল্ফ",
+        "DALF · দাল্ফ",
+        "CAPES · কাপেস্",
+        "DAB · দাব্"
+       ],
+       "answer": 1,
+       "explain": "**DALF** covers C1 and C2 · **DALF** C1 ও C2 স্তরের।"
+      },
+      {
+       "q": "**ANPE** has been replaced by… · **ANPE**-এর বদলে এখন…",
+       "options": [
+        "CNES · সঁত্র্ নাসীওনাল্",
+        "CAPES · কাপেস্",
+        "France Travail · ফ্রঁস ত্রাভাই",
+        "DOM-TOM · দম-তম"
+       ],
+       "answer": 2,
+       "explain": "Abolished in 2008, renamed again in 2024 · ২০০৮-এ বিলুপ্ত, ২০২৪-এ আবার নামবদল।"
+      },
+      {
+       "q": "In a small ad, **cuis** means… · ছোট বিজ্ঞাপনে **cuis** মানে…",
+       "options": [
+        "cellar · গুদামঘর",
+        "garden · বাগান",
+        "bathroom · স্নানঘর",
+        "kitchen · রান্নাঘর"
+       ],
+       "answer": 3,
+       "explain": "Short for **cuisine** · **cuisine**-এর সংক্ষেপ।"
+      },
+      {
+       "q": "**J'ai passé le DELF** means I… · **J'ai passé le DELF** মানে আমি…",
+       "options": [
+        "sat the exam · পরীক্ষা দিয়েছি",
+        "passed the exam · পাস করেছি",
+        "failed the exam · ফেল করেছি",
+        "booked the exam · পরীক্ষার তারিখ নিয়েছি"
+       ],
+       "answer": 0,
+       "explain": "A false friend: **passer** is to sit · মিথ্যা বন্ধু — **passer** মানে দেওয়া।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
