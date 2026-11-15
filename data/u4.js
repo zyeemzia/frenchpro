@@ -176,9 +176,9 @@ LC.units.push({
       {
        "q": "The plural of {{mille}} is… · {{mille}}-এর বহুবচন…",
        "options": [
-        "milliers",
+        "milliers · হাজারগুলি",
         "milles-s",
-        "mille — it never changes",
+        "mille — it never changes · mille — এটি কখনো বদলায় না",
         "milles"
        ],
        "answer": 2,
@@ -198,9 +198,9 @@ LC.units.push({
       {
        "q": "In French, 1 000,50 € means… · ফরাসিতে 1 000,50 € মানে…",
        "options": [
-        "one thousand euros and fifty cents",
-        "one hundred thousand euros",
-        "one thousand fifty euros",
+        "one thousand euros and fifty cents · এক হাজার ইউরো পঞ্চাশ সেন্ট",
+        "one hundred thousand euros · এক লাখ ইউরো",
+        "one thousand fifty euros · এক হাজার পঞ্চাশ ইউরো",
         "ten euros fifty"
        ],
        "answer": 0,
@@ -378,10 +378,10 @@ LC.units.push({
       {
        "q": "Why is it {{midi et demi}} without an e? · {{midi et demi}}-তে e নেই কেন?",
        "options": [
-        "demi never agrees",
-        "It is an abbreviation",
-        "Noon is a special case",
-        "midi is masculine"
+        "demi never agrees · demi কখনো সমতা নেয় না",
+        "It is an abbreviation · এটি একটি সংক্ষেপ",
+        "Noon is a special case · দুপুর একটি বিশেষ ক্ষেত্র",
+        "midi is masculine · midi পুংলিঙ্গ"
        ],
        "answer": 3,
        "explain": "{{heure}} is feminine so takes demie; {{midi}} is masculine. · {{heure}} স্ত্রীলিঙ্গ বলে demie হয়; {{midi}} পুংলিঙ্গ।"
@@ -815,9 +815,9 @@ LC.units.push({
        "q": "{{la monnaie}} means… · {{la monnaie}} মানে…",
        "options": [
         "change",
-        "money in general",
-        "a banknote",
-        "a bank"
+        "money in general · সাধারণভাবে টাকা",
+        "a banknote · একটি নোট",
+        "a bank · একটি ব্যাংক"
        ],
        "answer": 0,
        "explain": "{{l'argent}} is money; {{la monnaie}} is change. · {{l'argent}} মানে টাকা; {{la monnaie}} মানে খুচরো।"
@@ -847,10 +847,10 @@ LC.units.push({
       {
        "q": "{{le taux de change}} means… · {{le taux de change}} মানে…",
        "options": [
-        "the price list",
-        "the cash desk",
-        "the account number",
-        "the exchange rate"
+        "the price list · দামের তালিকা",
+        "the cash desk · ক্যাশ কাউন্টার",
+        "the account number · হিসাব নম্বর",
+        "the exchange rate · বিনিময় হার"
        ],
        "answer": 3,
        "explain": "Useful at any bank or bureau de change. · যেকোনো ব্যাংক বা মুদ্রা বিনিময় কেন্দ্রে কাজে লাগে।"
@@ -1148,7 +1148,7 @@ LC.units.push({
       [
        "Where is…? · …কোথায়?",
        "{{Où est… ?}}",
-       "straight on",
+       "straight on · সোজা",
        "{{tout droit}}"
       ],
       [
@@ -1204,10 +1204,10 @@ LC.units.push({
       {
        "q": "{{le rez-de-chaussée}} is… · {{le rez-de-chaussée}} মানে…",
        "options": [
-        "the top floor",
-        "the ground floor",
-        "the first floor",
-        "the basement"
+        "the top floor · সবচেয়ে উপরের তলা",
+        "the ground floor · নিচতলা",
+        "the first floor · প্রথম তলা",
+        "the basement · বেসমেন্ট"
        ],
        "answer": 1,
        "explain": "{{le premier étage}} is one flight above it. · {{le premier étage}} তার এক তলা উপরে।"
@@ -1226,10 +1226,10 @@ LC.units.push({
       {
        "q": "{{tout droit}} means… · {{tout droit}} মানে…",
        "options": [
-        "to the right",
-        "all right",
-        "very straight",
-        "straight on"
+        "to the right · ডান দিকে",
+        "all right · ঠিক আছে",
+        "very straight · একেবারে সোজা",
+        "straight on · সোজা"
        ],
        "answer": 3,
        "explain": "A classic trap: it is not {{à droite}}. · চেনা ফাঁদ: এটি {{à droite}} নয়।"
@@ -1457,10 +1457,10 @@ LC.units.push({
       {
        "q": "When is {{Allô}} used? · {{Allô}} কখন ব্যবহৃত হয়?",
        "options": [
-        "Only when answering the door",
-        "In formal letters",
-        "Only on the telephone",
-        "As a general greeting"
+        "Only when answering the door · কেবল দরজা খোলার সময়",
+        "In formal letters · আনুষ্ঠানিক চিঠিতে",
+        "Only on the telephone · কেবল টেলিফোনে",
+        "As a general greeting · সাধারণ অভিবাদন হিসেবে"
        ],
        "answer": 2,
        "explain": "Face to face it sounds comic. · সামনাসামনি বললে হাস্যকর শোনায়।"

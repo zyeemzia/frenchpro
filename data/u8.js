@@ -383,10 +383,10 @@ LC.units.push({
       {
        "q": "{{une addition}} in a restaurant means… · রেস্তোরাঁয় {{une addition}} মানে…",
        "options": [
-        "the bill",
-        "a second helping",
-        "an extra charge",
-        "a side dish"
+        "the bill · বিল",
+        "a second helping · দ্বিতীয়বার খাবার",
+        "an extra charge · বাড়তি খরচ",
+        "a side dish · একটি সহযোগী পদ"
        ],
        "answer": 0,
        "explain": "It also means *addition* in arithmetic · হোটেলের বিল।"
@@ -394,10 +394,10 @@ LC.units.push({
       {
        "q": "{{actuellement}} means… · {{actuellement}} মানে…",
        "options": [
-        "currently",
-        "actually",
-        "accurately",
-        "eventually"
+        "currently · বর্তমানে",
+        "actually · আসলে",
+        "accurately · নিখুঁতভাবে",
+        "eventually · শেষ পর্যন্ত"
        ],
        "answer": 0,
        "explain": "A false friend · এই সময়ে; বর্তমানে।"
@@ -416,10 +416,10 @@ LC.units.push({
       {
        "q": "{{accueillir}} means… · {{accueillir}} মানে…",
        "options": [
-        "to accuse",
-        "to accept",
-        "to gather",
-        "to welcome"
+        "to accuse · অভিযোগ করা",
+        "to accept · গ্রহণ করা",
+        "to gather · জড়ো করা",
+        "to welcome · স্বাগত জানানো"
        ],
        "answer": 3,
        "explain": "অভ্যর্থনা জানানো।"
@@ -427,10 +427,10 @@ LC.units.push({
       {
        "q": "{{un achat}} is… · {{un achat}} মানে…",
        "options": [
-        "a purchase",
-        "a buyer",
-        "a shop",
-        "a price"
+        "a purchase · একটি কেনাকাটা",
+        "a buyer · একজন ক্রেতা",
+        "a shop · একটি দোকান",
+        "a price · একটি দাম"
        ],
        "answer": 0,
        "explain": "{{acheter}} is to buy · ক্রয়।"
@@ -798,10 +798,10 @@ LC.units.push({
       {
        "q": "{{un aller-retour}} is… · {{un aller-retour}} মানে…",
        "options": [
-        "a round trip by car",
-        "a departure board",
-        "a return ticket",
-        "a one-way ticket"
+        "a round trip by car · গাড়িতে যাওয়া-আসা",
+        "a departure board · ছাড়ার সময়ের বোর্ড",
+        "a return ticket · একটি যাওয়া-আসার টিকিট",
+        "a one-way ticket · একমুখী টিকিট"
        ],
        "answer": 2,
        "explain": "{{un aller simple}} is one-way · আসা-যাওয়া।"
@@ -809,10 +809,10 @@ LC.units.push({
       {
        "q": "{{une allumette}} means… · {{une allumette}} মানে…",
        "options": [
-        "a lighter",
-        "a candle",
-        "a match",
-        "a lamp"
+        "a lighter · একটি লাইটার",
+        "a candle · একটি মোমবাতি",
+        "a match · একটি দেশলাই কাঠি",
+        "a lamp · একটি বাতি"
        ],
        "answer": 2,
        "explain": "From {{allumer}}, to light · দিয়াশলাই।"
@@ -832,9 +832,9 @@ LC.units.push({
        "q": "{{alors que}} means… · {{alors que}} মানে…",
        "options": [
         "whereas, while",
-        "so then",
+        "so then · তাহলে",
         "at once",
-        "although not"
+        "although not · যদিও নয়"
        ],
        "answer": 0,
        "explain": "A connective · তখন; অথচ।"
@@ -842,10 +842,10 @@ LC.units.push({
       {
        "q": "{{une amende}} is… · {{une amende}} মানে…",
        "options": [
-        "an amendment",
-        "an almond",
-        "a reward",
-        "a fine"
+        "an amendment · একটি সংশোধনী",
+        "an almond · একটি কাঠবাদাম",
+        "a reward · একটি পুরস্কার",
+        "a fine · একটি জরিমানা"
        ],
        "answer": 3,
        "explain": "A false friend · জরিমানা।"
@@ -1198,10 +1198,10 @@ LC.units.push({
       {
        "q": "{{un appareil}} most often means… · {{un appareil}} সাধারণত মানে…",
        "options": [
-        "a camera or device",
-        "an apparel shop",
-        "an apartment",
-        "an appeal"
+        "a camera or device · একটি ক্যামেরা বা যন্ত্র",
+        "an apparel shop · একটি পোশাকের দোকান",
+        "an apartment · একটি ফ্ল্যাট",
+        "an appeal · একটি আবেদন"
        ],
        "answer": 0,
        "explain": "{{un appareil photo}} is a camera · যন্ত্র বা ক্যামেরা।"
@@ -1209,10 +1209,10 @@ LC.units.push({
       {
        "q": "{{un argent}} carries two meanings — which pair? · {{un argent}}-এর দুটি অর্থ কোন জোড়া?",
        "options": [
-        "money and paper",
-        "gold and jewellery",
-        "silver and money",
-        "silver and iron"
+        "money and paper · টাকা ও কাগজ",
+        "gold and jewellery · সোনা ও গয়না",
+        "silver and money · রুপা ও টাকা",
+        "silver and iron · রুপা ও লোহা"
        ],
        "answer": 2,
        "explain": "The metal gave its name to the cash · ধাতুর নাম থেকেই টাকার নাম।"
@@ -1233,8 +1233,8 @@ LC.units.push({
        "options": [
         "also",
         "as early as",
-        "immediately",
-        "almost"
+        "immediately · সঙ্গে সঙ্গে",
+        "almost · প্রায়"
        ],
        "answer": 2,
        "explain": "Literally *as soon* · আক্ষরিক অর্থে *ঠিক তখনই*।"
@@ -1242,10 +1242,10 @@ LC.units.push({
       {
        "q": "{{un âne}} said of a person means… · কোনো মানুষকে {{un âne}} বললে বোঝায়…",
        "options": [
-        "a stubborn fool",
-        "a hard worker",
-        "a rich man",
-        "an old friend"
+        "a stubborn fool · একজন একগুঁয়ে বোকা",
+        "a hard worker · একজন পরিশ্রমী",
+        "a rich man · একজন ধনী",
+        "an old friend · একজন পুরোনো বন্ধু"
        ],
        "answer": 0,
        "explain": "The donkey carries the same insult in both languages · দুই ভাষাতেই গাধা একই গালি।"
@@ -1522,10 +1522,10 @@ LC.units.push({
       {
        "q": "Where do you buy bread? · রুটি কোথায় কেনেন?",
        "options": [
-        "chez le boulanger",
-        "à la boulangerie",
-        "both are correct",
-        "à la banque"
+        "chez le boulanger · রুটিওয়ালার কাছে",
+        "à la boulangerie · রুটির দোকানে",
+        "both are correct · দুটিই ঠিক",
+        "à la banque · ব্যাংকে"
        ],
        "answer": 2,
        "explain": "The baker or the bakery — French uses both · দুটোই চলে।"
@@ -1533,10 +1533,10 @@ LC.units.push({
       {
        "q": "{{la banlieue}} means… · {{la banlieue}} মানে…",
        "options": [
-        "the boulevard",
-        "the bank",
-        "the suburb",
-        "the bench"
+        "the boulevard · চওড়া রাস্তা",
+        "the bank · ব্যাংক",
+        "the suburb · শহরতলি",
+        "the bench · বেঞ্চ"
        ],
        "answer": 2,
        "explain": "The ring of towns around a city · শহরের চারপাশের এলাকা।"
@@ -1545,7 +1545,7 @@ LC.units.push({
        "q": "{{le blé}} is… · {{le blé}} মানে…",
        "options": [
         "wound",
-        "wood",
+        "wood · কাঠ",
         "blue",
         "wheat"
        ],
@@ -1566,10 +1566,10 @@ LC.units.push({
       {
        "q": "{{bien sûr}} means… · {{bien sûr}} মানে…",
        "options": [
-        "very sure of himself",
+        "very sure of himself · নিজের উপর খুব আত্মবিশ্বাসী",
         "well above",
         "quite sour",
-        "of course"
+        "of course · অবশ্যই"
        ],
        "answer": 3,
        "explain": "A fixed phrase, always two words · নির্দিষ্ট বাক্যাংশ, সবসময় দুই শব্দ।"
@@ -1995,10 +1995,10 @@ LC.units.push({
       {
        "q": "{{car}} in a French sentence means… · ফরাসি বাক্যে {{car}} মানে…",
        "options": [
-        "a cart",
-        "a motor car",
-        "because, for",
-        "a railway carriage"
+        "a cart · একটি গাড়ি",
+        "a motor car · একটি মোটরগাড়ি",
+        "because, for · কারণ, যেহেতু",
+        "a railway carriage · একটি রেলগাড়ির কামরা"
        ],
        "answer": 2,
        "explain": "A conjunction. The vehicle is {{une voiture}} · এটি সংযোজক; গাড়ি হলো {{une voiture}}।"
@@ -2006,10 +2006,10 @@ LC.units.push({
       {
        "q": "In a newspaper, {{un canard}} is… · খবরের কাগজে {{un canard}} মানে…",
        "options": [
-        "the front page",
-        "a cartoon",
-        "a duck recipe",
-        "a false story"
+        "the front page · প্রথম পাতা",
+        "a cartoon · একটি কার্টুন",
+        "a duck recipe · হাঁসের রান্নার প্রণালি",
+        "a false story · একটি বানানো গল্প"
        ],
        "answer": 3,
        "explain": "The duck lends its name to a hoax · হাঁস থেকেই গুজবের নাম।"
@@ -2017,9 +2017,9 @@ LC.units.push({
       {
        "q": "{{cependant}} means… · {{cependant}} মানে…",
        "options": [
-        "immediately",
+        "immediately · সঙ্গে সঙ্গে",
         "during",
-        "however",
+        "however · তবে",
         "depending"
        ],
        "answer": 2,
@@ -2039,10 +2039,10 @@ LC.units.push({
       {
        "q": "{{c'est-à-dire}} is the French equivalent of… · {{c'est-à-dire}} ইংরেজির কোনটির সমতুল্য?",
        "options": [
-        "etc.",
-        "N.B.",
-        "e.g.",
-        "i.e."
+        "etc. · ইত্যাদি",
+        "N.B. · বিশেষ দ্রষ্টব্য",
+        "e.g. · উদাহরণস্বরূপ",
+        "i.e. · অর্থাৎ"
        ],
        "answer": 3,
        "explain": "Often abbreviated {{c.-à-d.}} · সংক্ষেপে {{c.-à-d.}}।"
@@ -2263,10 +2263,10 @@ LC.units.push({
       {
        "q": "{{le chef}} in ordinary French means… · সাধারণ ফরাসিতে {{le chef}} মানে…",
        "options": [
-        "a chapter",
-        "a cook only",
-        "the head, the boss",
-        "a chief of police"
+        "a chapter · একটি অধ্যায়",
+        "a cook only · কেবল রাঁধুনি",
+        "the head, the boss · প্রধান, মালিক",
+        "a chief of police · পুলিশপ্রধান"
        ],
        "answer": 2,
        "explain": "A cook is {{le cuisinier}} · রাঁধুনি হলো {{le cuisinier}}।"
@@ -2285,10 +2285,10 @@ LC.units.push({
       {
        "q": "{{la clé}} and {{la clef}} are… · {{la clé}} ও {{la clef}} হলো…",
        "options": [
-        "singular and plural",
-        "two different words",
-        "one word, two spellings",
-        "key and lock"
+        "singular and plural · একবচন ও বহুবচন",
+        "two different words · দুটি আলাদা শব্দ",
+        "one word, two spellings · এক শব্দ, দুই বানান",
+        "key and lock · চাবি ও তালা"
        ],
        "answer": 2,
        "explain": "Both said KLAY · দুটোরই উচ্চারণ KLAY।"
@@ -2296,10 +2296,10 @@ LC.units.push({
       {
        "q": "{{le chemin de fer}} must mean… · {{le chemin de fer}} মানে…",
        "options": [
-        "the iron road — railway",
-        "the firm path",
-        "the farm track",
-        "the iron gate"
+        "the iron road — railway · লোহার পথ — রেলপথ",
+        "the firm path · শক্ত পথ",
+        "the farm track · খামারের পথ",
+        "the iron gate · লোহার ফটক"
        ],
        "answer": 0,
        "explain": "Literally *the road of iron* · আক্ষরিক অর্থে *লোহার রাস্তা* — রেলপথ।"
@@ -2307,10 +2307,10 @@ LC.units.push({
       {
        "q": "{{le cheveu}} refers to… · {{le cheveu}} বোঝায়…",
        "options": [
-        "a horse",
-        "a goat",
-        "hair on the head",
-        "a cheque"
+        "a horse · একটি ঘোড়া",
+        "a goat · একটি ছাগল",
+        "hair on the head · মাথার চুল",
+        "a cheque · একটি চেক"
        ],
        "answer": 2,
        "explain": "The horse is {{le cheval}} · ঘোড়া হলো {{le cheval}}।"
@@ -2531,10 +2531,10 @@ LC.units.push({
       {
        "q": "{{le collège}} in France is… · ফ্রান্সে {{le collège}} মানে…",
        "options": [
-        "a college of law",
-        "a boarding house",
-        "a university",
-        "a secondary school"
+        "a college of law · আইন কলেজ",
+        "a boarding house · একটি বোর্ডিং হাউস",
+        "a university · একটি বিশ্ববিদ্যালয়",
+        "a secondary school · একটি মাধ্যমিক বিদ্যালয়"
        ],
        "answer": 3,
        "explain": "University is {{l'université}} · বিশ্ববিদ্যালয় হলো {{l'université}}।"
@@ -2542,8 +2542,8 @@ LC.units.push({
       {
        "q": "{{le congé}} means… · {{le congé}} মানে…",
        "options": [
-        "a conference",
-        "a congress",
+        "a conference · একটি সম্মেলন",
+        "a congress · একটি কংগ্রেস",
         "leave, time off",
         "congestion"
        ],
@@ -2553,10 +2553,10 @@ LC.units.push({
       {
        "q": "{{le conseil}} can mean both… · {{le conseil}} দুটি অর্থ বহন করে…",
        "options": [
-        "advice and a council",
-        "consent and counsel",
-        "a console and advice",
-        "a council and a contract"
+        "advice and a council · পরামর্শ ও পরিষদ",
+        "consent and counsel · সম্মতি ও পরামর্শ",
+        "a console and advice · কনসোল ও পরামর্শ",
+        "a council and a contract · পরিষদ ও চুক্তি"
        ],
        "answer": 0,
        "explain": "{{le Conseil des ministres}} is the cabinet · {{le Conseil des ministres}} মানে মন্ত্রিসভা।"
@@ -2564,10 +2564,10 @@ LC.units.push({
       {
        "q": "A {{contrôle}} at school is… · স্কুলে {{contrôle}} মানে…",
        "options": [
-        "a controller",
-        "a correction",
-        "a remote control",
-        "a test"
+        "a controller · একজন নিয়ন্ত্রক",
+        "a correction · একটি সংশোধন",
+        "a remote control · একটি রিমোট",
+        "a test · একটি পরীক্ষা"
        ],
        "answer": 3,
        "explain": "A class test or check · শ্রেণি পরীক্ষা।"
@@ -2575,10 +2575,10 @@ LC.units.push({
       {
        "q": "{{le comptable}} keeps… · {{le comptable}} রাখেন…",
        "options": [
-        "the accounts",
-        "the counter",
-        "the contracts",
-        "the keys"
+        "the accounts · হিসাবপত্র",
+        "the counter · কাউন্টার",
+        "the contracts · চুক্তিপত্র",
+        "the keys · চাবিগুলো"
        ],
        "answer": 0,
        "explain": "From {{compter}}, to count · {{compter}} অর্থাৎ গোনা থেকে।"
@@ -2783,10 +2783,10 @@ LC.units.push({
       {
        "q": "{{la cuisinière}} has two meanings — which pair? · {{la cuisinière}}-এর দুটি অর্থ কোন জোড়া?",
        "options": [
-        "a recipe and a cook",
-        "a cook and a kitchen",
-        "a cook and a cooker",
-        "a kitchen and a cupboard"
+        "a recipe and a cook · রান্নার প্রণালি ও রাঁধুনি",
+        "a cook and a kitchen · রাঁধুনি ও রান্নাঘর",
+        "a cook and a cooker · রাঁধুনি ও রান্নার চুলা",
+        "a kitchen and a cupboard · রান্নাঘর ও আলমারি"
        ],
        "answer": 2,
        "explain": "The woman who cooks, and the stove she cooks on · রাঁধুনি আর যে চুলায় রাঁধেন।"
@@ -2794,10 +2794,10 @@ LC.units.push({
       {
        "q": "{{la correspondance}} on a train ticket means… · ট্রেনের টিকিটে {{la correspondance}} মানে…",
        "options": [
-        "a correction",
-        "a compartment",
-        "a letter",
-        "a connection"
+        "a correction · একটি সংশোধন",
+        "a compartment · একটি কামরা",
+        "a letter · একটি চিঠি",
+        "a connection · একটি সংযোগ"
        ],
        "answer": 3,
        "explain": "The change from one train to the next · এক ট্রেন থেকে আরেক ট্রেনে বদল।"
@@ -2808,7 +2808,7 @@ LC.units.push({
         "capable",
         "cuttable",
         "guilty",
-        "a couple"
+        "a couple · একটি জুটি"
        ],
        "answer": 2,
        "explain": "{{capable}} is the one that means *able* · *সক্ষম* হলো {{capable}}।"
@@ -2816,10 +2816,10 @@ LC.units.push({
       {
        "q": "{{la côte}} does **not** mean… · {{la côte}} যা **নয়**…",
        "options": [
-        "the coast",
-        "a rib",
-        "a slope",
-        "a coat"
+        "the coast · উপকূল",
+        "a rib · একটি পাঁজর",
+        "a slope · একটি ঢাল",
+        "a coat · একটি কোট"
        ],
        "answer": 3,
        "explain": "A coat is {{le manteau}} · কোট হলো {{le manteau}}।"
@@ -3042,7 +3042,7 @@ LC.units.push({
        "q": "{{le déjeuner}} in France is… · ফ্রান্সে {{le déjeuner}} মানে…",
        "options": [
         "dinner",
-        "a snack",
+        "a snack · একটি জলখাবার",
         "breakfast",
         "lunch"
        ],
@@ -3052,9 +3052,9 @@ LC.units.push({
       {
        "q": "{{déménager}} means… · {{déménager}} মানে…",
        "options": [
-        "to dismiss",
-        "to manage badly",
-        "to move house",
+        "to dismiss · বরখাস্ত করা",
+        "to manage badly · খারাপভাবে সামলানো",
+        "to move house · বাসা বদলানো",
         "to demand"
        ],
        "answer": 2,
@@ -3063,10 +3063,10 @@ LC.units.push({
       {
        "q": "{{Défense de fumer}} on a sign means… · সাইনবোর্ডে {{Défense de fumer}} মানে…",
        "options": [
-        "fire defence",
-        "smoke alarm",
-        "smoking area",
-        "no smoking"
+        "fire defence · অগ্নিনির্বাপণ",
+        "smoke alarm · ধোঁয়ার সংকেত",
+        "smoking area · ধূমপানের জায়গা",
+        "no smoking · ধূমপান নিষেধ"
        ],
        "answer": 3,
        "explain": "{{la défense}} here is a prohibition · এখানে {{la défense}} মানে নিষেধ।"
@@ -3074,9 +3074,9 @@ LC.units.push({
       {
        "q": "{{davantage}} means… · {{davantage}} মানে…",
        "options": [
-        "in front",
-        "an advantage",
-        "more",
+        "in front · সামনে",
+        "an advantage · একটি সুবিধা",
+        "more · আরও",
         "beforehand"
        ],
        "answer": 2,
@@ -3085,10 +3085,10 @@ LC.units.push({
       {
        "q": "The prefix {{dé-}} usually… · {{dé-}} উপসর্গ সাধারণত…",
        "options": [
-        "makes it past",
-        "makes it polite",
-        "strengthens the verb",
-        "reverses the verb"
+        "makes it past · এটিকে অতীত করে",
+        "makes it polite · এটিকে ভদ্র করে",
+        "strengthens the verb · ক্রিয়াকে জোরালো করে",
+        "reverses the verb · ক্রিয়ার ক্রম উল্টে দেয়"
        ],
        "answer": 3,
        "explain": "Like English *un-* or *dis-* · ইংরেজি *un-* বা *dis-*-এর মতো।"
@@ -3310,9 +3310,9 @@ LC.units.push({
       {
        "q": "{{le devoir}} at school means… · স্কুলে {{le devoir}} মানে…",
        "options": [
-        "a device",
-        "a debate",
-        "a duty roster",
+        "a device · একটি যন্ত্র",
+        "a debate · একটি বিতর্ক",
+        "a duty roster · কর্তব্যের তালিকা",
         "homework"
        ],
        "answer": 3,
@@ -3321,10 +3321,10 @@ LC.units.push({
       {
        "q": "A French {{département}} is… · ফরাসি {{département}} হলো…",
        "options": [
-        "a university faculty only",
-        "a shop floor",
-        "an administrative district",
-        "a departure"
+        "a university faculty only · কেবল বিশ্ববিদ্যালয়ের অনুষদ",
+        "a shop floor · দোকানের মেঝে",
+        "an administrative district · একটি প্রশাসনিক এলাকা",
+        "a departure · একটি প্রস্থান"
        ],
        "answer": 2,
        "explain": "France has 101 of them · ফ্রান্সে এমন ১০১টি আছে।"
@@ -3333,7 +3333,7 @@ LC.units.push({
        "q": "{{depuis}} means… · {{depuis}} মানে…",
        "options": [
         "since",
-        "after",
+        "after · পরে",
         "despite",
         "beyond"
        ],
@@ -3531,9 +3531,9 @@ LC.units.push({
       {
        "q": "{{une douzaine}} is… · {{une douzaine}} মানে…",
        "options": [
-        "two",
+        "two · দুই",
         "twenty",
-        "about ten",
+        "about ten · দশেক",
         "twelve"
        ],
        "answer": 3,
@@ -3542,10 +3542,10 @@ LC.units.push({
       {
        "q": "{{Tout droit}} as a direction means… · দিকনির্দেশে {{Tout droit}} মানে…",
        "options": [
-        "the far right",
+        "the far right · একেবারে ডানে",
         "turn right",
-        "straight on",
-        "all rights"
+        "straight on · সোজা",
+        "all rights · সব অধিকার"
        ],
        "answer": 2,
        "explain": "{{à droite}} is the one that means *to the right* · ডানে হলো {{à droite}}।"
@@ -3564,10 +3564,10 @@ LC.units.push({
       {
        "q": "{{donc}} means… · {{donc}} মানে…",
        "options": [
-        "therefore",
-        "although",
-        "while",
-        "until"
+        "therefore · অতএব",
+        "although · যদিও",
+        "while · যখন",
+        "until · যতক্ষণ না"
        ],
        "answer": 0,
        "explain": "The conclusion word · সিদ্ধান্তসূচক শব্দ।"
@@ -3816,7 +3816,7 @@ LC.units.push({
        "options": [
         "cheques",
         "echoes",
-        "failures only",
+        "failures only · কেবল ব্যর্থতা",
         "chess"
        ],
        "answer": 3,
@@ -3825,10 +3825,10 @@ LC.units.push({
       {
        "q": "{{un élève}} is… · {{un élève}} মানে…",
        "options": [
-        "an eleven",
-        "a teacher",
-        "a pupil",
-        "a lift"
+        "an eleven · একটি এগারো",
+        "a teacher · একজন শিক্ষক",
+        "a pupil · একজন ছাত্র",
+        "a lift · একটি লিফট"
        ],
        "answer": 2,
        "explain": "The teacher is {{un professeur}} · শিক্ষক হলো {{un professeur}}।"
@@ -3836,10 +3836,10 @@ LC.units.push({
       {
        "q": "{{embrasser}} in modern French usually means… · আধুনিক ফরাসিতে {{embrasser}} সাধারণত মানে…",
        "options": [
-        "to kiss",
-        "to embarrass",
-        "to embrace a cause",
-        "to arrest"
+        "to kiss · চুমু খাওয়া",
+        "to embarrass · অপ্রস্তুত করা",
+        "to embrace a cause · কোনো আদর্শ গ্রহণ করা",
+        "to arrest · গ্রেপ্তার করা"
        ],
        "answer": 0,
        "explain": "{{Je t'embrasse}} closes a friendly letter · চিঠির শেষে {{Je t'embrasse}} লেখা হয়।"
@@ -3858,10 +3858,10 @@ LC.units.push({
       {
        "q": "{{environ}} before a number means… · সংখ্যার আগে {{environ}} মানে…",
        "options": [
-        "at most",
-        "over",
+        "at most · বড়জোর",
+        "over · উপরে",
         "exactly",
-        "about"
+        "about · সম্পর্কে"
        ],
        "answer": 3,
        "explain": "{{environ dix}} — about ten · {{environ dix}} মানে প্রায় দশ।"
@@ -4103,10 +4103,10 @@ LC.units.push({
       {
        "q": "{{un étranger}} is… · {{un étranger}} মানে…",
        "options": [
-        "an estranged friend",
-        "a stranger only",
-        "a foreigner",
-        "a strangler"
+        "an estranged friend · একজন বিচ্ছিন্ন বন্ধু",
+        "a stranger only · কেবল একজন অপরিচিত",
+        "a foreigner · একজন বিদেশি",
+        "a strangler · একজন শ্বাসরোধকারী"
        ],
        "answer": 2,
        "explain": "{{l'étranger}} also means *abroad* · {{l'étranger}} বিদেশও বোঝায়।"
@@ -4114,10 +4114,10 @@ LC.units.push({
       {
        "q": "{{un exposé}} at school is… · স্কুলে {{un exposé}} মানে…",
        "options": [
-        "an exhibit",
-        "a scandal",
-        "an exposure",
-        "a spoken presentation"
+        "an exhibit · একটি প্রদর্শনবস্তু",
+        "a scandal · একটি কেলেঙ্কারি",
+        "an exposure · একটি উন্মোচন",
+        "a spoken presentation · একটি মৌখিক উপস্থাপনা"
        ],
        "answer": 3,
        "explain": "{{une exposition}} is the exhibition · প্রদর্শনী হলো {{une exposition}}।"
@@ -4125,10 +4125,10 @@ LC.units.push({
       {
        "q": "{{un étage}} means… · {{un étage}} মানে…",
        "options": [
-        "an estate",
-        "a stage",
-        "a floor of a building",
-        "a step"
+        "an estate · একটি সম্পত্তি",
+        "a stage · একটি মঞ্চ",
+        "a floor of a building · দালানের একটি তলা",
+        "a step · একটি ধাপ"
        ],
        "answer": 2,
        "explain": "{{au premier étage}} — on the first floor · {{au premier étage}} মানে প্রথম তলায়।"
@@ -4136,9 +4136,9 @@ LC.units.push({
       {
        "q": "{{évidemment}} means… · {{évidemment}} মানে…",
        "options": [
-        "evidently, of course",
+        "evidently, of course · স্পষ্টতই, অবশ্যই",
         "evidence",
-        "apparently not",
+        "apparently not · মনে হয় না",
         "occasionally"
        ],
        "answer": 0,
@@ -4148,7 +4148,7 @@ LC.units.push({
        "q": "{{un excédent de bagages}} is… · {{un excédent de bagages}} মানে…",
        "options": [
         "hand luggage",
-        "a baggage claim",
+        "a baggage claim · মালপত্র নেওয়ার জায়গা",
         "lost luggage",
         "excess baggage"
        ],
@@ -4315,10 +4315,10 @@ LC.units.push({
       {
        "q": "{{J'ai faim}} means… · {{J'ai faim}} মানে…",
        "options": [
-        "I am finished",
-        "I am famous",
-        "I am hungry",
-        "I am weak"
+        "I am finished · আমার শেষ",
+        "I am famous · আমি বিখ্যাত",
+        "I am hungry · আমার খিদে পেয়েছে",
+        "I am weak · আমি দুর্বল"
        ],
        "answer": 2,
        "explain": "French *has* hunger where English *is* hungry · ফরাসিতে ক্ষুধা *থাকে*, ইংরেজিতে মানুষ ক্ষুধার্ত *হয়*।"
@@ -4326,10 +4326,10 @@ LC.units.push({
       {
        "q": "{{le facteur}} delivers… · {{le facteur}} পৌঁছে দেন…",
        "options": [
-        "the post",
-        "the factory goods",
-        "the facts",
-        "the bill"
+        "the post · ডাক",
+        "the factory goods · কারখানার পণ্য",
+        "the facts · তথ্যগুলো",
+        "the bill · বিল"
        ],
        "answer": 0,
        "explain": "The postman · ডাক-পিয়ন।"
@@ -4337,10 +4337,10 @@ LC.units.push({
       {
        "q": "{{en face de la gare}} means… · {{en face de la gare}} মানে…",
        "options": [
-        "behind the station",
+        "behind the station · স্টেশনের পেছনে",
         "facing away",
-        "inside the station",
-        "opposite the station"
+        "inside the station · স্টেশনের ভেতরে",
+        "opposite the station · স্টেশনের উল্টো দিকে"
        ],
        "answer": 3,
        "explain": "{{en face de}} — opposite · {{en face de}} মানে মুখোমুখি।"
@@ -4348,10 +4348,10 @@ LC.units.push({
       {
        "q": "{{la faux}} is… · {{la faux}} মানে…",
        "options": [
-        "a fox",
-        "a falsehood",
-        "a scythe",
-        "a fault"
+        "a fox · একটি শেয়াল",
+        "a falsehood · একটি মিথ্যা",
+        "a scythe · একটি কাস্তে",
+        "a fault · একটি ত্রুটি"
        ],
        "answer": 2,
        "explain": "The adjective {{faux}} is the false one · বিশেষণ {{faux}} মানে মিথ্যা।"
@@ -4598,10 +4598,10 @@ LC.units.push({
       {
        "q": "{{C'est formidable !}} means… · {{C'est formidable !}} মানে…",
        "options": [
-        "that is enormous",
-        "that is frightening",
-        "that is wonderful",
-        "that is formal"
+        "that is enormous · এটি বিশাল",
+        "that is frightening · এটি ভয়ানক",
+        "that is wonderful · এটি চমৎকার",
+        "that is formal · এটি আনুষ্ঠানিক"
        ],
        "answer": 2,
        "explain": "A compliment, not a warning · এটি প্রশংসা, সতর্কবার্তা নয়।"
@@ -4609,10 +4609,10 @@ LC.units.push({
       {
        "q": "{{le fleuve}} differs from {{la rivière}} because it… · {{la rivière}}-এর তুলনায় {{le fleuve}}…",
        "options": [
-        "is in a city",
-        "is man-made",
-        "is wider",
-        "flows into the sea"
+        "is in a city · শহরের মধ্যে আছে",
+        "is man-made · মানুষের তৈরি",
+        "is wider · বেশি চওড়া",
+        "flows into the sea · সমুদ্রে গিয়ে মেশে"
        ],
        "answer": 3,
        "explain": "The Seine is {{un fleuve}} · সেন নদী একটি {{fleuve}}।"
@@ -4631,10 +4631,10 @@ LC.units.push({
       {
        "q": "{{le feu}} at a crossroads means… · চৌরাস্তায় {{le feu}} মানে…",
        "options": [
-        "a fuel station",
-        "a flame",
-        "a fire",
-        "a traffic light"
+        "a fuel station · একটি জ্বালানি স্টেশন",
+        "a flame · একটি শিখা",
+        "a fire · একটি আগুন",
+        "a traffic light · একটি ট্রাফিক বাতি"
        ],
        "answer": 3,
        "explain": "{{les feux}} are the traffic lights · {{les feux}} মানে ট্রাফিক বাতি।"
@@ -4642,10 +4642,10 @@ LC.units.push({
       {
        "q": "{{la feuille}} can be both a leaf and… · {{la feuille}} পাতা ছাড়াও বোঝায়…",
        "options": [
-        "a sheet of paper",
-        "a file",
-        "a feather",
-        "a field"
+        "a sheet of paper · একটি কাগজের পাতা",
+        "a file · একটি ফাইল",
+        "a feather · একটি পালক",
+        "a field · একটি মাঠ"
        ],
        "answer": 0,
        "explain": "{{une feuille de papier}} · {{une feuille de papier}} — কাগজের পাতা।"
@@ -4820,9 +4820,9 @@ LC.units.push({
       {
        "q": "In {{le gendre}}, the G is… · {{le gendre}}-এ G উচ্চারিত হয়…",
        "options": [
-        "doubled",
-        "hard, as in *go*",
-        "soft, as in *measure*",
+        "doubled · দ্বিগুণ",
+        "hard, as in *go* · কঠিন, *go*-এর মতো",
+        "soft, as in *measure* · কোমল, *measure*-এর মতো",
         "silent"
        ],
        "answer": 2,
@@ -4831,10 +4831,10 @@ LC.units.push({
       {
        "q": "{{gratuit}} means… · {{gratuit}} মানে…",
        "options": [
-        "gratifying",
-        "gradual",
-        "grateful",
-        "free of charge"
+        "gratifying · তৃপ্তিদায়ক",
+        "gradual · ক্রমিক",
+        "grateful · কৃতজ্ঞ",
+        "free of charge · বিনামূল্যে"
        ],
        "answer": 3,
        "explain": "{{entrée gratuite}} — free entry · {{entrée gratuite}} মানে প্রবেশ অবাধ।"
@@ -4842,10 +4842,10 @@ LC.units.push({
       {
        "q": "{{la gare}} is… · {{la gare}} মানে…",
        "options": [
-        "a garden",
-        "a garage",
-        "a railway station",
-        "a guard"
+        "a garden · একটি বাগান",
+        "a garage · একটি গ্যারেজ",
+        "a railway station · একটি রেলস্টেশন",
+        "a guard · একজন প্রহরী"
        ],
        "answer": 2,
        "explain": "{{la gare du Nord}} in Paris · প্যারিসের {{la gare du Nord}}।"
@@ -4853,10 +4853,10 @@ LC.units.push({
       {
        "q": "{{gagner sa vie}} means… · {{gagner sa vie}} মানে…",
        "options": [
-        "to save a life",
-        "to enjoy life",
-        "to win one's life",
-        "to earn one's living"
+        "to save a life · প্রাণ বাঁচানো",
+        "to enjoy life · জীবন উপভোগ করা",
+        "to win one's life · জীবন জিতে নেওয়া",
+        "to earn one's living · জীবিকা অর্জন করা"
        ],
        "answer": 3,
        "explain": "The everyday phrase for earning · জীবিকা অর্জনের প্রচলিত বাক্যাংশ।"
@@ -4864,10 +4864,10 @@ LC.units.push({
       {
        "q": "{{le gendre}} is… · {{le gendre}} মানে…",
        "options": [
-        "a general",
-        "a gender",
-        "a son-in-law",
-        "a genre"
+        "a general · একজন সেনাপতি",
+        "a gender · একটি লিঙ্গ",
+        "a son-in-law · একজন জামাই",
+        "a genre · একটি ধারা"
        ],
        "answer": 2,
        "explain": "Not related to {{le genre}}, which is the kind or gender · {{le genre}}-এর সঙ্গে সম্পর্ক নেই।"
@@ -5148,10 +5148,10 @@ LC.units.push({
       {
        "q": "{{d'habitude}} means… · {{d'habitude}} মানে…",
        "options": [
-        "from the dress",
-        "by habit",
+        "from the dress · পোশাক থেকে",
+        "by habit · অভ্যাসবশত",
         "usually",
-        "of inhabiting"
+        "of inhabiting · বসবাসের"
        ],
        "answer": 2,
        "explain": "A fixed adverbial phrase · নির্দিষ্ট ক্রিয়াবিশেষণীয় বাক্যাংশ।"
@@ -5159,10 +5159,10 @@ LC.units.push({
       {
        "q": "{{une histoire}} can mean… · {{une histoire}} বোঝাতে পারে…",
        "options": [
-        "history only",
-        "a story only",
-        "both history and a story",
-        "a building"
+        "history only · কেবল ইতিহাস",
+        "a story only · কেবল একটি গল্প",
+        "both history and a story · ইতিহাস ও গল্প দুই-ই",
+        "a building · একটি দালান"
        ],
        "answer": 2,
        "explain": "One word for both · একটি শব্দেই দুটি অর্থ।"
@@ -5170,10 +5170,10 @@ LC.units.push({
       {
        "q": "{{hebdomadaire}} describes something that happens… · {{hebdomadaire}} বোঝায় যা ঘটে…",
        "options": [
-        "monthly",
-        "yearly",
-        "daily",
-        "weekly"
+        "monthly · মাসিক",
+        "yearly · বার্ষিক",
+        "daily · দৈনিক",
+        "weekly · সাপ্তাহিক"
        ],
        "answer": 3,
        "explain": "From the Greek for *seven* · গ্রিক *সাত* থেকে।"
@@ -5181,7 +5181,7 @@ LC.units.push({
       {
        "q": "In {{un hôtel}}, the H is… · {{un hôtel}}-এ H…",
        "options": [
-        "doubled",
+        "doubled · দ্বিগুণ",
         "aspirate",
         "mute",
         "pronounced"
@@ -5329,10 +5329,10 @@ LC.units.push({
       {
        "q": "{{un impôt}} is… · {{un impôt}} মানে…",
        "options": [
-        "an imposition of rules",
-        "an impost wall",
-        "an import",
-        "a tax"
+        "an imposition of rules · নিয়ম চাপিয়ে দেওয়া",
+        "an impost wall · একটি ইম্পোস্ট দেয়াল",
+        "an import · একটি আমদানি",
+        "a tax · একটি কর"
        ],
        "answer": 3,
        "explain": "{{les impôts}} is also the tax office · {{les impôts}} কর দপ্তরও বোঝায়।"
@@ -5340,9 +5340,9 @@ LC.units.push({
       {
        "q": "{{un immeuble}} is… · {{un immeuble}} মানে…",
        "options": [
-        "a monument",
+        "a monument · একটি স্মৃতিস্তম্ভ",
         "immovable property law",
-        "a block of flats",
+        "a block of flats · একটি ফ্ল্যাটবাড়ি",
         "furniture"
        ],
        "answer": 2,
@@ -5373,10 +5373,10 @@ LC.units.push({
       {
        "q": "{{une carte d'identité}} is… · {{une carte d'identité}} মানে…",
        "options": [
-        "a map",
-        "a menu card",
-        "a credit card",
-        "an identity card"
+        "a map · একটি মানচিত্র",
+        "a menu card · একটি মেনু কার্ড",
+        "a credit card · একটি ক্রেডিট কার্ড",
+        "an identity card · একটি পরিচয়পত্র"
        ],
        "answer": 3,
        "explain": "Every French adult carries one · প্রতিটি প্রাপ্তবয়স্ক ফরাসির কাছে থাকে।"
@@ -5557,9 +5557,9 @@ LC.units.push({
       {
        "q": "{{un incendie}} is… · {{un incendie}} মানে…",
        "options": [
-        "a fire",
-        "an incentive",
-        "an incident",
+        "a fire · একটি আগুন",
+        "an incentive · একটি প্রণোদনা",
+        "an incident · একটি ঘটনা",
         "incense"
        ],
        "answer": 0,
@@ -5568,10 +5568,10 @@ LC.units.push({
       {
        "q": "{{un inconvénient}} means… · {{un inconvénient}} মানে…",
        "options": [
-        "an inconvenience of timing only",
-        "a convenience",
-        "a drawback",
-        "an inconvenient person"
+        "an inconvenience of timing only · কেবল সময়ের অসুবিধা",
+        "a convenience · একটি সুবিধা",
+        "a drawback · একটি অসুবিধা",
+        "an inconvenient person · একজন অসুবিধাজনক ব্যক্তি"
        ],
        "answer": 2,
        "explain": "The opposite of {{un avantage}} · {{un avantage}}-এর বিপরীত।"
@@ -5602,7 +5602,7 @@ LC.units.push({
        "q": "{{indispensable}} means… · {{indispensable}} মানে…",
        "options": [
         "dispensable",
-        "optional",
+        "optional · ঐচ্ছিক",
         "unforgivable",
         "absolutely necessary"
        ],
@@ -5790,10 +5790,10 @@ LC.units.push({
       {
        "q": "{{Stationnement interdit}} on a sign means… · সাইনবোর্ডে {{Stationnement interdit}} মানে…",
        "options": [
-        "free parking",
-        "station ahead",
-        "no parking",
-        "paid parking"
+        "free parking · বিনামূল্যে পার্কিং",
+        "station ahead · সামনে স্টেশন",
+        "no parking · পার্কিং নিষেধ",
+        "paid parking · সশুল্ক পার্কিং"
        ],
        "answer": 2,
        "explain": "{{interdit}} is the standard word for *forbidden* · {{interdit}} মানে নিষিদ্ধ।"
@@ -5801,9 +5801,9 @@ LC.units.push({
       {
        "q": "{{un intérêt}} covers both interest in a topic and… · {{un intérêt}} আগ্রহ ছাড়াও বোঝায়…",
        "options": [
-        "an intervention",
-        "an interview",
-        "an interval",
+        "an intervention · একটি হস্তক্ষেপ",
+        "an interview · একটি সাক্ষাৎকার",
+        "an interval · একটি বিরতি",
         "interest on money"
        ],
        "answer": 3,
@@ -5812,10 +5812,10 @@ LC.units.push({
       {
        "q": "{{un instituteur}} teaches in… · {{un instituteur}} পড়ান…",
        "options": [
-        "a primary school",
-        "a university",
-        "an institute of research",
-        "a language institute"
+        "a primary school · একটি প্রাথমিক বিদ্যালয়",
+        "a university · একটি বিশ্ববিদ্যালয়",
+        "an institute of research · একটি গবেষণা প্রতিষ্ঠান",
+        "a language institute · একটি ভাষা প্রতিষ্ঠান"
        ],
        "answer": 0,
        "explain": "Secondary teachers are {{professeurs}} · মাধ্যমিকের শিক্ষকেরা {{professeurs}}।"
@@ -5835,9 +5835,9 @@ LC.units.push({
        "q": "{{une inscription}} at a university is… · বিশ্ববিদ্যালয়ে {{une inscription}} মানে…",
        "options": [
         "enrolment",
-        "a carved text",
-        "a prescription",
-        "a subscription"
+        "a carved text · খোদাই করা লেখা",
+        "a prescription · একটি ব্যবস্থাপত্র",
+        "a subscription · একটি গ্রাহকচাঁদা"
        ],
        "answer": 0,
        "explain": "{{s'inscrire}} is to enrol · {{s'inscrire}} মানে ভর্তি হওয়া।"
@@ -6054,10 +6054,10 @@ LC.units.push({
       {
        "q": "{{la jupe}} is… · {{la jupe}} মানে…",
        "options": [
-        "a skirt",
-        "a jumper",
-        "a jug",
-        "a juice"
+        "a skirt · একটি স্কার্ট",
+        "a jumper · একটি সোয়েটার",
+        "a jug · একটি জগ",
+        "a juice · একটি রস"
        ],
        "answer": 0,
        "explain": "A jumper is {{le pull}} · সোয়েটার হলো {{le pull}}।"
@@ -6067,7 +6067,7 @@ LC.units.push({
        "options": [
         "yesterday",
         "right now",
-        "the near future",
+        "the near future · নিকট ভবিষ্যৎ",
         "long ago"
        ],
        "answer": 3,
@@ -6076,10 +6076,10 @@ LC.units.push({
       {
        "q": "{{la jument}} is… · {{la jument}} মানে…",
        "options": [
-        "a judgement",
-        "a stallion",
-        "a mare",
-        "a jumper"
+        "a judgement · একটি রায়",
+        "a stallion · একটি ঘোড়া",
+        "a mare · একটি ঘোটকী",
+        "a jumper · একটি সোয়েটার"
        ],
        "answer": 2,
        "explain": "The female horse · স্ত্রী ঘোড়া।"
@@ -6087,10 +6087,10 @@ LC.units.push({
       {
        "q": "{{Justement !}} as a reply means… · উত্তরে {{Justement !}} মানে…",
        "options": [
-        "Only just",
-        "Just a moment",
-        "Exactly so",
-        "Be fair"
+        "Only just · এইমাত্র",
+        "Just a moment · একটু দাঁড়ান",
+        "Exactly so · ঠিক তাই",
+        "Be fair · ন্যায্য হোন"
        ],
        "answer": 2,
        "explain": "A common way to agree · সম্মতি জানানোর প্রচলিত উপায়।"
@@ -6214,10 +6214,10 @@ LC.units.push({
       {
        "q": "Why is K rare in French? · ফরাসিতে K বিরল কেন?",
        "options": [
-        "It was banned",
-        "It is only for names",
-        "It is hard to say",
-        "Native words use c or qu instead"
+        "It was banned · এটি নিষিদ্ধ ছিল",
+        "It is only for names · এটি কেবল নামের জন্য",
+        "It is hard to say · বলা কঠিন",
+        "Native words use c or qu instead · নিজস্ব শব্দে বরং c বা qu বসে"
        ],
        "answer": 3,
        "explain": "{{quatre}}, {{casser}} — c and qu do the work · c ও qu-ই কাজটি করে।"
@@ -6225,10 +6225,10 @@ LC.units.push({
       {
        "q": "{{le klaxon}} is… · {{le klaxon}} মানে…",
        "options": [
-        "a car horn",
-        "a klaxon siren only",
-        "a loudspeaker",
-        "a bell"
+        "a car horn · গাড়ির হর্ন",
+        "a klaxon siren only · কেবল ক্ল্যাক্সন সাইরেন",
+        "a loudspeaker · একটি মাইক",
+        "a bell · একটি ঘণ্টা"
        ],
        "answer": 0,
        "explain": "From an American brand name · একটি আমেরিকান ব্র্যান্ডের নাম থেকে।"
@@ -6236,10 +6236,10 @@ LC.units.push({
       {
        "q": "{{le képi}} is worn by… · {{le képi}} পরেন…",
        "options": [
-        "farmers",
-        "chefs",
-        "soldiers and police",
-        "students"
+        "farmers · কৃষকরা",
+        "chefs · রাঁধুনিরা",
+        "soldiers and police · সৈন্য ও পুলিশ",
+        "students · ছাত্রছাত্রীরা"
        ],
        "answer": 2,
        "explain": "The flat-topped French military cap · ফরাসি সামরিক টুপি।"
@@ -6247,7 +6247,7 @@ LC.units.push({
       {
        "q": "{{le kiosque}} sells… · {{le kiosque}}-এ বিক্রি হয়…",
        "options": [
-        "tickets only",
+        "tickets only · কেবল টিকিট",
         "flowers",
         "bread",
         "newspapers"
@@ -6513,10 +6513,10 @@ LC.units.push({
       {
        "q": "{{la langue}} means both language and… · {{la langue}} ভাষা ছাড়াও বোঝায়…",
        "options": [
-        "the voice",
-        "the lip",
-        "the tongue",
-        "the throat"
+        "the voice · কণ্ঠস্বর",
+        "the lip · ঠোঁট",
+        "the tongue · জিভ",
+        "the throat · গলা"
        ],
        "answer": 2,
        "explain": "The organ and the speech share one word · অঙ্গ ও ভাষা একই শব্দে।"
@@ -6524,7 +6524,7 @@ LC.units.push({
       {
        "q": "{{payer en liquide}} means to pay… · {{payer en liquide}} মানে…",
        "options": [
-        "in instalments",
+        "in instalments · কিস্তিতে",
         "online",
         "by card",
         "in cash"
@@ -6535,10 +6535,10 @@ LC.units.push({
       {
        "q": "{{le lièvre}} differs from {{le lapin}} as… · {{le lapin}}-এর তুলনায় {{le lièvre}}…",
        "options": [
-        "the hare from the rabbit",
-        "the male from the female",
-        "the wild from the tame only",
-        "they are the same"
+        "the hare from the rabbit · খরগোশ থেকে শশক",
+        "the male from the female · পুরুষ থেকে স্ত্রী",
+        "the wild from the tame only · কেবল বুনো থেকে পোষা",
+        "they are the same · এরা একই"
        ],
        "answer": 0,
        "explain": "Two different animals · দুটি ভিন্ন প্রাণী।"
@@ -6546,10 +6546,10 @@ LC.units.push({
       {
        "q": "{{Liberté, Égalité, Fraternité}} is… · {{Liberté, Égalité, Fraternité}} হলো…",
        "options": [
-        "a song title",
-        "a poem",
-        "the French national motto",
-        "a law"
+        "a song title · একটি গানের নাম",
+        "a poem · একটি কবিতা",
+        "the French national motto · ফরাসি জাতীয় নীতিবাক্য",
+        "a law · একটি আইন"
        ],
        "answer": 2,
        "explain": "It is carved on every French town hall · প্রতিটি ফরাসি টাউন হলে খোদাই করা।"
@@ -6690,9 +6690,9 @@ LC.units.push({
        "q": "{{Maison à louer}} on a sign means… · সাইনবোর্ডে {{Maison à louer}} মানে…",
        "options": [
         "house praised",
-        "house for repair",
-        "house for sale",
-        "house to rent"
+        "house for repair · মেরামতের জন্য বাড়ি",
+        "house for sale · বিক্রয়ের জন্য বাড়ি",
+        "house to rent · ভাড়ার জন্য বাড়ি"
        ],
        "answer": 3,
        "explain": "For sale would be {{à vendre}} · বিক্রির জন্য হলে {{à vendre}}।"
@@ -6711,10 +6711,10 @@ LC.units.push({
       {
        "q": "{{lorsque}} introduces… · {{lorsque}} দিয়ে বোঝানো হয়…",
        "options": [
-        "a purpose",
-        "a reason",
-        "a time",
-        "a contrast"
+        "a purpose · একটি উদ্দেশ্য",
+        "a reason · একটি কারণ",
+        "a time · একটি সময়",
+        "a contrast · একটি বৈপরীত্য"
        ],
        "answer": 2,
        "explain": "A near-synonym of {{quand}} · {{quand}}-এর প্রায় সমার্থক।"
@@ -6722,9 +6722,9 @@ LC.units.push({
       {
        "q": "{{Londres}} is… · {{Londres}} মানে…",
        "options": [
-        "the Thames",
-        "a surname",
-        "a French town",
+        "the Thames · টেমস নদী",
+        "a surname · একটি পদবি",
+        "a French town · একটি ফরাসি শহর",
         "London"
        ],
        "answer": 3,
@@ -6824,10 +6824,10 @@ LC.units.push({
       {
        "q": "{{un grand magasin}} is… · {{un grand magasin}} মানে…",
        "options": [
-        "a large journal",
-        "a big magazine",
-        "a department store",
-        "a warehouse"
+        "a large journal · একটি বড় সাময়িকী",
+        "a big magazine · একটি বড় পত্রিকা",
+        "a department store · একটি ডিপার্টমেন্ট স্টোর",
+        "a warehouse · একটি গুদাম"
        ],
        "answer": 2,
        "explain": "Galeries Lafayette is one · Galeries Lafayette এমনই একটি।"
@@ -6835,9 +6835,9 @@ LC.units.push({
       {
        "q": "{{machinalement}} describes an action done… · {{machinalement}} বোঝায় এমন কাজ যা করা হয়…",
        "options": [
-        "with great care",
-        "by hand",
-        "by machine",
+        "with great care · খুব যত্নের সঙ্গে",
+        "by hand · হাতে",
+        "by machine · যন্ত্রে",
         "without thinking"
        ],
        "answer": 3,
@@ -6846,10 +6846,10 @@ LC.units.push({
       {
        "q": "{{le maillot de bain}} is… · {{le maillot de bain}} মানে…",
        "options": [
-        "a bath mat",
-        "a bathrobe",
-        "a swimsuit",
-        "a towel"
+        "a bath mat · স্নানঘরের মাদুর",
+        "a bathrobe · স্নানের আলখাল্লা",
+        "a swimsuit · একটি সাঁতারের পোশাক",
+        "a towel · একটি তোয়ালে"
        ],
        "answer": 2,
        "explain": "{{le bain}} is the bath · {{le bain}} মানে গোসল।"
@@ -6857,8 +6857,8 @@ LC.units.push({
       {
        "q": "{{le maçon}} works with… · {{le maçon}} কাজ করেন…",
        "options": [
-        "bricks and stone",
-        "wood",
+        "bricks and stone · ইট ও পাথর",
+        "wood · কাঠ",
         "metal",
         "glass"
        ],
@@ -7056,9 +7056,9 @@ LC.units.push({
       {
        "q": "{{malgré}} means… · {{malgré}} মানে…",
        "options": [
-        "in spite of",
+        "in spite of · সত্ত্বেও",
         "badly",
-        "because of",
+        "because of · -এর কারণে",
         "unwillingly"
        ],
        "answer": 0,
@@ -7067,10 +7067,10 @@ LC.units.push({
       {
        "q": "{{une manifestation}} in the street is… · রাস্তায় {{une manifestation}} মানে…",
        "options": [
-        "a shop display",
-        "an exhibition",
-        "a festival",
-        "a protest march"
+        "a shop display · দোকানের সাজানো পসরা",
+        "an exhibition · একটি প্রদর্শনী",
+        "a festival · একটি উৎসব",
+        "a protest march · একটি প্রতিবাদ মিছিল"
        ],
        "answer": 3,
        "explain": "Shortened to {{une manif}} in speech · কথ্য ভাষায় {{une manif}}।"
@@ -7078,10 +7078,10 @@ LC.units.push({
       {
        "q": "{{le maire}} works at… · {{le maire}} কাজ করেন…",
        "options": [
-        "the market",
-        "the sea",
-        "the town hall",
-        "the school"
+        "the market · বাজার",
+        "the sea · সমুদ্র",
+        "the town hall · পৌরভবন",
+        "the school · বিদ্যালয়"
        ],
        "answer": 2,
        "explain": "{{la mairie}} is the town hall · {{la mairie}} মানে পৌরভবন।"
@@ -7089,10 +7089,10 @@ LC.units.push({
       {
        "q": "{{Je suis malade}} means… · {{Je suis malade}} মানে…",
        "options": [
-        "I am tired",
-        "I am bad",
-        "I am ill",
-        "I am sad"
+        "I am tired · আমি ক্লান্ত",
+        "I am bad · আমি খারাপ",
+        "I am ill · আমি অসুস্থ",
+        "I am sad · আমি দুঃখিত"
        ],
        "answer": 2,
        "explain": "{{la maladie}} is the illness · {{la maladie}} মানে রোগ।"
@@ -7100,10 +7100,10 @@ LC.units.push({
       {
        "q": "{{la marque}} on a product is… · পণ্যের গায়ে {{la marque}} মানে…",
        "options": [
-        "the price",
-        "the weight",
-        "the mark on the floor",
-        "the brand"
+        "the price · দাম",
+        "the weight · ওজন",
+        "the mark on the floor · মেঝের দাগ",
+        "the brand · ব্র্যান্ড"
        ],
        "answer": 3,
        "explain": "{{une grande marque}} is a famous brand · {{une grande marque}} মানে নামী ব্র্যান্ড।"
@@ -7315,10 +7315,10 @@ LC.units.push({
       {
        "q": "{{Il chante mieux que moi}} uses {{mieux}} because it describes… · {{Il chante mieux que moi}}-তে {{mieux}} বসেছে কারণ এটি বর্ণনা করে…",
        "options": [
-        "a person",
-        "a comparison of nouns",
-        "a noun",
-        "a verb"
+        "a person · একজন ব্যক্তি",
+        "a comparison of nouns · বিশেষ্যের তুলনা",
+        "a noun · একটি বিশেষ্য",
+        "a verb · একটি ক্রিয়া"
        ],
        "answer": 3,
        "explain": "An adverb modifies the verb {{chante}} · ক্রিয়াবিশেষণ ক্রিয়াকে বদলায়।"
@@ -7326,10 +7326,10 @@ LC.units.push({
       {
        "q": "{{faire le ménage}} means… · {{faire le ménage}} মানে…",
        "options": [
-        "to arrange furniture",
-        "to manage",
-        "to do the housework",
-        "to set up home"
+        "to arrange furniture · আসবাব সাজানো",
+        "to manage · সামলানো",
+        "to do the housework · ঘরের কাজ করা",
+        "to set up home · ঘর বাঁধা"
        ],
        "answer": 2,
        "explain": "The everyday phrase for cleaning · ঘর পরিষ্কারের প্রচলিত বাক্যাংশ।"
@@ -7337,10 +7337,10 @@ LC.units.push({
       {
        "q": "{{mensuel}} describes something that happens… · {{mensuel}} বোঝায় যা ঘটে…",
        "options": [
-        "yearly",
-        "daily",
-        "weekly",
-        "monthly"
+        "yearly · বার্ষিক",
+        "daily · দৈনিক",
+        "weekly · সাপ্তাহিক",
+        "monthly · মাসিক"
        ],
        "answer": 3,
        "explain": "From {{le mois}}, the month · {{le mois}} অর্থাৎ মাস থেকে।"
@@ -7557,9 +7557,9 @@ LC.units.push({
       {
        "q": "{{Vous avez la monnaie ?}} asks for… · {{Vous avez la monnaie ?}} চায়…",
        "options": [
-        "a banknote",
-        "the currency rate",
-        "money in general",
+        "a banknote · একটি নোট",
+        "the currency rate · মুদ্রার হার",
+        "money in general · সাধারণভাবে টাকা",
         "small change"
        ],
        "answer": 3,
@@ -7568,10 +7568,10 @@ LC.units.push({
       {
        "q": "{{le mouton}} is both the animal and… · {{le mouton}} পশু ছাড়াও বোঝায়…",
        "options": [
-        "its bell",
-        "its wool",
-        "its meat",
-        "its field"
+        "its bell · এর ঘণ্টা",
+        "its wool · এর পশম",
+        "its meat · এর মাংস",
+        "its field · এর মাঠ"
        ],
        "answer": 2,
        "explain": "French uses one word where English has sheep and mutton · ইংরেজির দুটি শব্দের জায়গায় ফরাসির একটি।"
@@ -7579,10 +7579,10 @@ LC.units.push({
       {
        "q": "{{se moquer de quelqu'un}} means… · {{se moquer de quelqu'un}} মানে…",
        "options": [
-        "to copy someone",
-        "to make a mock-up",
-        "to make fun of someone",
-        "to question someone"
+        "to copy someone · কাউকে নকল করা",
+        "to make a mock-up · নমুনা বানানো",
+        "to make fun of someone · কাউকে নিয়ে ঠাট্টা করা",
+        "to question someone · কাউকে প্রশ্ন করা"
        ],
        "answer": 2,
        "explain": "Always with {{de}} · সবসময় {{de}} সহ।"
@@ -7590,9 +7590,9 @@ LC.units.push({
       {
        "q": "{{en moyenne}} means… · {{en moyenne}} মানে…",
        "options": [
-        "by means of",
+        "by means of · -এর মাধ্যমে",
         "at least",
-        "in the middle",
+        "in the middle · মাঝখানে",
         "on average"
        ],
        "answer": 3,
@@ -7601,10 +7601,10 @@ LC.units.push({
       {
        "q": "{{le mot}} can also mean… · {{le mot}} আরও বোঝাতে পারে…",
        "options": [
-        "a short written note",
-        "a motive",
-        "a motto only",
-        "a moth"
+        "a short written note · একটি ছোট লিখিত টীকা",
+        "a motive · একটি উদ্দেশ্য",
+        "a motto only · কেবল একটি নীতিবাক্য",
+        "a moth · একটি মথ"
        ],
        "answer": 0,
        "explain": "{{Je vous laisse un mot}} — I'll leave you a note · {{Je vous laisse un mot}} মানে একটি চিরকুট রেখে যাব।"
@@ -7785,10 +7785,10 @@ LC.units.push({
       {
        "q": "{{la note}} in a restaurant is… · রেস্তোরাঁয় {{la note}} মানে…",
        "options": [
-        "the menu",
-        "a musical note",
-        "the bill",
-        "a notice"
+        "the menu · মেনু",
+        "a musical note · একটি সুরলিপি",
+        "the bill · বিল",
+        "a notice · একটি বিজ্ঞপ্তি"
        ],
        "answer": 2,
        "explain": "At school it is the mark · স্কুলে এটি নম্বর।"
@@ -7796,10 +7796,10 @@ LC.units.push({
       {
        "q": "{{les nouvelles}} means… · {{les nouvelles}} মানে…",
        "options": [
-        "the novels",
-        "the newcomers",
-        "the new ones",
-        "the news"
+        "the novels · উপন্যাসগুলো",
+        "the newcomers · নবাগতরা",
+        "the new ones · নতুনগুলো",
+        "the news · খবর"
        ],
        "answer": 3,
        "explain": "{{Donne-moi de tes nouvelles}} — send me your news · আপনার খবর জানাবেন।"
@@ -7808,8 +7808,8 @@ LC.units.push({
        "q": "{{la natation}} is… · {{la natation}} মানে…",
        "options": [
         "nationality",
-        "the nation",
-        "swimming as a sport",
+        "the nation · জাতি",
+        "swimming as a sport · খেলা হিসেবে সাঁতার",
         "nature study"
        ],
        "answer": 2,
@@ -7818,10 +7818,10 @@ LC.units.push({
       {
        "q": "{{le neveu}} is… · {{le neveu}} মানে…",
        "options": [
-        "a nephew",
-        "a cousin",
-        "a new arrival",
-        "a grandson"
+        "a nephew · একজন ভাইপো",
+        "a cousin · একজন তুতো ভাইবোন",
+        "a new arrival · নতুন আগমন",
+        "a grandson · একজন নাতি"
        ],
        "answer": 0,
        "explain": "{{la nièce}} is the niece · ভাগ্নি হলো {{la nièce}}।"
@@ -7830,7 +7830,7 @@ LC.units.push({
        "q": "{{nettement}} means… · {{nettement}} মানে…",
        "options": [
         "lately",
-        "neatly only",
+        "neatly only · কেবল পরিপাটিভাবে",
         "clearly, distinctly",
         "nearly"
        ],
@@ -8159,10 +8159,10 @@ LC.units.push({
       {
        "q": "{{obligatoire}} means… · {{obligatoire}} মানে…",
        "options": [
-        "optional",
+        "optional · ঐচ্ছিক",
         "obliging",
         "compulsory",
-        "obligated to thank"
+        "obligated to thank · ধন্যবাদ দিতে বাধ্য"
        ],
        "answer": 2,
        "explain": "On a school form it means *required* · ফর্মে মানে *আবশ্যক*।"
@@ -8170,10 +8170,10 @@ LC.units.push({
       {
        "q": "{{une occasion}} in a shop window means… · দোকানের সাইনে {{une occasion}} মানে…",
        "options": [
-        "an opening time",
-        "an occupation",
-        "a special occasion",
-        "a bargain or second-hand item"
+        "an opening time · খোলার সময়",
+        "an occupation · একটি পেশা",
+        "a special occasion · একটি বিশেষ উপলক্ষ",
+        "a bargain or second-hand item · সস্তা বা পুরোনো জিনিস"
        ],
        "answer": 3,
        "explain": "{{d'occasion}} means second-hand · {{d'occasion}} মানে পুরোনো।"
@@ -8181,10 +8181,10 @@ LC.units.push({
       {
        "q": "{{un orage}} is… · {{un orage}} মানে…",
        "options": [
-        "an orange",
-        "a storage",
-        "a thunderstorm",
-        "an organ"
+        "an orange · একটি কমলা",
+        "a storage · একটি গুদাম",
+        "a thunderstorm · একটি বজ্রঝড়",
+        "an organ · একটি অঙ্গ"
        ],
        "answer": 2,
        "explain": "Do not confuse with {{une orange}} · {{une orange}}-এর সঙ্গে গুলিয়ে ফেলবেন না।"
@@ -8192,10 +8192,10 @@ LC.units.push({
       {
        "q": "{{un ouvrier}} is… · {{un ouvrier}} মানে…",
        "options": [
-        "a writer",
-        "an opener",
-        "a manual worker",
-        "an overseer"
+        "a writer · একজন লেখক",
+        "an opener · একটি খোলার যন্ত্র",
+        "a manual worker · একজন শ্রমিক",
+        "an overseer · একজন তত্ত্বাবধায়ক"
        ],
        "answer": 2,
        "explain": "From {{une œuvre}}, work · {{une œuvre}} অর্থাৎ কাজ থেকে।"
@@ -8267,10 +8267,10 @@ LC.units.push({
       {
        "q": "{{l'océan Pacifique}} is… · {{l'océan Pacifique}} মানে…",
        "options": [
-        "a calm sea",
-        "the Indian Ocean",
-        "the Atlantic",
-        "the Pacific Ocean"
+        "a calm sea · শান্ত সমুদ্র",
+        "the Indian Ocean · ভারত মহাসাগর",
+        "the Atlantic · আটলান্টিক",
+        "the Pacific Ocean · প্রশান্ত মহাসাগর"
        ],
        "answer": 3,
        "explain": "Magellan named it for its calm · ম্যাগেলান শান্ত বলেই নাম রেখেছিলেন।"
@@ -8278,10 +8278,10 @@ LC.units.push({
       {
        "q": "{{la pagaille}} means… · {{la pagaille}} মানে…",
        "options": [
-        "a payment",
-        "a page",
-        "a paddle",
-        "a mess"
+        "a payment · একটি পরিশোধ",
+        "a page · একটি পাতা",
+        "a paddle · একটি বৈঠা",
+        "a mess · একটি বিশৃঙ্খলা"
        ],
        "answer": 3,
        "explain": "An informal word for chaos · বিশৃঙ্খলার কথ্য শব্দ।"
@@ -8504,10 +8504,10 @@ LC.units.push({
       {
        "q": "{{le parti}} and {{la partie}} differ: {{le parti}} is… · {{le parti}} মানে…",
        "options": [
-        "a part",
-        "a party you attend",
-        "a political party",
-        "a departure"
+        "a part · একটি অংশ",
+        "a party you attend · যে অনুষ্ঠানে আপনি যান",
+        "a political party · একটি রাজনৈতিক দল",
+        "a departure · একটি প্রস্থান"
        ],
        "answer": 2,
        "explain": "A social party is {{la fête}} · আনন্দ-অনুষ্ঠান হলো {{la fête}}।"
@@ -8515,10 +8515,10 @@ LC.units.push({
       {
        "q": "{{le patron}} means… · {{le patron}} মানে…",
        "options": [
-        "a patron of the arts only",
-        "a pattern",
-        "a customer",
-        "the boss"
+        "a patron of the arts only · কেবল শিল্পের পৃষ্ঠপোষক",
+        "a pattern · একটি ছাঁচ",
+        "a customer · একজন খদ্দের",
+        "the boss · মালিক"
        ],
        "answer": 3,
        "explain": "The everyday word for an employer · নিয়োগকর্তার প্রচলিত শব্দ।"
@@ -8526,7 +8526,7 @@ LC.units.push({
       {
        "q": "{{parfois}} means… · {{parfois}} মানে…",
        "options": [
-        "by the way",
+        "by the way · প্রসঙ্গত",
         "at times past",
         "perfectly",
         "sometimes"
@@ -8537,10 +8537,10 @@ LC.units.push({
       {
        "q": "{{le palais}} can mean a palace and… · {{le palais}} প্রাসাদ ছাড়াও বোঝায়…",
        "options": [
-        "the roof of the mouth",
-        "a pallet",
-        "a pale colour",
-        "a hall"
+        "the roof of the mouth · মুখের তালু",
+        "a pallet · একটি প্যালেট",
+        "a pale colour · একটি ফিকে রং",
+        "a hall · একটি হলঘর"
        ],
        "answer": 0,
        "explain": "The same double meaning as English *palate* · ইংরেজি *palate*-এর মতোই দ্বৈত অর্থ।"
@@ -8757,10 +8757,10 @@ LC.units.push({
       {
        "q": "{{la plupart des gens}} means… · {{la plupart des gens}} মানে…",
        "options": [
-        "all people",
+        "all people · সব মানুষ",
         "several parts",
-        "a few people",
-        "most people"
+        "a few people · কয়েকজন মানুষ",
+        "most people · বেশির ভাগ মানুষ"
        ],
        "answer": 3,
        "explain": "Always followed by {{de}} · সবসময় {{de}} সহ।"
@@ -8779,10 +8779,10 @@ LC.units.push({
       {
        "q": "{{la phrase}} means… · {{la phrase}} মানে…",
        "options": [
-        "a saying",
-        "a paragraph",
-        "a phrase",
-        "a sentence"
+        "a saying · একটি প্রবচন",
+        "a paragraph · একটি অনুচ্ছেদ",
+        "a phrase · একটি বাক্যাংশ",
+        "a sentence · একটি বাক্য"
        ],
        "answer": 3,
        "explain": "A false friend: the whole sentence · ছদ্মবন্ধু: পুরো বাক্য।"
@@ -8790,9 +8790,9 @@ LC.units.push({
       {
        "q": "{{peut-être}} means… · {{peut-être}} মানে…",
        "options": [
-        "must be",
-        "it is possible to be",
-        "can be done",
+        "must be · হতেই হবে",
+        "it is possible to be · হওয়া সম্ভব",
+        "can be done · করা যায়",
         "perhaps"
        ],
        "answer": 3,
@@ -9029,10 +9029,10 @@ LC.units.push({
       {
        "q": "{{le pourboire}} is… · {{le pourboire}} মানে…",
        "options": [
-        "a water jug",
-        "a drinking fountain",
-        "a drinks bill",
-        "a tip"
+        "a water jug · একটি জলের জগ",
+        "a drinking fountain · পানীয় জলের ঝরনা",
+        "a drinks bill · পানীয়ের বিল",
+        "a tip · একটি বকশিশ"
        ],
        "answer": 3,
        "explain": "Literally *for drinking* · আক্ষরিক অর্থে *পান করার জন্য*।"
@@ -9040,10 +9040,10 @@ LC.units.push({
       {
        "q": "{{le prix}} means both price and… · {{le prix}} মূল্য ছাড়াও বোঝায়…",
        "options": [
-        "a prize",
-        "a pride",
-        "a priest",
-        "a prison"
+        "a prize · একটি পুরস্কার",
+        "a pride · একটি গর্ব",
+        "a priest · একজন যাজক",
+        "a prison · একটি কারাগার"
        ],
        "answer": 0,
        "explain": "{{le prix Nobel}} · {{le prix Nobel}} — নোবেল পুরস্কার।"
@@ -9051,9 +9051,9 @@ LC.units.push({
       {
        "q": "{{la publicité}} means… · {{la publicité}} মানে…",
        "options": [
-        "a public place",
+        "a public place · একটি প্রকাশ্য স্থান",
         "publication",
-        "publicity only",
+        "publicity only · কেবল প্রচার",
         "advertising"
        ],
        "answer": 3,
@@ -9062,10 +9062,10 @@ LC.units.push({
       {
        "q": "{{puisque}} introduces… · {{puisque}} দিয়ে বোঝানো হয়…",
        "options": [
-        "a reason already known",
-        "a new fact",
-        "a condition",
-        "a time"
+        "a reason already known · আগে থেকেই জানা কারণ",
+        "a new fact · একটি নতুন তথ্য",
+        "a condition · একটি শর্ত",
+        "a time · একটি সময়"
        ],
        "answer": 0,
        "explain": "Unlike {{parce que}}, it points to a shared fact · {{parce que}}-র তুলনায় এটি জানা কারণ বোঝায়।"
@@ -9073,10 +9073,10 @@ LC.units.push({
       {
        "q": "{{pourtant}} means… · {{pourtant}} মানে…",
        "options": [
-        "so much",
+        "so much · এতটা",
         "meanwhile",
-        "for that",
-        "however"
+        "for that · তার জন্য",
+        "however · তবে"
        ],
        "answer": 3,
        "explain": "A contrast word · বৈপরীত্যবাচক শব্দ।"
@@ -9237,10 +9237,10 @@ LC.units.push({
       {
        "q": "{{faire la queue}} means… · {{faire la queue}} মানে…",
        "options": [
-        "to make a cue",
-        "to finish last",
-        "to wag a tail",
-        "to queue up"
+        "to make a cue · সংকেত দেওয়া",
+        "to finish last · সবার শেষে শেষ করা",
+        "to wag a tail · লেজ নাড়া",
+        "to queue up · সারিতে দাঁড়ানো"
        ],
        "answer": 3,
        "explain": "{{la queue}} is both a tail and a line · {{la queue}} মানে লেজ ও সারি দুটোই।"
@@ -9249,9 +9249,9 @@ LC.units.push({
        "q": "{{une quinzaine}} most often means… · {{une quinzaine}} সাধারণত বোঝায়…",
        "options": [
         "fifteen minutes",
-        "a quintet",
+        "a quintet · একটি পঞ্চক",
         "fifty",
-        "a fortnight"
+        "a fortnight · পনেরো দিন"
        ],
        "answer": 3,
        "explain": "The French count a fortnight as fifteen days · ফরাসিরা দুই সপ্তাহকে পনেরো দিন গোনে।"
@@ -9259,10 +9259,10 @@ LC.units.push({
       {
        "q": "{{Quand même !}} as an exclamation means… · বিস্ময়সূচক {{Quand même !}} মানে…",
        "options": [
-        "When?",
-        "Honestly! / All the same!",
-        "Even when",
-        "Same time"
+        "When? · কখন?",
+        "Honestly! / All the same! · সত্যি বলছি! / তবুও!",
+        "Even when · এমনকি যখন",
+        "Same time · একই সময়"
        ],
        "answer": 1,
        "explain": "One of the most used phrases in spoken French · কথ্য ফরাসির সবচেয়ে প্রচলিত বাক্যাংশের একটি।"
@@ -9270,10 +9270,10 @@ LC.units.push({
       {
        "q": "{{le quartier}} is… · {{le quartier}} মানে…",
        "options": [
-        "a quart",
-        "military quarters only",
-        "a quarter of an hour",
-        "a district of a town"
+        "a quart · এক কোয়ার্ট",
+        "military quarters only · কেবল সেনানিবাস",
+        "a quarter of an hour · এক পোয়া ঘণ্টা",
+        "a district of a town · শহরের একটি এলাকা"
        ],
        "answer": 3,
        "explain": "{{le Quartier latin}} in Paris · প্যারিসের {{le Quartier latin}}।"
@@ -9469,10 +9469,10 @@ LC.units.push({
       {
        "q": "{{le raisin}} means… · {{le raisin}} মানে…",
        "options": [
-        "a reason",
-        "a resin",
-        "a raisin",
-        "a grape"
+        "a reason · একটি কারণ",
+        "a resin · একটি রজন",
+        "a raisin · একটি কিশমিশ",
+        "a grape · একটি আঙুর"
        ],
        "answer": 3,
        "explain": "A raisin is {{le raisin sec}} · কিশমিশ হলো {{le raisin sec}}।"
@@ -9480,10 +9480,10 @@ LC.units.push({
       {
        "q": "{{avoir raison}} means… · {{avoir raison}} মানে…",
        "options": [
-        "to reason out",
-        "to have sense",
-        "to have a reason",
-        "to be right"
+        "to reason out · যুক্তি দিয়ে বের করা",
+        "to have sense · বোধ থাকা",
+        "to have a reason · কারণ থাকা",
+        "to be right · ঠিক হওয়া"
        ],
        "answer": 3,
        "explain": "{{Tu as raison}} — you are right · {{Tu as raison}} মানে তুমি ঠিক বলেছ।"
@@ -9491,10 +9491,10 @@ LC.units.push({
       {
        "q": "{{une lettre recommandée}} is… · {{une lettre recommandée}} মানে…",
        "options": [
-        "a reference letter",
-        "a reminder",
-        "a recommended letter",
-        "a registered letter"
+        "a reference letter · একটি সুপারিশপত্র",
+        "a reminder · একটি স্মরণিকা",
+        "a recommended letter · সুপারিশকৃত চিঠি",
+        "a registered letter · একটি নিবন্ধিত চিঠি"
        ],
        "answer": 3,
        "explain": "The post-office term · ডাকঘরের পরিভাষা।"
@@ -9503,7 +9503,7 @@ LC.units.push({
        "q": "{{la récréation}} at school is… · স্কুলে {{la récréation}} মানে…",
        "options": [
         "re-creation",
-        "an extra class",
+        "an extra class · একটি অতিরিক্ত ক্লাস",
         "recreation hall",
         "break time"
        ],
@@ -9513,10 +9513,10 @@ LC.units.push({
       {
        "q": "The prefix {{ré-}} usually adds the sense of… · {{ré-}} উপসর্গ সাধারণত যোগ করে…",
        "options": [
-        "again or back",
-        "not",
-        "very",
-        "almost"
+        "again or back · আবার বা ফিরে",
+        "not · না",
+        "very · খুব",
+        "almost · প্রায়"
        ],
        "answer": 0,
        "explain": "{{revenir}}, {{refaire}}, {{revoir}} · {{revenir}}, {{refaire}}, {{revoir}}।"
@@ -9717,10 +9717,10 @@ LC.units.push({
       {
        "q": "{{J'ai rendez-vous chez le dentiste}} means… · {{J'ai rendez-vous chez le dentiste}} মানে…",
        "options": [
-        "a dental emergency",
-        "a dentist's address",
-        "a romantic date",
-        "a dental appointment"
+        "a dental emergency · দাঁতের জরুরি অবস্থা",
+        "a dentist's address · দন্তচিকিৎসকের ঠিকানা",
+        "a romantic date · একটি প্রেমের সাক্ষাৎ",
+        "a dental appointment · দাঁতের ডাক্তারের সময়"
        ],
        "answer": 3,
        "explain": "Any appointment, not only a romantic one · যেকোনো সাক্ষাতের সময়।"
@@ -9728,10 +9728,10 @@ LC.units.push({
       {
        "q": "{{le rein}} is… · {{le rein}} মানে…",
        "options": [
-        "a queen",
-        "a rein",
-        "a reign",
-        "a kidney"
+        "a queen · একজন রানি",
+        "a rein · একটি লাগাম",
+        "a reign · একটি রাজত্ব",
+        "a kidney · একটি কিডনি"
        ],
        "answer": 3,
        "explain": "{{la reine}} is the queen · রানি হলো {{la reine}}।"
@@ -9739,10 +9739,10 @@ LC.units.push({
       {
        "q": "{{les renseignements}} at a station is… · স্টেশনে {{les renseignements}} মানে…",
        "options": [
-        "the information desk",
-        "the waiting room",
-        "the ticket office",
-        "the lost property"
+        "the information desk · তথ্যকেন্দ্র",
+        "the waiting room · অপেক্ষাকক্ষ",
+        "the ticket office · টিকিটঘর",
+        "the lost property · হারানো জিনিস"
        ],
        "answer": 0,
        "explain": "From {{enseigner}}, to inform · {{enseigner}} অর্থাৎ জানানো থেকে।"
@@ -9750,10 +9750,10 @@ LC.units.push({
       {
        "q": "{{réfléchir}} means… · {{réfléchir}} মানে…",
        "options": [
-        "to refuse",
-        "to reflect light only",
-        "to shine",
-        "to think it over"
+        "to refuse · প্রত্যাখ্যান করা",
+        "to reflect light only · কেবল আলো প্রতিফলিত করা",
+        "to shine · ঝলমল করা",
+        "to think it over · ভেবে দেখা"
        ],
        "answer": 3,
        "explain": "{{Je vais réfléchir}} — I'll think about it · {{Je vais réfléchir}} মানে ভেবে দেখব।"
@@ -9761,10 +9761,10 @@ LC.units.push({
       {
        "q": "{{le repas}} means… · {{le repas}} মানে…",
        "options": [
-        "a repeat",
-        "a repast hall",
-        "a rest",
-        "a meal"
+        "a repeat · একটি পুনরাবৃত্তি",
+        "a repast hall · ভোজনকক্ষ",
+        "a rest · একটি বিশ্রাম",
+        "a meal · একটি খাবার"
        ],
        "answer": 3,
        "explain": "Three a day: {{petit-déjeuner, déjeuner, dîner}} · দিনে তিনটি আহার।"
@@ -9986,10 +9986,10 @@ LC.units.push({
       {
        "q": "{{le roman}} means… · {{le roman}} মানে…",
        "options": [
-        "a Roman",
-        "a novel",
-        "a romance only",
-        "a Romanian"
+        "a Roman · একজন রোমান",
+        "a novel · একটি উপন্যাস",
+        "a romance only · কেবল একটি প্রেমকাহিনি",
+        "a Romanian · একজন রোমানীয়"
        ],
        "answer": 1,
        "explain": "{{un roman policier}} is a detective novel · গোয়েন্দা উপন্যাস।"
@@ -9997,10 +9997,10 @@ LC.units.push({
       {
        "q": "{{la retraite}} means… · {{la retraite}} মানে…",
        "options": [
-        "a retreat only",
+        "a retreat only · কেবল একটি পশ্চাদপসরণ",
         "retirement",
-        "a retake",
-        "a treaty"
+        "a retake · একটি পুনর্গ্রহণ",
+        "a treaty · একটি চুক্তি"
        ],
        "answer": 1,
        "explain": "{{prendre sa retraite}} is to retire · অবসর নেওয়া।"
@@ -10008,10 +10008,10 @@ LC.units.push({
       {
        "q": "{{le riz}} is… · {{le riz}} মানে…",
        "options": [
-        "a rise",
+        "a rise · একটি উত্থান",
         "rice",
-        "a reed",
-        "a risk"
+        "a reed · একটি নলখাগড়া",
+        "a risk · একটি ঝুঁকি"
        ],
        "answer": 1,
        "explain": "The final z is silent · শেষের z নীরব।"
@@ -10019,10 +10019,10 @@ LC.units.push({
       {
        "q": "{{la rivière}} differs from {{le fleuve}} because it… · {{le fleuve}}-এর তুলনায় {{la rivière}}…",
        "options": [
-        "is smaller always",
-        "flows into another river",
-        "is in a city",
-        "is seasonal"
+        "is smaller always · সবসময় ছোট",
+        "flows into another river · অন্য নদীতে গিয়ে মেশে",
+        "is in a city · শহরের মধ্যে আছে",
+        "is seasonal · ঋতুনির্ভর"
        ],
        "answer": 1,
        "explain": "Only a {{fleuve}} reaches the sea · কেবল {{fleuve}} সাগরে পড়ে।"
@@ -10228,10 +10228,10 @@ LC.units.push({
       {
        "q": "{{une salle de bains}} is… · {{une salle de bains}} মানে…",
        "options": [
-        "a dirty bath",
-        "a bathroom",
-        "a salt bath",
-        "a bath hall"
+        "a dirty bath · নোংরা স্নান",
+        "a bathroom · একটি স্নানঘর",
+        "a salt bath · একটি লবণস্নান",
+        "a bath hall · স্নানঘর"
        ],
        "answer": 1,
        "explain": "{{la salle}} is a room, {{sale}} is dirty · {{la salle}} কক্ষ, {{sale}} নোংরা।"
@@ -10242,7 +10242,7 @@ LC.units.push({
         "sensible",
         "sensitive",
         "reasonable",
-        "noticeable only"
+        "noticeable only · কেবল লক্ষণীয়"
        ],
        "answer": 1,
        "explain": "A false friend; *sensible* is {{raisonnable}} · ছদ্মবন্ধু; *sensible* হলো {{raisonnable}}।"
@@ -10262,9 +10262,9 @@ LC.units.push({
        "q": "{{selon moi}} means… · {{selon moi}} মানে…",
        "options": [
         "without me",
-        "according to me",
+        "according to me · আমার মতে",
         "except me",
-        "before me"
+        "before me · আমার আগে"
        ],
        "answer": 1,
        "explain": "A useful way to open an opinion · মত প্রকাশের দরকারি সূচনা।"
@@ -10272,10 +10272,10 @@ LC.units.push({
       {
        "q": "{{le salon}} can also mean… · {{le salon}} আরও বোঝাতে পারে…",
        "options": [
-        "a trade show",
-        "a saloon bar",
-        "a hall of mirrors",
-        "a salad bar"
+        "a trade show · একটি বাণিজ্যমেলা",
+        "a saloon bar · একটি সালোঁ বার",
+        "a hall of mirrors · আয়নার হলঘর",
+        "a salad bar · একটি সালাদ বার"
        ],
        "answer": 0,
        "explain": "{{le Salon de l'auto}} is the motor show · {{le Salon de l'auto}} মানে গাড়ি মেলা।"
@@ -10486,10 +10486,10 @@ LC.units.push({
       {
        "q": "{{J'ai soif}} means… · {{J'ai soif}} মানে…",
        "options": [
-        "I have silk",
-        "I am thirsty",
-        "I am careful",
-        "I am sorry"
+        "I have silk · আমার কাছে রেশম আছে",
+        "I am thirsty · আমার তেষ্টা পেয়েছে",
+        "I am careful · আমি সতর্ক",
+        "I am sorry · আমি দুঃখিত"
        ],
        "answer": 1,
        "explain": "Like {{J'ai faim}}, French *has* thirst · {{J'ai faim}}-এর মতো, ফরাসিতে তৃষ্ণা *থাকে*।"
@@ -10508,10 +10508,10 @@ LC.units.push({
       {
        "q": "{{Pas de souci}} in conversation means… · কথায় {{Pas de souci}} মানে…",
        "options": [
-        "no sun",
-        "no worries",
-        "no sound",
-        "no chance"
+        "no sun · রোদ নেই",
+        "no worries · চিন্তা নেই",
+        "no sound · কোনো ধ্বনি নেই",
+        "no chance · কোনো সুযোগ নেই"
        ],
        "answer": 1,
        "explain": "The everyday *no problem* · প্রচলিত *কোনো সমস্যা নেই*।"
@@ -10519,10 +10519,10 @@ LC.units.push({
       {
        "q": "{{le siècle}} means… · {{le siècle}} মানে…",
        "options": [
-        "a cycle",
-        "a century",
-        "a circle",
-        "a seal"
+        "a cycle · একটি চক্র",
+        "a century · একটি শতাব্দী",
+        "a circle · একটি বৃত্ত",
+        "a seal · একটি সিলমোহর"
        ],
        "answer": 1,
        "explain": "{{le XXIe siècle}} — the 21st century · {{le XXIe siècle}} মানে একুশ শতক।"
@@ -10531,8 +10531,8 @@ LC.units.push({
        "q": "{{seulement}} means… · {{seulement}} মানে…",
        "options": [
         "lonely",
-        "only",
-        "solely in feeling",
+        "only · কেবল",
+        "solely in feeling · কেবল অনুভূতিতে",
         "silently"
        ],
        "answer": 1,
@@ -10739,10 +10739,10 @@ LC.units.push({
       {
        "q": "{{la souris}} can be an animal and… · {{la souris}} প্রাণী ছাড়াও বোঝাতে পারে…",
        "options": [
-        "a smile",
-        "a computer mouse",
-        "a mouth",
-        "a mousse"
+        "a smile · একটি হাসি",
+        "a computer mouse · কম্পিউটারের মাউস",
+        "a mouth · একটি মুখ",
+        "a mousse · একটি মুস"
        ],
        "answer": 1,
        "explain": "French borrowed the computer sense too · কম্পিউটারের অর্থটিও ফরাসি নিয়েছে।"
@@ -10750,10 +10750,10 @@ LC.units.push({
       {
        "q": "{{un supplément}} on a train ticket is… · ট্রেনের টিকিটে {{un supplément}} মানে…",
        "options": [
-        "a supplement magazine",
-        "an extra charge",
-        "a spare seat",
-        "a timetable"
+        "a supplement magazine · একটি ক্রোড়পত্র",
+        "an extra charge · বাড়তি খরচ",
+        "a spare seat · একটি অতিরিক্ত আসন",
+        "a timetable · একটি সময়সূচি"
        ],
        "answer": 1,
        "explain": "The extra you pay · অতিরিক্ত যে ভাড়া দিতে হয়।"
@@ -10761,10 +10761,10 @@ LC.units.push({
       {
        "q": "{{le stade}} can mean a stadium and… · {{le stade}} স্টেডিয়াম ছাড়াও বোঝায়…",
        "options": [
-        "a stage of a process",
-        "a staff",
-        "a stand",
-        "a statue"
+        "a stage of a process · একটি প্রক্রিয়ার ধাপ",
+        "a staff · একটি লাঠি",
+        "a stand · একটি স্ট্যান্ড",
+        "a statue · একটি মূর্তি"
        ],
        "answer": 0,
        "explain": "{{à ce stade}} — at this stage · {{à ce stade}} মানে এই পর্যায়ে।"
@@ -10772,8 +10772,8 @@ LC.units.push({
       {
        "q": "The prefix {{sous-}} means… · {{sous-}} উপসর্গের অর্থ…",
        "options": [
-        "over",
-        "under",
+        "over · উপরে",
+        "under · নিচে",
         "again",
         "without"
        ],
@@ -10783,10 +10783,10 @@ LC.units.push({
       {
        "q": "{{un souvenir}} is… · {{un souvenir}} মানে…",
        "options": [
-        "a memory or keepsake",
-        "a souvenir shop",
-        "a reminder note",
-        "a sovereign"
+        "a memory or keepsake · একটি স্মৃতি বা স্মারক",
+        "a souvenir shop · একটি স্মারকের দোকান",
+        "a reminder note · একটি স্মারকলিপি",
+        "a sovereign · একজন সার্বভৌম শাসক"
        ],
        "answer": 0,
        "explain": "From {{se souvenir}}, to remember · {{se souvenir}} অর্থাৎ মনে রাখা থেকে।"
@@ -11006,10 +11006,10 @@ LC.units.push({
       {
        "q": "{{la tâche}} with a circumflex means… · circumflex সহ {{la tâche}} মানে…",
        "options": [
-        "a task",
-        "a stain",
-        "a touch",
-        "a tack"
+        "a task · একটি কাজ",
+        "a stain · একটি দাগ",
+        "a touch · একটি স্পর্শ",
+        "a tack · একটি ছোট পেরেক"
        ],
        "answer": 0,
        "explain": "Without the hat, {{la tache}} is a stain · টুপি ছাড়া {{la tache}} মানে দাগ।"
@@ -11017,10 +11017,10 @@ LC.units.push({
       {
        "q": "{{Quelle taille faites-vous ?}} in a shop asks… · দোকানে {{Quelle taille faites-vous ?}} জিজ্ঞেস করে…",
        "options": [
-        "your name",
-        "your price range",
-        "your size",
-        "your address"
+        "your name · আপনার নাম",
+        "your price range · আপনার দামের সীমা",
+        "your size · আপনার মাপ",
+        "your address · আপনার ঠিকানা"
        ],
        "answer": 2,
        "explain": "{{la taille}} is the size · {{la taille}} মানে মাপ।"
@@ -11028,10 +11028,10 @@ LC.units.push({
       {
        "q": "{{un tabac}} in a French street is… · ফরাসি রাস্তায় {{un tabac}} মানে…",
        "options": [
-        "a tobacco field",
-        "a tobacconist's shop",
-        "a tobacco tax",
-        "a smoking area"
+        "a tobacco field · একটি তামাকের খেত",
+        "a tobacconist's shop · একটি তামাকের দোকান",
+        "a tobacco tax · তামাকের কর",
+        "a smoking area · ধূমপানের জায়গা"
        ],
        "answer": 1,
        "explain": "It also sells stamps and bus tickets · সেখানে ডাকটিকিট ও বাসের টিকিটও মেলে।"
@@ -11039,10 +11039,10 @@ LC.units.push({
       {
        "q": "{{le tableau}} in a classroom is… · শ্রেণিকক্ষে {{le tableau}} মানে…",
        "options": [
-        "a table",
-        "a tablet",
-        "the blackboard",
-        "a timetable"
+        "a table · একটি টেবিল",
+        "a tablet · একটি ট্যাবলেট",
+        "the blackboard · ব্ল্যাকবোর্ড",
+        "a timetable · একটি সময়সূচি"
        ],
        "answer": 2,
        "explain": "In a museum it is a painting · জাদুঘরে এটি একটি চিত্রকর্ম।"
@@ -11050,10 +11050,10 @@ LC.units.push({
       {
        "q": "{{Il est tard}} means… · {{Il est tard}} মানে…",
        "options": [
-        "he is late",
-        "it is late",
-        "he is slow",
-        "it is hard"
+        "he is late · তার দেরি হয়েছে",
+        "it is late · দেরি হয়ে গেছে",
+        "he is slow · সে ধীর",
+        "it is hard · এটি কঠিন"
        ],
        "answer": 1,
        "explain": "For a person late, say {{Il est en retard}} · ব্যক্তি দেরি করলে {{Il est en retard}}।"
@@ -11269,10 +11269,10 @@ LC.units.push({
       {
        "q": "{{Quel temps fait-il ?}} asks about… · {{Quel temps fait-il ?}} জিজ্ঞেস করে…",
        "options": [
-        "the time",
-        "the weather",
-        "the tense",
-        "the tempo"
+        "the time · সময়",
+        "the weather · আবহাওয়া",
+        "the tense · কাল",
+        "the tempo · গতি"
        ],
        "answer": 1,
        "explain": "For the time, ask {{Quelle heure est-il ?}} · সময় জানতে {{Quelle heure est-il ?}}।"
@@ -11280,10 +11280,10 @@ LC.units.push({
       {
        "q": "{{avoir tort}} means… · {{avoir tort}} মানে…",
        "options": [
-        "to be right",
-        "to be hurt",
-        "to be wrong",
-        "to be twisted"
+        "to be right · ঠিক হওয়া",
+        "to be hurt · আহত হওয়া",
+        "to be wrong · ভুল হওয়া",
+        "to be twisted · মোচড়ানো"
        ],
        "answer": 2,
        "explain": "The opposite of {{avoir raison}} · {{avoir raison}}-এর বিপরীত।"
@@ -11292,9 +11292,9 @@ LC.units.push({
        "q": "{{le timbre}} is… · {{le timbre}} মানে…",
        "options": [
         "timber",
-        "a drum",
-        "a postage stamp",
-        "a timer"
+        "a drum · একটি ঢোল",
+        "a postage stamp · একটি ডাকটিকিট",
+        "a timer · একটি টাইমার"
        ],
        "answer": 2,
        "explain": "Bought at {{le tabac}} or the post office · {{le tabac}} বা ডাকঘরে পাওয়া যায়।"
@@ -11302,9 +11302,9 @@ LC.units.push({
       {
        "q": "{{toujours}} can mean *always* and… · {{toujours}} *সবসময়* ছাড়াও বোঝায়…",
        "options": [
-        "never",
+        "never · কখনো না",
         "still",
-        "all day",
+        "all day · সারা দিন",
         "every day"
        ],
        "answer": 1,
@@ -11313,10 +11313,10 @@ LC.units.push({
       {
        "q": "{{les toilettes}} in the plural means… · বহুবচনে {{les toilettes}} মানে…",
        "options": [
-        "dressing tables",
-        "the toilets",
-        "toiletries",
-        "towels"
+        "dressing tables · সাজের টেবিল",
+        "the toilets · শৌচাগার",
+        "toiletries · প্রসাধনসামগ্রী",
+        "towels · তোয়ালে"
        ],
        "answer": 1,
        "explain": "Always plural for the room · কক্ষ বোঝাতে সবসময় বহুবচন।"
@@ -11522,10 +11522,10 @@ LC.units.push({
       {
        "q": "{{C'est trop cher}} means… · {{C'est trop cher}} মানে…",
        "options": [
-        "it is very dear to me",
-        "it is too expensive",
-        "it is quite cheap",
-        "it is very good"
+        "it is very dear to me · এটি আমার কাছে খুব প্রিয়",
+        "it is too expensive · এটি বড্ড দামি",
+        "it is quite cheap · এটি বেশ সস্তা",
+        "it is very good · এটি খুব ভালো"
        ],
        "answer": 1,
        "explain": "{{trop}} is always a complaint · {{trop}} সবসময় অভিযোগ।"
@@ -11533,10 +11533,10 @@ LC.units.push({
       {
        "q": "{{le trottoir}} is… · {{le trottoir}} মানে…",
        "options": [
-        "a trotting horse",
-        "the pavement",
-        "a trolley",
-        "a path in a park"
+        "a trotting horse · দুলকি চালে চলা ঘোড়া",
+        "the pavement · ফুটপাত",
+        "a trolley · একটি ট্রলি",
+        "a path in a park · পার্কের একটি পথ"
        ],
        "answer": 1,
        "explain": "From {{trotter}}, to trot along · {{trotter}} অর্থাৎ হেঁটে চলা থেকে।"
@@ -11671,10 +11671,10 @@ LC.units.push({
       {
        "q": "To say the French U you should… · ফরাসি U বলতে হলে…",
        "options": [
-        "say OO",
-        "say YOO",
-        "round the lips for OO and say EE",
-        "say UH"
+        "say OO · OO বলুন",
+        "say YOO · YOO বলুন",
+        "round the lips for OO and say EE · ঠোঁট OO-এর মতো গোল করে EE বলুন",
+        "say UH · UH বলুন"
        ],
        "answer": 2,
        "explain": "Lips forward, tongue forward · ঠোঁট সামনে, জিহ্বা সামনে।"
@@ -11682,10 +11682,10 @@ LC.units.push({
       {
        "q": "{{un fils unique}} means… · {{un fils unique}} মানে…",
        "options": [
-        "a unique son",
-        "an only son",
-        "a special son",
-        "a united son"
+        "a unique son · একমাত্র পুত্র",
+        "an only son · একমাত্র পুত্র",
+        "a special son · একটি বিশেষ পুত্র",
+        "a united son · ঐক্যবদ্ধ পুত্র"
        ],
        "answer": 1,
        "explain": "Before the noun, {{unique}} means *only* · বিশেষ্যের আগে {{unique}} মানে *একমাত্র*।"
@@ -11816,10 +11816,10 @@ LC.units.push({
       {
        "q": "{{faire la vaisselle}} means… · {{faire la vaisselle}} মানে…",
        "options": [
-        "to sail a vessel",
-        "to do the washing-up",
-        "to set the table",
-        "to pack a case"
+        "to sail a vessel · জাহাজ চালানো",
+        "to do the washing-up · বাসন ধোয়া",
+        "to set the table · টেবিল সাজানো",
+        "to pack a case · স্যুটকেস গোছানো"
        ],
        "answer": 1,
        "explain": "{{le vaisseau}} is the ship · {{le vaisseau}} মানে জাহাজ।"
@@ -11827,7 +11827,7 @@ LC.units.push({
       {
        "q": "{{Bonnes vacances !}} is said to someone who is… · {{Bonnes vacances !}} বলা হয় এমন কাউকে যে…",
        "options": [
-        "starting a job",
+        "starting a job · চাকরি শুরু করা",
         "going on holiday",
         "retiring",
         "moving house"
@@ -11838,10 +11838,10 @@ LC.units.push({
       {
        "q": "{{la valeur}} means… · {{la valeur}} মানে…",
        "options": [
-        "a valley",
+        "a valley · একটি উপত্যকা",
         "value",
-        "a valve",
-        "valour only"
+        "a valve · একটি কপাট",
+        "valour only · কেবল বীরত্ব"
        ],
        "answer": 1,
        "explain": "It can also mean valour, courage · সাহস অর্থেও ব্যবহৃত হয়।"
@@ -11849,10 +11849,10 @@ LC.units.push({
       {
        "q": "{{en vain}} means… · {{en vain}} মানে…",
        "options": [
-        "in vain",
-        "in a vein",
-        "with vanity",
-        "in twenty"
+        "in vain · বৃথা",
+        "in a vein · একটি শিরায়",
+        "with vanity · অহংকারের সঙ্গে",
+        "in twenty · কুড়িতে"
        ],
        "answer": 0,
        "explain": "The same phrase as English · ইংরেজির সঙ্গে হুবহু মিল।"
@@ -12054,9 +12054,9 @@ LC.units.push({
        "q": "{{le verre}} and {{le ver}} are said… · {{le verre}} ও {{le ver}}-এর উচ্চারণ…",
        "options": [
         "quite differently",
-        "the same, VAIR",
-        "with different vowels",
-        "with a silent r"
+        "the same, VAIR · একই, VAIR",
+        "with different vowels · ভিন্ন স্বরধ্বনি সহ",
+        "with a silent r · নীরব r সহ"
        ],
        "answer": 1,
        "explain": "Add {{vers}} and {{vert}} — four words, one sound · সঙ্গে {{vers}} ও {{vert}} — চারটি শব্দ, এক উচ্চারণ।"
@@ -12064,10 +12064,10 @@ LC.units.push({
       {
        "q": "{{À vendre}} on a house means… · বাড়িতে {{À vendre}} মানে…",
        "options": [
-        "to rent",
-        "for sale",
+        "to rent · ভাড়া নেওয়া",
+        "for sale · বিক্রয়ের জন্য",
         "sold",
-        "under repair"
+        "under repair · মেরামতাধীন"
        ],
        "answer": 1,
        "explain": "{{À louer}} is to rent · ভাড়ার জন্য হলে {{À louer}}।"
@@ -12077,7 +12077,7 @@ LC.units.push({
        "options": [
         "Christmas Day",
         "Christmas Eve",
-        "the Christmas vigil mass",
+        "the Christmas vigil mass · বড়দিনের রাতের প্রার্থনা",
         "Boxing Day"
        ],
        "answer": 1,
@@ -12086,10 +12086,10 @@ LC.units.push({
       {
        "q": "{{une vedette}} is… · {{une vedette}} মানে…",
        "options": [
-        "a star performer",
-        "a small boat only",
-        "a vendor",
-        "a vignette"
+        "a star performer · একজন তারকা শিল্পী",
+        "a small boat only · কেবল একটি ছোট নৌকা",
+        "a vendor · একজন বিক্রেতা",
+        "a vignette · একটি ভিনেট"
        ],
        "answer": 0,
        "explain": "It also names a fast motorboat · দ্রুতগামী নৌকাও বোঝায়।"
@@ -12097,10 +12097,10 @@ LC.units.push({
       {
        "q": "{{j'ai mal au ventre}} means… · {{j'ai mal au ventre}} মানে…",
        "options": [
-        "I have a headache",
-        "I have a stomach ache",
-        "I feel the wind",
-        "I have a sore throat"
+        "I have a headache · আমার মাথা ব্যথা",
+        "I have a stomach ache · আমার পেট ব্যথা",
+        "I feel the wind · আমি বাতাস অনুভব করি",
+        "I have a sore throat · আমার গলা ব্যথা"
        ],
        "answer": 1,
        "explain": "{{le ventre}} is the belly · {{le ventre}} মানে পেট।"
@@ -12296,10 +12296,10 @@ LC.units.push({
       {
        "q": "{{Voilà !}} handed with a dish means… · খাবার দিতে দিতে {{Voilà !}} মানে…",
        "options": [
-        "Look over there",
-        "There you are",
-        "Is that all",
-        "Here we go again"
+        "Look over there · ওদিকে দেখুন",
+        "There you are · এই তো আপনি",
+        "Is that all · এই কি সব",
+        "Here we go again · আবার সেই একই কাণ্ড"
        ],
        "answer": 1,
        "explain": "The all-purpose French presenting word · সবকিছু এগিয়ে দেওয়ার ফরাসি শব্দ।"
@@ -12307,10 +12307,10 @@ LC.units.push({
       {
        "q": "{{un vol}} can mean a flight and… · {{un vol}} উড্ডয়ন ছাড়াও বোঝায়…",
        "options": [
-        "a volume",
-        "a theft",
-        "a volt",
-        "a will"
+        "a volume · একটি খণ্ড",
+        "a theft · একটি চুরি",
+        "a volt · একটি ভোল্ট",
+        "a will · একটি উইল"
        ],
        "answer": 1,
        "explain": "{{voler}} means both to fly and to steal · {{voler}} দুটোই বোঝায়।"
@@ -12318,10 +12318,10 @@ LC.units.push({
       {
        "q": "{{la ville}} is… · {{la ville}} মানে…",
        "options": [
-        "a villa",
-        "a village",
-        "a town or city",
-        "a villain"
+        "a villa · একটি ভিলা",
+        "a village · একটি গ্রাম",
+        "a town or city · একটি শহর",
+        "a villain · একজন খলনায়ক"
        ],
        "answer": 2,
        "explain": "{{le village}} is the small one · ছোটটি হলো {{le village}}।"
@@ -12329,10 +12329,10 @@ LC.units.push({
       {
        "q": "{{la virgule}} in a French number 3,5 is… · ফরাসি সংখ্যা 3,5-এ {{la virgule}} হলো…",
        "options": [
-        "a thousands separator",
-        "the decimal point",
-        "a mistake",
-        "a bracket"
+        "a thousands separator · হাজারের বিভাজক",
+        "the decimal point · দশমিক বিন্দু",
+        "a mistake · একটি ভুল",
+        "a bracket · একটি বন্ধনী"
        ],
        "answer": 1,
        "explain": "French writes 3,5 where English writes 3.5 · ইংরেজির 3.5 ফরাসিতে 3,5।"
@@ -12340,9 +12340,9 @@ LC.units.push({
       {
        "q": "{{Je suis vite}} is wrong because {{vite}} is… · {{Je suis vite}} ভুল কারণ {{vite}} হলো…",
        "options": [
-        "an adverb, not an adjective",
-        "a noun",
-        "a verb",
+        "an adverb, not an adjective · ক্রিয়াবিশেষণ, বিশেষণ নয়",
+        "a noun · একটি বিশেষ্য",
+        "a verb · একটি ক্রিয়া",
         "feminine"
        ],
        "answer": 0,
@@ -12606,10 +12606,10 @@ LC.units.push({
       {
        "q": "{{Zut !}} is… · {{Zut !}} হলো…",
        "options": [
-        "a greeting",
-        "a mild exclamation of annoyance",
-        "a strong insult",
-        "a farewell"
+        "a greeting · একটি অভিবাদন",
+        "a mild exclamation of annoyance · হালকা বিরক্তির ধ্বনি",
+        "a strong insult · একটি কড়া অপমান",
+        "a farewell · একটি বিদায়"
        ],
        "answer": 1,
        "explain": "Safe to say in any company · যেকোনো পরিবেশে বলা নিরাপদ।"
@@ -12617,10 +12617,10 @@ LC.units.push({
       {
        "q": "Why are there so few W words in French? · ফরাসিতে W দিয়ে এত কম শব্দ কেন?",
        "options": [
-        "W is a recent borrowing into the alphabet",
-        "W is hard to write",
-        "W was abolished",
-        "W is only for names"
+        "W is a recent borrowing into the alphabet · W বর্ণমালায় সম্প্রতি ধার করা",
+        "W is hard to write · W লেখা কঠিন",
+        "W was abolished · W বাতিল করা হয়েছিল",
+        "W is only for names · W কেবল নামের জন্য"
        ],
        "answer": 0,
        "explain": "Every W word came in from another language · প্রতিটি W শব্দ অন্য ভাষা থেকে এসেছে।"
@@ -13355,9 +13355,9 @@ LC.units.push({
        "q": "{{উদ্দেশ্য}} and {{le but}} both mean… · {{উদ্দেশ্য}} ও {{le but}} দুটিরই অর্থ…",
        "options": [
         "aim, purpose",
-        "a boot",
-        "a goal in football only",
-        "a bud"
+        "a boot · একটি বুট জুতা",
+        "a goal in football only · কেবল ফুটবলের গোল",
+        "a bud · একটি কুঁড়ি"
        ],
        "answer": 0,
        "explain": "{{le but}} is also a goal in sport · খেলায় {{le but}} মানে গোলও।"
@@ -14795,7 +14795,7 @@ LC.units.push({
         "wise",
         "aged",
         "quiet",
-        "learned by heart"
+        "learned by heart · মুখস্থ করা"
        ],
        "answer": 0,
        "explain": "Of a child, {{sage}} means well-behaved · শিশুর ক্ষেত্রে {{sage}} মানে শান্ত।"
@@ -14978,10 +14978,10 @@ LC.units.push({
       {
        "q": "{{টিকা}} and {{টীকা}} differ: {{টিকা}} is… · {{টিকা}} মানে…",
        "options": [
-        "an annotation",
-        "a vaccination",
-        "a ticket",
-        "a tick"
+        "an annotation · একটি টীকা",
+        "a vaccination · একটি টিকা",
+        "a ticket · একটি টিকিট",
+        "a tick · একটি টিকচিহ্ন"
        ],
        "answer": 1,
        "explain": "One long vowel apart in Bangla, worlds apart in French · বাংলায় এক মাত্রার তফাত, ফরাসিতে বিস্তর।"
@@ -15193,10 +15193,10 @@ LC.units.push({
       {
        "q": "{{le rugissement}} belongs to… · {{le rugissement}} কার ডাক?",
        "options": [
-        "a frog",
-        "a lion",
-        "a cow",
-        "a crow"
+        "a frog · একটি ব্যাঙ",
+        "a lion · একটি সিংহ",
+        "a cow · একটি গরু",
+        "a crow · একটি কাক"
        ],
        "answer": 1,
        "explain": "{{rugir}} is to roar · {{rugir}} মানে গর্জন করা।"
@@ -15204,7 +15204,7 @@ LC.units.push({
       {
        "q": "What does a French cockerel say? · ফরাসি মোরগ কী বলে?",
        "options": [
-        "cock-a-doodle-doo",
+        "cock-a-doodle-doo · কুক্কুরু-কুঁ",
         "cocorico",
         "coâ coâ",
         "cui-cui"
@@ -15215,10 +15215,10 @@ LC.units.push({
       {
        "q": "{{le coassement}} is the sound of… · {{le coassement}} কার শব্দ?",
        "options": [
-        "a frog",
-        "a crow",
-        "a bee",
-        "a duck"
+        "a frog · একটি ব্যাঙ",
+        "a crow · একটি কাক",
+        "a bee · একটি মৌমাছি",
+        "a duck · একটি হাঁস"
        ],
        "answer": 0,
        "explain": "{{le croassement}} with an r is the crow · r সহ {{le croassement}} মানে কাকের ডাক।"
@@ -16295,10 +16295,10 @@ LC.units.push({
       {
        "q": "{{le pécheur}} without a circumflex is… · circumflex ছাড়া {{le pécheur}} মানে…",
        "options": [
-        "a fisherman",
-        "a sinner",
-        "a peach seller",
-        "a shepherd"
+        "a fisherman · একজন জেলে",
+        "a sinner · একজন পাপী",
+        "a peach seller · একজন পিচফল বিক্রেতা",
+        "a shepherd · একজন রাখাল"
        ],
        "answer": 1,
        "explain": "{{le pêcheur}} with the hat fishes · টুপি থাকলে তিনি মাছ ধরেন।"
@@ -17394,10 +17394,10 @@ LC.units.push({
       {
        "q": "{{Ce n'est pas la peine}} means… · {{Ce n'est pas la peine}} মানে…",
        "options": [
-        "it is not a punishment",
-        "it is not worth the trouble",
-        "there is no peace",
-        "it is painless"
+        "it is not a punishment · এটি শাস্তি নয়",
+        "it is not worth the trouble · এত কষ্ট করার মতো নয়",
+        "there is no peace · শান্তি নেই",
+        "it is painless · এতে ব্যথা নেই"
        ],
        "answer": 1,
        "explain": "An everyday way to decline · প্রত্যাখ্যানের প্রচলিত উপায়।"

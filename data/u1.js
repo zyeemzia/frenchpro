@@ -232,10 +232,10 @@ LC.units.push({
       {
        "q": "In {{dans}}, how is the n pronounced? · {{dans}}-এ n কীভাবে উচ্চারিত হয়?",
        "options": [
-        "Not at all — it only nasalises the a",
+        "Not at all — it only nasalises the a · একেবারেই না — এটি কেবল a-কে নাসিক্য করে",
         "Like the n in Bangla নাম",
-        "Like a soft m",
-        "Like the n in English done"
+        "Like a soft m · কোমল m-এর মতো",
+        "Like the n in English done · ইংরেজি done-এর n-এর মতো"
        ],
        "answer": 0,
        "explain": "The n is a signpost, never a sound. · n কেবল একটি সংকেত, কোনো ধ্বনি নয়।"
@@ -265,10 +265,10 @@ LC.units.push({
       {
        "q": "Why is {{américaine}} not nasal at the end? · {{américaine}}-এর শেষে নাসিক্যতা নেই কেন?",
        "options": [
-        "It is a feminine word",
-        "It is borrowed from English",
-        "The accent blocks it",
-        "A vowel follows the n"
+        "It is a feminine word · এটি স্ত্রীবাচক শব্দ",
+        "It is borrowed from English · এটি ইংরেজি থেকে ধার করা",
+        "The accent blocks it · উচ্চারণচিহ্ন এটি আটকায়",
+        "A vowel follows the n · n-এর পরে স্বরধ্বনি আসে"
        ],
        "answer": 3,
        "explain": "A vowel after n or m always breaks the nasal. · n বা m-এর পরে স্বর এলে নাসিক্যতা ভেঙে যায়।"
@@ -289,9 +289,9 @@ LC.units.push({
        "q": "In {{important}}, how many nasal vowels are there? · {{important}}-এ কয়টি নাসিক্য স্বর আছে?",
        "options": [
         "None",
-        "Two",
-        "One",
-        "Three"
+        "Two · দুই",
+        "One · এক",
+        "Three · তিন"
        ],
        "answer": 1,
        "explain": "im- gives ɛ̃ and -ant gives ɑ̃. · im- দেয় ɛ̃ আর -ant দেয় ɑ̃।"
@@ -508,10 +508,10 @@ LC.units.push({
       {
        "q": "Why is {{parler}} said par-LAY? · {{parler}} কেন par-LAY বলা হয়?",
        "options": [
-        "The final e took the sound",
-        "The r of -er verb endings is silent",
-        "The r became an accent",
-        "It is an irregular verb"
+        "The final e took the sound · শেষের e ধ্বনিটি নিয়ে নিয়েছে",
+        "The r of -er verb endings is silent · -er ক্রিয়ার শেষের r নীরব",
+        "The r became an accent · r উচ্চারণচিহ্নে বদলে গেছে",
+        "It is an irregular verb · এটি অনিয়মিত ক্রিয়া"
        ],
        "answer": 1,
        "explain": "The -er infinitive ending always sounds like -é. · -er infinitive-এর উচ্চারণ সবসময় -é-এর মতো।"
@@ -675,7 +675,7 @@ LC.units.push({
        "options": [
         "s",
         "sh",
-        "nothing",
+        "nothing · কিছু না",
         "z"
        ],
        "answer": 3,
@@ -695,7 +695,7 @@ LC.units.push({
       {
        "q": "In {{un grand homme}}, the d is said as… · {{un grand homme}}-এ d উচ্চারিত হয়…",
        "options": [
-        "nothing",
+        "nothing · কিছু না",
         "t",
         "d",
         "z"
@@ -706,9 +706,9 @@ LC.units.push({
       {
        "q": "Why is there no liaison in {{les héros}}? · {{les héros}}-এ liaison নেই কেন?",
        "options": [
-        "The s is already silent",
-        "It is a borrowed word",
-        "The h is aspirate",
+        "The s is already silent · s এমনিতেই নীরব",
+        "It is a borrowed word · এটি ধার করা শব্দ",
+        "The h is aspirate · h সাশ্বাস",
         "héros is plural"
        ],
        "answer": 2,
@@ -917,9 +917,9 @@ LC.units.push({
        "q": "Why is it {{l'hôtel}} and not {{le hôtel}}? · {{le hôtel}} না হয়ে {{l'hôtel}} কেন?",
        "options": [
         "Hôtel is feminine",
-        "The accent demands it",
-        "Borrowed words always elide",
-        "The h is mute, so it counts as a vowel"
+        "The accent demands it · উচ্চারণচিহ্ন এটি দাবি করে",
+        "Borrowed words always elide · ধার করা শব্দে সবসময় স্বরলোপ হয়",
+        "The h is mute, so it counts as a vowel · h নীরব, তাই এটি স্বরধ্বনি হিসেবে গণ্য"
        ],
        "answer": 3,
        "explain": "A mute h is invisible to the ear. · mute h কানে ধরা পড়ে না।"
@@ -1103,10 +1103,10 @@ LC.units.push({
       {
        "q": "Where is the French R made? · ফরাসি R কোথায় তৈরি হয়?",
        "options": [
-        "Against the upper teeth",
-        "At the back of the throat",
+        "Against the upper teeth · উপরের দাঁতের গায়ে",
+        "At the back of the throat · গলার পেছনে",
         "With the tongue tip, like Bangla র",
-        "Between the lips"
+        "Between the lips · দুই ঠোঁটের মাঝে"
        ],
        "answer": 1,
        "explain": "The tongue tip stays down throughout. · জিভের ডগা পুরো সময় নিচে থাকে।"
@@ -1114,10 +1114,10 @@ LC.units.push({
       {
        "q": "{{la roue}} means… · {{la roue}} মানে…",
        "options": [
-        "the red one",
-        "the road",
-        "the wheel",
-        "the street"
+        "the red one · লালটি",
+        "the road · রাস্তা",
+        "the wheel · চাকা",
+        "the street · রাস্তা"
        ],
        "answer": 2,
        "explain": "{{la rue}} is the street; {{la roue}} is the wheel. · {{la rue}} মানে রাস্তা; {{la roue}} মানে চাকা।"
@@ -1125,10 +1125,10 @@ LC.units.push({
       {
        "q": "To make the u of {{tu}}, you should… · {{tu}}-এর u বলতে হলে…",
        "options": [
-        "Say oo, then spread the lips",
-        "Say o with an open mouth",
-        "Say a through the nose",
-        "Say ee, then round the lips"
+        "Say oo, then spread the lips · oo বলুন, তারপর ঠোঁট ছড়ান",
+        "Say o with an open mouth · মুখ খুলে o বলুন",
+        "Say a through the nose · নাক দিয়ে a বলুন",
+        "Say ee, then round the lips · ee বলুন, তারপর ঠোঁট গোল করুন"
        ],
        "answer": 3,
        "explain": "Tongue in the ee position, lips rounded. · জিভ ই-এর অবস্থানে, ঠোঁট গোল।"
@@ -1278,9 +1278,9 @@ LC.units.push({
        "q": "Where does the stress fall in a French group of words? · ফরাসি শব্দগুচ্ছে জোর কোথায় পড়ে?",
        "options": [
         "On every long word",
-        "On the verb",
-        "On the last syllable of the group",
-        "On the first word"
+        "On the verb · ক্রিয়ার উপরে",
+        "On the last syllable of the group · গুচ্ছের শেষ শব্দাংশে",
+        "On the first word · প্রথম শব্দে"
        ],
        "answer": 2,
        "explain": "French stresses groups, not individual words. · ফরাসি শব্দগুচ্ছে জোর দেয়, আলাদা শব্দে নয়।"
@@ -1321,10 +1321,10 @@ LC.units.push({
       {
        "q": "In French typography, what goes before a question mark? · ফরাসি মুদ্রণরীতিতে প্রশ্নবোধক চিহ্নের আগে কী বসে?",
        "options": [
-        "A comma",
-        "A full stop",
-        "A thin space",
-        "Nothing at all"
+        "A comma · একটি কমা",
+        "A full stop · একটি দাঁড়ি",
+        "A thin space · একটি সরু ফাঁক",
+        "Nothing at all · কিছুই না"
        ],
        "answer": 2,
        "explain": "French spaces its high punctuation: {{Ça va ?}} · ফরাসি উঁচু চিহ্নের আগে ফাঁক রাখে: {{Ça va ?}}"

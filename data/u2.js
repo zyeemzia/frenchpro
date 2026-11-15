@@ -179,10 +179,10 @@ LC.units.push({
       {
        "q": "{{la plage}} is feminine. Why is that surprising? · {{la plage}} স্ত্রীলিঙ্গ। এটি অবাক করার মতো কেন?",
        "options": [
-        "Because -age is usually masculine",
-        "Because it is a borrowed word",
-        "Because it ends in a vowel",
-        "Because it is a place"
+        "Because -age is usually masculine · কারণ -age সাধারণত পুংলিঙ্গ",
+        "Because it is a borrowed word · কারণ এটি ধার করা শব্দ",
+        "Because it ends in a vowel · কারণ এটি স্বরধ্বনিতে শেষ হয়",
+        "Because it is a place · কারণ এটি একটি জায়গা"
        ],
        "answer": 0,
        "explain": "{{page, plage, cage, image}} are the -age exceptions. · {{page, plage, cage, image}} হলো -age-এর ব্যতিক্রম।"
@@ -190,10 +190,10 @@ LC.units.push({
       {
        "q": "What does {{la tour}} mean? · {{la tour}} মানে কী?",
        "options": [
-        "the tour guide",
-        "the tower",
-        "the trip",
-        "the turn"
+        "the tour guide · ভ্রমণ-পথপ্রদর্শক",
+        "the tower · মিনার",
+        "the trip · ভ্রমণ",
+        "the turn · পালা"
        ],
        "answer": 1,
        "explain": "{{le tour}} is a trip or turn; {{la tour}} is a tower. · {{le tour}} মানে ভ্রমণ বা পালা; {{la tour}} মানে মিনার।"
@@ -668,10 +668,10 @@ LC.units.push({
       {
        "q": "Why does {{J'aime le thé}} keep {{le}} in the negative? · না-বাচক বাক্যেও {{J'aime le thé}}-তে {{le}} থাকে কেন?",
        "options": [
-        "It is an exception verb",
-        "Because aimer takes no object",
-        "Definite articles never change after a negative",
-        "Tea is masculine"
+        "It is an exception verb · এটি ব্যতিক্রমী ক্রিয়া",
+        "Because aimer takes no object · কারণ aimer কোনো কর্ম নেয় না",
+        "Definite articles never change after a negative · নঞর্থকের পরে নির্দিষ্ট পদাশ্রয় বদলায় না",
+        "Tea is masculine · চা পুংলিঙ্গ"
        ],
        "answer": 2,
        "explain": "Only indefinite and partitive articles collapse to de. · কেবল indefinite ও partitive article de-তে পরিণত হয়।"
@@ -1082,7 +1082,7 @@ LC.units.push({
       ],
       [
        "{{seul}}",
-       "only",
+       "only · কেবল",
        "alone"
       ],
       [
@@ -1120,10 +1120,10 @@ LC.units.push({
       {
        "q": "{{un homme grand}} means… · {{un homme grand}} মানে…",
        "options": [
-        "an old man",
-        "a grown man",
-        "a tall man",
-        "a great man"
+        "an old man · একজন বৃদ্ধ",
+        "a grown man · একজন পূর্ণবয়স্ক পুরুষ",
+        "a tall man · একজন লম্বা মানুষ",
+        "a great man · একজন মহান ব্যক্তি"
        ],
        "answer": 2,
        "explain": "After the noun it is literal; before, figurative. · নামের পরে বসলে আক্ষরিক; আগে বসলে রূপক।"
@@ -1142,10 +1142,10 @@ LC.units.push({
       {
        "q": "{{mon propre livre}} means… · {{mon propre livre}} মানে…",
        "options": [
-        "my own book",
-        "my clean book",
-        "my proper book",
-        "my only book"
+        "my own book · আমার নিজের বই",
+        "my clean book · আমার পরিষ্কার বই",
+        "my proper book · আমার যথাযথ বই",
+        "my only book · আমার একমাত্র বই"
        ],
        "answer": 0,
        "explain": "Before the noun, {{propre}} means *own*. · নামের আগে {{propre}} মানে *নিজের*।"
@@ -1156,7 +1156,7 @@ LC.units.push({
         "Beauty, Action, Grade, Shape",
         "Beauty, Age, Goodness, Size",
         "Big, Angry, Good, Small",
-        "Before, After, Gender, Singular"
+        "Before, After, Gender, Singular · আগে, পরে, লিঙ্গ, একবচন"
        ],
        "answer": 1,
        "explain": "These four meanings put an adjective in front. · এই চারটি অর্থ বিশেষণকে নামের আগে বসায়।"
@@ -1602,10 +1602,10 @@ LC.units.push({
       {
        "q": "In {{Il en a trois}}, what does {{en}} stand for? · {{Il en a trois}}-এ {{en}} কী বোঝায়?",
        "options": [
-        "the verb",
-        "the things being counted",
-        "a place",
-        "a person"
+        "the verb · ক্রিয়া",
+        "the things being counted · যা গোনা হচ্ছে",
+        "a place · একটি জায়গা",
+        "a person · একজন ব্যক্তি"
        ],
        "answer": 1,
        "explain": "With a number, {{en}} replaces the noun counted. · সংখ্যার সঙ্গে {{en}} গোনা জিনিসটির জায়গায় বসে।"
@@ -1849,9 +1849,9 @@ LC.units.push({
       {
        "q": "What is wrong with *le livre je lis*? · *le livre je lis*-এ ভুলটি কোথায়?",
        "options": [
-        "It needs an accent",
-        "It should be plural",
-        "Nothing is wrong",
+        "It needs an accent · এতে উচ্চারণচিহ্ন লাগে",
+        "It should be plural · এটি বহুবচন হওয়া উচিত",
+        "Nothing is wrong · কোনো ভুল নেই",
         "French cannot drop que"
        ],
        "answer": 3,

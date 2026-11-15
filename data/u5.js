@@ -151,10 +151,10 @@ LC.units.push({
       {
        "q": "{{les deux-points}} is the French name for… · {{les deux-points}} ফরাসি নামটি বোঝায়…",
        "options": [
-        "the semicolon",
-        "the ellipsis",
-        "the dash",
-        "the colon"
+        "the semicolon · সেমিকোলন",
+        "the ellipsis · ত্রিবিন্দু",
+        "the dash · ড্যাশ",
+        "the colon · কোলন"
        ],
        "answer": 3,
        "explain": "Literally *the two dots*. · আক্ষরিক অর্থে *দুটি বিন্দু*।"
@@ -307,10 +307,10 @@ LC.units.push({
       {
        "q": "{{Objet :}} introduces… · {{Objet :}} দিয়ে বোঝানো হয়…",
        "options": [
-        "the date",
-        "the subject of the letter",
-        "the sender's address",
-        "the enclosure list"
+        "the date · তারিখ",
+        "the subject of the letter · চিঠির বিষয়",
+        "the sender's address · প্রেরকের ঠিকানা",
+        "the enclosure list · সংযুক্তির তালিকা"
        ],
        "answer": 1,
        "explain": "One short line saying what the letter is about. · এক লাইনে চিঠির বিষয়বস্তু।"
@@ -331,8 +331,8 @@ LC.units.push({
        "options": [
         "our reference",
         "verified reference",
-        "the version",
-        "your reference"
+        "the version · সংস্করণ",
+        "your reference · আপনার সূত্র"
        ],
        "answer": 3,
        "explain": "{{N/Réf.}} is yours, {{V/Réf.}} is theirs. · {{N/Réf.}} আপনার, {{V/Réf.}} তাদের।"
@@ -341,9 +341,9 @@ LC.units.push({
        "q": "If you open with {{Monsieur le Directeur,}} the closing must… · {{Monsieur le Directeur,}} দিয়ে শুরু করলে শেষের বাক্যে অবশ্যই…",
        "options": [
         "repeat Monsieur le Directeur",
-        "use Monsieur only",
+        "use Monsieur only · কেবল Monsieur ব্যবহার করুন",
         "use Cher Monsieur",
-        "omit the title"
+        "omit the title · সম্বোধন বাদ দিন"
        ],
        "answer": 0,
        "explain": "The formula echoes the opening exactly. · শেষের বাক্যে শুরুর সম্বোধনটি হুবহু ফিরে আসে।"
@@ -555,10 +555,10 @@ LC.units.push({
       {
        "q": "{{Dans l'attente de votre réponse}} means… · {{Dans l'attente de votre réponse}} মানে…",
        "options": [
-        "Looking forward to your reply",
-        "In answer to your letter",
-        "Awaiting your arrival",
-        "Without waiting for a reply"
+        "Looking forward to your reply · আপনার উত্তরের অপেক্ষায়",
+        "In answer to your letter · আপনার চিঠির উত্তরে",
+        "Awaiting your arrival · আপনার আগমনের অপেক্ষায়",
+        "Without waiting for a reply · উত্তরের অপেক্ষা না করেই"
        ],
        "answer": 0,
        "explain": "A standard pre-closing line. · শেষ করার আগে বসানো প্রচলিত বাক্য।"
@@ -566,10 +566,10 @@ LC.units.push({
       {
        "q": "{{l'entretien}} is… · {{l'entretien}} মানে…",
        "options": [
-        "the entrance",
-        "the interview",
-        "the maintenance fee",
-        "the entry form"
+        "the entrance · প্রবেশপথ",
+        "the interview · সাক্ষাৎকার",
+        "the maintenance fee · রক্ষণাবেক্ষণ ফি",
+        "the entry form · ভর্তি ফর্ম"
        ],
        "answer": 1,
        "explain": "{{un entretien d'embauche}} is a job interview. · {{un entretien d'embauche}} মানে চাকরির সাক্ষাৎকার।"
@@ -717,10 +717,10 @@ LC.units.push({
       {
        "q": "{{On peut se tutoyer ?}} asks… · {{On peut se tutoyer ?}} জিজ্ঞেস করে…",
        "options": [
-        "Shall we use tu?",
-        "May I sit down?",
-        "Shall we meet?",
-        "Can you repeat?"
+        "Shall we use tu? · আমরা কি tu ব্যবহার করব?",
+        "May I sit down? · আমি কি বসতে পারি?",
+        "Shall we meet? · আমরা কি দেখা করব?",
+        "Can you repeat? · আবার বলবেন?"
        ],
        "answer": 0,
        "explain": "The polite way to move from vous to tu. · vous থেকে tu-তে যাওয়ার ভদ্র উপায়।"
@@ -739,10 +739,10 @@ LC.units.push({
       {
        "q": "Which is always {{vous}}? · কোন ক্ষেত্রে সবসময় {{vous}} বসে?",
        "options": [
-        "a close friend",
-        "a brother",
-        "more than one person",
-        "a child"
+        "a close friend · ঘনিষ্ঠ বন্ধু",
+        "a brother · একজন ভাই",
+        "more than one person · একাধিক ব্যক্তি",
+        "a child · একটি শিশু"
        ],
        "answer": 2,
        "explain": "{{vous}} is both the polite and the plural form. · {{vous}} একাধারে ভদ্র ও বহুবচন রূপ।"
@@ -750,10 +750,10 @@ LC.units.push({
       {
        "q": "{{Donne-moi de tes nouvelles}} means… · {{Donne-moi de tes nouvelles}} মানে…",
        "options": [
-        "Give me the news",
-        "Send me a newspaper",
-        "Tell me a story",
-        "Let me hear from you"
+        "Give me the news · আমাকে খবর দিন",
+        "Send me a newspaper · আমাকে একটি সংবাদপত্র পাঠান",
+        "Tell me a story · আমাকে একটি গল্প বলুন",
+        "Let me hear from you · আপনার খবর জানাবেন"
        ],
        "answer": 3,
        "explain": "A standard sign-off between friends. · বন্ধুদের মধ্যে প্রচলিত সমাপ্তি।"
@@ -928,10 +928,10 @@ LC.units.push({
       {
        "q": "{{Formation}} on a CV means… · CV-তে {{Formation}} মানে…",
        "options": [
-        "education and training",
-        "work experience",
-        "personal details",
-        "references"
+        "education and training · শিক্ষা ও প্রশিক্ষণ",
+        "work experience · কাজের অভিজ্ঞতা",
+        "personal details · ব্যক্তিগত তথ্য",
+        "references · সুপারিশ"
        ],
        "answer": 0,
        "explain": "{{Expérience professionnelle}} covers jobs. · {{Expérience professionnelle}} অংশে চাকরির অভিজ্ঞতা থাকে।"
@@ -963,7 +963,7 @@ LC.units.push({
        "options": [
         "oldest first",
         "alphabetically",
-        "by employer size",
+        "by employer size · নিয়োগকর্তার আকার অনুসারে",
         "newest first"
        ],
        "answer": 3,
@@ -972,10 +972,10 @@ LC.units.push({
       {
        "q": "{{un poste}} means… · {{un poste}} মানে…",
        "options": [
-        "a job",
-        "the post office",
-        "a postage stamp",
-        "a posting abroad"
+        "a job · একটি চাকরি",
+        "the post office · ডাকঘর",
+        "a postage stamp · একটি ডাকটিকিট",
+        "a posting abroad · বিদেশে পদায়ন"
        ],
        "answer": 0,
        "explain": "{{la poste}} is the post office. · {{la poste}} মানে ডাকঘর।"
@@ -1107,9 +1107,9 @@ LC.units.push({
        "q": "{{cependant}} means… · {{cependant}} মানে…",
        "options": [
         "finally",
-        "however",
-        "therefore",
-        "because"
+        "however · তবে",
+        "therefore · অতএব",
+        "because · কারণ"
        ],
        "answer": 1,
        "explain": "A contrast word, like {{néanmoins}}. · বৈপরীত্যবাচক শব্দ, {{néanmoins}}-এর মতো।"
@@ -1117,10 +1117,10 @@ LC.units.push({
       {
        "q": "{{bien que}} is followed by… · {{bien que}}-এর পরে বসে…",
        "options": [
-        "the conditional",
-        "the imperative",
-        "the subjunctive",
-        "the future"
+        "the conditional · শর্তবাচক কাল",
+        "the imperative · অনুজ্ঞা",
+        "the subjunctive · সম্ভাবনাসূচক",
+        "the future · ভবিষ্যৎ"
        ],
        "answer": 2,
        "explain": "{{bien qu'il soit}}, never *bien qu'il est*. · {{bien qu'il soit}}, কখনোই *bien qu'il est* নয়।"
@@ -1128,9 +1128,9 @@ LC.units.push({
       {
        "q": "{{c'est-à-dire}} means… · {{c'est-à-dire}} মানে…",
        "options": [
-        "it is said",
-        "it must be said",
-        "say it again",
+        "it is said · বলা হয়",
+        "it must be said · বলতেই হয়",
+        "say it again · আবার বলুন",
         "that is to say"
        ],
        "answer": 3,

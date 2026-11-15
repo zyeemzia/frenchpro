@@ -167,10 +167,10 @@ LC.units.push({
       {
        "q": "{{nous finissons}} belongs to… · {{nous finissons}} কোন দলের?",
        "options": [
-        "no group",
-        "group two",
-        "group one",
-        "group three"
+        "no group · কোনো দল নেই",
+        "group two · দ্বিতীয় দল",
+        "group one · প্রথম দল",
+        "group three · তৃতীয় দল"
        ],
        "answer": 1,
        "explain": "The -iss- marks a true second-group verb. · -iss- প্রকৃত দ্বিতীয় দলের ক্রিয়ার চিহ্ন।"
@@ -189,10 +189,10 @@ LC.units.push({
       {
        "q": "Why is {{partir}} irregular? · {{partir}} অনিয়মিত কেন?",
        "options": [
-        "It ends in -ir",
+        "It ends in -ir · এটি -ir-এ শেষ হয়",
         "It takes être",
-        "It has an accent",
-        "It has no -iss- in the plural"
+        "It has an accent · এতে উচ্চারণচিহ্ন আছে",
+        "It has no -iss- in the plural · বহুবচনে এতে -iss- নেই"
        ],
        "answer": 3,
        "explain": "-ir verbs without -iss- do not follow group two. · -iss- ছাড়া -ir ক্রিয়া দ্বিতীয় দলের নিয়ম মানে না।"
@@ -674,10 +674,10 @@ LC.units.push({
       {
        "q": "In {{Les lettres que j'ai écrites}}, why does the participle agree? · {{Les lettres que j'ai écrites}}-এ participle মেলে কেন?",
        "options": [
-        "Because lettres is feminine",
-        "Because the helper is avoir",
-        "It is an exception verb",
-        "The direct object comes before the verb"
+        "Because lettres is feminine · কারণ lettres স্ত্রীলিঙ্গ",
+        "Because the helper is avoir · কারণ সহায়ক ক্রিয়া avoir",
+        "It is an exception verb · এটি ব্যতিক্রমী ক্রিয়া",
+        "The direct object comes before the verb · প্রত্যক্ষ কর্ম ক্রিয়ার আগে বসে"
        ],
        "answer": 3,
        "explain": "A preceding direct object triggers agreement with avoir. · কর্ম আগে বসলে avoir-এর সঙ্গেও participle মেলে।"
@@ -878,10 +878,10 @@ LC.units.push({
       {
        "q": "The imparfait stem comes from… · imparfait-এর মূল আসে…",
        "options": [
-        "the nous form of the present",
-        "the infinitive",
-        "the je form of the present",
-        "the past participle"
+        "the nous form of the present · বর্তমানের nous রূপ",
+        "the infinitive · ক্রিয়ামূল",
+        "the je form of the present · বর্তমানের je রূপ",
+        "the past participle · অতীত কৃদন্ত"
        ],
        "answer": 0,
        "explain": "Drop -ons from {{nous}} and add the endings. · {{nous}} রূপ থেকে -ons বাদ দিয়ে শেষাংশ যোগ করুন।"
@@ -922,10 +922,10 @@ LC.units.push({
       {
        "q": "Which English clue points to the imparfait? · ইংরেজির কোন সংকেত imparfait নির্দেশ করে?",
        "options": [
-        "used to",
-        "has just",
-        "will have",
-        "did once"
+        "used to · আগে করত",
+        "has just · এইমাত্র করেছে",
+        "will have · থাকবে",
+        "did once · একবার করেছিল"
        ],
        "answer": 0,
        "explain": "*Used to* and *was —ing* both signal the imparfait. · *Used to* ও *was —ing* দুটোই imparfait বোঝায়।"
@@ -1105,10 +1105,10 @@ LC.units.push({
       {
        "q": "*When he arrives, we will eat* in French uses… · *When he arrives, we will eat* ফরাসিতে ব্যবহার করে…",
        "options": [
-        "future in both halves",
-        "present then future",
-        "present in both halves",
-        "past then future"
+        "future in both halves · দুই অংশেই ভবিষ্যৎ",
+        "present then future · বর্তমান তারপর ভবিষ্যৎ",
+        "present in both halves · দুই অংশেই বর্তমান",
+        "past then future · অতীত তারপর ভবিষ্যৎ"
        ],
        "answer": 0,
        "explain": "After {{quand}}, French keeps the future. · {{quand}}-এর পরে ফরাসি ভবিষ্যৎ কাল রাখে।"
@@ -1232,10 +1232,10 @@ LC.units.push({
       {
        "q": "The conditional uses… · conditionnel ব্যবহার করে…",
        "options": [
-        "the nous stem with future endings",
-        "the participle with imparfait endings",
-        "the future stem with imparfait endings",
-        "the infinitive with future endings"
+        "the nous stem with future endings · nous ধাতু + ভবিষ্যতের শেষাংশ",
+        "the participle with imparfait endings · কৃদন্ত + অসমাপিকা অতীতের শেষাংশ",
+        "the future stem with imparfait endings · ভবিষ্যৎ ধাতু + অসমাপিকা অতীতের শেষাংশ",
+        "the infinitive with future endings · ক্রিয়ামূল + ভবিষ্যতের শেষাংশ"
        ],
        "answer": 2,
        "explain": "Future stem, imparfait endings. · ভবিষ্যতের মূল, imparfait-এর শেষাংশ।"
@@ -1265,10 +1265,10 @@ LC.units.push({
       {
        "q": "What separates {{je parlerai}} from {{je parlerais}}? · {{je parlerai}} ও {{je parlerais}}-এর পার্থক্য কী?",
        "options": [
-        "Nothing at all",
-        "A silent s",
-        "An accent",
-        "A different stem"
+        "Nothing at all · কিছুই না",
+        "A silent s · একটি নীরব s",
+        "An accent · একটি উচ্চারণচিহ্ন",
+        "A different stem · অন্য একটি ধাতু"
        ],
        "answer": 1,
        "explain": "Future -ai, conditional -ais. · ভবিষ্যতে -ai, conditionnel-এ -ais।"
@@ -1423,10 +1423,10 @@ LC.units.push({
       {
        "q": "The subjunctive stem comes from… · subjonctif-এর মূল আসে…",
        "options": [
-        "the infinitive",
-        "the nous form",
-        "the future stem",
-        "the ils form of the present"
+        "the infinitive · ক্রিয়ামূল",
+        "the nous form · nous রূপ",
+        "the future stem · ভবিষ্যৎ ধাতু",
+        "the ils form of the present · বর্তমানের ils রূপ"
        ],
        "answer": 3,
        "explain": "Drop -ent from {{ils}} and add the subjunctive endings. · {{ils}} রূপ থেকে -ent বাদ দিয়ে subjonctif-এর শেষাংশ যোগ করুন।"
@@ -1478,10 +1478,10 @@ LC.units.push({
       {
        "q": "Why does {{Je ne pense pas qu'il soit là}} take the subjunctive? · {{Je ne pense pas qu'il soit là}}-তে subjonctif বসে কেন?",
        "options": [
-        "The negative turns it into doubt",
-        "penser always takes it",
+        "The negative turns it into doubt · নঞর্থক এটিকে সন্দেহে বদলে দেয়",
+        "penser always takes it · penser সবসময় এটি নেয়",
         "là requires it",
-        "It is a question"
+        "It is a question · এটি একটি প্রশ্ন"
        ],
        "answer": 0,
        "explain": "Negated {{penser}} and {{croire}} express doubt. · না-বাচক {{penser}} ও {{croire}} সন্দেহ প্রকাশ করে।"
@@ -1705,10 +1705,10 @@ LC.units.push({
       {
        "q": "{{se tromper}} means… · {{se tromper}} মানে…",
        "options": [
-        "to trumpet",
-        "to stumble",
-        "to be mistaken",
-        "to deceive someone"
+        "to trumpet · শিঙা বাজানো",
+        "to stumble · হোঁচট খাওয়া",
+        "to be mistaken · ভুল করা",
+        "to deceive someone · কাউকে ঠকানো"
        ],
        "answer": 2,
        "explain": "{{tromper}} is to deceive; {{se tromper}} is to be wrong. · {{tromper}} মানে ঠকানো; {{se tromper}} মানে ভুল করা।"
@@ -1905,10 +1905,10 @@ LC.units.push({
       {
        "q": "Which tense can **never** follow {{si}}? · {{si}}-এর পরে কোন কাল **কখনোই** বসে না?",
        "options": [
-        "the present",
-        "the imparfait",
-        "the plus-que-parfait",
-        "the conditional"
+        "the present · বর্তমান",
+        "the imparfait · অসমাপিকা অতীত",
+        "the plus-que-parfait · পুরাঘটিত অতীত",
+        "the conditional · শর্তবাচক কাল"
        ],
        "answer": 3,
        "explain": "Neither future nor conditional may follow si. · si-এর পরে ভবিষ্যৎ বা conditionnel কোনোটিই বসে না।"
@@ -1927,10 +1927,10 @@ LC.units.push({
       {
        "q": "In {{La lettre a été écrite}}, why does the participle end in -e? · {{La lettre a été écrite}}-এ participle -e দিয়ে শেষ হয় কেন?",
        "options": [
-        "Past participles always do",
-        "It agrees with the feminine subject",
-        "The helper is avoir",
-        "It is an irregular verb"
+        "Past participles always do · অতীত কৃদন্ত সবসময় করে",
+        "It agrees with the feminine subject · এটি স্ত্রীবাচক কর্তার সঙ্গে মেলে",
+        "The helper is avoir · সহায়ক ক্রিয়া avoir",
+        "It is an irregular verb · এটি অনিয়মিত ক্রিয়া"
        ],
        "answer": 1,
        "explain": "In the passive, the participle agrees with the subject. · passive-এ participle কর্তার সঙ্গে মেলে।"
@@ -1938,10 +1938,10 @@ LC.units.push({
       {
        "q": "*If you look, you will find* uses… · *If you look, you will find*-এ বসে…",
        "options": [
-        "future then future",
-        "present then present",
-        "present then future",
-        "imparfait then conditional"
+        "future then future · ভবিষ্যৎ তারপর ভবিষ্যৎ",
+        "present then present · বর্তমান তারপর বর্তমান",
+        "present then future · বর্তমান তারপর ভবিষ্যৎ",
+        "imparfait then conditional · অসমাপিকা অতীত তারপর শর্তবাচক"
        ],
        "answer": 2,
        "explain": "si + présent pairs with the futur. · si + présent জোড়া বাঁধে futur-এর সঙ্গে।"
@@ -1949,10 +1949,10 @@ LC.units.push({
       {
        "q": "In conversation, {{On y va ?}} usually means… · কথ্য ভাষায় {{On y va ?}} সাধারণত মানে…",
        "options": [
-        "Is someone going?",
-        "One goes there.",
-        "Did they go?",
-        "Shall we go?"
+        "Is someone going? · কেউ কি যাচ্ছে?",
+        "One goes there. · সেখানে যাওয়া হয়।",
+        "Did they go? · তারা কি গিয়েছিল?",
+        "Shall we go? · আমরা কি যাব?"
        ],
        "answer": 3,
        "explain": "Spoken French uses {{on}} for *we*. · কথ্য ফরাসিতে *আমরা* বোঝাতে {{on}} বসে।"

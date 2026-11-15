@@ -836,10 +836,10 @@ LC.units.push({
       {
        "q": "Why does {{dû}} take a circumflex? · {{dû}}-তে circumflex বসে কেন?",
        "options": [
-        "To mark a long vowel",
-        "Because it is irregular",
-        "To show it is a participle",
-        "To distinguish it from du"
+        "To mark a long vowel · দীর্ঘ স্বর বোঝাতে",
+        "Because it is irregular · কারণ এটি অনিয়মিত",
+        "To show it is a participle · এটি কৃদন্ত তা বোঝাতে",
+        "To distinguish it from du · du থেকে আলাদা করতে"
        ],
        "answer": 3,
        "explain": "Only the masculine singular keeps the accent. · কেবল পুংলিঙ্গ একবচনেই চিহ্নটি থাকে।"
@@ -1090,10 +1090,10 @@ LC.units.push({
       {
        "q": "When does {{connaître}} keep its circumflex? · {{connaître}} কখন তার circumflex ধরে রাখে?",
        "options": [
-        "Always",
-        "Never",
-        "Before a t",
-        "Before an s"
+        "Always · সবসময়",
+        "Never · কখনো না",
+        "Before a t · t-এর আগে",
+        "Before an s · s-এর আগে"
        ],
        "answer": 2,
        "explain": "{{il connaît}}, but {{nous connaissons}}. · {{il connaît}}, কিন্তু {{nous connaissons}}।"
@@ -1279,9 +1279,9 @@ LC.units.push({
       {
        "q": "{{Les lettres que j'ai écrites}} agrees because… · {{Les lettres que j'ai écrites}}-এ participle মেলে কারণ…",
        "options": [
-        "the helper is avoir",
-        "the object comes before the verb",
-        "lettres is feminine",
+        "the helper is avoir · সহায়ক ক্রিয়া avoir",
+        "the object comes before the verb · কর্ম ক্রিয়ার আগে বসে",
+        "lettres is feminine · lettres স্ত্রীলিঙ্গ",
         "écrire is irregular"
        ],
        "answer": 1,
@@ -1452,10 +1452,10 @@ LC.units.push({
       {
        "q": "{{Camille}} is… · {{Camille}} হলো…",
        "options": [
-        "a female name only",
-        "a surname only",
-        "used for men and women",
-        "a male name only"
+        "a female name only · কেবল নারীর নাম",
+        "a surname only · কেবল একটি পদবি",
+        "used for men and women · নারী-পুরুষ উভয়ের জন্য",
+        "a male name only · কেবল পুরুষের নাম"
        ],
        "answer": 2,
        "explain": "So are {{Dominique}} and {{Alix}}. · {{Dominique}} ও {{Alix}}-ও তাই।"
@@ -1463,10 +1463,10 @@ LC.units.push({
       {
        "q": "{{Me}} before a name means the person is… · নামের আগে {{Me}} থাকলে বোঝায় ব্যক্তিটি…",
        "options": [
-        "a doctor",
-        "a teacher",
-        "a mayor",
-        "a lawyer or notary"
+        "a doctor · একজন ডাক্তার",
+        "a teacher · একজন শিক্ষক",
+        "a mayor · একজন মেয়র",
+        "a lawyer or notary · আইনজীবী বা দলিল-লেখক"
        ],
        "answer": 3,
        "explain": "Short for {{maître}}. · {{maître}}-এর সংক্ষিপ্ত রূপ।"
