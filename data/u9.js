@@ -2352,6 +2352,558 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u9-h1",
+   "icon": "H",
+   "title": "G–H · go on → hand over · ছ-বর্গ প্রথম অংশ",
+   "subtitle": "Going over the case and handing things in · খুঁটিয়ে দেখা আর জমা দেওয়া",
+   "minutes": 10,
+   "goals": [
+    "Learn il va sans dire, the French it goes without saying · il va sans dire শিখুন",
+    "Use remettre for handing work in · কাজ জমা দিতে remettre ব্যবহার করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**Allons donc !** is not *let us go*. It is the exclamation English writes as *Go on!* or *Come off it!* — disbelief, not movement. · **Allons donc !** মানে *চলো যাই* নয়; এটি অবিশ্বাসের ধ্বনি।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Allons donc ! Je ne crois pas ce conte à dormir debout !",
+       "tr": "ah-lohn DOHNK zhuh nuh krwah pah suh kohnt ah dor-MEER duh-BOO · আলঁ দঁক্! জ়্য ন্য ক্রোয়া পা স্য কঁত্ আ দর্মির্ দ্যবু",
+       "mean": "Go on! I don't believe that cock-and-bull story! · আরে যাও! ওই আজগুবি গল্প আমি বিশ্বাস করি না",
+       "note": "**go on!** — an exclamation of disbelief · অবিশ্বাসের ধ্বনি"
+      },
+      {
+       "t": "La lumière à la fenêtre a disparu.",
+       "tr": "lah lew-MYEHR ah lah fuh-NETR ah dees-pah-REW · লা ল্যুমীয়ের্ আ লা ফ্যনেত্র্ আ দিস্পার্যু",
+       "mean": "The light in the window went out · জানালার আলোটি নিভে গিয়েছিল",
+       "note": "**go out** — be extinguished · নিভে যাওয়া"
+      },
+      {
+       "t": "L'avocat a examiné l'affaire une fois de plus.",
+       "tr": "lah-voh-KAH ah eg-zah-mee-NAY lah-FEHR ewn fwah duh PLEW · লাভকা আ এগজ়ামিনে লাফের্ য়ুন্ ফোয়া দ্য প্ল্যুস্",
+       "mean": "The advocate went over the case once more · আইনজীবী মামলাটি আরও একবার খুঁটিয়ে দেখলেন",
+       "note": "**go over** — examine again · খুঁটিয়ে দেখা"
+      },
+      {
+       "t": "Il va sans dire qu'elle est une très belle femme.",
+       "tr": "eel vah sahn DEER kel eh tewn treh bel FAHM · ইল্ ভা সঁ দির্ কেল্ এ য়ুন্ ত্রে বেল্ ফাম্",
+       "mean": "It goes without saying that she is a very beautiful woman · না বললেও চলে যে তিনি খুবই সুন্দরী",
+       "note": "**go without saying** — be obvious · না বললেও চলে"
+      },
+      {
+       "t": "Bipul a réussi parce qu'il est un grand brasseur d'affaires.",
+       "tr": "bee-pool ah ray-ew-SEE pahrs keel eh tuhn grahn brah-SUHR dah-FEHR · বিপুল আ রেউসি পার্স্ কিল্ এত্ আঁ গ্রঁ ব্রাস্যর্ দাফের্",
+       "mean": "Bipul has succeeded because he is a go-getter · বিপুল সফল হয়েছে কারণ সে নাছোড়বান্দা উদ্যোগী",
+       "note": "**go-getter** — a driving, enterprising person · অতীব উদ্যোগী"
+      },
+      {
+       "t": "Nilu remettra ses devoirs à neuf heures.",
+       "tr": "nee-loo ruh-meh-TRAH say duh-VWAHR ah nuh VUHR · নিলু র্যমেত্রা সে দ্যভোয়ার্ আ ন্যভ্ অর্",
+       "mean": "Nilu will hand in her homework at nine o'clock · নিলু নয়টায় তার বাড়ির কাজ জমা দেবে",
+       "note": "**hand in** — submit · জমা দেওয়া"
+      },
+      {
+       "t": "Il lui a remis son argent.",
+       "tr": "eel lwee ah ruh-MEE sohn nahr-ZHAHN · ইল্ লুই আ র্যমি সন্ আর্জ়ঁ",
+       "mean": "He handed over his money to her · সে তার টাকা তাকে সঁপে দিয়েছিল",
+       "note": "**hand over** — give into someone's keeping · হাতে সঁপে দেওয়া"
+      },
+      {
+       "t": "Les gens croient qu'un écrivain vit au jour le jour.",
+       "tr": "lay zhahn KRWAH kuhn nay-kree-VAHN vee oh zhoor luh ZHOOR · লে জ়ঁ ক্রোয়া কাঁন্ একিভাঁ ভি ও জ়ুর্ ল্য জ়ুর্",
+       "mean": "People believe that a writer lives from hand to mouth · লোকে মনে করে লেখক দিন আনে দিন খায়",
+       "note": "**hand to mouth** — living day by day · দিন আনে দিন খায়"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**remettre** both hands something in and puts it back. The sense comes from what follows: *remettre un devoir* is to submit, *remettre un livre sur l'étagère* is to replace it. · **remettre** মানে জমা দেওয়াও, আবার ফিরিয়ে রাখাও।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**Allons donc !** expresses… · **Allons donc !** বোঝায়…",
+       "options": [
+        "an invitation to leave · যাওয়ার আহ্বান",
+        "disbelief · অবিশ্বাস",
+        "a polite thank you · ভদ্র ধন্যবাদ",
+        "a firm order · কড়া আদেশ"
+       ],
+       "answer": 1,
+       "explain": "It is *come off it*, not *let us go* · এটি *আরে যাও*, *চলো যাই* নয়।"
+      },
+      {
+       "q": "**vivre au jour le jour** describes someone who… · **vivre au jour le jour** মানে যে…",
+       "options": [
+        "saves carefully · সাবধানে সঞ্চয় করে",
+        "travels daily · রোজ ভ্রমণ করে",
+        "lives day to day · দিন আনে দিন খায়",
+        "works at night · রাতে কাজ করে"
+       ],
+       "answer": 2,
+       "explain": "Day by day, with nothing put by · সঞ্চয় ছাড়াই দিন চলে।"
+      },
+      {
+       "q": "**il va sans dire** introduces something… · **il va sans dire** বোঝায় এমন কিছু…",
+       "options": [
+        "doubtful · সন্দেহজনক",
+        "secret · গোপন",
+        "forbidden · নিষিদ্ধ",
+        "obvious · স্পষ্ট"
+       ],
+       "answer": 3,
+       "explain": "So plain it need not be said · এত স্পষ্ট যে বলার দরকার নেই।"
+      },
+      {
+       "q": "**un brasseur d'affaires** is literally a… · **un brasseur d'affaires** আক্ষরিক অর্থে…",
+       "options": [
+        "brewer of business · ব্যবসার মদ-প্রস্তুতকারক",
+        "builder of houses · বাড়ির নির্মাতা",
+        "keeper of accounts · হিসাবরক্ষক",
+        "seller of goods · পণ্যের বিক্রেতা"
+       ],
+       "answer": 0,
+       "explain": "The verb *brasser* is to brew or stir · *brasser* মানে নাড়াচাড়া করা।"
+      },
+      {
+       "q": "To submit homework you would use… · বাড়ির কাজ জমা দিতে ব্যবহার করবেন…",
+       "options": [
+        "remettre",
+        "disparaître",
+        "examiner",
+        "accrocher"
+       ],
+       "answer": 0,
+       "explain": "**remettre un devoir** · কাজ জমা দেওয়া।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-h2",
+   "icon": "H",
+   "title": "H · hang on → head or tail · ছ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Holding on, hanging up and making no sense of things · লেগে থাকা, ফোন রাখা আর মাথামুণ্ডু না বোঝা",
+   "minutes": 10,
+   "goals": [
+    "Use raccrocher for ending a phone call · ফোন রাখা বোঝাতে raccrocher ব্যবহার করুন",
+    "Learn ni queue ni tête, the French head or tail · মাথামুণ্ডু বোঝাতে ni queue ni tête শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "English finds *neither head nor tail*; French finds **ni queue ni tête** — tail first, head second. The order is reversed, the sense is identical. · ইংরেজিতে মাথা আগে, ফরাসিতে লেজ আগে — অর্থ একই।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Accrochez-vous à ce que vous voulez avoir.",
+       "tr": "ah-kroh-shay VOO ah suh kuh voo voo-lay ah-VWAHR · আক্রশে-ভু আ স্য ক্য ভু ভুলে আভোয়ার্",
+       "mean": "Hang on to what you want to have · যা চাও তার জন্য লেগে থাকো",
+       "note": "**hang on** — persevere, hold fast · নিরলস চেষ্টা করা"
+      },
+      {
+       "t": "Après une demi-heure de conversation, il a raccroché.",
+       "tr": "ah-preh ewn duh-mee UHR duh kohn-vehr-sah-SYOHN eel ah rah-kroh-SHAY · আপ্রে য়ুন্ দ্যমি অর্ দ্য কঁভের্সাসীয়ঁ, ইল্ আ রাক্রশে",
+       "mean": "After a half-hour of conversation he hung up · আধঘণ্টা কথা বলার পর সে ফোন রেখে দিয়েছিল",
+       "note": "**hang up** — end a telephone call · ফোন রেখে দেওয়া"
+      },
+      {
+       "t": "L'action de fumer était strictement réglementée.",
+       "tr": "lahk-SYOHN duh few-MAY ay-teh streek-tuh-mahn ray-gluh-mahn-TAY · লাক্সীয়ঁ দ্য ফ্যুমে এতে স্ত্রিক্তমঁ রেগ্ল্যমঁতে",
+       "mean": "There was a hard and fast rule about smoking · ধূমপান নিয়ে ধরাবাঁধা নিয়ম ছিল",
+       "note": "**hard and fast** — strict and unbending · ধরাবাঁধা"
+      },
+      {
+       "t": "Elle travaille dur et n'a que rarement un jour de congé.",
+       "tr": "el trah-VYE DEWR ay nah kuh rahr-MAHN uhn zhoor duh kohn-ZHAY · এল্ ত্রাভাই দ্যুর্ এ না ক্য রার্মঁ আঁ জ়ুর্ দ্য কঁজ়ে",
+       "mean": "She works hard and only has a day off occasionally · সে কঠোর পরিশ্রম করে, ছুটি পায় কদাচিৎ",
+       "note": "**have a day off** — take a free day · ছুটির দিন পাওয়া"
+      },
+      {
+       "t": "Sheema portera une robe noire à cette soirée.",
+       "tr": "shee-mah por-tuh-RAH ewn rob NWAHR ah set swah-RAY · শীমা পর্ত্যরা য়ুন্ রব্ নোয়ার্ আ সেত্ সোয়ারে",
+       "mean": "Sheema will have on a black dress for that party · ওই অনুষ্ঠানে শীমা কালো পোশাক পরবে",
+       "note": "**have on** — be wearing · পোশাক পরা"
+      },
+      {
+       "t": "Ce qu'elle dit n'a ni queue ni tête.",
+       "tr": "suh kel DEE nah nee kuh nee TET · স্য কেল্ দি না নি ক্য নি তেত্",
+       "mean": "I can't make head or tail of what she says · সে যা বলে তার মাথামুণ্ডু বোঝা যায় না",
+       "note": "**head or tail** — any sense at all · মাথামুণ্ডু"
+      },
+      {
+       "t": "Ne raccrochez pas, je vous prie.",
+       "tr": "nuh rah-kroh-shay PAH zhuh voo PREE · ন্য রাক্রশে পা, জ়্য ভু প্রি",
+       "mean": "Please don't hang up · অনুগ্রহ করে ফোন রাখবেন না",
+       "note": "**hold the line** — the polite telephone request · লাইনে থাকুন"
+      },
+      {
+       "t": "Un jour de congé lui ferait du bien.",
+       "tr": "uhn zhoor duh kohn-ZHAY lwee fuh-reh dew BYAHN · আঁ জ়ুর্ দ্য কঁজ়ে লুই ফ্যরে দ্যু বীয়াঁ",
+       "mean": "A day off would do him good · একদিন ছুটি তার উপকারে আসত",
+       "note": "**do someone good** — benefit them · উপকারে আসা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**raccrocher** is *to hook back*, from the days when the handset hung on a hook. **décrocher** is to pick up. · **raccrocher** মানে আবার হুকে রাখা; **décrocher** মানে তুলে নেওয়া।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**décrocher** does the opposite of… · **décrocher**-এর উল্টো কাজ…",
+       "options": [
+        "raccrocher",
+        "accrocher",
+        "travailler",
+        "porter"
+       ],
+       "answer": 0,
+       "explain": "One picks up, the other hangs up · একটি তোলে, অন্যটি রাখে।"
+      },
+      {
+       "q": "**ni queue ni tête** puts which first? · **ni queue ni tête**-এ আগে বসে…",
+       "options": [
+        "the head · মাথা",
+        "the tail · লেজ",
+        "the body · শরীর",
+        "the foot · পা"
+       ],
+       "answer": 1,
+       "explain": "French reverses the English order · ফরাসি ইংরেজির ক্রম উল্টে দেয়।"
+      },
+      {
+       "q": "**un jour de congé** is a… · **un jour de congé** মানে…",
+       "options": [
+        "working day · কাজের দিন",
+        "market day · হাটের দিন",
+        "day off · ছুটির দিন",
+        "pay day · বেতনের দিন"
+       ],
+       "answer": 2,
+       "explain": "*Le congé* is leave · *le congé* মানে ছুটি।"
+      },
+      {
+       "q": "**porter** used of clothes means to… · পোশাকের ক্ষেত্রে **porter** মানে…",
+       "options": [
+        "carry them · বয়ে নেওয়া",
+        "buy them · কেনা",
+        "wash them · ধোয়া",
+        "wear them · পরা"
+       ],
+       "answer": 3,
+       "explain": "The same verb carries and wears · একই ক্রিয়া বহন ও পরিধান বোঝায়।"
+      },
+      {
+       "q": "**s'accrocher à** means to… · **s'accrocher à** মানে…",
+       "options": [
+        "cling to something · কিছু আঁকড়ে ধরা",
+        "walk away from it · সরে যাওয়া",
+        "give it away · দিয়ে দেওয়া",
+        "break it apart · ভেঙে ফেলা"
+       ],
+       "answer": 0,
+       "explain": "*Un crochet* is a hook · *un crochet* মানে হুক।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-h3",
+   "icon": "H",
+   "title": "H · hit it off → hurry up · ছ-বর্গ তৃতীয় অংশ",
+   "subtitle": "Getting on well, holding back and holding up · মিলে যাওয়া, চেপে রাখা আর আটকে দেওয়া",
+   "minutes": 10,
+   "goals": [
+    "Use s'entendre for getting on with someone · মিলেমিশে থাকা বোঝাতে s'entendre ব্যবহার করুন",
+    "Learn cousu de fil blanc for a transparent lie · চোখে পড়া মিথ্যা বোঝাতে cousu de fil blanc শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**cousu de fil blanc** — *sewn with white thread* — is a tailor's image: the stitching shows, so the trick is obvious. English says an excuse *will not hold water*. · **cousu de fil blanc** মানে সেলাই চোখে পড়ে, অর্থাৎ ছল ধরা পড়ে যায়।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Les deux garçons se sont entendus tout de suite et sont devenus de grands amis.",
+       "tr": "lay duh gahr-SOHN suh sohn tahn-tahn-DEW too duh SWEET ay sohn duhv-NEW duh grahn zah-MEE · লে দ্যো গার্সঁ স্য সঁত্ অঁতঁদ্যু তু দ্য সুইত্ এ সঁ দ্যভ্ন্যু দ্য গ্রঁজ়্ আমি",
+       "mean": "The two boys hit it off immediately and became great friends · ছেলে দুটির সঙ্গে সঙ্গেই মনের মিল হয়ে গেল, তারা ঘনিষ্ঠ বন্ধু হল",
+       "note": "**hit it off** — take to each other at once · মনের মিল হওয়া"
+      },
+      {
+       "t": "À la fin il est tombé sur la solution.",
+       "tr": "ah lah FAHN eel eh tohn-BAY sewr lah soh-lew-SYOHN · আ লা ফাঁ ইল্ এ তঁবে স্যুর্ লা সল্যুসীয়ঁ",
+       "mean": "At last he hit upon the solution · শেষ পর্যন্ত সে হঠাৎ সমাধানটি পেয়ে গেল",
+       "note": "**hit upon** — come across by chance · হঠাৎ আবিষ্কার করা"
+      },
+      {
+       "t": "L'avocat a dissimulé la nouvelle que je voulais le plus entendre.",
+       "tr": "lah-voh-KAH ah dee-see-mew-LAY lah noo-VEL kuh zhuh voo-leh luh plew zahn-TAHNDR · লাভকা আ দিসিম্যুলে লা নুভেল্ ক্য জ়্য ভুলে ল্য প্ল্যুজ়্ অঁতঁদ্র্",
+       "mean": "The lawyer held back the news I wanted most to hear · যে খবরটি সবচেয়ে শুনতে চেয়েছিলাম আইনজীবী তা চেপে রেখেছিলেন",
+       "note": "**hold back** — keep from telling · চেপে রাখা"
+      },
+      {
+       "t": "La standardiste m'a dit de ne pas raccrocher.",
+       "tr": "lah stahn-dahr-DEEST mah dee duh nuh pah rah-kroh-SHAY · লা স্তঁদার্দিস্ত্ মা দি দ্য ন্য পা রাক্রশে",
+       "mean": "The telephone operator told me to hold on · টেলিফোন অপারেটর আমাকে অপেক্ষা করতে বলেছিল",
+       "note": "**hold on** — wait on the line · অপেক্ষা করা"
+      },
+      {
+       "t": "Il a été attaqué à main armée dans la rue et volé.",
+       "tr": "eel ah ay-TAY ah-tah-KAY ah mahn ahr-MAY dahn lah REW ay voh-LAY · ইল্ আ এতে আতাকে আ মাঁন্ আর্মে দঁ লা র্যু এ ভলে",
+       "mean": "He was held up in the street and robbed · তাকে রাস্তায় অস্ত্র দেখিয়ে আটকে ছিনতাই করা হয়েছিল",
+       "note": "**hold up** — stop and rob · ভীতি দেখিয়ে থামানো"
+      },
+      {
+       "t": "Ses explications étaient cousues de fil blanc et ne résistaient pas à l'examen.",
+       "tr": "say zeks-plee-kah-SYOHN ay-teh koo-ZEW duh feel BLAHN ay nuh ray-zees-teh pah ah leg-zah-MAHN · সেজ়্ এক্স্প্লিকাসীয়ঁ এতে কুজ়্যু দ্য ফিল্ ব্লঁ এ ন্য রেজ়িস্তে পাজ়্ আ লেগজ়ামাঁ",
+       "mean": "Her explanations were phony and could not hold water · তার ব্যাখ্যাগুলো ছিল বানানো, প্রমাণে টিকল না",
+       "note": "**hold water** — stand up to scrutiny · প্রমাণে টিকে থাকা"
+      },
+      {
+       "t": "Grouillons-nous et finissons le travail.",
+       "tr": "groo-yohn NOO ay fee-nee-SOHN luh trah-VYE · গ্রুইয়ঁ-নু এ ফিনিসঁ ল্য ত্রাভাই",
+       "mean": "Let's hurry up and finish the work · চলুন তাড়াতাড়ি করে কাজটা শেষ করি",
+       "note": "**hurry up** — get a move on · তাড়াতাড়ি করা"
+      },
+      {
+       "t": "Il s'entend bien avec tout le monde.",
+       "tr": "eel sahn-TAHN byahn ah-vek too luh MOHND · ইল্ সঁতঁ বীয়াঁ আভেক্ তু ল্য মঁদ্",
+       "mean": "He gets on well with everybody · সে সবার সঙ্গে ভালোভাবে মিশতে পারে",
+       "note": "**get on with** — have an easy relationship · মিলেমিশে থাকা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**s'entendre** literally means *to hear each other*. Used of people it is *to get on*; used of a price it is *to agree on one*. · **s'entendre** মানে পরস্পরকে শোনা — মানুষের বেলায় মিলমিশ, দামের বেলায় রফা।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**cousu de fil blanc** describes an excuse that is… · **cousu de fil blanc** মানে এমন অজুহাত যা…",
+       "options": [
+        "obvious · সহজেই ধরা পড়ে",
+        "convincing · বিশ্বাসযোগ্য",
+        "complicated · জটিল",
+        "forgotten · ভুলে যাওয়া"
+       ],
+       "answer": 0,
+       "explain": "The white stitching shows on dark cloth · সাদা সুতোর সেলাই চোখে পড়ে।"
+      },
+      {
+       "q": "**à main armée** means the robbery involved… · **à main armée** মানে ছিনতাইয়ে ছিল…",
+       "options": [
+        "many people · বহু লোক",
+        "a weapon · অস্ত্র",
+        "a vehicle · গাড়ি",
+        "a disguise · ছদ্মবেশ"
+       ],
+       "answer": 1,
+       "explain": "*Armed hand* · *সশস্ত্র হাত*।"
+      },
+      {
+       "q": "**dissimuler** means to… · **dissimuler** মানে…",
+       "options": [
+        "explain fully · পুরো ব্যাখ্যা করা",
+        "repeat loudly · জোরে বলা",
+        "conceal · গোপন রাখা",
+        "write down · লিখে রাখা"
+       ],
+       "answer": 2,
+       "explain": "To hide away deliberately · ইচ্ছে করে লুকিয়ে রাখা।"
+      },
+      {
+       "q": "**tomber sur** a solution means you… · সমাধানের বেলায় **tomber sur** মানে…",
+       "options": [
+        "searched for years · বহু বছর খুঁজেছেন",
+        "asked for help · সাহায্য চেয়েছেন",
+        "gave up on it · হাল ছেড়েছেন",
+        "came upon it · হঠাৎ পেয়ে গেছেন"
+       ],
+       "answer": 3,
+       "explain": "To fall upon it by chance · হঠাৎ এসে পড়া।"
+      },
+      {
+       "q": "**la standardiste** works… · **la standardiste** কাজ করেন…",
+       "options": [
+        "on a switchboard · টেলিফোন বোর্ডে",
+        "in a laboratory · গবেষণাগারে",
+        "at a counter · কাউন্টারে",
+        "on a farm · খামারে"
+       ],
+       "answer": 0,
+       "explain": "*Le standard* is the switchboard · *le standard* মানে টেলিফোন বোর্ড।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-i1",
+   "icon": "I",
+   "title": "I · in a nutshell → in the nick of time · জ-বর্গ প্রথম অংশ",
+   "subtitle": "Saying it briefly and arriving just in time · সংক্ষেপে বলা আর ঠিক সময়ে পৌঁছানো",
+   "minutes": 10,
+   "goals": [
+    "Use en un mot for putting it briefly · সংক্ষেপে বলতে en un mot ব্যবহার করুন",
+    "Learn juste à point, the French nick of time · ঠিক সময়ে বোঝাতে juste à point শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "English puts a summary *in a nutshell*; French puts it **en un mot**, in one word. Neither is literal, and the French is the shorter of the two. · ইংরেজিতে বাদামের খোলায়, ফরাসিতে এক কথায়।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Ceci, en un mot, est tout ce que j'ai à dire.",
+       "tr": "suh-SEE ahn nuhn MOH eh too suh kuh zhay ah DEER · স্যসি, অঁন্ আঁ ম, এ তু স্য ক্য জ়ে আ দির্",
+       "mean": "This, in a nutshell, is all I have to say · সংক্ষেপে আমার বলার এটুকুই",
+       "note": "**in a nutshell** — briefly · সংক্ষেপে"
+      },
+      {
+       "t": "De toute façon, venez me voir quand je serai de retour.",
+       "tr": "duh toot fah-SOHN vuh-nay muh VWAHR kahn zhuh suh-ray duh ruh-TOOR · দ্য তুত্ ফাসঁ, ভ্যনে ম্য ভোয়ার্ কঁ জ়্য স্যরে দ্য র্যতুর্",
+       "mean": "In any event, come to see me when I get back · যাই ঘটুক, ফিরে এলে আমার সঙ্গে দেখা কোরো",
+       "note": "**in any event** — whatever happens · যাই ঘটুক না কেন"
+      },
+      {
+       "t": "Voici les déclarations noir sur blanc.",
+       "tr": "vwah-SEE lay day-klah-rah-SYOHN nwahr sewr BLAHN · ভোয়াসি লে দেক্লারাসীয়ঁ নোয়ার্ স্যুর্ ব্লঁ",
+       "mean": "Here are the statements in black and white · এই নিন লিখিত বিবৃতিগুলো",
+       "note": "**in black and white** — in writing · লিখিতভাবে"
+      },
+      {
+       "t": "L'ascenseur fonctionnait bien, et nous l'avons pris pour monter.",
+       "tr": "lah-sahn-SUHR fohnk-syoh-NEH BYAHN ay noo lah-vohn PREE poor mohn-TAY · লাসঁস্যর্ ফঁক্সীয়নে বীয়াঁ, এ নু লাভঁ প্রি পুর্ মঁতে",
+       "mean": "The elevator was in order and we went up in it · লিফটটি ঠিকঠাক ছিল, আমরা সেটিতেই উপরে উঠেছিলাম",
+       "note": "**in order** — working properly · ঠিকঠাক অবস্থায়"
+      },
+      {
+       "t": "Silu est totalement dans l'ignorance sur cette affaire.",
+       "tr": "see-loo eh toh-tahl-MAHN dahn lee-nyoh-RAHNS sewr set ah-FEHR · সিলু এ ততালমঁ দঁ লিঞরঁস্ স্যুর্ সেত্ আফের্",
+       "mean": "Silu is totally in the dark about this matter · এই ব্যাপারে শিলু সম্পূর্ণ অজ্ঞ",
+       "note": "**in the dark** — knowing nothing · অজ্ঞ, অন্ধকারে"
+      },
+      {
+       "t": "Les pompiers sont arrivés juste à point et les ont tous sauvés.",
+       "tr": "lay pohn-PYAY sohn tah-ree-VAY zhewst ah PWAHN ay lay zohn too soh-VAY · লে পঁপীয়ে সঁত্ আরিভে জ়্যুস্ত্ আ পোয়াঁ এ লেজ়ঁ তু সভে",
+       "mean": "The firemen arrived in the nick of time and saved them all · দমকলকর্মীরা ঠিক সময়ে পৌঁছে সবাইকে বাঁচিয়েছিল",
+       "note": "**in the nick of time** — only just in time · ঠিক সময়ে"
+      },
+      {
+       "t": "En un mot, c'est impossible.",
+       "tr": "ahn nuhn MOH seh tahn-poh-SEEBL · অঁন্ আঁ ম, সেত্ আঁপসিব্ল্",
+       "mean": "In a word, it is impossible · এক কথায়, এটি অসম্ভব",
+       "note": "**in a word** — the short form of the same phrase · এক কথায়"
+      },
+      {
+       "t": "De toute façon, il est trop tard.",
+       "tr": "duh toot fah-SOHN eel eh troh TAHR · দ্য তুত্ ফাসঁ, ইল্ এ ত্র তার্",
+       "mean": "In any case, it is too late · যাই হোক, অনেক দেরি হয়ে গেছে",
+       "note": "**in any case** — regardless · যাই হোক"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**à point** has three everyday uses: *juste à point* in the nick of time, *venir à point* to come in handy, and a steak **à point** cooked medium. · **à point**-এর তিন ব্যবহার: ঠিক সময়ে, কাজে লাগা, আর স্টেক মাঝারি সেদ্ধ।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**en un mot** means… · **en un mot** মানে…",
+       "options": [
+        "word for word · শব্দে শব্দে",
+        "in a word · এক কথায়",
+        "without a word · কথা না বলে",
+        "in other words · অন্য কথায়"
+       ],
+       "answer": 1,
+       "explain": "The French summary is *in one word* · ফরাসিতে *এক কথায়*।"
+      },
+      {
+       "q": "A steak **à point** is cooked… · **à point** স্টেক কতটা সেদ্ধ…",
+       "options": [
+        "very rare · প্রায় কাঁচা",
+        "well done · ভালোভাবে সেদ্ধ",
+        "medium · মাঝারি",
+        "not at all · একেবারেই নয়"
+       ],
+       "answer": 2,
+       "explain": "Just at the right point · ঠিক মাঝামাঝি।"
+      },
+      {
+       "q": "**dans l'ignorance** describes someone who… · **dans l'ignorance** মানে যে…",
+       "options": [
+        "knows everything · সব জানে",
+        "has been warned · সতর্ক হয়েছে",
+        "refuses to listen · শুনতে চায় না",
+        "knows nothing · কিছুই জানে না"
+       ],
+       "answer": 3,
+       "explain": "In the dark about it · বিষয়টি সম্পর্কে অজ্ঞ।"
+      },
+      {
+       "q": "**de toute façon** means… · **de toute façon** মানে…",
+       "options": [
+        "in any case · যাই হোক",
+        "in one way · এক উপায়ে",
+        "in a hurry · তাড়াহুড়োয়",
+        "in secret · গোপনে"
+       ],
+       "answer": 0,
+       "explain": "Literally *in every fashion* · আক্ষরিক অর্থে *যেভাবেই হোক*।"
+      },
+      {
+       "q": "**fonctionner** used of a lift means it… · লিফটের ক্ষেত্রে **fonctionner** মানে…",
+       "options": [
+        "is being repaired · মেরামত হচ্ছে",
+        "works properly · ঠিকভাবে চলে",
+        "is out of order · বিকল",
+        "is very old · অনেক পুরোনো"
+       ],
+       "answer": 1,
+       "explain": "It is in working order · এটি সচল আছে।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
