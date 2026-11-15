@@ -972,6 +972,834 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u9-c2",
+   "icon": "C",
+   "title": "C · call up → check in · গ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Telephoning, carrying on and being caught · ফোন করা, চালিয়ে যাওয়া আর ধরা পড়া",
+   "minutes": 10,
+   "goals": [
+    "Learn un coup de fil, the everyday word for a phone call · ফোনের চলতি শব্দ un coup de fil শিখুন",
+    "Separate carry on from carry out · carry on ও carry out আলাদা করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**un coup de fil** — *a stroke of wire* — is how the French say *a ring*. **passer un coup de fil** is to make the call, **donner un coup de fil** to give someone one. · **un coup de fil** মানে একটি ফোন কল।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Passez-moi un coup de fil quand vous vous sentez seul.",
+       "tr": "pah-say MWAH uhn koo duh FEEL kahn voo voo sahn-tay SUHL · পাসে-মোয়া আঁ কু দ্য ফিল্ কঁ ভু ভু সঁতে সল্",
+       "mean": "Call me up whenever you feel lonesome · নিজেকে নিঃসঙ্গ মনে হলে আমাকে ফোন কোরো",
+       "note": "**call up** — telephone someone · ফোন করা"
+      },
+      {
+       "t": "Je dois continuer mon travail de livre français jusqu'à ce qu'il soit achevé.",
+       "tr": "zhuh dwah kohn-tee-NWAY mohn trah-VYE duh leevr frahn-SEH zhews-kah suh keel swah tahsh-VAY · জ়্য দোয়া কঁতিন্যুয়ে মঁ ত্রাভাই দ্য লিভ্র্ ফ্রঁসে জ়্যুসকা স্য কিল্ সোয়া আশ্ভে",
+       "mean": "I must carry on writing a French book until it is completed · শেষ না হওয়া পর্যন্ত আমাকে ফরাসি বইয়ের কাজ চালিয়ে যেতে হবে",
+       "note": "**carry on** — keep going · চালিয়ে যাওয়া"
+      },
+      {
+       "t": "J'exécute toujours tous les ordres de ma mère.",
+       "tr": "zheg-zay-KEWT too-ZHOOR too lay zordr duh mah MEHR · জ়েগজ়েক্যুত্ তুজ়ুর্ তু লেজ়্ অর্দ্র্ দ্য মা মের্",
+       "mean": "I always carry out all my mother's commands · আমি সবসময় মায়ের সব আদেশ পালন করি",
+       "note": "**carry out** — perform, obey · পালন করা"
+      },
+      {
+       "t": "Il est un fumeur invétéré.",
+       "tr": "eel eh tuhn few-MUHR ahn-vay-tay-RAY · ইল্ এত্ আঁ ফ্যুম্যর্ আঁভেতেরে",
+       "mean": "He is a chain smoker · সে একজন আসক্ত ধূমপায়ী",
+       "note": "**chain smoker** — one who smokes without stopping · আসক্ত ধূমপায়ী"
+      },
+      {
+       "t": "Vous allez l'attraper pour votre retard.",
+       "tr": "voo zah-LAY lah-trah-PAY poor votr ruh-TAHR · ভুজ়ালে লাত্রাপে পুর্ ভত্র্ র্যতার্",
+       "mean": "You will catch it for being late · দেরি করার জন্য তুমি তিরস্কৃত হবে",
+       "note": "**catch it** — be told off · তিরস্কৃত হওয়া"
+      },
+      {
+       "t": "Ils pigeront peut-être si vous continuez à expliquer.",
+       "tr": "eel pee-zhuh-ROHN puh-TETR see voo kohn-tee-NWAY ah eks-plee-KAY · ইল্ পিজ়্যরঁ প্যত্-এত্র্ সি ভু কঁতিন্যুয়ে আ এক্স্প্লিকে",
+       "mean": "They may catch on if you keep on explaining · ব্যাখ্যা করতে থাকলে তারা বুঝে ফেলবে",
+       "note": "**catch on** — begin to understand · বুঝতে পারা"
+      },
+      {
+       "t": "Je l'ai pris la main dans le sac avec les livres volés.",
+       "tr": "zhuh lay PREE lah mahn dahn luh SAHK ah-vek lay leevr voh-LAY · জ়্য লে প্রি লা মাঁ দঁ ল্য সাক্ আভেক্ লে লিভ্র্ ভলে",
+       "mean": "I caught him red-handed with the stolen books · চুরি করা বইসহ আমি তাকে হাতেনাতে ধরলাম",
+       "note": "**catch red-handed** — catch in the act · হাতেনাতে ধরা"
+      },
+      {
+       "t": "Lima s'est présentée au travail avec une heure de retard.",
+       "tr": "lee-mah seh pray-zahn-TAY oh trah-VYE ah-vek ewn uhr duh ruh-TAHR · লিমা সে প্রেজ়ঁতে ও ত্রাভাই আভেক্ য়ুন্ অর্ দ্য র্যতার্",
+       "mean": "Lima checked in for work an hour late · লিমা এক ঘণ্টা দেরিতে কাজে হাজির হল",
+       "note": "**check in** — report one's arrival · হাজিরা দেওয়া"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "fun",
+     "text": "**la main dans le sac** — *the hand in the bag* — is the French picture for *red-handed*. The bag is the thief's, and the hand is still in it. · **la main dans le sac** মানে হাতেনাতে ধরা পড়া।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**un coup de fil** is literally… · **un coup de fil**-এর আক্ষরিক অর্থ…",
+       "options": [
+        "a stroke of wire · তারের টান",
+        "a cut of thread · সুতোর কাটা",
+        "a turn of talk · কথার মোড়",
+        "a sound of bell · ঘণ্টার শব্দ"
+       ],
+       "answer": 0,
+       "explain": "The wire is the old telephone line · তার মানে পুরোনো টেলিফোন লাইন।"
+      },
+      {
+       "q": "Which verb means to obey an order? · আদেশ পালন বোঝাতে কোন ক্রিয়া?",
+       "options": [
+        "continuer son chemin",
+        "exécuter les ordres",
+        "attraper un retard",
+        "piger une idée"
+       ],
+       "answer": 1,
+       "explain": "**exécuter** is to carry out · **exécuter** মানে পালন করা।"
+      },
+      {
+       "q": "**piger** belongs to which register? · **piger** কোন স্তরের ভাষা?",
+       "options": [
+        "formal writing · আনুষ্ঠানিক লেখা",
+        "legal language · আইনি ভাষা",
+        "casual speech · চলতি কথা",
+        "poetic style · কাব্যিক রীতি"
+       ],
+       "answer": 2,
+       "explain": "It is everyday slang for *to get it* · এটি চলতি কথায় *বুঝে ফেলা*।"
+      },
+      {
+       "q": "**un fumeur invétéré** is someone who… · **un fumeur invétéré** মানে যে…",
+       "options": [
+        "smokes now and then · মাঝে মাঝে ধূমপান করে",
+        "has given it up · ছেড়ে দিয়েছে",
+        "dislikes smoke · ধোঁয়া পছন্দ করে না",
+        "cannot stop smoking · থামতে পারে না"
+       ],
+       "answer": 3,
+       "explain": "*Invétéré* is deep-rooted · *invétéré* মানে গভীরভাবে বদ্ধমূল।"
+      },
+      {
+       "q": "**se présenter au travail** means to… · **se présenter au travail** মানে…",
+       "options": [
+        "report for work · কাজে হাজির হওয়া",
+        "resign the post · পদত্যাগ করা",
+        "ask for leave · ছুটি চাওয়া",
+        "finish the shift · পালা শেষ করা"
+       ],
+       "answer": 0,
+       "explain": "Literally *to present oneself* · আক্ষরিক অর্থে *নিজেকে হাজির করা*।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-c3",
+   "icon": "C",
+   "title": "C · check out → come out · গ-বর্গ তৃতীয় অংশ",
+   "subtitle": "Hotels, health and tall tales · হোটেল, স্বাস্থ্য আর আজগুবি গল্প",
+   "minutes": 10,
+   "goals": [
+    "Settle a hotel bill in French · ফরাসিতে হোটেলের হিসাব চুকিয়ে আসুন",
+    "Learn poule mouillée, the French word for a coward · কাপুরুষ বোঝাতে poule mouillée শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "French reaches for animals where English reaches elsewhere: a coward is a **poule mouillée**, a *wet hen*, not a chicken. · ইংরেজি যেখানে অন্য ছবি নেয়, ফরাসি সেখানে প্রাণীর ছবি নেয়।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Donnez-moi un coup de fil après que vous aurez réglé votre compte à l'hôtel.",
+       "tr": "doh-nay MWAH uhn koo duh FEEL ah-preh kuh voo zoh-ray ray-GLAY votr kohnt ah loh-TEL · দনে-মোয়া আঁ কু দ্য ফিল্ আপ্রে ক্য ভুজ়্ অরে রেগ্লে ভত্র্ কঁত্ আ লতেল্",
+       "mean": "Call me after you check out of your hotel · হোটেলের হিসাব চুকিয়ে বেরিয়ে আমাকে ফোন কোরো",
+       "note": "**check out** — settle up and leave · পাওনা শোধ করে ত্যাগ করা"
+      },
+      {
+       "t": "Un examen médical est spécialement important quand on est d'un certain âge.",
+       "tr": "uhn neg-zah-MAHN may-dee-KAHL eh spay-syahl-MAHN ahn-por-TAHN kahn tohn eh duhn sehr-tahn AHZH · আঁন্ এগজ়ামাঁ মেদিকাল্ এ স্পেসীয়ালমঁ আঁপর্তঁ কঁত্ ওঁ এ দাঁ সের্তাঁ আজ়্",
+       "mean": "A check-up is especially important in middle age · মধ্যবয়সে স্বাস্থ্য পরীক্ষা খুবই জরুরি",
+       "note": "**check-up** — a medical examination · স্বাস্থ্য পরীক্ষা"
+      },
+      {
+       "t": "Il était trop poule mouillée pour parler directement à la jeune fille.",
+       "tr": "eel ay-teh troh pool moo-YAY poor pahr-LAY dee-rekt-MAHN ah lah zhuhn FEEY · ইল্ এতে ত্র পুল্ মুইয়ে পুর্ পার্লে দিরেক্তমঁ আ লা জ়্যন্ ফিই",
+       "mean": "He was too chicken-hearted to speak to the girl directly · সে এতই ভীরু যে মেয়েটির সঙ্গে সরাসরি কথা বলতে পারেনি",
+       "note": "**chicken-hearted** — timid · কাপুরুষ, ভীরু"
+      },
+      {
+       "t": "Je ne crois jamais ses contes à dormir debout.",
+       "tr": "zhuh nuh krwah zhah-MEH say kohnt ah dor-MEER duh-BOO · জ়্য ন্য ক্রোয়া জ়ামে সে কঁত্ আ দর্মির্ দ্যবু",
+       "mean": "I never believe his cock-and-bull stories · তার আজগুবি গল্প আমি কখনো বিশ্বাস করি না",
+       "note": "**cock-and-bull story** — an absurd tale · আজগুবি গল্প"
+      },
+      {
+       "t": "D'où lui est venu tout cet argent ?",
+       "tr": "doo lwee eh vuh-NEW too set ahr-ZHAHN · দু লুই এ ভ্যন্যু তু সেত্ আর্জ়ঁ",
+       "mean": "Where did she come by all that money? · সে এত টাকা কোথা থেকে পেল?",
+       "note": "**come by** — obtain · পাওয়া"
+      },
+      {
+       "t": "L'argent vient toujours à point.",
+       "tr": "lahr-ZHAHN vyahn too-ZHOOR ah PWAHN · লার্জ়ঁ ভীয়াঁ তুজ়ুর্ আ পোয়াঁ",
+       "mean": "Money always comes in handy · টাকা সবসময়ই কাজে লাগে",
+       "note": "**come in handy** — turn out useful · কাজে লাগা"
+      },
+      {
+       "t": "Est-ce que les acrobates rentreront en scène ?",
+       "tr": "es kuh lay zah-kroh-BAHT rahn-truh-ROHN ahn SEN · এস্ ক্য লেজ়্ আক্রবাত্ রঁত্র্যরঁ অঁ সেন্",
+       "mean": "Will the acrobats come on again? · কসরতবাজরা কি আবার মঞ্চে আসবে?",
+       "note": "**come on** — appear on stage · মঞ্চে আসা"
+      },
+      {
+       "t": "Le livre sortira en septembre.",
+       "tr": "luh leevr sor-tee-RAH ahn sep-TAHNBR · ল্য লিভ্র্ সর্তিরা অঁ সেপ্তঁব্র্",
+       "mean": "The book will come out in September · সেপ্টেম্বরে বইটি প্রকাশিত হবে",
+       "note": "**come out** — be published · প্রকাশিত হওয়া"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "fun",
+     "text": "**un conte à dormir debout** is *a tale to sleep standing up* — so dull and so unlikely that you would doze on your feet. · **un conte à dormir debout** মানে এমন গল্প যা শুনে দাঁড়িয়েই ঘুম এসে যায়।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**une poule mouillée** is literally… · **une poule mouillée**-এর আক্ষরিক অর্থ…",
+       "options": [
+        "a small chicken · ছোট মুরগি",
+        "a wet hen · ভেজা মুরগি",
+        "a lost bird · হারানো পাখি",
+        "a weak lamb · দুর্বল ভেড়া"
+       ],
+       "answer": 1,
+       "explain": "A hen caught in the rain looks miserable · বৃষ্টিতে ভেজা মুরগি দেখতে কাহিল।"
+      },
+      {
+       "q": "**régler son compte** at a hotel means to… · হোটেলে **régler son compte** মানে…",
+       "options": [
+        "book the room · ঘর বুক করা",
+        "complain loudly · নালিশ করা",
+        "settle the bill · হিসাব চুকানো",
+        "extend the stay · থাকা বাড়ানো"
+       ],
+       "answer": 2,
+       "explain": "*Régler* is to settle · *régler* মানে মিটিয়ে দেওয়া।"
+      },
+      {
+       "q": "**sortir** used of a book means… · বইয়ের ক্ষেত্রে **sortir** মানে…",
+       "options": [
+        "to go outside · বাইরে যাওয়া",
+        "to sell out · বিক্রি শেষ",
+        "to be lost · হারিয়ে যাওয়া",
+        "to be published · প্রকাশিত হওয়া"
+       ],
+       "answer": 3,
+       "explain": "The book *comes out* in both languages · দুই ভাষাতেই বই *বেরোয়*।"
+      },
+      {
+       "q": "**venir à point** describes something that… · **venir à point** বোঝায় এমন কিছু যা…",
+       "options": [
+        "arrives just right · ঠিক সময়ে আসে",
+        "arrives far too late · অনেক দেরিতে আসে",
+        "never arrives · কখনো আসে না",
+        "arrives by mistake · ভুল করে আসে"
+       ],
+       "answer": 0,
+       "explain": "*At the point* — at the right moment · ঠিক মুহূর্তে।"
+      },
+      {
+       "q": "**rentrer en scène** happens where? · **rentrer en scène** কোথায় ঘটে?",
+       "options": [
+        "in a courtroom · আদালতে",
+        "on a stage · মঞ্চে",
+        "in a shop · দোকানে",
+        "at a station · স্টেশনে"
+       ],
+       "answer": 1,
+       "explain": "*La scène* is the stage · *la scène* মানে মঞ্চ।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-c4",
+   "icon": "C",
+   "title": "C · come to the point → cut out · গ-বর্গ চতুর্থ অংশ",
+   "subtitle": "Keeping calm and cutting back · ঠান্ডা থাকা আর কমিয়ে আনা",
+   "minutes": 10,
+   "goals": [
+    "Use sang-froid for composure under pressure · চাপের মুখে শান্ত থাকা বোঝাতে sang-froid ব্যবহার করুন",
+    "Collect the cut- family and its French verbs · cut- পরিবার ও তার ফরাসি ক্রিয়া সংগ্রহ করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**le sang-froid** — *cold blood* — went into English whole. In French it is ordinary, everyday praise for someone who does not panic. · **le sang-froid** ইংরেজিতেও গেছে; ফরাসিতে এটি সাধারণ প্রশংসা।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Je vous prie d'en venir au fait immédiatement.",
+       "tr": "zhuh voo PREE dahn vuh-NEER oh FEH ee-may-dyat-MAHN · জ়্য ভু প্রি দঁ ভ্যনির্ ও ফেত্ ইমেদীয়াতমঁ",
+       "mean": "Come to the point immediately, please · দয়া করে সরাসরি কাজের কথায় আসুন",
+       "note": "**come to the point** — get to the matter · আসল কথায় আসা"
+      },
+      {
+       "t": "Mes rêves se sont réalisés l'un après l'autre.",
+       "tr": "may REV suh sohn ray-ah-lee-ZAY luhn ah-preh LOHTR · মে রেভ্ স্য সঁ রেয়ালিজ়ে লাঁন্ আপ্রে লত্র্",
+       "mean": "One by one my dreams came true · একের পর এক আমার স্বপ্নগুলো সত্যি হয়েছিল",
+       "note": "**come true** — be fulfilled · সত্য হওয়া"
+      },
+      {
+       "t": "Elle a gardé tout son sang-froid quand ils l'ont menacée.",
+       "tr": "el ah gahr-DAY too sohn sahn-FRWAH kahn teel lohn muh-nah-SAY · এল্ আ গার্দে তু সঁ সঁ-ফ্রোয়া কঁত্ ইল্ লঁ ম্যনাসে",
+       "mean": "She remained as cool as a cucumber when they threatened her · হুমকি দেওয়ার সময়ও সে পুরোপুরি শান্ত ছিল",
+       "note": "**cool as a cucumber** — unshaken · একেবারে শান্ত"
+      },
+      {
+       "t": "Elle pesait trop et essayait de manger moins de calories.",
+       "tr": "el puh-ZEH TROH ay eh-seh-YEH duh mahn-ZHAY mwahn duh kah-loh-REE · এল্ প্যজ়ে ত্র এ এসেইয়ে দ্য মঁজ়ে মোয়াঁ দ্য কালরি",
+       "mean": "She was overweight and tried to cut down on calories · ওজন বেড়ে যাওয়ায় সে ক্যালরি কমানোর চেষ্টা করেছিল",
+       "note": "**cut down** — reduce · কমানো"
+      },
+      {
+       "t": "On nous a coupé la communication.",
+       "tr": "ohn noo zah koo-PAY lah koh-mew-nee-kah-SYOHN · ওঁ নুজ়্ আ কুপে লা কম্যুনিকাসীয়ঁ",
+       "mean": "We were cut off in our telephone conversation · আমাদের টেলিফোন সংযোগ কেটে গিয়েছিল",
+       "note": "**cut off** — disconnect · বিচ্ছিন্ন করা"
+      },
+      {
+       "t": "Elle a dû supprimer les sucreries dans son régime.",
+       "tr": "el ah dew sew-pree-MAY lay sew-kruh-REE dahn sohn ray-ZHEEM · এল্ আ দ্যু স্যুপ্রিমে লে স্যুক্র্যরি দঁ সঁ রেজ়িম্",
+       "mean": "She had to cut out the sweets in her diet · খাদ্যতালিকা থেকে তাকে মিষ্টি বাদ দিতে হয়েছিল",
+       "note": "**cut out** — leave out entirely · বাদ দেওয়া"
+      },
+      {
+       "t": "Il a gardé son sang-froid devant le danger.",
+       "tr": "eel ah gahr-DAY sohn sahn-FRWAH duh-vahn luh dahn-ZHAY · ইল্ আ গার্দে সঁ সঁ-ফ্রোয়া দ্যভঁ ল্য দঁজ়ে",
+       "mean": "He kept his composure in the face of danger · বিপদের মুখেও সে মাথা ঠান্ডা রেখেছিল",
+       "note": "**keep one's cool** — stay calm · মাথা ঠান্ডা রাখা"
+      },
+      {
+       "t": "Venons-en au fait.",
+       "tr": "vuh-nohn ZAHN oh FEH · ভ্যনঁজ়্ অঁ ও ফেত্",
+       "mean": "Let us come to the point · আসুন কাজের কথায় আসি",
+       "note": "**let's get to the point** — the short everyday form · সংক্ষেপে কাজের কথায়"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**couper** cuts a line or a call; **supprimer** removes a thing altogether. Use **supprimer** for the sweets, **couper** for the telephone. · লাইন কাটলে **couper**, একেবারে বাদ দিলে **supprimer**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**le sang-froid** is literally… · **le sang-froid**-এর আক্ষরিক অর্থ…",
+       "options": [
+        "a cold heart · ঠান্ডা হৃদয়",
+        "cold blood · ঠান্ডা রক্ত",
+        "a cool head · ঠান্ডা মাথা",
+        "a calm face · শান্ত মুখ"
+       ],
+       "answer": 1,
+       "explain": "The English borrowing kept the spelling · ইংরেজিতেও বানানটি একই রয়ে গেছে।"
+      },
+      {
+       "q": "To remove sweets from a diet you would use… · মিষ্টি বাদ দিতে ব্যবহার করবেন…",
+       "options": [
+        "couper la ligne",
+        "supprimer les sucreries",
+        "garder son sang-froid",
+        "venir au fait"
+       ],
+       "answer": 1,
+       "explain": "**supprimer** removes entirely · **supprimer** মানে একেবারে বাদ দেওয়া।"
+      },
+      {
+       "q": "**en venir au fait** asks the speaker to… · **en venir au fait** মানে…",
+       "options": [
+        "speak more slowly · ধীরে বলা",
+        "repeat the question · প্রশ্ন আবার বলা",
+        "change the subject · প্রসঙ্গ বদলানো",
+        "get to the point · কাজের কথায় আসা"
+       ],
+       "answer": 3,
+       "explain": "*Le fait* is the fact of the matter · *le fait* মানে আসল কথা।"
+      },
+      {
+       "q": "**se réaliser** used of a dream means it… · স্বপ্নের ক্ষেত্রে **se réaliser** মানে…",
+       "options": [
+        "comes true · সত্যি হয়",
+        "fades away · মিলিয়ে যায়",
+        "repeats itself · বারবার ফেরে",
+        "is forgotten · ভুলে যাওয়া হয়"
+       ],
+       "answer": 0,
+       "explain": "The dream makes itself real · স্বপ্ন নিজেকে বাস্তব করে তোলে।"
+      },
+      {
+       "q": "Which verb suits a dropped phone call? · ফোন কেটে গেলে কোন ক্রিয়া?",
+       "options": [
+        "supprimer",
+        "manger",
+        "couper",
+        "peser"
+       ],
+       "answer": 2,
+       "explain": "**couper la communication** · সংযোগ কেটে যাওয়া।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-d1",
+   "icon": "D",
+   "title": "C–D · cats and dogs → driving at · ঘ-বর্গ প্রথম অংশ",
+   "subtitle": "Rain, routine and things that fade away · বৃষ্টি, রোজকার রুটিন আর মিলিয়ে যাওয়া",
+   "minutes": 10,
+   "goals": [
+    "Say heavy rain the French way · ভারী বৃষ্টি ফরাসি রীতিতে বলুন",
+    "Use se passer de for doing without · ব্যতীত চলা বোঝাতে se passer de ব্যবহার করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "English rains cats and dogs; French rains buckets — **il pleut à seaux** — and sometimes ropes, **il pleut des cordes**. No animals anywhere. · ইংরেজিতে বিড়াল-কুকুর, ফরাসিতে বালতি বা দড়ি — কোনো প্রাণী নেই।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Il pleut à seaux.",
+       "tr": "eel pluh ah SOH · ইল্ প্ল্য আ সো",
+       "mean": "It's raining cats and dogs · মুষলধারে বৃষ্টি হচ্ছে",
+       "note": "**raining cats and dogs** — pouring · মুষলধারে বৃষ্টি"
+      },
+      {
+       "t": "Qu'il pleuve ou qu'il vente, il suit la même routine.",
+       "tr": "keel PLUHV oo keel VAHNT eel swee lah mem roo-TEEN · কিল্ প্ল্যভ্ ও কিল্ ভঁত্, ইল্ সুই লা মেম্ রুতিন্",
+       "mean": "Day in and day out, he follows the same routine · দিনের পর দিন সে একই নিয়ম মেনে চলে",
+       "note": "**day in and day out** — every day without change · দিনের পর দিন"
+      },
+      {
+       "t": "Le bruit ne s'est pas éteint avant minuit.",
+       "tr": "luh brwee nuh seh pah zay-TAHN ah-vahn mee-NWEE · ল্য ব্রুই ন্য সে পাজ়্ এতাঁ আভঁ মিনুই",
+       "mean": "The noise did not die down till midnight · মধ্যরাত পর্যন্ত শব্দ কমেনি",
+       "note": "**die down** — grow quiet · কমে যাওয়া"
+      },
+      {
+       "t": "La coutume de faire la révérence disparaît partout aujourd'hui.",
+       "tr": "lah koo-TEWM duh fehr lah ray-vay-RAHNS dees-pah-REH pahr-TOO oh-zhoor-DWEE · লা কুত্যুম্ দ্য ফের্ লা রেভেরঁস্ দিসপারে পার্তু ওজ়ুর্দুই",
+       "mean": "The custom of curtseying is now dying out everywhere · সৌজন্যবোধের প্রথাটি আজ সর্বত্রই বিলুপ্তির পথে",
+       "note": "**die out** — disappear for good · বিলুপ্ত হওয়া"
+      },
+      {
+       "t": "Je peux me passer d'une femme de ménage dans ce petit appartement.",
+       "tr": "zhuh puh muh pah-SAY dewn fahm duh may-NAHZH dahn suh puh-tee tah-pahr-tuh-MAHN · জ়্য প্য ম্য পাসে দ্যুন্ ফাম্ দ্য মেনাজ়্ দঁ স্য প্যতিত্ আপার্ত্যমঁ",
+       "mean": "I can do without a maid in this tiny apartment · এই ছোট বাসায় কাজের লোক ছাড়াই আমার চলবে",
+       "note": "**do without** — manage without · ব্যতীত চলা"
+      },
+      {
+       "t": "Mon avoué rédigera le testament.",
+       "tr": "mohn ah-voo-AY ray-dee-zhuh-RAH luh tes-tah-MAHN · মন্ আভুয়ে রেদিজ়্যরা ল্য তেস্তামঁ",
+       "mean": "My lawyer will draw up the will · আমার আইনজীবী উইলটি মুসাবিদা করবেন",
+       "note": "**draw up** — draft a document · মুসাবিদা করা"
+      },
+      {
+       "t": "Je me demandais à quoi elle voulait en venir.",
+       "tr": "zhuh muh duh-mahn-DEH ah kwah el voo-LEH ahn vuh-NEER · জ়্য ম্য দ্যমঁদে আ কোয়া এল্ ভুলে অঁ ভ্যনির্",
+       "mean": "I wondered what she was driving at · সে কী বোঝাতে চাইছিল তা নিয়ে আমি ভাবছিলাম",
+       "note": "**driving at** — hinting at · বোঝাতে চাওয়া"
+      },
+      {
+       "t": "J'aime que mes amis passent me voir le vendredi.",
+       "tr": "zhem kuh may zah-MEE pahs muh VWAHR luh vahn-druh-DEE · জ়েম্ ক্য মেজ়ামি পাস্ ম্য ভোয়ার্ ল্য ভঁদ্র্যদি",
+       "mean": "I like to have my friends drop in on Friday · শুক্রবারে বন্ধুরা দেখা করতে এলে আমার ভালো লাগে",
+       "note": "**drop in** — visit without warning · হঠাৎ দেখা করতে আসা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**se passer de** means to do without. Do not confuse it with **se passer**, which means *to happen*. The **de** carries the whole difference. · **se passer de** মানে ছাড়া চলা; **se passer** মানে ঘটা।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**il pleut à seaux** compares rain to… · **il pleut à seaux** বৃষ্টিকে তুলনা করে…",
+       "options": [
+        "cats and dogs · বিড়াল-কুকুর",
+        "buckets of water · বালতিভরা জল",
+        "falling stones · পড়ন্ত পাথর",
+        "running rivers · বহতা নদী"
+       ],
+       "answer": 1,
+       "explain": "*Un seau* is a bucket · *un seau* মানে বালতি।"
+      },
+      {
+       "q": "**se passer de** means to… · **se passer de** মানে…",
+       "options": [
+        "do without · ছাড়া চলা",
+        "happen often · প্রায়ই ঘটা",
+        "pass by quickly · দ্রুত পেরোনো",
+        "hand something over · হাতে তুলে দেওয়া"
+       ],
+       "answer": 0,
+       "explain": "The **de** turns *happen* into *do without* · **de** অর্থ বদলে দেয়।"
+      },
+      {
+       "q": "**qu'il pleuve ou qu'il vente** is literally… · এর আক্ষরিক অর্থ…",
+       "options": [
+        "morning and evening · সকাল-সন্ধ্যা",
+        "winter and summer · শীত-গ্রীষ্ম",
+        "whether it rains or blows · বৃষ্টি হোক বা ঝড়",
+        "early and late · আগে-পরে"
+       ],
+       "answer": 2,
+       "explain": "Two subjunctives, meaning *whatever the weather* · আবহাওয়া যাই হোক।"
+      },
+      {
+       "q": "**s'éteindre** used of noise means it… · শব্দের ক্ষেত্রে **s'éteindre** মানে…",
+       "options": [
+        "grows louder · বেড়ে যায়",
+        "returns again · ফিরে আসে",
+        "changes pitch · সুর বদলায়",
+        "dies down · থেমে যায়"
+       ],
+       "answer": 3,
+       "explain": "The same verb puts out a fire · একই ক্রিয়া আগুন নেভায়।"
+      },
+      {
+       "q": "**rédiger** is what a lawyer does to… · **rédiger** দিয়ে আইনজীবী কী করেন…",
+       "options": [
+        "a document · একটি দলিল",
+        "a courtroom · একটি আদালত",
+        "a witness · একজন সাক্ষী",
+        "a payment · একটি পরিশোধ"
+       ],
+       "answer": 0,
+       "explain": "**rédiger** is to draft in writing · **rédiger** মানে লিখে খসড়া করা।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-f1",
+   "icon": "F",
+   "title": "D–F · drop off → far and wide · ঙ-বর্গ প্রথম অংশ",
+   "subtitle": "Falling asleep, falling out and falling through · ঘুমিয়ে পড়া, বিবাদ আর ভেস্তে যাওয়া",
+   "minutes": 10,
+   "goals": [
+    "Collect the fall- family and its French verbs · fall- পরিবার ও তার ফরাসি ক্রিয়া সংগ্রহ করুন",
+    "Learn tenir tête à l'orage for facing trouble · বিপদ সামলানো বোঝাতে tenir tête à l'orage শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "*Fall* again splits in French: **diminuer** for numbers, **se brouiller** for friendships, **avorter** for plans. One English verb, three French ones. · *Fall* ফরাসিতে তিন ভাগ হয়ে যায় — সংখ্যা, বন্ধুত্ব আর পরিকল্পনার জন্য আলাদা ক্রিয়া।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Après quelques verres, elle s'est vite endormie.",
+       "tr": "ah-preh kel-kuh VEHR el seh veet ahn-dor-MEE · আপ্রে কেল্ক্য ভের্, এল্ সে ভিত্ অঁদর্মি",
+       "mean": "After several drinks she dropped off quickly · কয়েক পাত্র পানের পরই সে দ্রুত ঘুমিয়ে পড়েছিল",
+       "note": "**drop off** — fall asleep · ঘুমিয়ে পড়া"
+      },
+      {
+       "t": "Si on découvre ton mensonge, il faudra tenir tête à l'orage.",
+       "tr": "see ohn day-KOOVR tohn mahn-SOHNZH eel foh-drah tuh-NEER tet ah loh-RAHZH · সিওঁ দেকুভ্র্ তঁ মঁসঁজ়্, ইল্ ফোদ্রা ত্যনির্ তেত্ আ লরাজ়্",
+       "mean": "If your lie is found out you must face the music · মিথ্যা ধরা পড়লে পরিস্থিতি তোমাকেই সামলাতে হবে",
+       "note": "**face the music** — take the consequences · পরিস্থিতি সামলানো"
+      },
+      {
+       "t": "Dès que la vedette a quitté le spectacle, l'assistance a diminué.",
+       "tr": "deh kuh lah vuh-DET ah kee-TAY luh spek-TAHKL lah-sees-TAHNS ah dee-mee-NWAY · দে ক্য লা ভ্যদেত্ আ কিতে ল্য স্পেক্তাক্ল্, লাসিস্তঁস্ আ দিমিন্যুয়ে",
+       "mean": "The moment the star left the show, attendance fell off · তারকা চলে যেতেই দর্শকসংখ্যা কমে গেল",
+       "note": "**fall off** — decline in number · হ্রাস পাওয়া"
+      },
+      {
+       "t": "Ils se sont brouillés à cause de la fille.",
+       "tr": "eel suh sohn broo-YAY ah kohz duh lah FEEY · ইল্ স্য সঁ ব্রুইয়ে আ কোজ়্ দ্য লা ফিই",
+       "mean": "They fell out over the girl · মেয়েটিকে নিয়ে তারা বিবাদে জড়িয়েছিল",
+       "note": "**fall out** — quarrel · বিবাদ করা"
+      },
+      {
+       "t": "Si vous ne voulez pas être des nôtres, le projet avortera.",
+       "tr": "see voo nuh voo-lay pah zetr day NOHTR luh proh-ZHEH ah-vor-tuh-RAH · সি ভু ন্য ভুলে পাজ়্ এত্র্ দে নত্র্, ল্য প্রজ়ে আভর্ত্যরা",
+       "mean": "If you don't side with us the plan will fall through · তুমি পাশে না থাকলে পরিকল্পনা ভেস্তে যাবে",
+       "note": "**fall through** — come to nothing · ব্যর্থ হওয়া"
+      },
+      {
+       "t": "De tous côtés les enfants ont accouru.",
+       "tr": "duh too koh-TAY lay zahn-FAHN ohn tah-koo-REW · দ্য তু কতে লেজ়্ অঁফঁ ওঁত্ আকুর্যু",
+       "mean": "From far and wide the children came running · চারদিক থেকে শিশুরা দৌড়ে এসেছিল",
+       "note": "**far and wide** — from everywhere · চতুর্দিকে"
+      },
+      {
+       "t": "Les affaires ont beaucoup diminué cette année.",
+       "tr": "lay zah-FEHR ohn boh-koo dee-mee-NWAY set ah-NAY · লেজ়্ আফের্ ওঁ বকু দিমিন্যুয়ে সেত্ আনে",
+       "mean": "Business has fallen off a great deal this year · এ বছর ব্যবসা অনেকটাই কমে গেছে",
+       "note": "**fall off** — in business, to drop · ব্যবসায় মন্দা"
+      },
+      {
+       "t": "Être des nôtres, c'est être de notre côté.",
+       "tr": "etr day NOHTR seh tetr duh notr koh-TAY · এত্র্ দে নত্র্, সেত্ এত্র্ দ্য নত্র্ কতে",
+       "mean": "To be one of ours is to be on our side · আমাদের একজন হওয়া মানেই আমাদের পক্ষে থাকা",
+       "note": "**side with** — support · পক্ষ নেওয়া"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "culture",
+     "text": "**tenir tête à l'orage** — *to hold one's head up to the storm*. English faces music, French faces weather; both mean standing there and taking it. · **tenir tête à l'orage** মানে ঝড়ের মুখে মাথা উঁচু রাখা।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**se brouiller avec** means to… · **se brouiller avec** মানে…",
+       "options": [
+        "make friends · বন্ধুত্ব করা",
+        "fall out · বিবাদ করা",
+        "travel with · সঙ্গে যাওয়া",
+        "agree fully · পুরো একমত হওয়া"
+       ],
+       "answer": 1,
+       "explain": "The same verb blurs an image · একই ক্রিয়া ছবি ঘোলাটে করে।"
+      },
+      {
+       "q": "A plan that **avorte**… · যে পরিকল্পনা **avorte**…",
+       "options": [
+        "succeeds fully · পুরো সফল হয়",
+        "is postponed · পিছিয়ে যায়",
+        "is written down · লিখে রাখা হয়",
+        "comes to nothing · ভেস্তে যায়"
+       ],
+       "answer": 3,
+       "explain": "The verb is about something never born · যা জন্মায়ই না।"
+      },
+      {
+       "q": "**s'endormir** describes… · **s'endormir** বোঝায়…",
+       "options": [
+        "falling asleep · ঘুমিয়ে পড়া",
+        "waking early · ভোরে ওঠা",
+        "staying awake · জেগে থাকা",
+        "dreaming aloud · ঘুমের ঘোরে বলা"
+       ],
+       "answer": 0,
+       "explain": "*Dormir* with the reflexive is to drop off · *dormir* আত্মবাচক হলে ঘুমিয়ে পড়া।"
+      },
+      {
+       "q": "**de tous côtés** means… · **de tous côtés** মানে…",
+       "options": [
+        "from one side · এক দিক থেকে",
+        "from above only · কেবল উপর থেকে",
+        "from all sides · চারদিক থেকে",
+        "from far away · বহু দূর থেকে"
+       ],
+       "answer": 2,
+       "explain": "*Côté* is a side · *côté* মানে দিক।"
+      },
+      {
+       "q": "**l'assistance** at a show means the… · অনুষ্ঠানে **l'assistance** মানে…",
+       "options": [
+        "help given · দেওয়া সাহায্য",
+        "stage crew · মঞ্চকর্মী",
+        "ticket price · টিকিটের দাম",
+        "audience · দর্শক"
+       ],
+       "answer": 3,
+       "explain": "A false friend: it is the people attending · ছদ্মবন্ধু — এর মানে উপস্থিত দর্শক।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-f2",
+   "icon": "F",
+   "title": "F · fed up → fill in · ঙ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Wanting, sharing and working things out · ইচ্ছে, ভাগাভাগি আর সমাধান",
+   "minutes": 10,
+   "goals": [
+    "Use avoir envie de for wanting something · কিছু চাওয়া বোঝাতে avoir envie de ব্যবহার করুন",
+    "Learn moitié-moitié, the French fifty-fifty · ফরাসি আধা-আধি moitié-moitié শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "French builds many feelings on **avoir** plus a noun: *avoir envie*, *avoir marre*, *avoir un mouvement de sympathie*. English uses a verb; French keeps a thing. · ফরাসি অনেক অনুভূতি গড়ে **avoir** + বিশেষ্য দিয়ে।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Sanjoy en avait marre de son travail terne.",
+       "tr": "sahn-zhoy ahn ah-veh MAHR duh sohn trah-VYE TEHRN · সঞ্জয় অনাভে মার্ দ্য সঁ ত্রাভাই তের্ন্",
+       "mean": "Sanjoy was fed up with his dull job · সঞ্জয় তার একঘেয়ে চাকরিতে বিরক্ত ছিল",
+       "note": "**fed up** — sick of something · বিরক্ত, ত্যক্ত"
+      },
+      {
+       "t": "J'ai un mouvement de sympathie pour vous.",
+       "tr": "zhay uhn moov-MAHN duh sahn-pah-TEE poor VOO · জ়ে আঁ মুভমঁ দ্য সাঁপাতি পুর্ ভু",
+       "mean": "I really feel for you · সত্যিই তোমার জন্য আমার সহানুভূতি হয়",
+       "note": "**feel for** — pity, sympathise with · সহানুভূতি থাকা"
+      },
+      {
+       "t": "J'ai envie d'une autre tasse de thé.",
+       "tr": "zhay ahn-VEE dewn ohtr tahs duh TAY · জ়ে অঁভি দ্যুন্ ওত্র্ তাস্ দ্য তে",
+       "mean": "I feel like having another cup of tea · আমার আরও এক কাপ চা খেতে ইচ্ছে করছে",
+       "note": "**feel like** — be in the mood for · ইচ্ছে হওয়া"
+      },
+      {
+       "t": "Les bonshommes sont rares à trouver.",
+       "tr": "lay bohn-ZOM sohn rahr ah troo-VAY · লে বঁজ়ম্ সঁ রার্ আ ত্রুভে",
+       "mean": "Good men are few and far between · ভালো মানুষ খুব কমই মেলে",
+       "note": "**few and far between** — rare · কদাচিৎ, খুব কম"
+      },
+      {
+       "t": "Nous partagerons les frais moitié-moitié.",
+       "tr": "noo pahr-tah-zhuh-ROHN lay FREH mwah-tyay mwah-TYAY · নু পার্তাজ়্যরঁ লে ফ্রে মোয়াতীয়ে-মোয়াতীয়ে",
+       "mean": "We'll share the expenses fifty-fifty · আমরা খরচ আধা-আধি ভাগ করে নেব",
+       "note": "**fifty-fifty** — in equal shares · আধা আধি"
+      },
+      {
+       "t": "Je compte sur vous pour m'aider à conduire.",
+       "tr": "zhuh kohnt sewr VOO poor meh-DAY ah kohn-DWEER · জ়্য কঁত্ স্যুর্ ভু পুর্ মেদে আ কঁদুইর্",
+       "mean": "I figure on you to help drive · গাড়ি চালাতে সাহায্য করবেন বলে আমি আপনার উপর ভরসা করছি",
+       "note": "**figure on** — count on · ভরসা করা"
+      },
+      {
+       "t": "Un bon mathématicien peut résoudre les problèmes les plus complexes.",
+       "tr": "uhn bohn mah-tay-mah-tee-SYAHN puh ray-ZOODR lay proh-BLEM lay plew kohn-PLEKS · আঁ বঁ মাতেমাতিসীয়াঁ প্য রেজ়ুদ্র্ লে প্রব্লেম্ লে প্ল্যু কঁপ্লেক্স্",
+       "mean": "A good mathematician can figure out the most complicated problems · ভালো অঙ্কবিশারদ কঠিনতম সমস্যারও সমাধান করতে পারেন",
+       "note": "**figure out** — work out, solve · সমাধান করা"
+      },
+      {
+       "t": "Remplissez les espaces vides.",
+       "tr": "rahn-plee-SAY lay zes-PAHS VEED · রঁপ্লিসে লেজ়্ এস্পাস্ ভিদ্",
+       "mean": "Fill in all the blanks · সব শূন্যস্থান পূরণ করুন",
+       "note": "**fill in** — complete a form · পূরণ করা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**en avoir marre** is casual, close to *I've had it*. In a formal letter write **être las de** or **ne plus supporter** instead. · **en avoir marre** চলতি কথা; আনুষ্ঠানিক লেখায় **être las de** লিখুন।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**avoir envie de** expresses… · **avoir envie de** বোঝায়…",
+       "options": [
+        "a wish or craving · ইচ্ছে বা আগ্রহ",
+        "a firm refusal · কড়া প্রত্যাখ্যান",
+        "a bad memory · খারাপ স্মৃতি",
+        "a long delay · দীর্ঘ বিলম্ব"
+       ],
+       "answer": 0,
+       "explain": "*Envie* is the longing itself · *envie* মানেই আকাঙ্ক্ষা।"
+      },
+      {
+       "q": "**moitié-moitié** divides something… · **moitié-moitié** ভাগ করে…",
+       "options": [
+        "in three parts · তিন ভাগে",
+        "into equal halves · সমান দুই ভাগে",
+        "by weight only · কেবল ওজনে",
+        "among many people · বহু জনের মধ্যে"
+       ],
+       "answer": 1,
+       "explain": "*La moitié* is the half · *la moitié* মানে অর্ধেক।"
+      },
+      {
+       "q": "**compter sur quelqu'un** means to… · **compter sur quelqu'un** মানে…",
+       "options": [
+        "count the money · টাকা গোনা",
+        "argue with someone · কারও সঙ্গে তর্ক করা",
+        "rely on someone · কারও উপর ভরসা করা",
+        "wait for someone · কারও অপেক্ষা করা"
+       ],
+       "answer": 2,
+       "explain": "*Count on* in both languages · দুই ভাষাতেই ভরসা করা।"
+      },
+      {
+       "q": "**résoudre** is what you do to a… · **résoudre** দিয়ে কী করা হয়…",
+       "options": [
+        "letter · চিঠি",
+        "journey · যাত্রা",
+        "meeting · সভা",
+        "problem · সমস্যা"
+       ],
+       "answer": 3,
+       "explain": "**résoudre un problème** · সমস্যার সমাধান করা।"
+      },
+      {
+       "q": "**rares à trouver** describes something… · **rares à trouver** বোঝায় এমন কিছু…",
+       "options": [
+        "hard to find · যা দুর্লভ",
+        "easy to lose · যা সহজে হারায়",
+        "cheap to buy · যা সস্তা",
+        "quick to make · যা দ্রুত বানানো যায়"
+       ],
+       "answer": 0,
+       "explain": "*Rare to find* · *খুঁজে পাওয়া কঠিন*।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
