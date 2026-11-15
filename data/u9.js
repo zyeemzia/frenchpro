@@ -3318,6 +3318,420 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u9-m1",
+   "icon": "M",
+   "title": "L–M · look into → make out · ঞ-বর্গ প্রথম অংশ",
+   "subtitle": "Looking things over and making believe · পরীক্ষা করা আর ভান করা",
+   "minutes": 10,
+   "goals": [
+    "Use faire semblant de for pretending · ভান করা বোঝাতে faire semblant de ব্যবহার করুন",
+    "Learn déchiffrer for making something out · বুঝে নেওয়া বোঝাতে déchiffrer শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**la fable du quartier** — *the fable of the neighbourhood* — is the French laughing stock: the person the street tells stories about. · **la fable du quartier** মানে পাড়ার হাসির পাত্র।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "J'ai étudié l'affaire.",
+       "tr": "zhay ay-tew-DYAY lah-FEHR · জ়ে এত্যুদীয়ে লাফের্",
+       "mean": "I looked into the matter · আমি ব্যাপারটি তদন্ত করেছিলাম",
+       "note": "**look into** — investigate · তদন্ত করা"
+      },
+      {
+       "t": "J'examine les réponses.",
+       "tr": "zheg-zah-MEEN lay ray-POHNS · জ়েগজ়ামিন্ লে রেপঁস্",
+       "mean": "I look over the answers · আমি উত্তরগুলো পরীক্ষা করছি",
+       "note": "**look over** — check through · পরীক্ষা করা"
+      },
+      {
+       "t": "Le Bangladesh se ranime.",
+       "tr": "luh bahn-glah-DESH suh rah-NEEM · ল্য বঁগলাদেশ্ স্য রানিম্",
+       "mean": "Bangladesh is looking up · বাংলাদেশ ঘুরে দাঁড়াচ্ছে",
+       "note": "**look up** — improve, revive · উন্নত হওয়া"
+      },
+      {
+       "t": "Si vous n'étiez pas si bête, vous ne seriez pas la fable du quartier.",
+       "tr": "see voo nay-tyay pah see BET voo nuh suh-ryay pah lah fahbl dew kahr-TYAY · সি ভু নেতীয়ে পা সি বেত্, ভু ন্য স্যরীয়ে পা লা ফাব্ল্ দ্যু কার্তীয়ে",
+       "mean": "If you were not so silly, you wouldn't be a laughing stock · এত বোকা না হলে তুমি হাসির পাত্র হতে না",
+       "note": "**laughing stock** — object of ridicule · উপহাসের পাত্র"
+      },
+      {
+       "t": "Le soldat a fait semblant d'être mort.",
+       "tr": "luh sol-DAH ah feh sahn-BLAHN detr MOR · ল্য সল্দা আ ফে সঁব্লঁ দেত্র্ মর্",
+       "mean": "The soldier made believe he was dead · সৈন্যটি মরার ভান করেছিল",
+       "note": "**make believe** — pretend · ভান করা"
+      },
+      {
+       "t": "Rentrons avant que cet orage ne devienne plus fort.",
+       "tr": "rahn-TROHN ah-vahn kuh set oh-RAHZH nuh duh-VYEN plew FOR · রঁত্রঁ আভঁ ক্য সেত্ অরাজ়্ ন্য দ্যভীয়েন্ প্ল্যু ফর্",
+       "mean": "Let's make for home before this storm gets worse · ঝড় বাড়ার আগেই চলো বাড়ির দিকে রওনা হই",
+       "note": "**make for** — head towards · অগ্রসর হওয়া"
+      },
+      {
+       "t": "Si vous voulez réussir, travaillez dur.",
+       "tr": "see voo voo-lay ray-ew-SEER trah-vah-YAY DEWR · সি ভু ভুলে রেউসির্, ত্রাভাইয়ে দ্যুর্",
+       "mean": "If you want to make good, work hard · সফল হতে চাইলে কঠোর পরিশ্রম করো",
+       "note": "**make good** — succeed · জয়লাভ করা"
+      },
+      {
+       "t": "Je ne peux pas déchiffrer le sujet.",
+       "tr": "zhuh nuh puh pah day-shee-FRAY luh sew-ZHEH · জ়্য ন্য প্য পা দেশিফ্রে ল্য স্যুজ়ে",
+       "mean": "I cannot make out the subject · বিষয়টি আমি বুঝে উঠতে পারছি না",
+       "note": "**make out** — decipher, understand · বুঝতে পারা"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**déchiffrer** is to un-cipher: to read bad handwriting, a code, or an argument you cannot follow. · **déchiffrer** মানে সংকেত খুলে পড়া — দুর্বোধ্য হাতের লেখা বা যুক্তি।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**faire semblant de** means to… · **faire semblant de** মানে…",
+       "options": [
+        "pretend · ভান করা",
+        "resemble · মিল থাকা",
+        "assemble · জড়ো করা",
+        "remember · মনে রাখা"
+       ],
+       "answer": 0,
+       "explain": "*Semblant* is an appearance · *semblant* মানে বাহ্যিক ভাব।"
+      },
+      {
+       "q": "**se ranimer** describes something that… · **se ranimer** বোঝায় যা…",
+       "options": [
+        "falls apart · ভেঙে পড়ে",
+        "revives · ঘুরে দাঁড়ায়",
+        "stays still · স্থির থাকে",
+        "disappears · মিলিয়ে যায়"
+       ],
+       "answer": 1,
+       "explain": "*Âme* is soul; the thing takes life again · প্রাণ ফিরে পায়।"
+      },
+      {
+       "q": "**la fable du quartier** is the person who is… · **la fable du quartier** মানে যে…",
+       "options": [
+        "admired by all · সবার প্রশংসিত",
+        "unknown to all · সবার অচেনা",
+        "laughed at · হাসির পাত্র",
+        "feared by all · সবার ভয়ের"
+       ],
+       "answer": 2,
+       "explain": "The story the neighbourhood tells · পাড়ার মুখে মুখে ফেরা গল্প।"
+      },
+      {
+       "q": "**déchiffrer** would suit which task? · **déchiffrer** কোন কাজে মানায়?",
+       "options": [
+        "cooking a meal · রান্না করা",
+        "running a race · দৌড়ানো",
+        "buying a ticket · টিকিট কেনা",
+        "reading bad handwriting · দুর্বোধ্য লেখা পড়া"
+       ],
+       "answer": 3,
+       "explain": "To work out what is hard to read · যা পড়া কঠিন তা উদ্ধার করা।"
+      },
+      {
+       "q": "After **avant que**, the verb is in the… · **avant que**-এর পরে ক্রিয়া বসে…",
+       "options": [
+        "subjunctive · সম্ভাবনাসূচক",
+        "future · ভবিষ্যৎ",
+        "imparfait · অসমাপিকা অতীত",
+        "imperative · অনুজ্ঞা"
+       ],
+       "answer": 0,
+       "explain": "*ne devienne* is subjunctive · *ne devienne* সম্ভাবনাসূচক।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-n1",
+   "icon": "N",
+   "title": "M–N · make over → now and then · ঞ-বর্গ দ্বিতীয় অংশ",
+   "subtitle": "Narrow escapes and nicks of time · অল্পের জন্য রক্ষা আর ঠিক সময়",
+   "minutes": 10,
+   "goals": [
+    "Learn l'échapper belle for a narrow escape · অল্পের জন্য রক্ষা বোঝাতে l'échapper belle শিখুন",
+    "Use de temps à autre for now and then · মাঝে মাঝে বোঝাতে de temps à autre ব্যবহার করুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**l'échapper belle** keeps a feminine pronoun with no noun behind it — an old fixed form. Say *il l'a échappé belle*, *elle l'échappa belle*, and leave the grammar alone. · **l'échapper belle** একটি প্রাচীন বাঁধা রূপ; এর ব্যাকরণ ঘাঁটবেন না।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Je vais transformer mon avis.",
+       "tr": "zhuh veh trahns-for-MAY mohn nah-VEE · জ়্য ভে ত্রঁস্ফর্মে মন্ আভি",
+       "mean": "I am going to make over my opinion · আমি আমার মত বদলাব",
+       "note": "**make over** — alter, change · পরিবর্তন করা"
+      },
+      {
+       "t": "Monsieur Rahman a établi une liste des meilleurs avocats.",
+       "tr": "muh-syuh rah-MAHN ah ay-tah-BLEE ewn leest day meh-YUHR zah-voh-KAH · ম্যসীয়ো রহমান আ এতাব্লি য়ুন্ লিস্ত্ দে মেইয়র্জ়্ আভকা",
+       "mean": "Mr Rahman made a list of the best lawyers · রহমান সাহেব সেরা আইনজীবীদের একটি তালিকা করেছিলেন",
+       "note": "**make a list** — draw one up · তালিকা প্রস্তুত করা"
+      },
+      {
+       "t": "Je vous aime de plus en plus chaque jour.",
+       "tr": "zhuh voo ZEM duh plew zahn PLEW shahk ZHOOR · জ়্য ভুজ়্ এম্ দ্য প্ল্যুজ়্ অঁ প্ল্যু শাক্ জ়ুর্",
+       "mean": "I love you more and more each day · প্রতিদিন তোমাকে আরও বেশি ভালোবাসি",
+       "note": "**more and more** — increasingly · উত্তরোত্তর"
+      },
+      {
+       "t": "Monsieur le docteur Kamal Hossain est un homme de talent.",
+       "tr": "muh-syuh luh dok-TUHR kah-mahl oh-SAHN eh tuhn om duh tah-LAHN · ম্যসীয়ো ল্য দক্ত্যর্ কামাল হোসেন এত্ আঁন্ অম্ দ্য তালঁ",
+       "mean": "Dr Kamal Hossain is a man of parts · ড. কামাল হোসেন একজন বিদ্বান ব্যক্তি",
+       "note": "**man of parts** — a man of many gifts · বিদ্বান, বহুগুণী লোক"
+      },
+      {
+       "t": "La fille courut vers le train et l'échappa belle.",
+       "tr": "lah feey koo-REW vehr luh TRAHN ay lay-shah-PAH BEL · লা ফিই কুর্যু ভের্ ল্য ত্রাঁ এ লেশাপা বেল্",
+       "mean": "The girl ran towards the train and had a narrow escape · মেয়েটি ট্রেনের দিকে ছুটে গিয়ে অল্পের জন্য রক্ষা পেয়েছিল",
+       "note": "**narrow escape** — a close call · অল্পের জন্য রক্ষা"
+      },
+      {
+       "t": "Ne faites pas attention à la musique et continuez à étudier.",
+       "tr": "nuh fet pah zah-tahn-SYOHN ah lah mew-ZEEK ay kohn-tee-NWAY ah ay-tew-DYAY · ন্য ফেত্ পাজ়্ আতঁসীয়ঁ আ লা ম্যুজ়িক্ এ কঁতিন্যুয়ে আ এত্যুদীয়ে",
+       "mean": "Never mind the music and keep on studying · গানে মন না দিয়ে পড়া চালিয়ে যাও",
+       "note": "**never mind** — pay no attention to · মনোযোগ না দেওয়া"
+      },
+      {
+       "t": "Reba a attrapé le train juste à point.",
+       "tr": "ray-bah ah ah-trah-PAY luh TRAHN zhewst ah PWAHN · রেবা আ আত্রাপে ল্য ত্রাঁ জ়্যুস্ত্ আ পোয়াঁ",
+       "mean": "Reba caught the train in the nick of time · রেবা ঠিক সময়ে ট্রেনটি ধরতে পেরেছিল",
+       "note": "**nick of time** — only just in time · ঠিক সময় মতো"
+      },
+      {
+       "t": "De temps à autre je visite le Royaume-Uni.",
+       "tr": "duh tahn zah OHTR zhuh vee-ZEET luh rwah-yohm ew-NEE · দ্য তঁজ়্ আ ওত্র্ জ়্য ভিজ়িত্ ল্য রোয়াইয়ুম্-য়ুনি",
+       "mean": "Now and then I visit the United Kingdom · মাঝে মাঝে আমি যুক্তরাজ্যে বেড়াতে যাই",
+       "note": "**now and then** — occasionally · মাঝে মাঝে"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**visiter** suits places, not people. For visiting a person use **rendre visite à**. *Je visite mon oncle* sounds as if you are inspecting him. · জায়গার জন্য **visiter**, মানুষের জন্য **rendre visite à**।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "To say you visited your uncle, use… · কাকাকে দেখতে গেছেন বলতে ব্যবহার করবেন…",
+       "options": [
+        "visiter mon oncle",
+        "rendre visite à mon oncle",
+        "regarder mon oncle",
+        "attraper mon oncle"
+       ],
+       "answer": 1,
+       "explain": "**visiter** is for places · **visiter** জায়গার জন্য।"
+      },
+      {
+       "q": "**un homme de talent** translates… · **un homme de talent** মানে…",
+       "options": [
+        "a man of words · বাকপটু লোক",
+        "a man of law · আইনের লোক",
+        "a man of parts · বহুগুণী লোক",
+        "a man of means · ধনী লোক"
+       ],
+       "answer": 2,
+       "explain": "Gifted in many directions · নানা দিকে গুণী।"
+      },
+      {
+       "q": "**de temps à autre** is closest to… · **de temps à autre**-এর কাছাকাছি…",
+       "options": [
+        "at once · এক্ষুনি",
+        "always · সবসময়",
+        "never · কখনো না",
+        "now and then · মাঝে মাঝে"
+       ],
+       "answer": 3,
+       "explain": "A cousin of *de temps en temps* · *de temps en temps*-এর সমার্থক।"
+      },
+      {
+       "q": "**l'échapper belle** describes… · **l'échapper belle** বোঝায়…",
+       "options": [
+        "a narrow escape · অল্পের জন্য রক্ষা",
+        "a lost chance · হারানো সুযোগ",
+        "a long journey · দীর্ঘ যাত্রা",
+        "a bad fall · খারাপ পতন"
+       ],
+       "answer": 0,
+       "explain": "The danger passed by a hair · চুল পরিমাণ ব্যবধানে রক্ষা।"
+      },
+      {
+       "q": "**faire attention à** means to… · **faire attention à** মানে…",
+       "options": [
+        "ask again · আবার জিজ্ঞেস করা",
+        "pay attention to · মনোযোগ দেওয়া",
+        "wait politely · ভদ্রভাবে অপেক্ষা করা",
+        "complain about · নালিশ করা"
+       ],
+       "answer": 1,
+       "explain": "Negated here: *pay no attention* · এখানে নঞর্থক — মন না দেওয়া।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9-o1",
+   "icon": "O",
+   "title": "N–O · no matter → on the whole · ট-বর্গ প্রথম অংশ",
+   "subtitle": "Whatever happens, and how things stand on the whole · যাই ঘটুক, আর মোটের উপর যা দাঁড়ায়",
+   "minutes": 10,
+   "goals": [
+    "Use quoi que with the subjunctive · quoi que-এর সঙ্গে সম্ভাবনাসূচক ব্যবহার করুন",
+    "Learn sur le champ, the French on the spot · ঘটনাস্থলেই বোঝাতে sur le champ শিখুন",
+    "Read each phrase in all three languages · প্রতিটি বাগধারা তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "**quoi que** — *whatever* — always takes the subjunctive: *quoi que vous fassiez*. Do not confuse it with **quoique**, written as one word, which means *although*. · **quoi que** মানে *যাই*; এক শব্দে **quoique** মানে *যদিও*।"
+    },
+    {
+     "type": "examples",
+     "title": "The phrases · বাগধারাগুলো",
+     "items": [
+      {
+       "t": "Quoi que vous fassiez, je vous aimerai toujours.",
+       "tr": "kwah kuh voo fah-SYAY zhuh voo zeh-muh-RAY too-ZHOOR · কোয়া ক্য ভু ফাসীয়ে, জ়্য ভুজ়্ এম্যরে তুজ়ুর্",
+       "mean": "No matter what you do, I will always love you · যাই করো না কেন, আমি তোমাকে চিরকাল ভালোবাসব",
+       "note": "**no matter what** — whatever happens · যাই ঘটুক না কেন"
+      },
+      {
+       "t": "Je me demande pourquoi le juge a déclaré que la pétition était nulle et non avenue.",
+       "tr": "zhuh muh duh-MAHND poor-KWAH luh zhewzh ah day-klah-RAY kuh lah pay-tee-SYOHN ay-teh newl ay nohn nahv-NEW · জ়্য ম্য দ্যমঁদ্ পুর্কোয়া ল্য জ়্যুজ়্ আ দেক্লারে ক্য লা পেতিসীয়ঁ এতে ন্যুল্ এ নঁন্ আভ্ন্যু",
+       "mean": "I wonder why the judge declared the petition null and void · বিচারক কেন দরখাস্তটি বাতিল ঘোষণা করলেন, ভাবছি",
+       "note": "**null and void** — of no legal effect · বাতিল"
+      },
+      {
+       "t": "C'est un jour de congé pour moi, c'est pourquoi je suis très heureux.",
+       "tr": "seh tuhn zhoor duh kohn-ZHAY poor MWAH seh poor-KWAH zhuh swee treh zuh-RUH · সেত্ আঁ জ়ুর্ দ্য কঁজ়ে পুর্ মোয়া, সে পুর্কোয়া জ়্য সুই ত্রে জ়্যর্য",
+       "mean": "This is an off day for me, which is why I am very happy · আজ আমার ছুটির দিন, তাই আমি খুব খুশি",
+       "note": "**off day** — a day free from work · ছুটির দিন"
+      },
+      {
+       "t": "À l'occasion, Monsieur Shiblee vient chez moi.",
+       "tr": "ah loh-kah-ZYOHN muh-syuh sheeb-LEE vyahn shay MWAH · আ লকাজ়ীয়ঁ, ম্যসীয়ো শিবলী ভীয়াঁ শে মোয়া",
+       "mean": "On occasion Mr Shiblee comes to my house · মাঝে মাঝে শিবলী সাহেব আমার বাসায় আসেন",
+       "note": "**on occasion** — from time to time · মাঝে মধ্যে"
+      },
+      {
+       "t": "La leçon de langue est radiodiffusée quotidiennement.",
+       "tr": "lah luh-SOHN duh LAHNG eh rah-dyoh-dee-few-ZAY koh-tee-dyen-MAHN · লা ল্যসঁ দ্য লঁগ্ এ রাদীওদিফ্যুজ়ে কতিদীয়েনমঁ",
+       "mean": "The language lesson goes on the air daily · ভাষার পাঠটি প্রতিদিন সম্প্রচারিত হয়",
+       "note": "**on the air** — broadcast · সম্প্রচারিত হওয়া"
+      },
+      {
+       "t": "Romin s'est décidé sur le champ.",
+       "tr": "roh-MAHN seh day-see-DAY sewr luh SHAHN · রমিন সে দেসিদে স্যুর্ ল্য শঁ",
+       "mean": "Romin made his decision on the spot · রমিন ঘটনাস্থলেই সিদ্ধান্ত নিয়েছিল",
+       "note": "**on the spot** — there and then · ঘটনাস্থলেই"
+      },
+      {
+       "t": "Somme toute, sa santé s'est améliorée.",
+       "tr": "som TOOT sah sahn-TAY seh tah-may-lyoh-RAY · সম্ তুত্, সা সঁতে সেত্ আমেলীওরে",
+       "mean": "On the whole his health has improved · মোটের উপর তার স্বাস্থ্যের উন্নতি হয়েছে",
+       "note": "**on the whole** — all things considered · মোটের উপর"
+      },
+      {
+       "t": "Quoique fatigué, il a continué.",
+       "tr": "kwah-kuh fah-tee-GAY eel ah kohn-tee-NWAY · কোয়াক্য ফাতিগে, ইল্ আ কঁতিন্যুয়ে",
+       "mean": "Although tired, he carried on · ক্লান্ত হলেও সে চালিয়ে গেল",
+       "note": "**quoique** — although, written as one word · যদিও"
+      }
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**sur le champ** is *on the field* — the spot where it happened, from the battlefield. It means immediately, not merely nearby. · **sur le champ** মানে তখনই, সঙ্গে সঙ্গে।"
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "**quoi que** in two words means… · দুই শব্দে **quoi que** মানে…",
+       "options": [
+        "unless · যদি না",
+        "although · যদিও",
+        "whatever · যাই",
+        "because · কারণ"
+       ],
+       "answer": 2,
+       "explain": "One word means *although*, two mean *whatever* · এক শব্দে *যদিও*, দুই শব্দে *যাই*।"
+      },
+      {
+       "q": "**sur le champ** means… · **sur le champ** মানে…",
+       "options": [
+        "in the open · খোলা জায়গায়",
+        "in the field · মাঠে",
+        "on the way · পথে",
+        "immediately · সঙ্গে সঙ্গে"
+       ],
+       "answer": 3,
+       "explain": "From the battlefield, where there is no time · রণক্ষেত্র থেকে আসা — সময় নেই।"
+      },
+      {
+       "q": "**nul et non avenu** is used in… · **nul et non avenu** কোথায় ব্যবহৃত হয়…",
+       "options": [
+        "law · আইনে",
+        "cookery · রান্নায়",
+        "sport · খেলায়",
+        "music · সংগীতে"
+       ],
+       "answer": 0,
+       "explain": "A legal formula for void · বাতিল বোঝানোর আইনি বাঁধা বাক্য।"
+      },
+      {
+       "q": "**somme toute** introduces… · **somme toute** বোঝায়…",
+       "options": [
+        "a refusal · প্রত্যাখ্যান",
+        "a summary · সারসংক্ষেপ",
+        "a question · প্রশ্ন",
+        "an apology · ক্ষমা"
+       ],
+       "answer": 1,
+       "explain": "*The whole sum* — taking it all together · সব মিলিয়ে।"
+      },
+      {
+       "q": "**radiodiffusé** describes something… · **radiodiffusé** মানে…",
+       "options": [
+        "recorded · রেকর্ড করা",
+        "translated · অনূদিত",
+        "broadcast · সম্প্রচারিত",
+        "printed · মুদ্রিত"
+       ],
+       "answer": 2,
+       "explain": "Spread by radio · বেতারে ছড়ানো।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
