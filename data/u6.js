@@ -1808,6 +1808,57 @@ LC.units.push({
      ]
     },
     {
+     "type": "table",
+     "title": "On a receipt or a price tag · রসিদ ও দামের গায়ে",
+     "head": [
+      "Short · সংক্ষেপ",
+      "In full · পূর্ণ রূপ",
+      "What it is · কী"
+     ],
+     "rows": [
+      [
+       "TVA",
+       "{{Taxe à Valeur Ajoutée}}",
+       "VAT, on every French bill · ভ্যাট, প্রতিটি বিলে"
+      ],
+      [
+       "TTC",
+       "{{Toutes Taxes Comprises}}",
+       "price including tax — what you actually pay · করসহ দাম, যা সত্যিই দিতে হয়"
+      ],
+      [
+       "HT",
+       "{{hors taxes}}",
+       "price before tax — always the smaller number · কর বাদে দাম, সবসময় কম"
+      ],
+      [
+       "TSVP",
+       "{{Tournez S'il Vous Plaît}}",
+       "please turn over · উল্টান"
+      ],
+      [
+       "tjrs",
+       "{{toujours}}",
+       "always, in handwritten notes · হাতে লেখা নোটে *সবসময়*"
+      ],
+      [
+       "VIH",
+       "{{Virus de l'Immunodéficience Humaine}}",
+       "HIV — the letters are reversed from English · ইংরেজির উল্টো ক্রমে"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**TTC** and **HT** are the two numbers on every French quotation, and they are not the same price. A bill that looks cheap is often quoted **HT**, with the **TVA** still to be added. · প্রতিটি দরপত্রে **TTC** ও **HT** দুই রকম দাম থাকে; সস্তা মনে হওয়া দামটি প্রায়ই **HT**।"
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "The book gives **VTT** as *Voyageur Représentant Placier*, a travelling salesman. That sense is written **VRP** today, and **VTT** now means **vélo tout terrain**, a mountain bike. If you read **VTT** on a sign, it is about bicycles. · আজকাল **VTT** মানে পাহাড়ি সাইকেল, বিক্রয়কর্মী নয় — সেটি এখন **VRP**।"
+    },
+    {
      "type": "tip",
      "kind": "warn",
      "text": "Three acronyms in the source book no longer exist. **ANPE**, the employment agency, was abolished in 2008; after a spell as **Pôle emploi** it became **France Travail** in 2024. **DESS** and **DEST** were folded into the **Master** when degrees were reformed. **CEG** has not existed since the 1970s. Learn them only to understand an old document. · বইয়ের তিনটি সংক্ষেপ আর নেই — **ANPE** এখন **France Travail**, **DESS**/**DEST** এখন **Master**, আর **CEG** সত্তরের দশকেই উঠে গেছে।"
