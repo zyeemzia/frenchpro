@@ -15,7 +15,7 @@ One set of content powers two outputs: an interactive web app and a printable bo
 
 ## What's inside
 
-10 units · 173 lessons · 838 quiz questions · 2267 vocabulary words · 73 word-by-word sentences · 36 conversations
+10 units · 175 lessons · 848 quiz questions · 2267 vocabulary words · 73 word-by-word sentences · 36 conversations
 
 1. **Sounds & Spelling**: The sounds that give you away — and how to fix them for good · যে ধ্বনিগুলো আপনাকে ধরিয়ে দেয়, আর সেগুলো একেবারে ঠিক করার উপায়
 2. **The Grammar Engine**: Nouns, articles, adjectives and pronouns — the machinery under every sentence · নাম, article, বিশেষণ ও সর্বনাম — প্রতিটি বাক্যের নিচের যন্ত্রপাতি

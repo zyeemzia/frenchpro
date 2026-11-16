@@ -1986,6 +1986,400 @@ LC.units.push({
      ]
     }
    ]
+  },
+  {
+   "id": "u6-errors-prep",
+   "icon": "≠",
+   "title": "The Preposition Is Never the One You Expect · সম্বন্ধপদ কখনোই আন্দাজমতো হয় না",
+   "subtitle": "Ten places where English pushes you to the wrong little word · দশটি জায়গা যেখানে ইংরেজি ভুল শব্দের দিকে ঠেলে দেয়",
+   "minutes": 11,
+   "goals": [
+    "Fix the ten preposition errors that survive longest · যে দশটি ভুল সবচেয়ে বেশি দিন টিকে থাকে তা শুধরে নিন",
+    "Tell à cause de from grâce à · à cause de ও grâce à আলাদা করে চিনুন",
+    "Read each correction in all three languages · প্রতিটি সংশোধন তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "Almost every error below comes from the same habit: translating the English preposition instead of learning the French one. The French verb or noun chooses its own preposition, and it rarely chooses the one you would. · প্রায় প্রতিটি ভুলই একই কারণে — ইংরেজির সম্বন্ধপদ অনুবাদ করা। ফরাসি ক্রিয়া বা বিশেষ্য নিজের সম্বন্ধপদ নিজেই বেছে নেয়।"
+    },
+    {
+     "type": "table",
+     "title": "Not this · but this · এটা নয় · এটা",
+     "head": [
+      "Not this · এটা নয়",
+      "But this · বরং এটা",
+      "Why · কেন"
+     ],
+     "rows": [
+      [
+       "sur le journal",
+       "{{dans le journal}}",
+       "news sits inside the paper, not on it · খবর কাগজের ভেতরে থাকে"
+      ],
+      [
+       "sur la télévision",
+       "{{à la télévision}}",
+       "on TV is **à**; **sur** would mean on top of the set · টিভির উপরে নয়, টিভিতে"
+      ],
+      [
+       "à l'autre côté",
+       "{{de l'autre côté}}",
+       "French sees the other side from here · এপার থেকে ওপার দেখা"
+      ],
+      [
+       "content avec ma vie",
+       "{{content de ma vie}}",
+       "**content** always takes **de** · **content** সবসময় **de** নেয়"
+      ],
+      [
+       "au même temps",
+       "{{en même temps}}",
+       "a fixed phrase; no article · বাঁধা বাক্যাংশ"
+      ],
+      [
+       "dans le XVe siècle",
+       "{{au XVe siècle}}",
+       "centuries take **au** · শতাব্দীর আগে **au**"
+      ],
+      [
+       "pour trois ans",
+       "{{pendant trois ans}}",
+       "**pour** is for time still to come · **pour** ভবিষ্যতের মেয়াদে"
+      ],
+      [
+       "au cas de maladie",
+       "{{en cas de maladie}}",
+       "**en cas de** plus a bare noun · **en cas de** + বিশেষ্য"
+      ],
+      [
+       "chaque deux jours",
+       "{{tous les deux jours}}",
+       "**chaque** cannot take a number · **chaque**-এর পরে সংখ্যা বসে না"
+      ],
+      [
+       "plus bon marché",
+       "{{meilleur marché}}",
+       "**bon** has no **plus**; it becomes **meilleur** · **bon**-এর তুলনামূলক রূপ **meilleur**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "warn",
+     "text": "**à cause de** and **grâce à** both mean *because of*, but **à cause de** blames and **grâce à** thanks. *Grâce à lui, j'ai trouvé un travail* is a compliment; *à cause de lui* would be an accusation. · দুটোরই অর্থ *কারণে*, তবে **à cause de** দোষ দেয়, **grâce à** কৃতজ্ঞতা জানায়।"
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "**Faute de** does exist, but it means *for want of*: **faute de temps**, for lack of time. It is not the word for bad weather stopping you — that is **à cause du mauvais temps**. · **faute de** মানে *অভাবে*; খারাপ আবহাওয়ার জন্য **à cause du**।"
+    },
+    {
+     "type": "practice",
+     "text": "Read only the corrected form aloud, twice each. Say it until the wrong one stops sounding possible. · কেবল শুদ্ধ রূপটি দুবার করে পড়ুন, যতক্ষণ না ভুলটা আর সম্ভব মনে হয়।",
+     "lines": [
+      {
+       "t": "J'ai lu la nouvelle dans le journal.",
+       "mean": "I read the news in the paper · খবরটা কাগজে পড়েছি"
+      },
+      {
+       "t": "Il y a un bon film à la télévision ce soir.",
+       "mean": "There is a good film on TV tonight · আজ রাতে টিভিতে ভালো ছবি আছে"
+      },
+      {
+       "t": "Je suis très content de ma vie ici.",
+       "mean": "I am very happy with my life here · এখানে আমি জীবন নিয়ে খুব খুশি"
+      },
+      {
+       "t": "J'ai habité à Paris pendant trois ans.",
+       "mean": "I lived in Paris for three years · তিন বছর প্যারিসে ছিলাম"
+      },
+      {
+       "t": "Grâce à lui, j'ai trouvé un travail.",
+       "mean": "Thanks to him, I found a job · তার জন্যই চাকরিটা পেয়েছি"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "I read it in the newspaper · খবরের কাগজে পড়েছি",
+       "options": [
+        "dans le journal · দঁ ল্য জ়ুর্নাল্",
+        "sur le journal · স্যুর্ ল্য জ়ুর্নাল্",
+        "au journal · ও জ়ুর্নাল্",
+        "par le journal · পার্ ল্য জ়ুর্নাল্"
+       ],
+       "answer": 0,
+       "explain": "The news is inside the paper · খবর কাগজের ভেতরে।"
+      },
+      {
+       "q": "Which one thanks rather than blames? · কোনটি দোষ নয়, কৃতজ্ঞতা জানায়?",
+       "options": [
+        "à cause de · আ কোজ় দ্য",
+        "grâce à · গ্রাস আ",
+        "faute de · ফোত্ দ্য",
+        "malgré · মালগ্রে"
+       ],
+       "answer": 1,
+       "explain": "**grâce à** is a compliment · **grâce à** প্রশংসা।"
+      },
+      {
+       "q": "I lived there **…** three years · সেখানে **…** তিন বছর ছিলাম",
+       "options": [
+        "pour · পুর্",
+        "depuis · দ্যপুই",
+        "pendant · পঁদঁ",
+        "dans · দঁ"
+       ],
+       "answer": 2,
+       "explain": "A finished stretch takes **pendant** · শেষ হওয়া মেয়াদে **pendant**।"
+      },
+      {
+       "q": "Every other day · একদিন পরপর",
+       "options": [
+        "chaque deux jours · শাক্ দ্য জ়ুর্",
+        "par deux jours · পার্ দ্য জ়ুর্",
+        "les deux jours · লে দ্য জ়ুর্",
+        "tous les deux jours · তু লে দ্য জ়ুর্"
+       ],
+       "answer": 3,
+       "explain": "**chaque** cannot take a number · **chaque**-এর পরে সংখ্যা চলে না।"
+      },
+      {
+       "q": "Cheaper · আরও সস্তা",
+       "options": [
+        "meilleur marché · মেইয়োর্ মার্শে",
+        "plus bon marché · প্ল্যু বঁ মার্শে",
+        "plus bien marché · প্ল্যু বীয়াঁ মার্শে",
+        "très bon marché · ত্রে বঁ মার্শে"
+       ],
+       "answer": 0,
+       "explain": "**bon** becomes **meilleur**, never **plus bon** · **bon** থেকে **meilleur**।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6-errors-clause",
+   "icon": "≠",
+   "title": "Who, Which and Where Go Wrong · যে, যা আর যেখানে কোথায় ভুল হয়",
+   "subtitle": "Relative pronouns, indirect questions, and the verb that follows qui · সম্বন্ধসূচক সর্বনাম, পরোক্ষ প্রশ্ন, আর qui-এর পরের ক্রিয়া",
+   "minutes": 12,
+   "goals": [
+    "Stop inverting the verb inside an indirect question · পরোক্ষ প্রশ্নে ক্রিয়া উল্টানো বন্ধ করুন",
+    "Choose où, que and pour laquelle correctly · où, que ও pour laquelle ঠিকভাবে বাছুন",
+    "Read each correction in all three languages · প্রতিটি সংশোধন তিন ভাষাতেই পড়ুন"
+   ],
+   "blocks": [
+    {
+     "type": "text",
+     "text": "A question keeps its question shape only when it really is a question. The moment it is tucked inside a longer sentence, the verb goes back behind its subject and stays there. · প্রশ্নের গড়ন কেবল সত্যিকারের প্রশ্নেই থাকে; বড় বাক্যের ভেতরে ঢুকলেই ক্রিয়া কর্তার পিছনে ফিরে যায়।"
+    },
+    {
+     "type": "table",
+     "title": "Questions that stopped being questions · যে প্রশ্ন আর প্রশ্ন নয়",
+     "head": [
+      "Not this · এটা নয়",
+      "But this · বরং এটা",
+      "Why · কেন"
+     ],
+     "rows": [
+      [
+       "Qu'est-ce que faites-vous ?",
+       "{{Qu'est-ce que vous faites ?}}",
+       "**qu'est-ce que** already asks; do not invert as well · একবার প্রশ্ন করা হয়েছে, আবার উল্টাবেন না"
+      ],
+      [
+       "Qui a-t-il téléphoné ?",
+       "{{Qui a téléphoné ?}}",
+       "**qui** is the subject, so nothing is added · **qui** নিজেই কর্তা"
+      ],
+      [
+       "Je voudrais savoir où habitez-vous.",
+       "{{Je voudrais savoir où vous habitez.}}",
+       "inside a statement the order is plain · বিবৃতির ভেতরে স্বাভাবিক ক্রম"
+      ],
+      [
+       "Je ne sais pas qu'est-ce qui se passe.",
+       "{{Je ne sais pas ce qui se passe.}}",
+       "**qu'est-ce qui** becomes **ce qui** · **qu'est-ce qui** হয়ে যায় **ce qui**"
+      ]
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Relative pronouns · সম্বন্ধসূচক সর্বনাম",
+     "head": [
+      "Not this · এটা নয়",
+      "But this · বরং এটা",
+      "Why · কেন"
+     ],
+     "rows": [
+      [
+       "le jour quand je suis parti",
+       "{{le jour où je suis parti}}",
+       "for a time or a place, **où**, never **quand** · সময় বা স্থানে **où**"
+      ],
+      [
+       "c'est demain où je pars",
+       "{{c'est demain que je pars}}",
+       "but a highlighted phrase takes **que** · জোর দেওয়া অংশে **que**"
+      ],
+      [
+       "la raison que j'étais absent",
+       "{{la raison pour laquelle j'étais absent}}",
+       "a reason needs the long form · কারণের বেলায় দীর্ঘ রূপ"
+      ],
+      [
+       "cet ami dont son père est médecin",
+       "{{cet ami dont le père est médecin}}",
+       "**dont** already means *whose* · **dont**-এর ভেতরেই *যার* আছে"
+      ],
+      [
+       "le livre que je l'ai lu",
+       "{{le livre que j'ai lu}}",
+       "**que** is the object; do not add another · **que**-ই কর্ম, দ্বিতীয়টি বাড়তি"
+      ],
+      [
+       "c'est moi que j'ai fait ça",
+       "{{c'est moi qui ai fait ça}}",
+       "**qui** takes the verb of the person it points to · **qui** যাকে বোঝায়, ক্রিয়া তারই"
+      ],
+      [
+       "c'est nous qui ont fait ça",
+       "{{c'est nous qui avons fait ça}}",
+       "the same rule: **nous** then **avons** · একই নিয়ম — **nous** তাই **avons**"
+      ]
+     ]
+    },
+    {
+     "type": "tip",
+     "kind": "memory",
+     "text": "The verb after **qui** belongs to whoever **qui** stands for. **C'est moi qui ai raison**, **c'est toi qui as raison**, **c'est nous qui avons raison**. Say all three aloud once and the rule sticks. · **qui**-এর পরের ক্রিয়া সেই ব্যক্তির, যাকে **qui** বোঝাচ্ছে।"
+    },
+    {
+     "type": "table",
+     "title": "Four more worth fixing · আরও চারটি",
+     "head": [
+      "Not this · এটা নয়",
+      "But this · বরং এটা",
+      "Why · কেন"
+     ],
+     "rows": [
+      [
+       "Elle n'est pas française, moi aussi.",
+       "{{moi non plus}}",
+       "after a negative, agreement is **non plus** · না-বাচকের পরে **non plus**"
+      ],
+      [
+       "sans dire quelque chose",
+       "{{sans rien dire}}",
+       "**sans** is already negative · **sans** নিজেই না-বাচক"
+      ],
+      [
+       "Elle n'a pas déjà fait ça.",
+       "{{pas encore}}",
+       "*not yet* is **pas encore** · *এখনো নয়* মানে **pas encore**"
+      ],
+      [
+       "J'espère que tu puisses venir.",
+       "{{tu pourras}}",
+       "**espérer** takes the indicative, not the subjunctive · **espérer** সম্ভাবনাসূচক নেয় না"
+      ]
+     ]
+    },
+    {
+     "type": "practice",
+     "text": "Read only the corrected form aloud. Three of these are the ones that mark a speaker out most quickly. · কেবল শুদ্ধ রূপটি পড়ুন; এর তিনটি ভুল সবচেয়ে দ্রুত কানে লাগে।",
+     "lines": [
+      {
+       "t": "Je voudrais savoir où vous habitez.",
+       "mean": "I would like to know where you live · জানতে চাই আপনি কোথায় থাকেন"
+      },
+      {
+       "t": "C'est moi qui ai fait ça.",
+       "mean": "It was I who did that · ওটা আমিই করেছি"
+      },
+      {
+       "t": "Voilà la raison pour laquelle j'étais absent.",
+       "mean": "That is why I was absent · সেজন্যই আমি অনুপস্থিত ছিলাম"
+      },
+      {
+       "t": "Il est parti sans rien dire.",
+       "mean": "He left without saying anything · সে কিছু না বলেই চলে গেল"
+      },
+      {
+       "t": "Elle n'a pas encore fini son travail.",
+       "mean": "She has not finished her work yet · সে এখনো কাজ শেষ করেনি"
+      }
+     ]
+    },
+    {
+     "type": "quiz",
+     "title": "Check yourself · যাচাই করুন",
+     "items": [
+      {
+       "q": "I would like to know where you live · জানতে চাই আপনি কোথায় থাকেন",
+       "options": [
+        "savoir où habitez-vous · সাভোয়ার্ উ আবিতে-ভু",
+        "savoir où vous habitez · সাভোয়ার্ উ ভুজ়্ আবিতে",
+        "savoir où est-ce que · সাভোয়ার্ উ এস্ ক্য",
+        "savoir où vous habitez-vous · সাভোয়ার্ উ ভুজ়্ আবিতে-ভু"
+       ],
+       "answer": 1,
+       "explain": "No inversion once it is inside a statement · বিবৃতির ভেতরে উল্টানো নয়।"
+      },
+      {
+       "q": "It was we who did it · ওটা আমরাই করেছি",
+       "options": [
+        "c'est nous qui ont fait · সে নু কি ঁ ফে",
+        "c'est nous que ont fait · সে নু ক্য ঁ ফে",
+        "c'est nous qui avons fait · সে নু কি আভঁ ফে",
+        "c'est nous que nous avons fait · সে নু ক্য নুজ়্ আভঁ ফে"
+       ],
+       "answer": 2,
+       "explain": "The verb follows **nous**, not **ils** · ক্রিয়া **nous**-এর সঙ্গে মেলে।"
+      },
+      {
+       "q": "The day I left · যেদিন আমি রওনা দিয়েছিলাম",
+       "options": [
+        "le jour quand je suis parti",
+        "le jour que je suis parti",
+        "le jour lequel je suis parti",
+        "le jour où je suis parti"
+       ],
+       "answer": 3,
+       "explain": "Time and place both take **où** · সময় ও স্থানে **où**।"
+      },
+      {
+       "q": "She is not French — nor am I · সে ফরাসি নয় — আমিও নই",
+       "options": [
+        "moi non plus · মোয়া নঁ প্ল্যু",
+        "moi aussi · মোয়া ওসি",
+        "moi encore · মোয়া অঁকর্",
+        "moi même · মোয়া মেম্"
+       ],
+       "answer": 0,
+       "explain": "Agreeing with a negative takes **non plus** · না-বাচকে **non plus**।"
+      },
+      {
+       "q": "After **espérer** the verb is… · **espérer**-এর পরে ক্রিয়া হয়…",
+       "options": [
+        "subjunctive · সম্ভাবনাসূচক",
+        "indicative · নির্দেশক",
+        "infinitive · মূল রূপ",
+        "conditional · সম্ভাব্য"
+       ],
+       "answer": 1,
+       "explain": "Hope is not doubt, so no subjunctive · আশা সন্দেহ নয়।"
+      }
+     ]
+    }
+   ]
   }
  ]
 });
